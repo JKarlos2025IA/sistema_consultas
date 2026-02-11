@@ -1,0 +1,79 @@
+# ⚖️ SISTEMA DE CONSULTA NORMATIVA UNIFICADA (HUB RAG)
+
+> **Documento Maestro de Arquitectura y Operación**
+> **Última Actualización:** 11 de Febrero 2026
+> **Estado:** Producción (Local + Cloud)
+> **Acceso Web:** [sistemaconsultas-2026.streamlit.app](https://sistemaconsultas-2026.streamlit.app/)
+
+## 🎯 Objetivo
+Plataforma centralizada ("Hub") que permite buscar y consultar con IA sobre múltiples bases normativas dispersas (Opiniones, Leyes, Directivas). A diferencia de sistemas monolíticos, este sistema actúa como un **conector** de diversas fuentes de conocimiento.
+
+---
+
+## 🔐 Credenciales de Acceso
+El sistema está protegido por login simple:
+*   **Usuario:** `admin`
+*   **Clave:** `consultas2026`
+
+---
+
+## 📂 Arquitectura de Directorios (Modelo Monolítico)
+
+La estructura "Single Source of Truth" en `G:\Mi unidad\01_BASE_NORMATIVA\000_CONSULTAS` es:
+
+| Directorio | Contenido | Función |
+| :--- | :--- | :--- |
+| `00_START.bat` | Script | Lanzador universal para PC Local. |
+| `01_APP_CORE` | 🐍 Python | **Cerebro del sistema**: Interfaz Streamlit y Motor de Búsqueda Híbrido. |
+| `02_BIBLIOTECA_NORMATIVA` | 📚 Datos | **Almacén de Normas**: Contiene carpetas independientes (Opiniones, Leyes) con sus PDFs y Embeddings. |
+| `03_CONFIG` | ⚙️ Config | Archivo `config.json` que conecta el cerebro con los datos. |
+| `04_LOGS` | 🗄️ Historial | Registro de consultas realizadas en JSON. |
+| `05_DOCS` | 📄 Docs | Manuales y planes de implementación. |
+| `06_SCRIPTS` | 🛠️ Tools | Scripts de mantenimiento y verificación. |
+
+---
+
+## 🚀 Flujo de Trabajo (Pipeline)
+
+### 1. Ingesta de Nuevas Normas
+Para agregar una nueva normativa (ej: "Nueva Ley X"):
+1.  Crear carpeta en `02_BIBLIOTECA_NORMATIVA/Nueva_Ley_X`.
+2.  Generar embeddings (usando scripts estándar) dentro de esa carpeta (subcarpeta `embeddings_unificados`).
+3.  Registrar la nueva ruta en `03_CONFIG/config.json`.
+
+### 2. Motor de Búsqueda (`01_APP_CORE/motor_busqueda.py`)
+El sistema usa una estrategia **Híbrida**:
+*   **Búsqueda Vectorial (FAISS):** Encuentra conceptos semánticos.
+*   **Búsqueda Keyword:** Refuerza coincidencias exactas.
+*   **IA (DeepSeek):** Genera respuestas fundamentadas citando la fuente.
+
+### 3. Consumo (Interfaz)
+*   **Local:** Ejecutar `00_START.bat`.
+*   **Nube:** Acceder vía Streamlit Cloud. Sincronizado vía GitHub.
+
+---
+
+## ☁️ Despliegue a Producción (GitHub)
+
+Repositorio: `https://github.com/JKarlos2025IA/sistema_consultas`
+
+**Reglas de Sincronización (.gitignore):**
+*   ⛔ **BLOQUEADO:** PDFs, DOCs, ZIPs (Para no saturar GitHub).
+*   ✅ **PERMITIDO:** Archivos `.index`, `.json`, `.pkl` (Los índices vectoriales necesarios para que la IA funcione).
+
+**Pasos para actualizar:**
+```bash
+# En la carpeta 000_CONSULTAS
+git add .
+git commit -m "Descripción del cambio"
+git push origin main
+```
+*Si agregas una norma nueva a `02_BIBLIOTECA...`, asegúrate de que no tenga carpetas `.git` ocultas dentro.*
+
+---
+
+## 🛠️ Tecnologías
+*   **Frontend:** Streamlit
+*   **Vectores:** FAISS + SentenceTransformers (`paraphrase-multilingual-MiniLM-L12-v2`)
+*   **Razonamiento:** DeepSeek API
+*   **Lenguaje:** Python 3.10+
