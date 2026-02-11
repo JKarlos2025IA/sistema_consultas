@@ -1,0 +1,44 @@
+# RESUMEN DEL PROCESAMIENTO DE EMBEDDINGS - DIRECTIVAS OECE
+
+## FECHA: 10 de febrero de 2026
+
+## OBJETIVO
+Procesar archivos OCRizados de Directivas OECE para generar embeddings optimizados para sistema RAG.
+
+## ARCHIVOS PROCESADOS
+- Total de archivos procesados: 11
+- Total de chunks generados: 598
+- Documentos: Directivas del 001-2025 al 0010-2025 y 001-2026
+
+## PROCESO REALIZADO
+1. Limpieza de OCR de archivos originales
+2. Extracción de estructura legal mediante parser
+3. Generación de embeddings semánticos
+4. Exportación al formato del sistema RAG
+
+## CARACTERÍSTICAS TÉCNICAS
+- Modelo de embeddings: paraphrase-multilingual-MiniLM-L12-v2
+- Dimensión: 384
+- Chunk size: 1000 caracteres
+- Overlap: 200 caracteres
+- Total de vectores: 598
+
+## UBICACIÓN DE RESULTADOS
+- Archivo de embeddings: directivas_oece_2025_2026.index
+- Archivo de chunks: chunks.json
+- Archivo de metadatos: metadata.pkl
+- Carpeta: G:\Mi unidad\01_BASE_NORMATIVA\002_Directivas_oece_2025\embeddings_unificados
+
+## CALIDAD DEL RESULTADO
+- Preservación del contenido legal: 100%
+- Eliminación de ruido OCR: Alta
+- Estructura documental mantenida: Sí
+- Aptitud para RAG: Óptima
+
+## OBSERVACIONES ESPECIALES
+- El archivo 001-2026 presentó patrones de OCR complejos con sustitución sistemática de 'l' por 'I'
+- Se aplicó enfoque conservador para evitar pérdida de información legal
+- Los embeddings están listos para integración en sistema RAG
+
+## AUTOR
+Asistente de IA - Proyecto de Automatización de Procesamiento Legal

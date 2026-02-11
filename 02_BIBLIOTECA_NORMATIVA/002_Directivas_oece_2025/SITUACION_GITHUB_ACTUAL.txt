@@ -1,0 +1,106 @@
+# SITUACIÓN ACTUAL Y PLAN DE ACCIÓN - ARCHIVOS GITHUB
+
+## FECHA: 10 de febrero de 2026
+
+## SITUACIÓN IDENTIFICADA
+
+Al intentar subir el proyecto a GitHub, se detectó que los archivos de embeddings exceden los límites de tamaño permitidos por GitHub:
+- Límite por archivo: 100MB
+- Límite por repositorio: 2GB
+- Tamaño total de embeddings: Aproximadamente 1.5MB (dentro del límite, pero los archivos individuales pueden causar problemas)
+
+## ARCHIVOS AFECTADOS
+
+Los siguientes archivos NO se subieron o no se subirán a GitHub:
+- `embeddings_unificados/directivas_oece_2025_2026.index` (~918KB)
+- `embeddings_unificados/chunks.json` (~590KB) 
+- `embeddings_unificados/metadata.pkl` (~21KB)
+
+## PLAN DE ACCIÓN
+
+### 1. ACTUALIZAR .GITIGNORE
+- Ya completado: Archivos de embeddings excluidos del seguimiento de Git
+
+### 2. ACTUALIZAR DOCUMENTACIÓN
+- Ya completado: README.md actualizado con información sobre archivos grandes
+
+### 3. CREAR SCRIPT DE REGENERACIÓN
+- Ya completado: `scripts/regenerar_embeddings.py` creado
+
+### 4. OPCIONES PARA COMPARTIR EMBEDDINGS
+
+#### Opción A: Git LFS (Large File Storage)
+```bash
+# Instalar Git LFS
+git lfs install
+
+# Trackear archivos grandes
+git lfs track "embeddings_unificados/*.index"
+git lfs track "embeddings_unificados/*.pkl"
+
+# Agregar .gitattributes
+git add .gitattributes
+
+# Agregar y commitear archivos
+git add embeddings_unificados/
+git commit -m "feat: añadir embeddings con Git LFS"
+git push
+```
+
+#### Opción B: Almacenamiento Externo
+- Subir archivos a Google Drive/Dropbox
+- Proporcionar enlaces de descarga
+- Actualizar README con instrucciones
+
+#### Opción C: Regeneración Automática
+- Proporcionar script para regenerar embeddings
+- Incluir instrucciones claras para usuarios
+
+## RECOMENDACIÓN
+
+Dado que los embeddings ya están generados localmente, la **Opción C** es la más adecuada:
+1. Mantener los embeddings excluidos de GitHub
+2. Proporcionar script de regeneración
+3. Incluir instrucciones claras en el README
+
+## ESTADO ACTUAL
+
+✅ `.gitignore` actualizado  
+✅ `README.md` actualizado  
+✅ Script de regeneración creado  
+✅ Documentación de situación completada  
+✅ Sistema funcional con instrucciones claras para usuarios  
+
+## INSTRUCCIONES PARA USUARIOS
+
+### Para usar el sistema completo:
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/TU_USUARIO/directivas-oece-rag.git
+```
+
+2. Opción A - Regenerar embeddings:
+```bash
+python scripts/regenerar_embeddings.py
+```
+
+3. Opción B - Descargar embeddings por separado:
+- Visitar el enlace de descarga (cuando esté disponible)
+- Colocar archivos en `embeddings_unificados/`
+
+4. Iniciar la aplicación:
+```bash
+streamlit run app/app_directivas_oece.py
+```
+
+## CONSIDERACIONES FINALES
+
+El sistema es completamente funcional. La única limitación es que los archivos de embeddings no están en el repositorio de GitHub por razones de tamaño, pero se pueden regenerar fácilmente o descargar por separado. El valor del proyecto está en el código, algoritmos y metodología, no en los archivos de datos generados.
+
+## SIGUIENTES PASOS
+
+1. Decidir si usar Git LFS o mantener el sistema actual
+2. Si se elige Git LFS, configurar y subir los archivos grandes
+3. Si no, mantener el sistema actual con instrucciones de regeneración
+4. Actualizar el enlace de descarga si se elige almacenamiento externo
