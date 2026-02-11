@@ -73,6 +73,36 @@ st.set_page_config(
     layout="wide"
 )
 
+# --- Sistema de Login Simple ---
+def verificar_login():
+    """Verifica credenciales de acceso."""
+    if "autenticado" not in st.session_state:
+        st.session_state.autenticado = False
+
+    if st.session_state.autenticado:
+        return True
+
+    st.markdown("## 🔐 Acceso al Sistema de Consultas")
+    st.markdown("Por favor, ingrese sus credenciales para continuar.")
+
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        usuario = st.text_input("Usuario", key="login_user")
+        clave = st.text_input("Clave", type="password", key="login_pass")
+
+        if st.button("Ingresar", use_container_width=True):
+            # Credenciales Hardcoded (Simple y Efectivo)
+            if usuario == "admin" and clave == "consultas2026":
+                st.session_state.autenticado = True
+                st.rerun()
+            else:
+                st.error("Credenciales incorrectas")
+    
+    return False
+
+if not verificar_login():
+    st.stop()
+
 # --- Carga y Cacheo del Modelo ---
 @st.cache_resource
 def load_query_router():
