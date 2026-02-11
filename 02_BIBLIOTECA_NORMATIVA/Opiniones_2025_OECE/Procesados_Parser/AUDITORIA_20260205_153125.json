@@ -1,0 +1,1117 @@
+{
+  "fecha_auditoria": "2026-02-05T15:31:25.008118",
+  "carpeta_auditada": "G:\\Mi unidad\\01_BASE_NORMATIVA\\006_Opiniones\\Opiniones_2025_OECE\\Procesados_Parser",
+  "total_archivos": 68,
+  "estadisticas": {
+    "OK": 15,
+    "PARCIAL": 42,
+    "PROBLEMA": 11,
+    "ERROR_LECTURA": 0
+  },
+  "resultados": [
+    {
+      "archivo": "D000001-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": false,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 14809
+    },
+    {
+      "archivo": "D000002-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 19480
+    },
+    {
+      "archivo": "D000003-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 6,
+      "consultas_con_contenido": 6,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 18726
+    },
+    {
+      "archivo": "D000004-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 22107
+    },
+    {
+      "archivo": "D000005-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 17420
+    },
+    {
+      "archivo": "D000006-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 2,
+      "len_texto_limpio": 15843
+    },
+    {
+      "archivo": "D000007-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 15784
+    },
+    {
+      "archivo": "D000008-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 9893
+    },
+    {
+      "archivo": "D000009-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 13155
+    },
+    {
+      "archivo": "D000010-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 31006
+    },
+    {
+      "archivo": "D000011-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": false,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 18829
+    },
+    {
+      "archivo": "D000012-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 14686
+    },
+    {
+      "archivo": "D000013-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 11737
+    },
+    {
+      "archivo": "D000014-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "consultas_vacias"
+      ],
+      "tiene_numero": false,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 16824
+    },
+    {
+      "archivo": "D000015-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 10519
+    },
+    {
+      "archivo": "D000016-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 22815
+    },
+    {
+      "archivo": "D000017-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 9371
+    },
+    {
+      "archivo": "D000018-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": false,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 10162
+    },
+    {
+      "archivo": "D000019-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": false,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 9758
+    },
+    {
+      "archivo": "D000020-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 8321
+    },
+    {
+      "archivo": "D000021-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 10900
+    },
+    {
+      "archivo": "D000022-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 15174
+    },
+    {
+      "archivo": "D000023-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 15921
+    },
+    {
+      "archivo": "D000024-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 11055
+    },
+    {
+      "archivo": "D000025-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 7191
+    },
+    {
+      "archivo": "D000026-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 20916
+    },
+    {
+      "archivo": "D000027-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 10900
+    },
+    {
+      "archivo": "D000028-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 2,
+      "consultas_con_contenido": 2,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 15883
+    },
+    {
+      "archivo": "D000029-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 15254
+    },
+    {
+      "archivo": "D000030-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_solicitante",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 21648
+    },
+    {
+      "archivo": "D000031-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 17617
+    },
+    {
+      "archivo": "D000032-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 16166
+    },
+    {
+      "archivo": "D000033-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 15150
+    },
+    {
+      "archivo": "D000034-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 12090
+    },
+    {
+      "archivo": "D000035-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 11054
+    },
+    {
+      "archivo": "D000036-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 12891
+    },
+    {
+      "archivo": "D000037-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 18917
+    },
+    {
+      "archivo": "D000038-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 10812
+    },
+    {
+      "archivo": "D000039-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 4,
+      "len_texto_limpio": 16782
+    },
+    {
+      "archivo": "D000040-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 13030
+    },
+    {
+      "archivo": "D000041-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 9872
+    },
+    {
+      "archivo": "D000042-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "sin_antecedentes",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": false,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 16884
+    },
+    {
+      "archivo": "D000043-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 10069
+    },
+    {
+      "archivo": "D000044-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 12727
+    },
+    {
+      "archivo": "D000045-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 19541
+    },
+    {
+      "archivo": "D000046-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 14829
+    },
+    {
+      "archivo": "D000047-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 33983
+    },
+    {
+      "archivo": "D000048-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 11970
+    },
+    {
+      "archivo": "D000049-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 12038
+    },
+    {
+      "archivo": "D000050-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 15015
+    },
+    {
+      "archivo": "D000051-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto"
+      ],
+      "tiene_numero": false,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 12121
+    },
+    {
+      "archivo": "D000052-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 2,
+      "consultas_con_contenido": 2,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 13152
+    },
+    {
+      "archivo": "D000053-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones"
+      ],
+      "tiene_numero": false,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 9581
+    },
+    {
+      "archivo": "D000054-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 16605
+    },
+    {
+      "archivo": "D000055-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 16516
+    },
+    {
+      "archivo": "D000056-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 15095
+    },
+    {
+      "archivo": "D000057-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 29154
+    },
+    {
+      "archivo": "D000058-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 14766
+    },
+    {
+      "archivo": "D000059-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "OK",
+      "problemas": [],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 3,
+      "consultas_con_contenido": 3,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 15261
+    },
+    {
+      "archivo": "D000060-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 8,
+      "consultas_con_contenido": 7,
+      "num_conclusiones": 3,
+      "len_texto_limpio": 20234
+    },
+    {
+      "archivo": "D000061-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 2,
+      "len_texto_limpio": 8337
+    },
+    {
+      "archivo": "D000062-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 7441
+    },
+    {
+      "archivo": "D000063-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "sin_conclusiones"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 1,
+      "consultas_con_contenido": 1,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 13003
+    },
+    {
+      "archivo": "D000064-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 18196
+    },
+    {
+      "archivo": "D000065-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 17799
+    },
+    {
+      "archivo": "D000066-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": false,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 11707
+    },
+    {
+      "archivo": "D000067-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PARCIAL",
+      "problemas": [
+        "sin_conclusiones",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": true,
+      "tiene_asunto": true,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 0,
+      "len_texto_limpio": 14166
+    },
+    {
+      "archivo": "D000068-2025-OECE-DTN_ocr_local_PARSEADO.json",
+      "estado": "PROBLEMA",
+      "problemas": [
+        "sin_solicitante",
+        "sin_asunto",
+        "consultas_vacias"
+      ],
+      "tiene_numero": true,
+      "tiene_fecha": true,
+      "tiene_solicitante": false,
+      "tiene_asunto": false,
+      "tiene_antecedentes": true,
+      "num_consultas": 0,
+      "consultas_con_contenido": 0,
+      "num_conclusiones": 1,
+      "len_texto_limpio": 14306
+    }
+  ]
+}

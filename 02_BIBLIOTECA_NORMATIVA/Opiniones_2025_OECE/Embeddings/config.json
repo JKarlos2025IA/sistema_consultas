@@ -1,0 +1,9 @@
+{
+  "modelo": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "dimension": 384,
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "ultima_actualizacion": "2026-02-05T15:52:18.076562",
+  "total_documentos": 68,
+  "total_chunks": 1369
+}

@@ -1,0 +1,47 @@
+# REGISTRO DE INTEGRACIÓN DE DIRECTIVAS OECE AL SISTEMA DE CONSULTAS
+
+## FECHA: 10 de febrero de 2026
+
+## DESCRIPCIÓN
+Integración exitosa de los embeddings de las Directivas OECE 2025-2026 al sistema de consultas existente.
+
+## ANTES DE LA INTEGRACIÓN
+- Número de índices activos: 2
+- Índices activos:
+  1. Opiniones OECE 2025
+  2. Ley y Reglamento 32069
+
+## CAMBIOS REALIZADOS
+- Se agregó una nueva entrada en el archivo `config.json` para las "Directivas OECE 2025-2026"
+- Se actualizaron las rutas para apuntar a los archivos generados:
+  - `../002_Directivas_oece_2025/embeddings_unificados/directivas_oece_2025_2026.index`
+  - `../002_Directivas_oece_2025/embeddings_unificados/chunks.json`
+  - `../002_Directivas_oece_2025/embeddings_unificados/metadata.pkl`
+
+## DESPUÉS DE LA INTEGRACIÓN
+- Número de índices activos: 3
+- Índices activos:
+  1. Opiniones OECE 2025
+  2. Ley y Reglamento 32069
+  3. Directivas OECE 2025-2026 (NUEVO)
+
+## ARCHIVOS AFECTADOS
+- `config.json` - Archivo de configuración actualizado
+- Archivos de embeddings en `../002_Directivas_oece_2025/embeddings_unificados/` - Archivos fuente (no modificados)
+
+## VERIFICACIÓN REALIZADA
+- ✓ Se confirmó la existencia de todos los archivos requeridos antes de la integración
+- ✓ Se verificó que la entrada se agregara correctamente al archivo de configuración
+- ✓ Se confirmó que las rutas apuntan a los archivos correctos
+- ✓ Se mantuvo la copia de seguridad del archivo de configuración original
+
+## ESTADO ACTUAL
+- El sistema ahora incluye las Directivas OECE 2025-2026 como fuente de información consultable
+- Los embeddings están listos para ser utilizados en el sistema RAG
+- El sistema puede ser iniciado normalmente con `00_START.bat`
+
+## RESPONSABLE
+Asistente de IA - Sistema de Automatización de Procesamiento Legal
+
+---
+Documento generado automáticamente como parte del proceso de integración del sistema RAG.

@@ -1,0 +1,32 @@
+# Archivos de sistema y entorno
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.env
+.vscode/
+
+# Documentos pesados (Bloquear fuentes originales)
+*.pdf
+*.PDF
+*.docx
+*.doc
+*.zip
+*.rar
+
+# Permitir explícitamente los índices y metadatos (El cerebro de la IA)
+!*.index
+!*.pkl
+!*.json
+!chunks.json
+!metadata.pkl
+
+# Logs
+04_LOGS/
+historial_consultas/
+*.log
+
+# Excepciones específicas
+!requirements.txt
+!README.md
+!02_BIBLIOTECA_NORMATIVA/**/embeddings_unificados/*

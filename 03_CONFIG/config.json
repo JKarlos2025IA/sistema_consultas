@@ -1,0 +1,59 @@
+{
+  "indices": [
+    {
+      "nombre": "Opiniones OECE 2025",
+      "descripcion": "Opiniones emitidas por el Organismo Encargado de las Contrataciones del Estado durante el 2025.",
+      "ruta_indice": "../02_BIBLIOTECA_NORMATIVA/Opiniones_2025_OECE/embeddings_unificados/opiniones_2025_oece.index",
+      "ruta_chunks": "../02_BIBLIOTECA_NORMATIVA/Opiniones_2025_OECE/embeddings_unificados/chunks.json",
+      "ruta_metadata": "../02_BIBLIOTECA_NORMATIVA/Opiniones_2025_OECE/embeddings_unificados/metadata.pkl"
+    },
+    {
+      "nombre": "Ley y Reglamento 32069",
+      "descripcion": "Ley General de Contrataciones Publicas N 32069 y su Reglamento vigentes (actualizados a Enero 2026).",
+      "ruta_indice": "../02_BIBLIOTECA_NORMATIVA/005_Ley_reglamento_32069/embeddings_unificados/ley_reglamento_32069.index",
+      "ruta_chunks": "../02_BIBLIOTECA_NORMATIVA/005_Ley_reglamento_32069/embeddings_unificados/chunks.json",
+      "ruta_metadata": "../02_BIBLIOTECA_NORMATIVA/005_Ley_reglamento_32069/embeddings_unificados/metadata.pkl"
+    },
+    {
+      "nombre": "Directivas OECE 2025-2026",
+      "descripcion": "Directivas emitidas por el Organismo Especializado para las Contrataciones Públicas Eficientes durante los años 2025 y 2026.",
+      "ruta_indice": "../02_BIBLIOTECA_NORMATIVA/002_Directivas_oece_2025/embeddings_unificados/directivas_oece_2025_2026.index",
+      "ruta_chunks": "../02_BIBLIOTECA_NORMATIVA/002_Directivas_oece_2025/embeddings_unificados/chunks.json",
+      "ruta_metadata": "../02_BIBLIOTECA_NORMATIVA/002_Directivas_oece_2025/embeddings_unificados/metadata.pkl"
+    }
+  ],
+  "_indices_desactivados_temporalmente": [
+    {
+      "nombre": "Opiniones OSCE 2025",
+      "descripcion": "Opiniones del Organismo Supervisor de las Contrataciones del Estado del 2025.",
+      "ruta_indice": "../006_Opiniones/Opiniones_2025/embeddings_unificados/opiniones_2025_osce.index",
+      "ruta_chunks": "../006_Opiniones/Opiniones_2025/embeddings_unificados/chunks.json",
+      "ruta_metadata": "../006_Opiniones/Opiniones_2025/embeddings_unificados/metadata.pkl",
+      "estado": "PENDIENTE - Requiere generar embeddings"
+    },
+    {
+      "nombre": "Opiniones 2024",
+      "descripcion": "Opiniones procesadas del anio 2024.",
+      "ruta_indice": "../006_Opiniones/Opiniones_2024/embeddings_unificados/opiniones_2024.index",
+      "ruta_chunks": "../006_Opiniones/Opiniones_2024/embeddings_unificados/chunks.json",
+      "ruta_metadata": "../006_Opiniones/Opiniones_2024/embeddings_unificados/metadata.pkl",
+      "estado": "EXISTENTE - Reactivar cuando se necesite"
+    },
+    {
+      "nombre": "Opiniones 2023",
+      "descripcion": "Opiniones procesadas del anio 2023.",
+      "ruta_indice": "../006_Opiniones/Opiniones_2023/embeddings_unificados/opiniones_2023.index",
+      "ruta_chunks": "../006_Opiniones/Opiniones_2023/embeddings_unificados/chunks.json",
+      "ruta_metadata": "../006_Opiniones/Opiniones_2023/embeddings_unificados/metadata.pkl",
+      "estado": "EXISTENTE - Reactivar cuando se necesite"
+    },
+    {
+      "nombre": "Opiniones 2022",
+      "descripcion": "Opiniones procesadas del anio 2022.",
+      "ruta_indice": "../006_Opiniones/Opiniones_2022/embeddings_unificados/opiniones_2022.index",
+      "ruta_chunks": "../006_Opiniones/Opiniones_2022/embeddings_unificados/chunks.json",
+      "ruta_metadata": "../006_Opiniones/Opiniones_2022/embeddings_unificados/metadata.pkl",
+      "estado": "EXISTENTE - Reactivar cuando se necesite"
+    }
+  ]
+}

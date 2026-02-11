@@ -1,0 +1,10 @@
+{
+  "fecha_procesamiento": "2026-02-05T18:26:15.727773",
+  "modelo_embeddings": "paraphrase-multilingual-MiniLM-L12-v2",
+  "total_chunks": 1150,
+  "dimension_embeddings": 384,
+  "archivos_procesados": [
+    "Ley_32069_Optimizado.md",
+    "Reglamento_32069_Optimizado.md"
+  ]
+}
