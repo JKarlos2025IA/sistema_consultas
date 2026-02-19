@@ -1,0 +1,329 @@
+Jesús María, 04 de Diciembre del 2025
+# OPINION N°  D000064-2025-OECE-DTN
+
+Firmado digitalmente por SEMINARIO
+ZAVALA Patricia Mercedes FAU
+20419026809 soft
+Cargo: Director(A) Técnico Normativa
+Motivo: Soy el autor del documento
+Fecha: 04.12.2025 17:38:37 -05:00
+
+**Expediente N° 92691**
+
+**T.D. N° 31892899**
+
+|SOLICITANTE|:|José Carlos Andrade Condo|
+|---|---|---|
+|**ASUNTO**|**: **|<br>Nulidad de contrato<br>|
+|**REFERENCIA**|**: **|Formulario de solicitud de consulta de fecha 04.NOV.2025|
+
+**1.** **ANTECEDENTES**
+
+Mediante el documento de la referencia, el señor José Carlos Andrade Condo, formula
+consulta referidas a la declaratoria de nulidad del contrato, en el marco de la anterior
+normativa de Contrataciones del Estado.
+
+Antes de iniciar el desarrollo del presente análisis, es necesario precisar que las
+consultas que absuelve este Organismo Técnico Especializado son aquellas referidas
+al sentido o alcance de la normativa de contratación pública, planteadas en términos
+genéricos y vinculadas entre sí, sin hacer alusión a asuntos concretos o específicos, de
+conformidad con lo dispuesto por el literal g) del numeral 11.3 del artículo 11 de la Ley
+General de Contrataciones Públicas, aprobada a través de la Ley N° 32069, modificada
+por la Ley N° 32103 y Ley N° 32187; así como por lo establecido en el artículo 11 y los
+literales b) y c) del artículo 389 de su Reglamento, aprobado mediante Decreto Supremo
+Nº 009-2025-EF.
+
+En ese sentido, las conclusiones de la presente opinión no se encuentran vinculadas
+necesariamente a situación particular alguna.
+
+**2.** **CONSULTAS Y ANÁLISIS** **[1]**
+
+Tomando en consideración el contexto normativo al que hace alusión la consulta
+planteada, para su absolución se entenderá por:
+
+        - **“anterior Ley”** a la aprobada mediante Ley N° 30225, Ley de Contrataciones
+del Estado y sus modificatorias.
+
+        - **“anterior Reglamento”** al aprobado mediante D.S. N° 344-2018-EF y sus
+modificatorias.
+
+1 De acuerdo con los requisitos establecidos en el TUPA del OECE, esta Dirección puede absolver más de una consulta, siempre
+que se encuentren vinculadas entre sí. De la revisión del documento de la referencia y sus anexos, se advierte que la segunda
+consulta no trata sobre el sentido y alcance del artículo 44 de la anterior Ley, sino sobre la primacía de la anterior Ley de
+Contrataciones del Estado, respecto de otras normas, a efectos de que se declare nula una ampliación de plazo o una prestación
+adicional y si esta puede afectar los plazos de caducidad establecidos en la Ley: en tal medida, la referida segunda consulta no
+podrá ser contestada.
+
+Sin perjuicio de lo anterior, en relación con la prevalencia de la anterior normativa de Contrataciones del Estado y la posibilidad
+de que se declaren nulos actos de la Entidad ejecutados durante la etapa de ejecución contractual, sírvase a revisar los criterios
+desarrollados por esta Dirección, mediante Opinión N° 099-2022/DTN o N° 111-2022/DTN.
+Firmado digitalmente por FLORES
+MONTOYA Carla Gabriela FAU Pág. 1 de 5
+20419026809 soft
+Motivo: Doy V° B° Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Fecha: 04.12.2025 17:37:24 -05:00
+
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**PQFXB6D**
+
+Dicho lo anterior, la consulta formulada es la siguiente:
+
+**2.1.** _**“ ¿La facultad conferida al Titular del Pliego para declarar la nulidad de actos**_
+
+_**administrativos, según el artículo 44 de la Ley N°30225, debe entenderse**_
+_**como una competencia reglada, cuyo ejercicio procede exclusivamente en**_
+_**los supuestos habilitantes establecidos por la ley?**_ (Sic)”.
+
+2.1.1.En principio, debe indicarse que la declaratoria de nulidad de un acto
+
+administrativo es una facultad que se le confiere a las entidades públicas para
+controlar la legalidad de sus propios actos.
+
+En concordancia con ello, debe indicarse que el numeral 44.2 del artículo 44 de la
+
+anterior Ley facultaba al Titular de la Entidad a declarar la nulidad de oficio de los
+actos expedidos en un procedimiento de selección, hasta antes de la celebración
+del contrato, **siempre que** : (i) hubiesen sido dictados por órgano incompetente;
+(ii) hubiesen contravenido las normas legales; (iii) hubiesen contenido un
+imposible jurídico; o (iv) hubiesen prescindido de las normas esenciales del
+procedimiento o de la forma prescrita por la normativa aplicable. Así, en la
+Resolución que se expedía para declarar la nulidad de oficio debía indicarse la
+etapa a la que se retrotraerá el procedimiento de selección.
+
+Como se aprecia, la anterior normativa de contrataciones del Estado otorgaba al
+Titular de la Entidad la potestad de declarar la nulidad de oficio de los actos del
+procedimiento de selección hasta antes de la celebración del contrato, la cual
+_**únicamente era aplicable**_ _**cuando se configuraba alguna de las causales**_
+_**antes detalladas**_ . Asimismo, la anterior normativa de contrataciones del Estado
+disponía que el Titular de la Entidad, en la resolución que expedía para declarar
+la nulidad, debía cumplir con precisar la etapa hasta la cual se retrotraía el
+procedimiento.
+
+2.1.2. Por su parte, el numeral 44.3 del artículo 44 de la anterior Ley establecía las
+
+causales por las cuales, **la Entidad**, **podía** declarar la nulidad de oficio de los
+contratos, siendo estas:
+
+“ _44.3 Después de celebrados los contratos, la Entidad puede declarar la nulidad_
+_de oficio en los siguientes casos:_
+
+_a) Por haberse perfeccionado en contravención con el artículo 11 de la presente_
+_Ley. Los contratos que se declaren nulos en base a esta causal no tienen derecho_
+_a retribución alguna con cargo al Estado, sin perjuicio de la responsabilidad de los_
+_funcionarios y servidores de la Entidad, conjuntamente con los contratistas que_
+_celebraron irregularmente el contrato._
+
+_b) Cuando se verifique la trasgresión del principio de presunción de veracidad_
+_durante el procedimiento de selección o para el perfeccionamiento del contrato,_
+_previo descargo._
+
+_c) Cuando se haya suscrito el contrato no obstante encontrarse en trámite un_
+_recurso de apelación._
+
+_d) Cuando no se haya cumplido con las condiciones y/o requisitos establecidos_
+_en la normativa a fin de la configuración de alguno de los supuestos que habilitan_
+_a la contratación directa. Cuando no se utilice los métodos de contratación_
+_previstos en la presente Ley, pese a que la contratación se encuentra bajo su_
+_ámbito de aplicación; o cuando se empleé un método de contratación distinto del_
+_que corresponde._
+
+Pág. 2 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**PQFXB6D**
+
+_e) Cuando por sentencia consentida, ejecutoriada o reconocimiento del contratista_
+_ante la autoridad competente nacional o extranjera se evidencie que durante el_
+_procedimiento de selección o para el perfeccionamiento del contrato, éste, sus_
+_accionistas, socios o empresas vinculadas, o cualquiera de sus respectivos_
+_directores, funcionarios, empleados, asesores, representantes legales o agentes,_
+_ha pagado, recibido, ofrecido, intentado pagar o recibir u ofrecer en el futuro algún_
+_pago, beneficio indebido, dadiva o comisión. Esta nulidad es sin perjuicio de la_
+_responsabilidad penal y civil a que hubiere lugar_ ”.
+
+Por lo expuesto, se advierte que el numeral 44.3 del artículo 44 de la anterior Ley
+estableció de manera expresa las causales que habilitaban a una Entidad para
+declarar nulo un contrato. Cabe precisar que, una vez configurada la causal, la
+Entidad debía evaluar el caso concreto y, luego de esto, decidir si ejerce, o no, la
+potestad de declarar nulo el contrato.
+
+Como ha sido desarrollado por esta Dirección, mediante Opinión N° 0322019/DTN, al momento de la evaluación antes mencionada la Entidad debía
+considerar criterios como: eficacia y eficiencia, oportunidad de la contratación,
+costo-beneficio, satisfacción del interés público, estado de avance de la
+contratación, logro de la finalidad pública, el bienestar de las condiciones de vida
+de los ciudadanos, entre otros, siendo recomendable la coordinación previa con
+su asesoría jurídica interna y su área de presupuesto, a fin de tomar la decisión
+de gestión que resulte más adecuada.
+
+2.1.3.Aclarado lo anterior, corresponde señalar que la Primera Disposición
+
+Complementaria Final del anterior Reglamento establece que, “ _En lo no previsto_
+_en la Ley y el Reglamento, son de aplicación supletoria las normas de derecho_
+_público y, solo en ausencia de estas, las de derecho privado_ ”.
+
+Sobre el particular, debe indicarse que la aplicación supletoria de normas
+implicaba la existencia de una normativa que, siendo aplicable a determinada
+relación o situación jurídica de manera obligatoria, no regulaba un caso o
+supuesto particular (norma suplida), por lo que resultaba necesario recurrir a otra
+normativa distinta con la finalidad de suplir la falencia o vacío existente (norma
+supletoria) [2] .
+
+Aunado a ello, debe indicarse que la aplicación supletoria de una norma
+presupone un análisis de compatibilidad; es decir, debe realizarse un análisis
+comparativo de la norma a ser suplida y de la norma supletoria, a efectos de
+determinar si la naturaleza de ambas es semejante y, por tanto, si son normas
+compatibles.
+
+En tal sentido, la aplicación supletoria de normas de derecho público o derecho
+privado a las disposiciones de la normativa de contrataciones del Estado
+presupone realizar un análisis comparativo para determinar si estas normas
+resultan compatibles o no.
+
+2.1.4. En virtud de lo expuesto, en el marco de la anterior normativa de contrataciones
+
+del Estado, un contrato era un acuerdo de voluntades a través del cual tanto la
+Entidad como el proveedor buscaban satisfacer su respectivo interés; _**en este**_
+_**aspecto**_ no existía mayor diferencia entre los contratos administrativos y los
+
+2 Al respecto, Neves (1997) indica que por supletoriedad se entiende a la situación que implica la existencia de “(...) la norma uno,
+a la que le corresponde regular un hecho pero no lo hace, denominada suplida, y a la norma dos, que sí contiene una regulación
+para tal hecho, llamada supletoria”, las que comúnmente se conectan o vinculan a través de una remisión.
+NEVES, J. (1997) Introducción al Derecho del Trabajo, Lima – Perú, Ara Editores, págs. 131 – 132.
+
+Pág. 3 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**PQFXB6D**
+
+contratos privados, salvo por el hecho que la Entidad representaba el interés
+público y, por ende, gozaba de potestades especiales que le permitían, por
+ejemplo, —entre otros— declarar la nulidad de oficio de los contratos.
+
+Ahora, la anterior normativa de contrataciones del Estado había previsto las reglas
+específicas que se aplicaban a los contratos administrativos [3] celebrados por las
+Entidades Públicas con los proveedores, en el Capítulo IV del Título II de la Ley,
+“El Contrato y su Ejecución”, así como reglas específicas para la solución de
+controversias en el marco de dichos contratos en el Título III “Solución de
+controversias” y en el Título VI del Reglamento, “Ejecución Contractual”. Estas
+disposiciones tenían por objeto regular las relaciones contractuales que se
+instauraban entre las Entidades y los proveedores o contratistas, desde los
+requisitos y procedimiento para el perfeccionamiento de los contratos, hasta su
+culminación.
+
+Teniendo claro lo anterior, corresponde señalar que el Artículo IX del Título
+Preliminar del Código Civil establece que “ _Las disposiciones del Código Civil se_
+_aplican supletoriamente a las relaciones y situaciones jurídicas reguladas por_
+_otras leyes, siempre que no sean incompatibles con su naturaleza_ ”. Por tanto, las
+disposiciones del Código Civil son aplicables supletoriamente a los contratos
+celebrados por las Entidades con sus proveedores en el marco de la normativa
+de contrataciones del Estado, _**en los aspectos que resulten compatibles.**_
+
+Por consiguiente, debe señalarse que, ante la ausencia o vacío de regulación de
+algún hecho o situación en la anterior normativa de contrataciones del Estado
+respecto de la ejecución contractual, debía recurrirse, supletoriamente, a las
+disposiciones del Código Civil que sean compatibles [4] .
+
+2.1.5. Ahora bien, teniendo claro lo anterior, es pertinente traer a colación lo que
+
+establecía el numeral 44.6 del artículo 44 de la anterior Ley, “ _Cuando corresponda_
+_al árbitro único o al Tribunal Arbitral evaluar la nulidad del contrato, se considera_
+_en primer lugar las causales previstas en la presente Ley y su reglamento,_ _**y luego**_
+_las causales de nulidad aplicables reconocidas en el derecho nacional_ ”. (El énfasis
+y subrayado son agregados).
+
+En relación con el arbitraje y la nulidad de los contratos celebrados al amparo de
+la Ley, el numeral 45.1 del artículo 45 de la anterior Ley establecía que “ _**Las**_
+_**controversias que surjan entre las partes sobre**_ _la ejecución, interpretación,_
+_resolución, inexistencia, ineficacia o_ _**invalidez del contrato se resuelven**_
+_**mediante conciliación o arbitraje**_ _, según el acuerdo de las partes._ (...) _._ _Las_
+_controversias sobre la_ _**nulidad**_ _del contrato_ _**solo**_ _pueden ser sometidas a_
+_**arbitraje**_ ”. (El énfasis y subrayado son agregados).
+
+Como se aprecia, la anterior Ley establecía que los contratos celebrados bajo su
+amparo podían ser declarados nulos, **luego de** haberse considerado las causales
+previstas en su numeral 44.3, por causales reconocidas en el **derecho nacional**,
+
+3 Al respecto, Juan Carlos Cassagne indica que “En el contrato administrativo, a diferencia de los contratos regidos por el derecho
+privado, la Administración procura la satisfacción de un interés público relevante, de realización inmediata o directa, que se
+incorpora al fin u objeto del acuerdo, proyectándose en su régimen sustantivo (ius variandi, interpretación, equilibrio financiero,
+etc.)”.
+CASSAGNE, J.C. (2005) El Contrato Administrativo, Buenos Aires, Editorial Abeledo-Perrot, segunda edición, pág. 21.
+
+4 En relación con lo señalado, la Opinión N° 099-2022/DTN aclara que “(...) la aplicación supletoria de las disposiciones
+compatibles del Código Civil a las disposiciones de la normativa de contrataciones del Estado que regula la ejecución contractual,
+no afecta ni excluye —cuando corresponda— la aplicación de las disposiciones de la Ley N° 27444 a las actuaciones internas
+que permiten a las Entidades expresar su voluntad en el marco de una relación contractual bajo el ámbito de la normativa de
+contrataciones del Estado”.
+
+Pág. 4 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**PQFXB6D**
+
+en este caso las causales previstas en el Código Civil —dado que dicho cuerpo
+normativo regula los actos jurídicos entre partes—, siendo en este último caso
+**competente** para dilucidar sobre la validez (la nulidad del contrato) **el árbitro**
+**único o el tribunal arbitral** .
+
+Como se establecía en el artículo 45 de la anterior Ley, cualquiera de las partes
+podía someter a arbitraje las controversias relacionadas a la nulidad del contrato;
+siendo así, cuando la causal invocada para la declaratoria de nulidad de un
+contrato celebrado al amparo de la anterior normativa de contrataciones del
+Estado hubiese sido alguna reconocida en el Código Civil, el órgano competente
+para pronunciarse sobre dicha nulidad, de acuerdo con lo establecido en el
+numeral 44.5 del artículo 44 de la Ley, era el árbitro único o el tribunal arbitral.
+
+En conclusión, de acuerdo con lo establecido en el artículo 44 de la anterior Ley,
+la Entidad podía declarar la nulidad de oficio de un contrato invocando alguna de
+las causales de nulidad establecidas en el numeral 44.3 del artículo 44 de la
+anterior Ley. Además, de acuerdo con lo establecido en el numeral 44.5 del
+artículo 44 de la anterior Ley, era posible declarar la nulidad de un contrato —
+celebrado al amparo de la anterior normativa de contrataciones del Estado—
+invocando alguna de las causales de nulidad previstas en el Código Civil, siendo,
+en este último caso, el órgano competente para dilucidar sobre dicha nulidad, el
+árbitro único o el tribunal arbitral.
+
+**3.** **CONCLUSIONES**
+
+3.1. La anterior normativa de contrataciones del Estado otorgaba al Titular de la
+
+Entidad la potestad de declarar la nulidad de oficio de los actos del procedimiento
+de selección hasta antes de la celebración del contrato, la cual únicamente era
+aplicable cuando se configuraba alguna de las causales antes detalladas.
+Asimismo, la anterior normativa de contrataciones del Estado disponía que el
+Titular de la Entidad, en la resolución que expedía para declarar la nulidad, debía
+cumplir con precisar la etapa hasta la cual se retrotraía el procedimiento.
+
+3.2. De acuerdo con lo establecido en el artículo 44 de la anterior Ley, la Entidad podía
+
+declarar la nulidad de oficio de un contrato invocando alguna de las causales de
+nulidad establecidas en el numeral 44.3 del artículo 44 de la anterior Ley. Además,
+de acuerdo con lo establecido en el numeral 44.5 del artículo 44 de la anterior Ley,
+era posible declarar la nulidad de un contrato —celebrado al amparo de la anterior
+normativa de contrataciones del Estado— invocando alguna de las causales de
+nulidad previstas en el Código Civil, siendo, en este último caso, el órgano
+competente para dilucidar sobre dicha nulidad, el árbitro único o el tribunal arbitral.
+
+Firmado por
+
+**PATRICIA MERCEDES SEMINARIO ZAVALA**
+
+Directora Técnico Normativa
+DIRECCIÓN TÉCNICO NORMATIVA
+
+RVC/.
+
+Pág. 5 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**PQFXB6D**

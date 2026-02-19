@@ -1,0 +1,440 @@
+**Directiva N° 004-2025-OECE-CD**
+
+**DIRECTIVA DEL REGISTRO DE INSTITUCIONES ARBITRALES Y CENTROS DE**
+**ADMINISTRACIÓN DE JUNTAS DE PREVENCIÓN Y RESOLUCIÓN DE DISPUTAS (REGAJU)**
+
+**I.** **FINALIDAD**
+
+Establecer disposiciones complementarias a las personas jurídicas sobre los
+procedimientos para la incorporación, modificación de registro, suspensión a pedido de
+parte y retiro definitivo a pedido de parte en el Registro de Instituciones Arbitrales y
+Centros de Administración de Juntas de Prevención y Resolución de Disputas (REGAJU),
+que habilita a organizar y administrar arbitrajes y juntas de prevención y resolución de
+disputas en materia de contrataciones públicas.
+
+**II.** **OBJETO**
+
+Establecer disposiciones complementarias aplicables a los procedimientos de
+incorporación, modificación de registro, suspensión a pedido de parte y retiro definitivo a
+pedido de parte del Registro de Instituciones Arbitrales y Centros de Administración de
+Juntas de Prevención y Resolución de Disputas (REGAJU), en el marco de lo establecido
+por la Ley N° 32069, Ley General de Contrataciones Públicas, y su Reglamento aprobado
+por Decreto Supremo N° 009-2025-EF.
+
+**III.** **ÁMBITO DE APLICACIÓN**
+
+La Directiva es de aplicación a las personas jurídicas que presenten solicitudes respecto de
+procedimientos en el Registro de Instituciones Arbitrales y Centros de Administración de
+Juntas de Prevención y Resolución de Disputas (REGAJU), y para las que se encuentren
+inscritas.
+
+**IV.** **BASE LEGAL**
+
+    - Ley N° 27444, Ley del Procedimiento Administrativo General.
+
+    - Ley N° 32069, Ley General de Contrataciones Públicas.
+
+    - Decreto Legislativo N° 1071, Decreto Legislativo que norma el arbitraje.
+
+    - Decreto Supremo N° 141-2024-PCM, Decreto Supremo que aprueba los Lineamientos
+para la ejecución de la fiscalización posterior aleatoria de los procedimientos
+administrativos y para el funcionamiento de la central de riesgo administrativo
+aplicables a las entidades de la administración pública.
+
+    - Decreto Supremo N° 009-2025-EF, Decreto Supremo que aprueba el Reglamento de la
+Ley N° 32069, Ley General de Contrataciones Públicas.
+
+    - Decreto Supremo N° 067-2025-EF, Decreto Supremo que aprueba la Sección Primera
+del Reglamento de Organización y Funciones del Organismo Especializado para las
+Contrataciones Públicas Eficientes (OECE).
+
+Página | 2
+
+    - Resolución N° D000049-2025-OSCE-PRE, que aprueba la Sección Segunda del
+Reglamento de Organización y Funciones del Organismo Especializado para las
+Contrataciones Públicas Eficientes (OECE).
+
+    - Texto Único de Procedimientos Administrativos - TUPA del Organismo Especializado
+para las Contrataciones Públicas Eficientes - OECE.
+
+Las referidas normas incluyen sus respectivas disposiciones ampliatorias, modificatorias y
+conexas, de ser el caso.
+
+**V.** **REFERENCIAS**
+
+En la Directiva se utilizan las siguientes referencias:
+
+    - **Directiva:** Directiva del Registro de Instituciones Arbitrales y Centro de Administración
+de Juntas de Prevención y Resolución de Disputas (REGAJU).
+
+    - **Ley** : Ley N° 32069, Ley General de Contrataciones Públicas.
+
+    - **Reglamento** : Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas,
+aprobado por Decreto Supremo N° 009-2025-EF.
+
+**VI.** **SIGLAS**
+
+En la Directiva se utilizan las siguientes siglas:
+
+    - **CAJPRD:** Centro de Administración de Juntas de Prevención y Resolución de Disputas.
+
+    - **DJ:** Declaración Jurada.
+
+    - **IA:** Instituciones Arbitrales.
+
+    - **JPRD:** Juntas de Prevención y Resolución de Disputas.
+
+    - **LPAG:** Ley del Procedimiento Administrativo General **.**
+
+    - **OECE:** Organismo Especializado para las Contrataciones Públicas Eficientes.
+
+    - **REGAJU:** Registro de Instituciones Arbitrales y Centros de Administración de Juntas
+de Prevención y Resolución de Disputas.
+
+    - **TUPA:** Texto Único de Procedimientos Administrativos del OECE.
+
+    - **UIT:** Unidad Impositiva Tributaria.
+
+**VII.** **DISPOSICIONES GENERALES**
+
+7.1. Los requisitos, condiciones, reglas y documentos que los administrados deben
+
+cumplir y presentar en los procedimientos ante el OECE se encuentran previstos en
+el Reglamento, el TUPA y la Directiva, en lo que corresponda.
+
+7.2. Las instrucciones a seguir para la presentación de la solicitud respecto de los
+
+procedimientos de incorporación, modificación, suspensión a pedido de parte, y
+retiro definitivo a pedido de parte, así como la actualización de información, se
+encuentran detallados en los documentos de orientación publicados en la sede
+digital del OECE.
+
+Página | 3
+
+7.3. Los procedimientos o trámites referidos al registro listado en el numeral 8.1 de la
+
+presente Directiva se realizan conforme a lo regulado por el Título II del
+procedimiento administrativo de la LPAG y, electrónicamente, en la medida que se
+encuentren implementados en la plataforma del OECE.
+
+7.4. Las IA o CAJPRD que cuenten con inscripción en el Registro, conforme a los
+
+Procedimientos b) y d) del numeral 8.2 de la presente Directiva, pueden administrar
+controversias que sean de menor cuantía a las referidas en los literales a) y c) del
+mismo numeral.
+
+**VIII.DISPOSICIONES ESPECÍFICAS**
+
+**8.1.** **PROCEDIMIENTOS EN EL SISTEMA DE REGAJU**
+
+El REGAJU cuenta con siete (7) procedimientos, que se agrupan de la siguiente
+forma:
+
+           - Cuatro (4) procedimientos de incorporación.
+
+           - Un (1) procedimiento de modificación de registro.
+
+           - Un (1) procedimiento de suspensión a pedido de parte.
+
+           - Un (1) procedimiento de retiro definitivo a pedido de parte.
+
+Estos procedimientos se encuentran previstos en el TUPA del OECE, y son los
+siguientes:
+
+1. Incorporación de Instituciones Arbitrales o de Centros de Administración de
+Juntas de Prevención y Resolución de Disputas en el REGAJU.
+2. Incorporación de Instituciones Arbitrales o de Centros de Administración de
+Juntas de Prevención y Resolución de Disputas para administrar arbitrajes
+cuyos montos originales de los contratos superen las 2 000 UIT en el REGAJU.
+3. Incorporación de Instituciones Arbitrales o Centros de Administración de
+Juntas de Prevención y Resolución de Disputas recién constituidas en el
+REGAJU.
+4. Incorporación de Instituciones Arbitrales para administrar arbitrajes de mayor
+envergadura sobre controversias surgidas en contratos con montos originales
+iguales o superiores a las 20 000 UIT, en el REGAJU.
+5. Modificación de registro de Instituciones Arbitrales o de Centros de
+Administración de Juntas de Prevención y Resolución de Disputas.
+6. Suspensión a pedido de parte de Instituciones Arbitrales o de Centros de
+Administración de Juntas de Prevención y Resolución de Disputas en el
+REGAJU.
+7. Retiro definitivo a pedido de parte de Instituciones Arbitrales o de Centros de
+Administración de Juntas de Prevención y Resolución de Disputas en el
+REGAJU.
+
+Página | 4
+
+**8.2.** **PROCEDIMIENTOS DE INCORPORACIÓN**
+
+Las condiciones y requisitos para los procedimientos de incorporación se encuentran
+establecidos en los artículos 382, 383, 384 y 385 del Reglamento. Los
+procedimientos de incorporación son los siguientes:
+
+a) Incorporación de Instituciones Arbitrales o de Centros de Administración de
+
+Juntas de Prevención y Resolución de Disputas en el REGAJU.
+
+b) Incorporación de Instituciones Arbitrales o de Centros de Administración de
+
+Juntas de Prevención y Resolución de Disputas para administrar arbitrajes cuyos
+montos originales de los contratos superen las 2 000 UIT en el REGAJU.
+
+c) Incorporación de Instituciones Arbitrales o Centros de Administración de Juntas
+
+de Prevención y Resolución de Disputas recién constituidas en el REGAJU.
+
+d) Incorporación de Instituciones Arbitrales para administrar arbitrajes de mayor
+
+envergadura sobre controversias surgidas en contratos con montos originales
+iguales o superiores a las 20 000 UIT, en el REGAJU.
+
+**8.2.1.** **Sobre la acreditación de experiencia:**
+
+8.2.1.1. Para incorporarse al REGAJU en los procedimientos previstos en los
+
+literales a) y b) del numeral 8.2 de la Directiva, se requiere contar
+con experiencia acreditada fehacientemente no menor de cinco (5)
+años en la organización y administración de procesos arbitrales o
+JPRD.
+
+La acreditación de la experiencia puede realizarse con la
+presentación de la siguiente documentación:
+
+a) El acta de instalación u otro similar, a través de los cuales se
+
+acredite el inicio de las actuaciones procesales a cargo del árbitro
+
+             - adjudicador y el laudo arbitral o decisión u otro documento con
+el que concluya el arbitraje o JPRD, a fin de determinar el periodo
+de experiencia.
+
+b) Las facturas por la “organización y administración de arbitrajes”
+
+u “organización y administración de JPRD” que identifican el
+proceso, acompañadas de las actuaciones procesales
+pertinentes.
+
+c) Otros documentos que acrediten fehacientemente la
+organización y administración de un arbitraje o JPRD, por el
+periodo requerido.
+
+Página | 5
+
+En caso las fechas de los documentos de sustento se superpongan,
+se validan únicamente los períodos en los que no haya
+superposición.
+
+De acreditar la experiencia en la organización y administración de
+procesos arbitrales o JPRD, con los documentos señalados en el
+literal a), es posible hacerlo con la presentación de un solo proceso
+arbitral, si entre el documento de inicio de las actuaciones
+procesales y el documento de conclusión transcurrieron cinco años
+
+     - más.
+
+En el caso de los CAJPRD, es posible acreditar la experiencia a través
+de la administración y organización de juntas de resolución de
+disputas.
+
+8.2.1.2. Para incorporarse al REGAJU en el procedimiento de incorporación
+
+señalado en el literal d) del numeral 8.2. de la Directiva, se requiere
+contar con experiencia acreditada fehacientemente no menor de
+diez (10) años en la organización y administración de procesos
+arbitrales.
+
+La acreditación de la experiencia puede realizarse con la
+presentación de la siguiente documentación:
+
+a) El acta de instalación u otro similar, a través de los cuales se
+
+acredite el inicio de las actuaciones procesales a cargo del árbitro
+y el laudo arbitral u otro documento con el que concluya el
+arbitraje, a fin de determinar el periodo de experiencia.
+
+b) Las facturas por la “organización y administración de arbitrajes”
+
+que identifican el proceso arbitral, acompañadas de las
+actuaciones procesales pertinentes.
+
+c) Otros documentos que acrediten fehacientemente la
+organización y administración de un arbitraje, por el periodo
+requerido.
+
+En caso las fechas de los documentos de sustento se superpongan,
+se validan únicamente los períodos en los que no haya
+superposición.
+
+De acreditar la experiencia en la organización y administración de
+procesos arbitrales con los documentos señalados en el literal a), es
+posible hacerlo con la presentación de un solo proceso arbitral, si
+entre el documento de inicio de las actuaciones procesales y el
+documento de conclusión transcurrieron diez años o más.
+
+Página | 6
+
+**8.2.2.** **Sobre la sede institucional**
+
+8.2.2.1. Para incorporarse al REGAJU, en los procedimientos de
+
+incorporación del numeral 8.2 de la Directiva, las IA o CAJPRD
+indican, en el formulario, el enlace a su portal institucional donde
+figura la licencia municipal de funcionamiento de la sede
+institucional para su atención al público, edificación y logística.
+
+8.2.2.2. La licencia municipal de funcionamiento está a nombre de la IA o
+
+CAJPRD solicitante o de la persona jurídica de la cual forme parte y
+autoriza el desarrollo de la actividad conforme a la norma municipal
+correspondiente.
+
+**8.2.3.** **Sobre el personal que brinda soporte administrativo**
+
+8.2.3.1. Para incorporarse al REGAJU en los procedimientos de
+
+incorporación del numeral 8.2 de la Directiva, las IA o CAJPRD
+señalan, en la Declaración Jurada, contar con personal que brinde
+soporte administrativo de los procesos a su cargo.
+
+8.2.3.2. Las IA y CAJPRD cuentan con los contratos del personal que brinda
+
+soporte administrativo conforme a las normas vigentes y aplicables.
+
+**8.2.4.** **Sobre las herramientas de gestión de calidad y políticas antisoborno**
+
+8.2.4.1. Para incorporarse al REGAJU en el procedimiento de incorporación
+
+previsto en el literal a) del numeral 8.2 de la Directiva, las IA o
+CAJPRD declaran contar con herramientas de gestión de calidad y
+políticas antisoborno sujetas a auditoría, las que se acreditan con el
+documento de aprobación y/o certificación correspondiente de ser
+el caso.
+
+**8.2.5.** **Sobre las resoluciones, decisiones y certificaciones publicadas en el Portal**
+
+**Institucional**
+
+8.2.5.1. Para incorporarse al REGAJU en los procedimientos de
+
+incorporación a), b) y d) del numeral 8.2 de la Directiva, las IA
+indican, en el formulario, el enlace a su portal institucional que
+permite visualizar las resoluciones o decisiones emitidas en el marco
+de un arbitraje observando la normativa de arbitraje vigente y,
+conforme a la normativa de protección de datos personales
+aplicable, así como las certificaciones internacionales vigentes,
+acreditadas con los documentos que aprueban la certificación.
+
+Página | 7
+
+8.2.5.2. Para incorporarse al REGAJU en los procedimientos de
+
+incorporación a) y b) del numeral 8.2 de la Directiva, las CAJPRD
+indican, en el formulario, el enlace a su portal institucional que
+permite visualizar toda la información de los procedimientos a su
+cargo, las resoluciones o decisiones emitidas conforme a la
+normativa de protección de datos personales aplicable.
+
+**8.2.6.** **Sobre las herramientas informáticas que permiten la trazabilidad de la**
+
+**documentación**
+
+8.2.6.1. Para incorporarse al REGAJU en los procedimientos de
+
+incorporación del numeral 8.2 de la Directiva, las IA y CAJPRD
+indican, en el formulario, el enlace a su portal institucional a través
+del cual se accede a las herramientas informáticas que permitan la
+trazabilidad de la documentación que conforma el expediente
+arbitral o de JPRD, debiéndose verificar las fechas ciertas de ingreso
+y salida de documentos, para lo cual tienen el contrato, certificado
+u otro documento que autoriza el uso de la herramienta
+informática.
+
+**8.2.7.** **Plazos máximos para dar cumplimiento al requisito del literal l) del numeral**
+
+**318.1 del artículo 318 del Reglamento, así como las condiciones y requisitos**
+**adicionales que deben cumplir y los montos máximos de controversias**
+**respecto de los cuales pueden administrar arbitrajes o juntas durante sus**
+**primeros cinco años de conformación**
+
+8.2.7.1. Las IA y CAJPRD recién constituidas inscritas en el REGAJU tienen un
+
+plazo de tres (03) meses, computados desde la fecha de su
+inscripción en el REGAJU, para contar con herramientas de gestión
+de calidad y con políticas antisoborno sujetas a auditoría, conforme
+al numeral 8.2.4 de la directiva.
+
+8.2.7.2. Las IA y CAJPRD recién constituidas administran controversias
+
+menores a 2 000 UIT.
+
+**8.2.8.** **Sobre cumplimiento e integridad**
+
+8.2.8.1. Para incorporarse al REGAJU en los procedimientos de
+
+incorporación del numeral 8.2 de la Directiva, las IA o CAJPRD
+presentan Declaración Jurada señalando que cumplen y se
+comprometen a mantener los requisitos regulados en la Ley, el
+Reglamento y la Directiva, así como conducir los procesos arbitrales
+y de JPRD en estricto cumplimiento de su Código de Ética y la
+normativa de contratación pública aplicable.
+
+Página | 8
+
+8.2.8.2. Para ello deben mantener los enlaces señalados en la Declaración
+
+Jurada y Formularios, conforme a lo siguiente:
+
+(i) Mantener los enlaces en funcionamiento las 24 horas del día,
+los 07 días de la semana.
+
+(ii) De no estar funcionando algún enlace, deben publicar en su
+Portal Web un aviso indicando por qué no está operativo y la
+fecha de funcionamiento.
+
+(iii) De variar estos enlaces, deben informar ello al OECE.
+
+**8.3.** **PROCEDIMIENTO DE MODIFICACIÓN DE REGISTRO DE IA O CAJPRD**
+
+8.3.1. El procedimiento de modificación se da cuando el administrado desea
+
+cambiar su registro primigenio a otro tipo de registro establecido en el
+Reglamento.
+
+8.3.2. La modificación se realiza de manera indistinta entre los diferentes
+
+procedimientos de incorporación al REGAJU; sólo se debe cumplir con los
+requisitos, la declaración jurada y el formulario de acuerdo al tipo de registro
+que se solicite, para ello se debe presentar, según corresponda, lo siguiente:
+
+a) DJ para solicitar la Incorporación de IA o de CAJPRD en el REGAJU.
+
+b) DJ para solicitar Incorporación de IA o de CAJPRD para administrar
+
+arbitrajes cuyos montos originales de los contratos superen las 2 000 UIT
+en el REGAJU.
+
+c) DJ para solicitar la Incorporación de IA para administrar arbitrajes de
+
+mayor envergadura sobre controversias surgidas en contratos con montos
+originales iguales o superiores a las 20 000 UIT en el REGAJU.
+
+d) Formulario correspondiente al tipo de registro.
+
+**8.4.** **DE LA SUSPENSIÓN A PEDIDO DE PARTE DE IA O CAJPRD EN EL REGAJU**
+
+Es el procedimiento a través del cual la IA o CAJPRD solicita su suspensión voluntaria
+
+del registro, debiendo presentar los requisitos previstos en el artículo 387 del
+Reglamento. Luego de transcurrido el periodo de suspensión, este se reanuda de
+manera automática.
+
+**8.5.** **DEL RETIRO DEFINITIVO A PEDIDO DE PARTE DE IA O CAJPRD**
+
+Es el procedimiento a través del cual la IA o CAJPRD solicita su retiro definitivo del
+registro, debiendo presentar los requisitos previstos en el artículo 388 del
+
+Página | 9
+
+Reglamento. Aprobado su retiro, el administrado puede solicitar su incorporación al
+registro cumpliendo los requisitos regulados.
+
+Página | 10

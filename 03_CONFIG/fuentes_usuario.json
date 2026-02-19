@@ -1,22 +1,37 @@
 [
     {
-        "activo": true,
-        "alias": "Ley y Reglamento 1017",
-        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\0003_Ley_reglamento_1017"
+        "activo": false,
+        "alias": "Directiva OECE 2025 ",
+        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\001_Directivas_oece_2025"
     },
     {
-        "activo": true,
+        "activo": false,
+        "alias": "Directivas OECE 2026",
+        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\001_Directivas_oece_2026"
+    },
+    {
+        "activo": false,
         "alias": "Ley 27444",
-        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\Ley_27444"
+        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\002_Ley_27444"
     },
     {
         "activo": true,
-        "alias": "Directivas  OECE 2025",
-        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\002_Directivas_oece_2025"
+        "alias": "Decreto Legislativo 1017",
+        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\003_Decreto_Legistativo_1017"
     },
     {
-        "activo": true,
-        "alias": "Ley y Reglamento 30225",
+        "activo": false,
+        "alias": "Ley y Reglamento  30225",
         "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\004_Ley_reglamento_30225"
+    },
+    {
+        "activo": false,
+        "alias": "Ley y Reglamento 32069",
+        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\005_Ley_reglamento_32069"
+    },
+    {
+        "activo": false,
+        "alias": "Opiniones OECE 2025",
+        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\006_Opiniones_2025_OECE"
     }
 ]

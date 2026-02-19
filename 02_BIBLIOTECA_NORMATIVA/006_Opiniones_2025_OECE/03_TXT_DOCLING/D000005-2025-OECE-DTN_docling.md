@@ -1,0 +1,302 @@
+Firmado digitalmente por FLORES
+MONTOYA Carla Gabriela FAU
+20419026809 soft
+Motivo: Doy V° B°
+Fecha: 14.05.2025 19:02:34 -05:00
+
+Firmado digitalmente por SEMINARIO
+ZAVALA Patricia Mercedes FAU
+20419026809 soft
+Director(A) Técnico Normativa
+Motivo: Soy el autor del documento
+Fecha: 14.05.2025 19:03:13 -05:00
+
+Jesús María, 14 de Mayo del 2025
+# OPINION N°  D000005-2025-OECE-DTN
+
+Expediente N° 44839
+
+Solicitante: OCI Municipalidad Distrital de la Victoria
+
+Asunto: Experiencia del personal clave
+
+Referencia: Formulario S/N de fecha 01.ABR.2025 – Consultas de Entidades Públicas
+sobre la Normativa de Contrataciones del Estado.
+
+**1.** **ANTECEDENTES**
+
+Mediante el documento de la referencia, el Jefe del Órgano de Control Institucional de la
+Municipalidad Distrital de la Victoria, formula consultas referidas a la acreditación de la experiencia
+del personal clave.
+
+Antes de iniciar el desarrollo del presente análisis, es necesario precisar que las consultas que absuelve
+este Organismo Técnico Especializado son aquellas referidas al sentido y alcance de la normativa de
+contrataciones del Estado, planteadas en términos genéricos y vinculadas entre sí, sin hacer alusión a
+asuntos concretos o específicos, de conformidad con lo dispuesto por el literal g) del numeral 11.3 del
+artículo 11 de la Ley General de Contrataciones Públicas, aprobada a través de la Ley N° 32069,
+modificada por la Ley N° 32103 y Ley N° 32187; así como por lo establecido en el artículo 11 y los
+literales b) y c) del artículo 389 de su Reglamento, aprobado mediante Decreto Supremo Nº 009-2025EF.
+
+En ese sentido, las conclusiones de la presente opinión no se encuentran vinculadas necesariamente a
+situación particular alguna.
+
+**2.** **CONSULTAS Y ANÁLISIS**
+
+Tomando en consideración el contexto normativo a los que se hace alusión en las consultas planteadas,
+para su absolución se entenderá por:
+
+  - **“Anterior Ley”** a la aprobada mediante Ley N° 30225, y modificada por el Decreto
+Legislativo N° 1444; vigente hasta el 21 de abril de 2025.
+
+  - **“Anterior Reglamento”** al aprobado mediante Decreto Supremo N°344-2018-EF; vigente
+hasta el 21 de abril de 2025.
+
+Dicho lo anterior, la consulta formulada es la siguiente:
+
+**2.1.** _**“¿los periodos de paralización y/o suspensión del plazo de ejecución de obra, deben**_
+
+_**considerarse como experiencia del personal clave, pese a que no se realizo prestación de**_
+_**servicios efectiva? o ¿se considera como experiencia solo el periodo efectivo de prestación**_
+_**del servicio que es igual al de ejecución real de la obra?”**_ (Sic.).
+
+Pág. 1 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**LGIPZNX**
+
+2.1.1 En principio, es necesario indicar que de conformidad con lo previsto en el artículo 12 de la
+
+anterior Ley, la Entidad calificaba a los proveedores utilizando los criterios técnicos,
+económicos, entre otros, previstos en el anterior Reglamento.
+
+Al respecto, el artículo 49 del anterior Reglamento establecía que la calificación de los postores
+se realizaba a fin de determinar que estos contaban con las capacidades necesarias para ejecutar
+el contrato, para ello, la Entidad verificaba el cumplimiento de los requisitos de calificación
+previstos de manera clara y precisa en los documentos del procedimiento de selección.
+
+Así, los requisitos de calificación que la Entidades podían adoptar eran los siguientes: a)
+capacidad legal, relacionada a la habilitación para llevar a cabo la actividad económica materia
+de contratación; b) capacidad técnica y profesional, relacionada al equipamiento estratégico,
+infraestructura estratégica, así como la experiencia del personal clave requerido c) experiencia
+del postor en la especialidad, referida a las actividades iguales o semejantes al objeto de la
+convocatoria.
+
+Como se aprecia, en la etapa de calificación de los procedimientos de selección la Entidad
+determinaba que los postores cumplían con las capacidades necesarias para ejecutar las
+prestaciones que eran objeto del procedimiento de selección. En ese sentido, los documentos
+que regían dicho procedimiento además de contemplar los requisitos de calificación adoptados
+por la Entidad, establecían la documentación necesaria para su acreditación.
+
+2.1.2 Ahora bien, a propósito de la consulta formulada, corresponde analizar el requisito de
+
+calificación referido a la experiencia del personal clave, a partir de la información contenida en
+los documentos estándar que aprobó el OSCE
+
+Al respecto, es necesario indicar que a efectos de que las Entidades elaboraran los documentos
+que establecían las reglas del procedimiento de selección, este Organismo Técnico
+Especializado aprobó la Directiva N°001-2019-OSCE/CD que contenía los documentos
+estándar de uso obligatorio. Entre estos documentos se encontraban las “Bases Estándar” en
+cuya sección específica se había previsto los requisitos de calificación que las Entidades de
+acuerdo al objeto de la contratación podían establecer.
+
+Así pues, de conformidad con las bases estándar aprobadas por el OSCE cuando las Entidades
+requieran calificar la experiencia del personal clave, los documentos del procedimiento de
+selección debían establecer el tiempo mínimo de experiencia requerido en la ejecución de las
+prestaciones materia del procedimiento, el cargo o puesto que ocupará el personal clave
+requerido y la documentación necesaria para su acreditación de acuerdo al objeto de la
+contratación; en ese sentido los precitados documentos estándar habían previsto que este
+requisito se acreditaba con cualquiera de los siguientes documentos: (i) copia simple de
+contratos y su respectiva conformidad; (ii) constancias; (iii) certificados; o, (iv) cualquier otra
+documentación que de manera fehaciente demostrara la experiencia del personal propuesto;
+asimismo el contenido de dicha documentación debía incluir los nombres y apellidos del
+personal clave, el cargo desempeñado, el plazo de la prestación indicando el día, mes y año de
+inicio y culminación, el nombre de la Entidad u organización que emitía el documento, la fecha
+de emisión y los nombres y apellidos de quien suscribía el documento.
+
+Sobre el particular, es relevante señalar que la "experiencia" es considerada como la destreza
+adquirida por la reiteración de determinada conducta en el tiempo, es decir, por la habitual
+ejecución de una prestación. Dicha experiencia genera valor agregado para su titular,
+incrementando sus posibilidades de acceso a los contratos con el Estado.
+
+Asimismo, es importante agregar que mediante la Opinión N° 012-2018/DTN, este Organismo
+Técnico Especializado indicó lo siguiente: “(…) _No obstante, considerando la definición_
+_contemplada en diversas opiniones emitidas por este Organismo Técnico Especializado, la_
+_experiencia implica la participación en una actividad en particular, la cual genera destreza y_
+_valor agregado para su titular, con lo cual los documentos que se presenten para acreditar la_
+_experiencia de un profesional deben certificar el tiempo real de ejecución efectiva de_
+
+Pág. 2 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**LGIPZNX**
+
+_determinada actividad, de producirse, por ejemplo, una renuncia del profesional su tiempo de_
+_experiencia se debe contabilizar únicamente hasta la fecha que dejó de realizar las labores_
+_para las que fue contratado._ (…)”
+
+En ese sentido, la verificación del cumplimiento del requisito experiencia del personal clave,
+se realizaba en función de la documentación que el postor presentaba para acreditar de manera
+fehaciente el tiempo de ejecución efectiva de determinada actividad.
+
+2.1.3 Ahora bien, en lo que respecta a la consulta formulada, es importante mencionar que la anterior
+
+normativa de contrataciones del Estado había previsto la posibilidad de suspender el plazo de
+ejecución ante situaciones que generen la paralización del contrato, conforme a lo dispuesto en
+el numeral 142.7 artículo 142 del anterior Reglamento: _“Cuando se produzcan eventos no_
+_atribuibles a las partes que originen la paralización de la ejecución de las prestaciones, estas_
+_pueden acordar por escrito la suspensión del plazo de ejecución contractual, hasta la_
+_culminación de dicho evento, sin que ello suponga el reconocimiento de mayores gastos_
+_generales y/o costos directos, según corresponda al objeto de la contratación; salvo aquellos_
+_que resulten necesarios para viabilizar la suspensión_ .” (El subrayado es agregado). En el caso
+específico de obras, el numeral 178 del anterior Reglamento regulaba ciertas disposiciones
+particulares.
+
+Como se observa, la ocurrencia de una situación no atribuible a las partes, que generaba la
+paralización de - _por ejemplo_    - la ejecución de un contrato de obra, habilitaba a que estas puedan
+acordar la suspensión del plazo de ejecución de la obra, hasta que finalizara el evento invocado.
+Es este punto, es importante considerar que la suspensión del plazo de ejecución de una obra
+es un efecto de la paralización que, a su vez, se producía necesariamente a causa de un evento
+no atribuible a las partes.
+
+Adicionalmente, es importante anotar que, atendiendo a las particularidades de cada obra,
+durante el periodo de paralización por haberse acordado su suspensión podía - _en ciertos casos_    resultar necesario que algunos profesionales continúen prestando servicios, en tanto estos
+resultaban necesarios para viabilizar dicha suspensión u obedecieran a la realización de trámites
+propios de la gestión de contrato (tales como aquellos destinados a la aprobación de
+prestaciones adicionales u otro tipo de modificaciones contractuales, siempre que ello resultara
+posible y no contraviniera otras disposiciones del anterior Reglamento), por lo que, aun cuando
+la obra se encontrara suspendida y/o paralizada, dicho personal seguiría prestando sus labores
+de manera efectiva.
+
+Considerando esto último, para determinar el cumplimiento del requisito de calificación
+vinculado a la experiencia del personal clave, la Entidad debía verificar que la documentación
+presentada por el postor para tales efectos resultara idónea para demostrar que el personal clave
+contaba con la experiencia requerida en los documentos del procedimiento de selección; de ahí
+que como nota importante en las bases estándar se había previsto que para la calificación de la
+experiencia del personal clave, se debía valorar de manera integral los documentos presentados
+por el postor para acreditar dicha experiencia; de esta manera, la experiencia del personal clave
+se tendría por acreditada cuando los documentos que presentados demostraran de manera
+fehaciente la experiencia adquirida por su titular en una obra.
+
+**2.2** _**“¿El periodo de suspensión del plazo de ejecución de las obras a consecuencia del estado de**_
+_**emergencia nacional por el covid-19, debe considerarse para efectos del computo de**_
+_**experiencia del personal clave de la obra, pese a que no existió prestación efectiva del**_
+_**servicio?”**_ (Sic.).
+
+2.2.1 Tal como se ha indicado previamente, la experiencia del personal clave podía acreditarse a
+
+través de la presentación de los siguientes documentos: (i) copia simple de contratos y su
+respectiva conformidad; (ii) constancias; (iii) certificados; o, (iv) cualquier otra documentación
+que de manera fehaciente demostrara la experiencia del personal propuesto; asimismo el
+contenido de dicha documentación debía incluir los nombres y apellidos del personal clave, el
+cargo desempeñado, el plazo de la prestación indicando el día, mes y año de inicio y
+
+Pág. 3 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**LGIPZNX**
+
+culminación, el nombre de la Entidad u organización que emite el documento, la fecha de
+emisión y los nombres y apellidos de quien suscribe el documento, a partir de lo cual se debía
+permitir conocer la experiencia (ejecución efectiva de determinada actividad) adquirida por una
+persona en un periodo de tiempo determinado, de ahí que como nota importante en las bases
+estándar se había previsto que para la calificación de la experiencia del personal clave, se debía
+valorar de manera integral los documentos presentados por el postor para acreditar dicha
+experiencia.
+
+Finalmente, es importante anotar que, atendiendo a las particularidades de cada obra, durante
+el periodo de paralización y/o suspensión podía - _en ciertos casos_    - resultar necesario que
+algunos profesionales continúen prestando servicios, en tanto estos resultaban necesarios para
+viabilizar dicha suspensión u obedecieran a la realización de trámites propios de la gestión de
+contrato (tales como aquellos destinados a la aprobación de prestaciones adicionales u otro tipo
+de modificaciones contractuales, siempre que ello resultara posible y no contraviniera otras
+disposiciones del anterior Reglamento), por lo que, aun cuando la obra se encontrara
+suspendida y/o paralizada, dicho personal seguiría prestando sus labores de manera efectiva.
+
+**2.3** _**“¿En el caso del personal clave distintos al residente y supervisor de obra, si su participación**_
+_**en obra no es al 100%, se considera como experiencia todo el periodo de ejecución de la obra**_
+
+_**o se determina en función a los días en que tuvo participación efectiva?”**_ (Sic.).
+
+En concordancia con lo señalado en la Opinión N° 012-2018/DTN “ _… la experiencia implica_
+_la participación en una actividad en particular, la cual genera destreza y valor agregado para_
+_su titular, con lo cual los documentos que se presenten para acreditar la experiencia de un_
+_profesional deben certificar el tiempo real de ejecución efectiva de determinada actividad…”_
+
+En ese sentido, la verificación del cumplimiento del requisito experiencia del personal clave,
+se realizaba en función de la documentación que el postor presentaba para acreditar de manera
+fehaciente el tiempo de ejecución efectiva de determinada actividad.
+
+Sobre este último punto, es importante mencionar que, de acuerdo a las particularidades de
+cada obra, la intervención el personal propuesto por el contratista podía producirse en
+momentos distintos, ya que cierto personal podía participar desde el momento en que iniciaba
+el plazo de ejecución de la obra mientras que otro podía intervenir posteriormente, es decir,
+luego de que hubiese iniciado la ejecución de la obra, ello conforme a la programación
+respectiva. Por tanto, el periodo de experiencia que acreditara el personal ofertado debía ser
+coherente con el periodo de su participación efectiva durante la ejecución de la obra.
+
+**3.** **CONCLUSIONES**
+
+3.1 La experiencia del personal clave podía acreditarse a través de la presentación de los siguientes
+documentos: (i) copia simple de contratos y su respectiva conformidad; (ii) constancias; (iii)
+certificados; o, (iv) cualquier otra documentación que de manera fehaciente demostrara la
+experiencia del personal propuesto; asimismo el contenido de dicha documentación debía
+incluir los nombres y apellidos del personal clave, el cargo desempeñado, el plazo de la
+prestación indicando el día, mes y año de inicio y culminación, el nombre de la Entidad u
+organización que emitía el documento, la fecha de emisión y los nombres y apellidos de quien
+suscribía el documento, a partir de lo cual se debía permitir conocer la experiencia (ejecución
+efectiva de determinada actividad) adquirida por una persona en un periodo de tiempo
+determinado, de ahí que como nota importante en las bases estándar se había previsto que para
+la calificación de la experiencia del personal clave, se debía valorar de manera integral los
+documentos presentados por el postor para acreditar dicha experiencia.
+
+3.2 Atendiendo a las particularidades de cada obra, durante el periodo de paralización y/o
+suspensión podía -en ciertos casos- resultar necesario que algunos profesionales continúen
+prestando servicios, en tanto estos resultaban necesarios para viabilizar dicha suspensión u
+obedecieran a la realización de trámites propios de la gestión del contrato (tales como aquellos
+destinados a la aprobación de prestaciones adicionales u otro tipo de modificaciones
+
+Pág. 4 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**LGIPZNX**
+
+contractuales, siempre que ello resultara posible y no contraviniera otras disposiciones del
+anterior Reglamento), por lo que, aun cuando la obra se encontrara suspendida y/o paralizada,
+dicho personal seguiría prestando sus labores de manera efectiva.
+
+3.3 La verificación del cumplimiento del requisito experiencia del personal clave, se realizaba en
+función de la documentación que el postor presentara para acreditar de manera fehaciente el
+tiempo de ejecución efectiva de determinada actividad.
+
+Jesús María, 14 de mayo del 2025
+
+Firmado por
+
+**PATRICIA MERCEDES SEMINARIO ZAVALA**
+
+Directora Técnico Normativa
+DIRECCIÓN TÉCNICO NORMATIVA
+
+RMPP/.
+
+Pág. 5 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**LGIPZNX**
+
+Pág. 6 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**LGIPZNX**

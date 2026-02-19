@@ -71,14 +71,20 @@ def consultar_deepseek(consulta, contexto_chunks, system_prompt=None):
 USER_CONFIG_PATH = os.path.join(os.path.dirname(__file__), '../03_CONFIG/fuentes_usuario.json')
 
 def load_user_sources():
+    df = pd.DataFrame(columns=["activo", "alias", "ruta"])
     if os.path.exists(USER_CONFIG_PATH):
         try:
             with open(USER_CONFIG_PATH, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                return pd.DataFrame(data)
+                loaded_df = pd.DataFrame(data)
+                # Asegurar que existan todas las columnas
+                for col in ["activo", "alias", "ruta"]:
+                    if col not in loaded_df.columns:
+                        loaded_df[col] = "" if col == "ruta" or col == "alias" else True
+                return loaded_df
         except:
             pass
-    return pd.DataFrame(columns=["activo", "alias", "ruta"])
+    return df
 
 def save_user_sources(df):
     try:
@@ -177,66 +183,150 @@ _load_status = getattr(query_router, 'load_status', {})
 _filas_unificadas = []
 
 # Indices base (config.json)
-for idx_info in query_router.config.get('indices', []):
-    nombre = idx_info['nombre']
-    status = _load_status.get(nombre, {})
-    vec = status.get('vectores', 0) if status.get('estado') == 'ok' else 0
-    _filas_unificadas.append({"Cargar": True, "Nombre": nombre, "Vectores": vec, "_tipo": "base"})
+# LEER DIRECTAMENTE DEL DISCO para evitar "zombies" en caché
+# Si config.json está vacío en disco, NO mostramos nada, aunque el motor en RAM tenga datos viejos.
+CONFIG_PATH = os.path.join(os.path.dirname(__file__), '../03_CONFIG/config.json')
+indices_base_disk = []
+if os.path.exists(CONFIG_PATH):
+    try:
+        with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
+            _cfg = json.load(f)
+            indices_base_disk = _cfg.get('indices', [])
+    except:
+        indices_base_disk = []
+
+if indices_base_disk:
+    for idx_info in indices_base_disk:
+        nombre = idx_info['nombre']
+        status = _load_status.get(nombre, {})
+        vec = status.get('vectores', 0) if status.get('estado') == 'ok' else 0
+        
+        # Lógica del Check Verde: ¿Está realmente en memoria?
+        en_memoria = nombre in query_router.indices
+        estado_visual = "✅ Listo" if en_memoria else "⚪ Inactivo"
+        
+        _filas_unificadas.append({
+            "Cargar": True, 
+            "Estado": estado_visual,
+            "Nombre": nombre, 
+            "Vectores": vec, 
+            "_tipo": "base"
+        })
 
 # Indices usuario (fuentes_usuario.json)
+# Asegurar que user_sources_df tenga estructura correcta antes de iterar
+if 'alias' not in st.session_state.user_sources_df.columns:
+    st.session_state.user_sources_df = pd.DataFrame(columns=["activo", "alias", "ruta"])
+
 for _, row in st.session_state.user_sources_df.iterrows():
     alias = row.get('alias', '')
     activo = row.get('activo', True)
     status = _load_status.get(alias, {})
     vec = status.get('vectores', 0) if status.get('estado') == 'ok' else 0
-    _filas_unificadas.append({"Cargar": activo, "Nombre": alias, "Vectores": vec, "_tipo": "usuario"})
+    
+    # Lógica del Check Verde para usuario
+    en_memoria = alias in query_router.indices
+    estado_visual = "✅ Listo" if en_memoria else "⚪ Inactivo"
+    
+    # Guardamos la ruta oculta para no perderla
+    _filas_unificadas.append({
+        "Cargar": activo, 
+        "Estado": estado_visual,
+        "Nombre": alias, 
+        "Vectores": vec, 
+        "_tipo": "usuario", 
+        "ruta": row.get('ruta', '')
+    })
 
 _df_unificada = pd.DataFrame(_filas_unificadas)
 
-_nombres_originales = set(_df_unificada["Nombre"].tolist())
-_user_aliases = st.session_state.user_sources_df['alias'].tolist() if not st.session_state.user_sources_df.empty else []
-
 if not _df_unificada.empty:
     edited_sources = st.sidebar.data_editor(
-        _df_unificada[["Cargar", "Nombre", "Vectores"]],
+        _df_unificada[["Cargar", "Estado", "Nombre", "Vectores", "_tipo"]], # Mostramos columnas relevantes
         column_config={
-            "Cargar": st.column_config.CheckboxColumn("Cargar", help="Incluir en la búsqueda", default=True),
+            "Cargar": st.column_config.CheckboxColumn("Cargar", help="Marca para incluir en la próxima recarga", default=True),
+            "Estado": st.column_config.TextColumn("Status", disabled=True, width="small"),
             "Nombre": st.column_config.TextColumn("Fuente"),
             "Vectores": st.column_config.NumberColumn("Vec.", disabled=True, width="small"),
+            "_tipo": st.column_config.TextColumn("Tipo", disabled=True, width="small"),
         },
         hide_index=True,
         use_container_width=True,
         num_rows="dynamic",
         key="unified_sources"
     )
-    # Determinar qué indices buscar según checkboxes
-    sources_to_search = edited_sources[edited_sources["Cargar"] == True]["Nombre"].tolist()
+    
+    # --- LOGICA DE ACTUALIZACION Y BORRADO ---
+    # 1. Detectar cambios en fuentes de USUARIO
+    user_edited = edited_sources[edited_sources["_tipo"] == "usuario"]
+    
+    # 2. Verificar si hubo cambios en la lista de fuentes (Borrado)
+    current_aliases = st.session_state.user_sources_df['alias'].tolist()
+    edited_aliases = user_edited['Nombre'].tolist()
+    
+    # Si faltan alias (alguien borró filas)
+    if len(edited_aliases) < len(current_aliases):
+        # Identificar qué se quiere borrar
+        deleted_aliases = list(set(current_aliases) - set(edited_aliases))
+        
+        st.sidebar.warning(f"Eliminar: {', '.join(deleted_aliases)}")
+        del_pass = st.sidebar.text_input("Clave para confirmar borrado:", type="password", key="del_pass_fuentes_new")
+        
+        col_d1, col_d2 = st.sidebar.columns(2)
+        with col_d1:
+            if st.button("Confirmar Borrado", key="btn_confirm_del"):
+                if del_pass == "admin2026":
+                    # Proceder al borrado real
+                    # Reconstruimos el DF de usuario manteniendo las rutas originales de los que quedan
+                    alias_to_path = dict(zip(st.session_state.user_sources_df['alias'], st.session_state.user_sources_df['ruta']))
+                    
+                    new_rows = []
+                    for _, row in user_edited.iterrows():
+                        name = row["Nombre"]
+                        path = alias_to_path.get(name, "")
+                        if path: 
+                            new_rows.append({"activo": row["Cargar"], "alias": name, "ruta": path})
+                    
+                    # 1. Actualizar Dataframe en Memoria
+                    df_to_save = pd.DataFrame(new_rows)
+                    if df_to_save.empty: 
+                         df_to_save = pd.DataFrame(columns=["activo", "alias", "ruta"])
 
-    # Detectar filas eliminadas desde la tabla
-    _nombres_editados = set(edited_sources["Nombre"].tolist())
-    _eliminados = _nombres_originales - _nombres_editados
-    _user_eliminados = [n for n in _eliminados if n in _user_aliases]
-
-    if _user_eliminados:
-        st.sidebar.warning(f"Eliminar: {', '.join(_user_eliminados)}")
-        _del_pass = st.sidebar.text_input("Clave para confirmar:", type="password", key="del_pass_fuentes")
-        _col1, _col2 = st.sidebar.columns(2)
-        with _col1:
-            if st.button("Confirmar", key="confirm_del_fuente"):
-                if _del_pass == "admin2026":
-                    for name in _user_eliminados:
-                        st.session_state.user_sources_df = st.session_state.user_sources_df[
-                            st.session_state.user_sources_df['alias'] != name
-                        ].reset_index(drop=True)
-                    save_user_sources(st.session_state.user_sources_df)
-                    st.sidebar.success("Eliminado.")
-                    st.cache_resource.clear()
+                    # 2. Guardado "Fuerte" en Disco
+                    save_user_sources(df_to_save)
+                    
+                    # 3. Sincronización Nuclear (Evitar Zombies)
+                    st.session_state.user_sources_df = load_user_sources() # Releer del disco para estar 100% seguros
+                    st.cache_resource.clear() # Eliminar caché del motor (QueryRouter)
+                    
+                    st.success("Fuente eliminada y caché purgada correctamente.")
                     st.rerun()
                 else:
                     st.sidebar.error("Clave incorrecta.")
-        with _col2:
-            if st.button("Cancelar", key="cancel_del_fuente"):
-                st.rerun()
+        with col_d2:
+             # Si no confirma, simplemente no hacemos nada (el estado visual volverá al original al recargar si no se guarda)
+             if st.button("Cancelar", key="btn_cancel_del"):
+                 st.rerun()
+        
+    # 3. Verificar cambios solo en "Activo" (Checkbox) sin borrar filas
+    elif len(edited_aliases) == len(current_aliases):
+        # Check if 'activo' status changed
+        has_changes = False
+        for index, row in user_edited.iterrows():
+            alias = row["Nombre"]
+            new_active = row["Cargar"]
+            
+            mask = st.session_state.user_sources_df['alias'] == alias
+            if mask.any():
+                current_active = st.session_state.user_sources_df.loc[mask, 'activo'].values[0]
+                if current_active != new_active:
+                    st.session_state.user_sources_df.loc[mask, 'activo'] = new_active
+                    has_changes = True
+        
+        if has_changes:
+            save_user_sources(st.session_state.user_sources_df)
+
+    sources_to_search = edited_sources[edited_sources["Cargar"] == True]["Nombre"].tolist()
 else:
     sources_to_search = available_indices
 
@@ -247,8 +337,11 @@ with st.sidebar.expander("➕ Agregar Nueva Fuente", expanded=False):
         new_path = st.text_input("Ruta de Embeddings", placeholder="G:\\Mi unidad\\...")
         submitted = st.form_submit_button("Guardar")
         if submitted and new_alias and new_path:
-            if not os.path.exists(new_path):
-                st.error(f"La ruta no existe: {new_path}")
+            # VALIDACION: Verificar si ya existe
+            if new_alias in st.session_state.user_sources_df['alias'].values:
+                st.error(f"⚠️ El alias '{new_alias}' ya existe. Usa otro nombre.")
+            elif not os.path.exists(new_path):
+                st.error(f"🚫 La ruta no existe: {new_path}")
             else:
                 new_row = {"activo": True, "alias": new_alias, "ruta": new_path}
                 st.session_state.user_sources_df = pd.concat(

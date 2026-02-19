@@ -53,15 +53,31 @@ El sistema usa una estrategia **Híbrida**:
 
 ---
 
-## ☁️ Despliegue a Producción (GitHub)
+## ☁️ Despliegue a Producción (GitHub) y Estrategia de Almacenamiento
+
+El sistema utiliza una **Estrategia Híbrida de Almacenamiento Inteligente** para optimizar el rendimiento y cumplir con los límites de GitHub.
+
+### 🧠 ¿Qué se sube a la Nube (GitHub/Streamlit)?
+Solo la **"Inteligencia"** del sistema.
+- **Archivos permitidos:** `.index` (FAISS), `.json` (Metadatos), `.pkl`, `.py` (Código fuente).
+- **Objetivo:** Permitir que la IA en la nube (Streamlit) tenga acceso a los "mapas mentales" de los documentos sin necesitar los archivos físicos pesados.
+- **Peso típico:** Unos pocos MBs, incluso para bibliotecas de cientos de documentos.
+
+### 🔒 ¿Qué se queda en Local (Google Drive)?
+Los **"Documentos Pesados"** y datos sensibles.
+- **Archivos bloqueados (`.gitignore`):** `*.pdf`, `*.docx`, `*.zip`, `*.rar`.
+- **Ubicación:** Permanecen seguros en `G:\Mi unidad\01_BASE_NORMATIVA\...` y no tocan los servidores públicos de GitHub.
+- **Beneficio:** Privacidad total de los textos originales y cero consumo del límite de 2GB de GitHub.
+
+### 🔄 Sincronización Automática
+Para actualizar la web, utilice el script `PUSH_GIT.bat` incluido en la raíz. Este script:
+1.  Detecta cambios en código o nuevos índices vectoriales.
+2.  Ignora automáticamente los PDFs nuevos.
+3.  Sube la actualización a GitHub en segundos.
 
 Repositorio: `https://github.com/JKarlos2025IA/sistema_consultas`
 
-**Reglas de Sincronización (.gitignore):**
-*   ⛔ **BLOQUEADO:** PDFs, DOCs, ZIPs (Para no saturar GitHub).
-*   ✅ **PERMITIDO:** Archivos `.index`, `.json`, `.pkl` (Los índices vectoriales necesarios para que la IA funcione).
-
-**Pasos para actualizar:**
+**Comandos manuales (si no usa el .bat):**
 ```bash
 # En la carpeta 000_CONSULTAS
 git add .

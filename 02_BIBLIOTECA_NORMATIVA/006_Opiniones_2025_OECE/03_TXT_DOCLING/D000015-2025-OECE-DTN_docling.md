@@ -1,0 +1,216 @@
+Jesús María, 02 de Julio del 2025
+# OPINION N°  D000015-2025-OECE-DTN
+
+Firmado digitalmente por FLORES
+MONTOYA Carla Gabriela FAU
+20419026809 soft
+Director(A) Técnico Normativa(E)
+Motivo: Por encargo
+Fecha: 02.07.2025 17:52:26 -05:00
+
+Expediente N° 20696
+
+Firmado digitalmente por FLORES
+MONTOYA Carla Gabriela FAU
+20419026809 soft
+Motivo: Doy V° B°
+Fecha: 02.07.2025 17:44:24 -05:00
+
+T.D. 30304366
+
+Solicitante: Valentín Rodolfo Soto Llerena
+
+Asunto: Deberes del comité de selección y Fiscalización posterior
+
+Referencia: Formulario S/N de fecha 04.JUN.2025 – Consultas sobre la
+
+Normativa de Contrataciones del Estado.
+
+**1.** **ANTECEDENTES**
+
+Mediante el documento de la referencia, el señor Valentín Rodolfo Soto Llerena
+formula una consulta relacionada con lo establecido en el numeral 64.6 del artículo
+64 del Decreto Supremo N° 344-2018-EF.
+
+Antes de iniciar el desarrollo del presente análisis, es necesario precisar que las
+consultas que absuelve este Organismo Técnico Especializado son aquellas
+referidas al sentido o alcance de la normativa de contrataciones públicas, planteadas
+en términos genéricos y vinculadas entre sí, sin hacer alusión a asuntos concretos o
+específicos, de conformidad con lo dispuesto por el literal g) del numeral 11.3 del
+artículo 11 de la Ley General de Contrataciones Públicas, aprobada a través de la
+Ley N° 32069, modificada por la Ley N° 32103 y Ley N° 32187; así como, por lo
+establecido en el artículo 11 y los literales b) y c) del artículo 389 de su Reglamento,
+aprobado mediante Decreto Supremo Nº 009-2025-EF.
+
+En ese sentido, la conclusión de la presente opinión no se encuentra vinculada
+necesariamente a situación particular alguna.
+
+**2.** **CONSULTA Y ANÁLISIS**
+
+Para efectos de la presente opinión se entenderá por:
+
+   - **“anterior Ley”** a la aprobada mediante la Ley N° 30225 y sus modificatorias,
+vigente hasta el 21 de abril de 2025.
+
+   - **“anterior Reglamento”** al aprobado mediante el Decreto Supremo N° 3442018-EF y sus modificatorias, vigente hasta el 21 de abril de 2025.
+
+Pág. 1 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**NKTE46M**
+
+Dicho lo anterior, la consulta formulada es la siguiente:
+
+**“** _**¿Le corresponde al Comité de Selección verificar tanto la autenticidad de la**_
+_**documentación presentada por el postor como la veracidad de su contenido?**_ **”** (Sic.).
+
+2.1.1. De manera preliminar, debe indicarse que el artículo 43 del anterior Reglamento
+
+establecía que el comité de selección se encargaba de la preparación, conducción y
+realización de los procedimientos de selección de licitación pública, el concurso
+público y la selección de consultores individuales, y cuando la Entidad consideraba
+necesario su designación, de la Subasta Inversa Electrónica y la Adjudicación
+Simplificada hasta su culminación.
+
+En adición, debe indicarse que el numeral 43.3 del artículo 43 del anterior
+Reglamento establecía que el comité de selección -en los procedimientos de
+selección en los que se designaba uno- era competente para preparar los
+documentos del procedimiento de selección, así como para adoptar las decisiones
+y realizar todo acto necesario para el desarrollo del procedimiento hasta su
+culminación. Al respecto, el artículo 46 del anterior Reglamento precisaba que el
+comité actuaba en forma colegiada y era autónomo en sus decisiones, y que sus
+integrantes se encontraban obligados a actuar con honestidad, probidad,
+transparencia e imparcialidad en el ejercicio de sus funciones, debiendo informar
+oportunamente sobre la existencia de cualquier conflicto de intereses y de
+comunicar a la autoridad competente sobre cualquier acto de corrupción de la
+función pública del que tuvieran conocimiento durante el desempeño de su encargo,
+bajo su responsabilidad.
+
+2.1.2. En otro orden de ideas, corresponde indicar que, conforme lo establecía la Primera
+
+Disposición Complementaria Final de la Ley [1], los procedimientos de selección se
+realizaban de acuerdo con lo dispuesto en la anterior Ley y su anterior Reglamento
+y, supletoriamente se les aplicaba las normas del procedimiento administrativo
+general y los principios del derecho público que resultaban aplicables en el marco
+de dichos procesos, tales como los principios de “presunción de veracidad” y de
+“privilegio de controles posteriores”, entre otros [2] .
+
+Así, por el “principio de presunción de veracidad” que contempla el numeral 1.7
+del artículo IV de la Ley N° 27444 “Ley del Procedimiento Administrativo
+General”, en la tramitación de los procedimientos de selección realizados al amparo
+de la normativa de contrataciones del Estado, se presume que los documentos y
+declaraciones formulados por los administrados responden a la verdad de los
+hechos que ellos afirman, salvo -y hasta el momento- que se pruebe lo contrario.
+
+Asimismo, por el “principio de privilegio de controles posteriores” contemplado en
+el numeral 1.16 del artículo IV de la Ley N° 27444, los procedimientos de selección
+
+1 La Primera Disposición Complementaria Final de la anterior Ley establecía que “ _La presente Ley y su_
+
+_reglamento prevalecen sobre las normas del procedimiento administrativo general, de derecho público_
+_y sobre aquellas de derecho privado que le sean aplicables. Esta prevalencia también es aplicable a la_
+_regulación de los procedimientos administrativos sancionadores a cargo del Tribunal de_
+_Contrataciones del Estado_ ”.
+
+2 A mayor abundamiento, se recomienda dar lectura a la Opinión N° 107-2019/DTN.
+
+Pág. 2 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**NKTE46M**
+
+realizados al amparo de la anterior Ley y el anterior Reglamento se sustentaban en
+la aplicación de la fiscalización posterior, reservándose la Entidad, el derecho de
+comprobar la veracidad y la autenticidad de la información presentada por los
+postores, el cumplimiento de la normatividad sustantiva y adoptar las acciones y
+decisiones pertinentes en caso que la información presentada no sea veraz.
+
+En concordancia con lo señalado, el artículo 64.6 del artículo 64 del anterior
+Reglamento establecía que, “(...) _consentido el otorgamiento de la buena pro, el_
+_órgano encargado de las contrataciones o el órgano de la Entidad al que se le haya_
+_asignado tal función realiza la verificación de la oferta presentada por el postor_
+_ganador de la buena pro. En caso de comprobar inexactitud o falsedad en las_
+_declaraciones, información o documentación presentada, la Entidad declara la_
+_nulidad del otorgamiento de la buena pro o del contrato, dependiendo de la_
+_oportunidad en que se hizo la comprobación, de conformidad con lo establecido_
+_en la Ley y en el Reglamento. Adicionalmente, la Entidad comunica al Tribunal_
+_para que inicie el procedimiento administrativo sancionador y al Ministerio_
+_Público para que interponga la acción penal correspondiente_ ”.
+
+Como se advierte, de conformidad con lo que establecía el artículo 64.6 del artículo
+64 del anterior Reglamento y también dada la aplicación supletoria de los principios
+de la Ley del Procedimiento Administrativo General por virtud de la Primera
+Disposición Complementaria Final de la anterior Ley, los procedimientos de
+selección que contemplaba la anterior Ley y el anterior Reglamento se realizaban
+observando el cumplimiento de los principios de presunción de veracidad y de
+privilegio de controles posteriores, por lo cual se presumía que los documentos y
+declaraciones que formulaban los postores durante el desarrollo del procedimiento
+respondían a la verdad de los hechos que ellos afirmaban, reservándose la Entidad
+el derecho de, una vez consentido el otorgamiento de la buena pro, verificar la
+oferta presentada por el postor ganador de la buena pro, y en caso de comprobar
+inexactitud o falsedad en las declaraciones, información o documentación
+presentada, declaraban la nulidad del otorgamiento de la buena pro o el contrato,
+de corresponder, y comunicaban al Tribunal de Contrataciones del Estado para que
+iniciara el procedimiento administrativo sancionador y al Ministerio Público para
+que interpusiera la acción penal correspondiente.
+
+2.1.3. En definitiva, en el marco de la anterior normativa de contrataciones del Estado, el
+
+comité de selección tenía el deber de adoptar las decisiones y realizar todo acto que
+fuera necesario para preparar, conducir y realizar el procedimiento de selección a
+su cargo, hasta su culminación, observando el cumplimiento del principio de
+presunción de veracidad. De otro lado, correspondía _**al órgano encargado de las**_
+_**contrataciones o el órgano de la Entidad**_ al que se le hubiera asignado tal función,
+dar cumplimiento del principio de privilegio de controles posteriores, observando
+lo previsto en el artículo 64.6 del artículo 64 del anterior Reglamento, que consistía
+en realizar la verificación (fiscalización posterior) de la oferta presentada por el
+postor ganador de la buena pro.
+
+**3.** **CONCLUSIÓN**
+
+En el marco de la anterior normativa de contrataciones del Estado, el comité de selección
+tenía el deber de adoptar las decisiones y realizar todo acto que fuera necesario para
+
+Pág. 3 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**NKTE46M**
+
+preparar, conducir y realizar el procedimiento de selección a su cargo, hasta su
+culminación, observando el cumplimiento del principio de presunción de veracidad. De
+otro lado, correspondía al órgano encargado de las contrataciones o el órgano de la
+Entidad al que se le hubiera asignado tal función, dar cumplimiento del principio de
+privilegio de controles posteriores, observando lo previsto en el artículo 64.6 del artículo
+64 del anterior Reglamento, que consistía en realizar la verificación (fiscalización
+posterior) de la oferta presentada por el postor ganador de la buena pro.
+
+Jesús María, 2 de julio de 2025
+
+Firmado por
+
+**CARLA GABRIELA FLORES MONTOYA**
+
+Directora Técnico Normativa (e)
+DIRECCIÓN TÉCNICO NORMATIVA
+
+JDS/.
+
+Pág. 4 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**NKTE46M**
+
+Pág. 5 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**NKTE46M**

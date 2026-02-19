@@ -1,0 +1,343 @@
+Jesús María, 25 de Septiembre del 2025
+# OPINION N°  D000039-2025-OECE-DTN
+
+Firmado digitalmente por SEMINARIO
+ZAVALA Patricia Mercedes FAU
+20419026809 soft
+Cargo: Director(A) Técnico Normativa
+Motivo: Soy el autor del documento
+Fecha: 25.09.2025 10:21:34 -05:00
+
+Expediente N° 59394
+
+T.D. 31534793
+
+Solicitante: Edgar Quispe Yuca
+
+Asunto: Requerimiento y documentos del procedimiento de selección
+
+Referencia: Formulario S/N de fecha 28.AGO.2025 – Consultas sobre la
+
+Normativa de Contrataciones Públicas.
+
+**1.** **ANTECEDENTES**
+
+Mediante el documento de la referencia, el señor Edgar Quispe Yuca formula varias
+consultas relacionadas a la elaboración del requerimiento y los documentos del
+procedimiento de selección en el marco de lo que establecía la anterior normativa
+de contrataciones del Estado.
+
+Antes de iniciar el desarrollo del presente análisis, es necesario precisar que las
+consultas que absuelve este Organismo Técnico Especializado son aquellas
+referidas al sentido y alcance de la normativa de contrataciones del Estado,
+planteadas en términos genéricos y vinculadas entre sí, sin hacer alusión a asuntos
+concretos o específicos, de conformidad con lo dispuesto por el literal g) del
+numeral 11.3 del artículo 11 de la Ley General de Contrataciones Públicas,
+aprobada a través de la Ley N° 32069, modificada por la Ley N° 32103, Ley N°
+32185 y Ley N° 32187; así como, por lo establecido en el artículo 11 y los literales
+b) y c) del artículo 389 de su Reglamento, aprobado mediante Decreto Supremo Nº
+009-2025-EF.
+
+En ese sentido, la conclusión de la presente opinión no se encuentra vinculada
+necesariamente a situación particular alguna.
+
+**2.** **CONSULTA Y ANÁLISIS**
+
+Para efectos de la presente opinión se entenderá por:
+
+        - **“anterior Ley”** a la aprobada mediante la Ley N° 30225 y sus modificatorias.
+
+        - **“anterior Reglamento”** al aprobado mediante el Decreto Supremo N° 344Firmado digitalmente por FLORES
+MONTOYA Carla Gabriela FAU Pág. 1 de 6
+20419026809 soft
+Motivo: Doy V° B° Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Fecha: 25.09.2025 09:53:26 -05:00
+
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**VZ14IMK**
+
+2018-EF y sus modificatorias.
+
+Dicho lo anterior, la consulta formulada es la siguiente:
+
+**2.1.** **“** _**Al elaborar las Bases o Documentos del Procedimiento de Selección ¿Quién es**_
+
+_**el responsable de elaborar el Requerimiento y quien es el responsable de elaborar**_
+_**las Bases o documentos del Procedimiento de Selección?**_ **”** (Sic.).
+
+2.1.1. Por un lado, debe indicarse que el artículo 16 de la anterior Ley, con el que era
+
+concordante el artículo 29 del anterior Reglamento, establecía que el área usuaria
+era la dependencia de la Entidad que requería los bienes, servicios u obras a
+contratar, siendo responsable de la adecuada formulación [1] de las especificaciones
+técnicas, los términos de referencia o el expediente técnico que constituían el
+requerimiento de bienes, servicios y obras, respectivamente, el que debía contener
+la descripción objetiva y precisa de las características y/o requisitos funcionales
+relevantes para cumplir la finalidad pública de la contratación, y las condiciones en
+las que esta debía ejecutarse.
+
+2.1.2. Al respecto, el numeral 29.3 del artículo 29 del anterior Reglamento establecía que
+
+el requerimiento no podía incluir exigencias desproporcionadas al objeto de la
+contratación, irrazonables e innecesarias referidas a la calificación de los
+potenciales postores que limitaran o impidieran la concurrencia de estos u
+orientaran hacia uno de ellos.
+
+Asimismo, el numeral 29.6 establecía que el requerimiento incluía las exigencias
+previstas en leyes, reglamentos técnicos, normas metrológicas y/o sanitarias,
+reglamentos y demás normas que regulaban el objeto de la contratación con carácter
+obligatorio; y podían incluir también disposiciones previstas en normas técnicas de
+carácter voluntario, siempre que: (i) sirvieran para asegurar el cumplimiento de los
+requisitos funcionales o técnicos; (ii) se verificara que existiera en el mercado algún
+organismo que pudiera acredita el cumplimiento de dicha norma técnica; y (iii) no
+contraviniera las normas de carácter obligatorio mencionadas.
+
+Por otra parte, el numeral 29.11 del artículo 29 del anterior Reglamento establecía
+que, el requerimiento podía ser modificado para mejorar, actualizar o perfeccionar
+las especificaciones técnicas, los términos de referencia y el expediente técnico de
+obra, así como los requisitos de calificación, previa justificación que forma parte
+del expediente de contratación, bajo responsabilidad, precisando que cualquier
+modificación debía contar con la aprobación del área usuaria.
+
+2.1.3. En este punto, corresponde indicar que el artículo 42 del anterior Reglamento
+
+establecía que el Órgano Encargado de las Contrataciones (OEC) llevaba un
+expediente del proceso de contratación, en el que se ordenaba, archivaba y
+preservaba la información que respaldaba las actuaciones realizadas desde la
+formulación del requerimiento del área usuaria hasta el cumplimiento total de las
+
+1
+Es pertinente precisar que la anterior normativa de contrataciones del Estado establecía que el área usuaria era
+
+responsable por la **formulación** del requerimiento; pero no debe perderse de vista que, por ejemplo en el caso de
+contrataciones de alta especialidad, de gran envergadura, o incluso en el caso de contrataciones de ejecución de
+obra, la Entidad podía contratar la elaboración de las especificaciones técnicas, los términos de referencia, o la
+consultoría de obra para la elaboración del expediente técnico de obra. Es importante, entonces, diferenciar entre
+la responsabilidad del área usuaria sobre la correcta formulación del requerimiento y la elaboración propiamente.
+
+Pág. 2 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**VZ14IMK**
+
+obligaciones derivadas del contrato.
+
+Asimismo, debe indicarse que este expediente debía ser aprobado, dicha actuación
+(la aprobación del expediente) era requisito necesario para convocar el
+procedimiento de selección. Para poder ser aprobado, el expediente de contratación
+debía reunir el contenido que enlistar el numeral 42.3 del artículo 42 del anterior
+Reglamento; así, entre otra información que debía ser parte del expediente para
+poder aprobarse, se encontraba el requerimiento.
+
+2.1.4. Por otra parte, el artículo 43 del anterior Reglamento establecía que el órgano a
+
+cargo del procedimiento de selección se encargaba de su preparación, conducción
+y realización hasta su culminación. Así, para la Licitación Pública, el Concurso
+Público y la Selección de Consultores Individuales, la Entidad designaba un comité
+de selección para cada procedimiento; mientras que la Subasta Inversa Electrónica,
+la Adjudicación Simplificada [2], la Comparación de Precios y la Contratación
+Directa estaban a cargo del OEC.
+
+Al respecto, el artículo 47 del anterior Reglamento establecía que el órgano a cargo
+del procedimiento de selección —es decir, el OEC o el Comité de selección, según
+correspondiera— elaboraba las Bases [3] del procedimiento de selección, utilizando
+obligatoriamente los documentos estándar que aprobaba el OSCE [4] y la información
+técnica y económica contenida en el expediente de contratación aprobado.
+
+En concordancia con ello, el artículo 48 del anterior Reglamento establecía que —
+entre otra información— las Bases debían contener como mínimo: (i) la
+denominación del objeto de la contratación; (ii) el requerimiento, es decir, las
+especificaciones técnicas, los términos de referencia o el expediente técnico de
+obra, según correspondiera; (iii) el valor referencial, de corresponder; (iv) el
+sistema de contratación; (v) los requisitos de calificación; entre otros elementos.
+
+2.1.5. Como se advierte, de conformidad con lo establecido en los artículos 29 y 47 del
+
+anterior Reglamento, la formulación del requerimiento era responsabilidad del área
+usuaria; y la responsabilidad de la elaboración de los documentos del
+procedimiento de selección era del órgano a cargo del procedimiento de selección,
+es decir, el Comité de selección o el OEC, según correspondiera.
+
+**2.2.** **“** _**El Numeral 29.6 del Reglamento (Aprobado por Decreto Supremo Nº 344-2018-**_
+
+_**EF), consigna que el Requerimiento (Para bienes y servicios) incluye las**_
+_**exigencias previstas en leyes, reglamentos técnicos, normas metrológicas y/o**_
+
+2
+Cabe precisar que el numeral 43.2 del artículo 43 del anterior Reglamento establecía que si la Entidad lo
+
+consideraba necesario, podía designar un Comité de selección para la subasta inversa electrónica y la adjudicación
+simplificada.
+
+3 Cabe precisar que de acuerdo con el artículo 47 del anterior Reglamento, los documentos del procedimiento de
+
+selección eran las bases, las solicitudes de expresión de interés para la Selección de Consultores Individuales, así
+como las solicitudes de cotización para la Comparación de Precios, los que se utilizaban atendiendo al tipo de
+procedimiento de selección.
+
+4 Es pertinente precisar que la denominación Organismo Supervisor de las Contrataciones del Estado estuvo vigente
+
+hasta el 21 de abril del presente año (2025), es decir, durante la vigencia de la Ley N° 30225. Posteriormente, a
+partir del 22 de abril, con la entrada en vigencia de la Ley N° 32069, la denominación cambió a Organismo
+Especializado para las Contrataciones Públicas Eficientes.
+
+Pág. 3 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**VZ14IMK**
+
+_**sanitarias, reglamentos y demás normas que regulan el objeto de la contratación**_
+_**con carácter obligatorio. En el supuesto que un proceso de selección este en la**_
+_**etapa de convocatoria y/o consultas y observaciones, y en el Ente Rector del**_
+_**objeto de la convocatoria, emite normas, en la cual por ejemplo señalan que el**_
+_**objeto de la convocatoria debe de estar acompañada de certificaciones,**_
+_**autorizaciones, pruebas, etc., en tal supuesto es necesario que el Comité de**_
+_**Selección o el OEC, comunique al área usuaria, o el Comité de Selección o el**_
+_**OEC al ser norma expresa (Ley), pueden incluirlas en las Bases Administrativas**_
+_**de mutuo propio sin involucrar a las demás áreas**_ **”** (Sic.).
+
+Como se indicó al desarrollar los alcances para absolver la consulta anterior, el
+requerimiento debía contener las exigencias previstas en leyes, reglamentos
+técnicos, normas metrológicas y/o sanitarias, reglamentos y demás normas que
+regulaban el objeto de la contratación con carácter obligatorio, y también podía
+incluir disposiciones previstas en normas técnicas de carácter voluntario.
+
+Ahora bien, la anterior normativa de contrataciones del Estado, establecía las etapas
+que constituían cada uno de los procedimientos de selección que contemplaba. Así,
+algunos de los procedimientos de selección contemplaban la etapa de consultas y
+observaciones.
+
+En esta etapa de consultas y observaciones, todo participante del procedimiento
+podía formular consultas, las que eran solicitudes de aclaración u otros pedidos de
+cualquier extremo de las bases, así como formular observaciones a las bases de
+manera fundamentada, por supuestas vulneraciones a la normativa de
+contrataciones u otra normativa que tuviera relación con el objeto de contratación.
+
+Era posible que a partir de la etapa de consultas y observaciones, el órgano a cargo
+del procedimiento pudiera advertir algún aspecto que debía ser modificado o
+ajustado en el requerimiento, no obstante, en virtud de lo establecido en el numeral
+29.11 del artículo 29 del anterior Reglamento —ya citado—, las modificaciones
+realizadas al requerimiento debían contar con la aprobación del área usuaria.
+
+**2.3.“** _**Las Bases Administrativas de un Proceso de Selección posteriores, están**_
+
+_**conformadas por dos Secciones (Sección General - Sección Específica), y sus**_
+_**respectivos capítulos**_ **(...)** _**La consulta es, en que Sección y Capítulo interviene el**_
+_**Área usuaria**_ **(...)”** (Sic.).
+
+Como se indicó al absolver la primera consulta el área usuaria era responsable de
+la formulación del requerimiento, el que luego era incluido en las Bases del
+procedimiento de selección, cuya elaboración era responsabilidad del órgano a
+cargo del procedimiento de selección.
+
+**2.4.“** _**En el sub índice denominado 2.2.1.1 “documentos para la admisión de oferta”**_
+
+_**de la Sección Específica, la misma que se encuentra dentro del numeral 2.2.1**_
+_**“El contenido de las ofertas” del capítulo II: DEL PROCEDIMIENTO DE**_
+_**SELECCIÓN**_
+
+_**Precísime si el área usuaria interviene en su contenido, redacción y si se necesita**_
+
+_**y/o requiere de su aprobación en las modificaciones que se necesiten?, de ser**_
+
+Pág. 4 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**VZ14IMK**
+
+_**contrario indíqueme que funcionario es el encargado de velar por su contenido**_
+_**y redacción**_ **”** (Sic.).
+
+Como se indicó al absolver las consultas previas, de conformidad con lo
+establecido en el artículo 47 del anterior Reglamento, la elaboración de las Bases
+del procedimiento de selección se encontraba a cargo del órgano a cargo del
+procedimiento de selección, que podía ser un Comité de selección o el OEC, de
+corresponder. Es importante no olvidar que para la elaboración de las Bases, el
+órgano a cargo del procedimiento debía emplear las Bases Estándar aprobadas el
+OSCE —las que contenían indicaciones para la correcta elaboración de las Bases,
+precisando elementos que debían ser eliminados o que debían mantenerse allí
+como parte de la redacción final de las Bases—, además de la información técnica
+y económica del expediente de contratación.
+
+**2.5.** **“** _**El Órgano Encargado de las Contrataciones o el Comité de Selección al conocer**_
+
+_**de una disposición legal concerniente al objeto de la convocatoria donde dispone**_
+_**la inclusión de autorizaciones, certificados, pruebas, la OEC y/o Comité de**_
+_**Selección están en la obligación de comunicar a alguna dependencia de la**_
+_**Entidad para modificar las Bases Administrativas, habida cuenta que ya es un**_
+_**mandato Legal**_ **”** (Sic.).
+
+Como se indicó al absolver la segunda consulta, era posible que a partir de las
+consultas y observaciones, el órgano a cargo del procedimiento pudiera advertir
+algún aspecto que debía ser modificado o ajustado en el requerimiento, no obstante,
+en virtud de lo establecido en el numeral 29.11 del artículo 29 del anterior
+Reglamento —ya citado—, las modificaciones realizadas al requerimiento debían
+contar con la aprobación del área usuaria.
+
+**3.** **CONCLUSIONES**
+
+3.1. De conformidad con lo establecido en los artículos 29 y 47 del anterior Reglamento,
+
+la formulación del requerimiento era responsabilidad del área usuaria; y la
+responsabilidad de la elaboración de los documentos del procedimiento de
+selección era del órgano a cargo del procedimiento de selección, es decir, el Comité
+de selección o el OEC, según correspondiera.
+
+3.2. Era posible que a partir de la etapa de consultas y observaciones, el órgano a cargo
+
+del procedimiento pudiera advertir algún aspecto que debía ser modificado o
+ajustado en el requerimiento, no obstante, en virtud de lo establecido en el numeral
+29.11 del artículo 29 del anterior Reglamento —ya citado—, las modificaciones
+realizadas al requerimiento debían contar con la aprobación del área usuaria.
+
+3.3. El área usuaria era responsable de la formulación del requerimiento, no de la
+
+elaboración de las Bases, de conformidad con lo previsto en el artículo 47 del
+anterior Reglamento, la elaboración de las Bases era responsabilidad del órgano a
+cargo del procedimiento de selección.
+
+3.4. De conformidad con lo establecido en el artículo 47 del anterior Reglamento, la
+
+elaboración de las Bases del procedimiento de selección se encontraba a cargo del
+órgano a cargo del procedimiento de selección, que podía ser un Comité de
+
+Pág. 5 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**VZ14IMK**
+
+selección o el OEC, de corresponder. Es importante no olvidar que para la
+elaboración de las Bases, el órgano a cargo del procedimiento debía emplear las
+Bases Estándar aprobadas el OSCE —las que contenían indicaciones para la
+correcta elaboración de las Bases, precisando elementos que debían ser eliminados
+
+   - que debían mantenerse allí como parte de la redacción final de las Bases—,
+además de la información técnica y económica del expediente de contratación.
+
+Jesús María, 24 de septiembre de 2025
+
+Firmado por
+
+**PATRICIA MERCEDES SEMINARIO ZAVALA**
+
+Directora Técnico Normativa
+DIRECCIÓN TÉCNICO NORMATIVA
+
+JDS/.
+
+Pág. 6 de 6
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**VZ14IMK**

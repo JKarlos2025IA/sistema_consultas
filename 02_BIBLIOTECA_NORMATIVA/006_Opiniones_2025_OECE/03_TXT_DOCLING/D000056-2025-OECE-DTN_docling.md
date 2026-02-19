@@ -1,0 +1,289 @@
+Jesús María, 07 de Noviembre del 2025
+# OPINION N°  D000056-2025-OECE-DTN
+
+Firmado digitalmente por SEMINARIO
+ZAVALA Patricia Mercedes FAU
+20419026809 soft
+Cargo: Director(A) Técnico Normativa
+Motivo: Soy el autor del documento
+Fecha: 07.11.2025 19:01:46 -05:00
+
+Expediente Nº 78232
+
+T.D. 31727103
+
+|Solicitante|:|Overlay Soluciones Estructurales S.A.C.|
+|---|---|---|
+|Asunto|**: **|Experiencia del postor<br>|
+|Referencia|**: **|Formulario S/N de fecha 03.OCT.2025 – Consultas sobre la<br>Normativa de Contrataciones Públicas.|
+
+Firmado digitalmente por FLORES
+MONTOYA Carla Gabriela FAU
+20419026809 soft
+Motivo: Doy V° B°
+Fecha: 07.11.2025 18:56:47 -05:00
+
+**1.** **ANTECEDENTES**
+
+Mediante el documento de la referencia, el Representante Legal de la Empresa Overlay
+Soluciones Estructurales S.A.C., formula consultas sobre la transmisión de experiencia
+en el marco de la normativa de contrataciones públicas.
+
+Antes de iniciar el desarrollo del presente análisis, es necesario precisar que las consultas
+que absuelve este Organismo Técnico Especializado son aquellas referidas al sentido y
+alcance de la normativa de contrataciones del Estado, planteadas en términos genéricos
+y vinculadas entre sí, sin hacer alusión a asuntos concretos o específicos, de conformidad
+con lo dispuesto por el literal g) del numeral 11.3 del artículo 11 de la Ley General de
+Contrataciones Públicas, aprobada a través de la Ley N° 32069, modificada por la Ley
+N° 32103, Ley N° 32185 y Ley N° 32187; así como, por lo establecido en el artículo 11
+y los literales b) y c) del artículo 389 de su Reglamento, aprobado mediante Decreto
+Supremo Nº 009-2025-EF.
+
+En ese sentido, las conclusiones de la presente opinión no se encuentran vinculadas
+necesariamente a situación particular alguna.
+
+2. **CONSULTAS Y ANÁLISIS**
+
+Para efectos de la presente opinión se entenderá por:
+
+- **“Ley”** a la aprobada mediante la Ley N° 32069.
+
+- **“Reglamento”** al aprobado mediante el Decreto Supremo N° 009-2025-EF.
+
+Dicho lo anterior, la consulta formulada es la siguiente:
+
+Pág. 1 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**9MB0YBD**
+
+**2.1.** _**“El Reglamento de la Ley de Contrataciones prescribe en el numeral 25.7 del Art.**_
+
+_**25 lo siguiente: "Los ejecutores de obra y consultores de obra no pueden acreditar**_
+_**experiencia que provenga de una reorganización societaria; además, no son**_
+_**considerados como experiencias aquellas establecidas en la directiva que emita el**_
+_**OECE." De lo anterior se concluiría que, ninguna experiencia que provenga de una**_
+_**reorganización societaria se podrá considerar como experiencia del proveedor que**_
+_**busque acreditarla. No obstante, el numeral 65.1 de la Ley, establece que: “(…) No**_
+_**procede la cesión de posición contractual del contratista, salvo en los casos previstos**_
+_**en el reglamento.” En ese sentido: ¿Si en el proceso de escisión, adicionalmente, se**_
+_**cede también la posición contractual del contrato original de la sociedad escindente**_
+_**a favor de la empresa escindida y la entidad contratante aprueba expresamente la**_
+_**cesión, la empresa escindida puede continuar la ejecución del contrato y,**_
+_**consecuencia, acreditar esa experiencia como propia? De ser así, ¿cuáles son las**_
+_**formalidades y requisitos que se deben seguir para poder acreditar válidamente**_
+_**dicha experiencia”**_ (Sic).
+
+2.1.1. Sobre el particular, debe indicarse que, de acuerdo con el numeral 25.7 del artículo 25
+
+del Reglamento, a efectos de inscribirse, reinscribirse, ampliar su categoría o aumentar
+su capacidad máxima en el RNP, los ejecutores de obra y consultores de obra no pueden
+acreditar experiencia que provenga de una reorganización societaria; de igual manera,
+no serán considerados como experiencia, aquellos otros supuestos previstos en la
+Directiva N° 001-2025-OECE-CD.
+
+Al respecto, debe indicarse que en el marco de la contratación pública la experiencia
+se adquiere por la reiteración de determinada conducta en el tiempo; es decir, por la
+habitual transacción del bien, servicio u obra que constituye el giro del negocio del
+contratista en el mercado. Dicha experiencia genera valor agregado para su titular,
+incrementando sus posibilidades de acceso a los contratos con el Estado. Asimismo, se
+puede afirmar que en la práctica, la experiencia es consecuencia de la interacción de
+recursos humanos, logísticos, infraestructura y conocimientos que posea una sociedad,
+entre otros recursos.
+
+En ese sentido, para los procedimientos de inscripción, reinscripción, ampliación de
+categoría o aumento de capacidad máxima ante el RNP, tratándose de ejecutores y
+consultores de obra, la experiencia a ser acreditada para el cumplimiento de los
+requisitos correspondientes resulta intrínseca a cada proveedor, ello implica que **no**
+**será posible acreditar experiencia proveniente de una persona jurídica extinta**
+**producto de un proceso de reorganización societaria** .
+
+No obstante, se debe indicar que para la evaluación de ofertas, conforme al numeral
+72.3 del artículo 72 del Reglamento, referido a los requisitos de calificación, el literal
+c) sobre la experiencia de postor en la especialidad se establece que no se podrá
+acreditar como experiencia la que le hubiesen transmitido como parte de una
+reorganización societaria las personas jurídicas sancionadas con inhabilitación vigente
+
+    - definitiva.
+
+2.1.2 Por otro lado, de acuerdo con el artículo 65 de la Ley y el artículo 112 del Reglamento,
+
+no procede la cesión de posición contractual del contratista, salvo en los casos de
+transferencia de propiedad de bienes que se encuentren arrendados a las entidades
+contratantes, cuando se produzcan fusiones, **escisiones**    - cuando exista norma legal
+que lo permita expresamente.
+
+Como se puede advertir, la cesión de posición contractual está permitida en los
+
+Pág. 2 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**9MB0YBD**
+
+supuestos de fusión y **escisión**, puesto que ésta podría ser un efecto necesario de los
+mencionados procesos de reorganización societaria. A propósito de la consulta
+planteada, pasemos a analizar a detalle el supuesto de escisión.
+
+Al respecto, el artículo 367 de la Ley General de Sociedades (LGS) señala que
+**mediante la escisión una sociedad fracciona su patrimonio en dos o más bloques**
+**para transferirlos íntegramente a otras sociedades o para conservar uno de ellos**,
+cumpliendo los requisitos y las formalidades establecidas para tal efecto, pudiendo
+adoptar dos formas distintas:
+
+a) La división de la totalidad del patrimonio de una sociedad en dos o más bloques
+
+patrimoniales, que son transferidos a nuevas sociedades o absorbidos por
+sociedades ya existentes, o ambas cosas a la vez. Esta forma de escisión produce
+la extinción de la sociedad escindida.
+
+b) La segregación de uno o más bloques patrimoniales de una sociedad que no se
+
+extingue y que los transfiere a una o más sociedades nuevas, o son absorbidos por
+sociedades existentes o ambas cosas a la vez. La sociedad escindida ajusta su
+capital en el monto correspondiente.
+
+Como se advierte, independientemente de la forma, la consecuencia más importante de
+la escisión es la división o desmembración del patrimonio de la sociedad escindida en
+bloques patrimoniales independientes, para su transferencia a otra sociedad o
+sociedades.
+
+A partir de los alcances brindados se puede deducir, que la cesión de posición
+contractual podría ser un efecto necesario cuando, durante el curso de la ejecución de
+un contrato: i) el contratista ha sido absorbido y ha pasado a formar parte de otra
+persona jurídica; ii) el contratista junto con otra persona jurídica ha conformado una
+nueva; iii) el contratista se ha dividido en dos o más bloques patrimoniales
+independientes, para su transferencia a otra sociedad u otras sociedades.
+
+De esta manera, a diferencia de lo que ocurre en el ámbito de la esfera particular donde
+las partes libremente pueden decidir ceder sus derechos y obligaciones, la cesión de
+posición contractual en el ámbito de la contratación pública, no funciona como un acto
+de autonomía privada, sino que es una consecuencia de ciertos procesos de
+reorganización societaria que se desarrollan de manera independiente y externa al
+proceso de contratación.
+
+2.1.3 En lo que respecta a la cesión de posición contractual, cabe mencionar que este es un
+
+acto mediante el cual uno de los titulares de una relación contractual cede a un tercero
+los derechos y obligaciones nacidos de un contrato.
+
+Así lo reconoce el propio artículo 1437 del Código Civil, según el cual “ _El cedente se_
+_aparta de sus derechos y obligaciones y unos y otros son asumidos por el cesionario_
+_desde el momento en que se celebre la cesión_ .”
+
+En ese sentido, se entiende que la cesión de posición contractual implica la
+transferencia de derechos y obligaciones materia del contrato, es decir, que el cedente
+se ve sustituido por un tercero (cesionario), lo cual implica que deje de formar parte de
+la relación contractual.
+
+De esta manera, frente a determinado escenario, la normativa de contrataciones
+
+Pág. 3 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**9MB0YBD**
+
+publicas permite continuar la ejecución del contrato con una nueva persona jurídica
+originada como consecuencia de un proceso de escisión, por lo que la condición de
+contratista pasa a recaer en esta nueva persona (producto de la escisión), reemplazando
+en adelante, para todos los efectos, al contratista original, ello con el fin de priorizar el
+cumplimiento de la finalidad pública que motivó la contratación.
+
+Ahora bien, esta nueva persona jurídica (producto del proceso de escisión) que
+reemplaza al contratista original, es quien se debe encargar de ejecutar el contrato
+**desde el momento en que se configure la cesión de posición contractual hasta la**
+**culminación de las prestaciones respectivas** .
+
+Ahora bien, como consecuencia de ejecutar el contrato, esta nueva persona jurídica
+(producto del proceso de escisión) va adquirir cierta destreza, entendida en el ámbito
+de la contratación pública como experiencia. Es importante precisar que en el presente
+escenario la referida experiencia no está siendo “transferida” como consecuencia de la
+escisión, sino que, por el contrario, **es la propia persona (cesionario) quien esta**
+**generando su experiencia al ejecutar de manera efectiva las prestaciones objeto**
+**del contrato** .
+
+En razón de lo antes señalado, la experiencia adquirida por dicho cesionario sí resulta
+válida a efectos de ser acreditada para el cumplimiento de los requisitos previstos en
+los procedimientos de inscripción, reinscripción, ampliación de categoría o aumento
+de capacidad máxima ante el RNP, toda vez que ello no transgrede lo regulado en el
+numeral 25.7 del artículo 25 del Reglamento.
+
+De esta manera, la acreditación de la experiencia ante el RNP deberá realizarse en
+función del monto del contrato ejecutado, para lo cual, el cesionario deberá presentar
+la documentación pertinente que acredite su cumplimiento, así como el monto
+correspondiente a lo ejecutado.
+
+**2.2.** _**“El literal f) del numeral 9.2.9 de la Directiva N° 001-2025-OECE-CD menciona**_
+
+_**que los subcontratos de obras privadas no pueden ser utilizados para acreditar**_
+_**experiencia; no obstante, no se mencionan a los subcontratos públicos. ¿Cuál es el**_
+_**tratamiento que se sigue frente a ellos? ¿Puede entenderse, en interpretación**_
+_**contraria, que los subcontratos de obras públicas sí pueden ser considerados como**_
+_**experiencia del ejecutor o consultor de obra? De ser así, ¿cuáles son las**_
+_**formalidades que se deben seguir para poder acreditar válidamente dicha**_
+_**experiencia y qué requisitos deben cumplir los ejecutores de obra y consultores de**_
+_**obra para poder acreditar ello?”**_ (Sic).
+
+2.2.1 Al respecto, debe indicarse que en el artículo 381 del Reglamento regula los
+
+procedimientos administrativos relacionados a los proveedores, como son la
+inscripción, reinscripción, ampliación de categoría o aumento de capacidad máxima de
+contratación, llevados a cabo ante el RNP.
+
+Así, de conformidad con lo señalado en los numerales 381.3 y 381.5 del artículo 381
+del Reglamento, **para acreditar experiencia** en los procedimientos de reinscripción
+de ejecutores de obras y aumento de capacidad máxima de contratación para ejecutores
+de obras, se **permite la presentación de** **subcontratos de ejecución de obras al**
+**amparo de la Ley**, asimismo, en dichos numerales se especifica los documentos a
+presentar **para acreditar dicha subcontratación.**
+
+Pág. 4 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**9MB0YBD**
+
+**3.** **CONCLUSIONES**
+
+3.1 La normativa de contrataciones públicas, conforme a los artículos 65 de la Ley y 112
+del Reglamento, permite continuar la ejecución del contrato con una nueva persona
+jurídica originada como consecuencia de un proceso de escisión (cesión de posición
+contractual), la experiencia adquirida por dicho cesionario - _en el marco del referido_
+_contrato_    - resulta válida a efectos de ser acreditada para el cumplimiento de los
+requisitos previstos en los procedimientos de inscripción, reinscripción, ampliación de
+categoría o aumento de capacidad máxima ante el RNP, toda vez que ello no transgrede
+lo regulado en el numeral 25.7 del artículo 25 del Reglamento. La acreditación de dicha
+experiencia ante el RNP deberá realizarse en función del monto del contrato ejecutado,
+para lo cual, el cesionario deberá presentar la documentación pertinente que acredite
+su cumplimiento, así como el monto correspondiente a lo ejecutado.
+
+3.2 De conformidad con lo señalado en los numerales 381.3 y 381.5 del artículo 381 del
+Reglamento, para acreditar experiencia en los procedimientos de reinscripción de
+ejecutores de obras y aumento de capacidad máxima de contratación para ejecutores
+de obras, se permite la presentación de subcontratos de ejecución de obras al amparo
+de la Ley, asimismo, en dichos numerales se especifica los documentos a presentar
+para acreditar la experiencia obtenida a partir de dicha subcontratación.
+
+Jesús María, 7 de noviembre de 2025
+
+Firmado por
+
+**PATRICIA MERCEDES SEMINARIO ZAVALA**
+
+Directora Técnico Normativa
+DIRECCIÓN TÉCNICO NORMATIVA
+
+RMPP/.
+
+Pág. 5 de 5
+Esta es una copia auténtica imprimible de un documento electrónico archivado en el Organismo Especializado para las
+Contrataciones Públicas Eficientes aplicando lo dispuesto por el Art. 25 de D.S. 070-2013-PCM y la Tercera Disposición
+Complementaria Final del D.S. 026-2016-PCM. Su autenticidad e integridad pueden ser contrastadas a través de la siguiente
+dirección web: **https://sgdvirtual.oece.gob.pe/validadorDocumental/inicio/detalle.jsf** e ingresando la siguiente clave:
+**9MB0YBD**
