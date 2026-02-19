@@ -72,6 +72,19 @@ git push origin main
 
 ---
 
+## 🔌 Acceso Externo (API CLI)
+
+Este Hub Normativo puede ser consultado por agentes de IA mediante la "Puerta de Ingreso":
+
+*   **Script:** `G:\Mi unidad\03_PROJECTS\0003_Scprits\Puerta_ingreso_consultor_ia.py`
+*   **Comando:**
+    ```bash
+    python Puerta_ingreso_consultor_ia.py --sistema consultas --consulta "concepto juridico"
+    ```
+*   **Uso:** Permite auditar expedientes externos verificando si cumplen con la normativa indexada aquí.
+
+---
+
 ## 🛠️ Tecnologías
 *   **Frontend:** Streamlit
 *   **Vectores:** FAISS + SentenceTransformers (`paraphrase-multilingual-MiniLM-L12-v2`)
