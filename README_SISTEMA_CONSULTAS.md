@@ -33,6 +33,34 @@ La estructura "Single Source of Truth" en `G:\Mi unidad\01_BASE_NORMATIVA\000_CO
 
 ---
 
+## 📂 Gestión de Fuentes (Admin) - NUEVO (Feb 2026)
+
+El sistema cuenta con un panel de control avanzado en la barra lateral para gestionar qué normativas se consultan en tiempo real.
+
+### 1. Panel de Control "En Vivo"
+*   **Columna "Cargar":** Checkbox para activar/desactivar una fuente. Si desmarcas una fuente y pulsas "🔄 Cargar Motor", se descarga de la memoria RAM para ahorrar recursos.
+*   **Columna "Estado":**
+    *   ✅ **Listo:** La fuente está cargada en memoria y lista para responder.
+    *   ⚪ **Inactivo:** La fuente está en tu lista pero NO se está usando actualmente.
+
+### 2. Agregar Nuevas Normas
+Desde el desplegable **"➕ Agregar Nueva Fuente"**:
+1.  Pon un **Alias** (nombre corto).
+2.  Pega la **Ruta de Embeddings** (debe ser la carpeta que contiene `embeddings_unificados`).
+3.  Pulsa **Guardar**.
+
+### 3. Eliminación Segura ("Borrado Nuclear")
+Para eliminar una fuente de la lista:
+1.  Borra la fila correspondiente en la tabla.
+2.  Aparecerá un aviso de confirmación.
+3.  Ingresa la **Clave Maestra de Borrado**: `admin2026`.
+4.  Al confirmar, el sistema ejecuta un **Borrado Nuclear**:
+    *   Elimina la fuente del archivo de configuración.
+    *   Purga la memoria Caché del servidor.
+    *   Recarga el sistema desde cero para evitar "zombies".
+
+---
+
 ## 🚀 Flujo de Trabajo (Pipeline)
 
 ### 1. Ingesta de Nuevas Normas
@@ -104,5 +132,7 @@ Este Hub Normativo puede ser consultado por agentes de IA mediante la "Puerta de
 ## 🛠️ Tecnologías
 *   **Frontend:** Streamlit
 *   **Vectores:** FAISS + SentenceTransformers (`paraphrase-multilingual-MiniLM-L12-v2`)
-*   **Razonamiento:** DeepSeek API
+*   **Razonamiento:** **DeepSeek R1 (Reasoner)** 🧠
+    *   *Modelo actualizado a Feb 2026.*
+    *   Usa "Chain of Thought" (Cadena de Pensamiento) para deducir respuestas legales complejas antes de responder.
 *   **Lenguaje:** Python 3.10+

@@ -52,12 +52,12 @@ def consultar_deepseek(consulta, contexto_chunks, system_prompt=None):
     }
 
     payload = {
-        "model": "deepseek-chat",
+        "model": "deepseek-reasoner",
         "messages": [
             {"role": "user", "content": prompt_completo}
         ],
         "temperature": 0.3,
-        "max_tokens": 2000
+        "max_tokens": 4000
     }
 
     try:
@@ -184,7 +184,6 @@ _filas_unificadas = []
 
 # Indices base (config.json)
 # LEER DIRECTAMENTE DEL DISCO para evitar "zombies" en caché
-# Si config.json está vacío en disco, NO mostramos nada, aunque el motor en RAM tenga datos viejos.
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), '../03_CONFIG/config.json')
 indices_base_disk = []
 if os.path.exists(CONFIG_PATH):

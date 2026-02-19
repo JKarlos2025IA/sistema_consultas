@@ -1,11 +1,11 @@
 [
     {
-        "activo": false,
+        "activo": true,
         "alias": "Directiva OECE 2025 ",
         "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\001_Directivas_oece_2025"
     },
     {
-        "activo": false,
+        "activo": true,
         "alias": "Directivas OECE 2026",
         "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\001_Directivas_oece_2026"
     },
@@ -15,7 +15,7 @@
         "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\002_Ley_27444"
     },
     {
-        "activo": true,
+        "activo": false,
         "alias": "Decreto Legislativo 1017",
         "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\003_Decreto_Legistativo_1017"
     },
@@ -25,7 +25,7 @@
         "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\004_Ley_reglamento_30225"
     },
     {
-        "activo": false,
+        "activo": true,
         "alias": "Ley y Reglamento 32069",
         "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\005_Ley_reglamento_32069"
     },
@@ -33,5 +33,10 @@
         "activo": false,
         "alias": "Opiniones OECE 2025",
         "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\006_Opiniones_2025_OECE"
+    },
+    {
+        "activo": true,
+        "alias": "Manuales ",
+        "ruta": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CONSULTAS\\02_BIBLIOTECA_NORMATIVA\\007_Manuales"
     }
 ]
