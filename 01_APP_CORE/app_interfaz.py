@@ -353,6 +353,12 @@ with st.sidebar.expander("➕ Agregar Nueva Fuente", expanded=False):
                 st.rerun()
 
 if st.sidebar.button("🔄 Cargar / Actualizar Motor"):
+    # 1. Limpiar widget data_editor para que se reconstruya con datos frescos
+    if "unified_sources" in st.session_state:
+        del st.session_state["unified_sources"]
+    # 2. Re-leer fuentes del disco (por si hubo cambios de checkbox no sincronizados)
+    st.session_state.user_sources_df = load_user_sources()
+    # 3. Limpiar cache del motor para que QueryRouter recargue con las fuentes activas
     st.cache_resource.clear()
     st.rerun()
 
