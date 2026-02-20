@@ -99,6 +99,9 @@ class QueryRouter:
         for source in self.user_sources:
             if source.get('activo', True):
                 ruta = source['ruta']
+                # Resolver rutas relativas desde el directorio del script
+                if not os.path.isabs(ruta):
+                    ruta = os.path.abspath(os.path.join(self.script_dir, ruta))
                 alias = source.get('alias', None)
                 print(f"  Escaneando ruta de usuario: {ruta} (alias: {alias})")
                 encontrados = self.scan_directory_for_indices(ruta, alias=alias)

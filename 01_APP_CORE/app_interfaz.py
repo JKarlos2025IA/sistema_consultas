@@ -330,27 +330,38 @@ else:
     sources_to_search = available_indices
 
 # Agregar nueva fuente (st.form evita doble registro)
+BIBLIOTECA_ABS = os.path.abspath(os.path.join(os.path.dirname(__file__), '../02_BIBLIOTECA_NORMATIVA'))
+
 with st.sidebar.expander("➕ Agregar Nueva Fuente", expanded=False):
     with st.form("form_add_source", clear_on_submit=True):
         new_alias = st.text_input("Alias", placeholder="Ej: LEY 27444")
-        new_path = st.text_input("Ruta de Embeddings", placeholder="G:\\Mi unidad\\...")
+        new_path = st.text_input("Ruta de Embeddings", placeholder="Carpeta dentro de 02_BIBLIOTECA_NORMATIVA")
         submitted = st.form_submit_button("Guardar")
         if submitted and new_alias and new_path:
             # VALIDACION: Verificar si ya existe
             if new_alias in st.session_state.user_sources_df['alias'].values:
                 st.error(f"⚠️ El alias '{new_alias}' ya existe. Usa otro nombre.")
-            elif not os.path.exists(new_path):
-                st.error(f"🚫 La ruta no existe: {new_path}")
             else:
-                new_row = {"activo": True, "alias": new_alias, "ruta": new_path}
-                st.session_state.user_sources_df = pd.concat(
-                    [st.session_state.user_sources_df, pd.DataFrame([new_row])],
-                    ignore_index=True
-                )
-                save_user_sources(st.session_state.user_sources_df)
-                st.success("Guardado.")
-                st.cache_resource.clear()
-                st.rerun()
+                # Convertir ruta absoluta a relativa si apunta a la biblioteca
+                abs_path = os.path.abspath(new_path) if os.path.isabs(new_path) else os.path.abspath(os.path.join(BIBLIOTECA_ABS, new_path))
+                if not os.path.exists(abs_path):
+                    st.error(f"🚫 La ruta no existe: {abs_path}")
+                else:
+                    # Guardar siempre como ruta relativa desde 01_APP_CORE
+                    try:
+                        rel_path = os.path.relpath(abs_path, os.path.dirname(__file__))
+                        save_path = rel_path.replace("\\", "/")
+                    except ValueError:
+                        save_path = abs_path  # Fallback si están en discos distintos
+                    new_row = {"activo": True, "alias": new_alias, "ruta": save_path}
+                    st.session_state.user_sources_df = pd.concat(
+                        [st.session_state.user_sources_df, pd.DataFrame([new_row])],
+                        ignore_index=True
+                    )
+                    save_user_sources(st.session_state.user_sources_df)
+                    st.success("Guardado.")
+                    st.cache_resource.clear()
+                    st.rerun()
 
 if st.sidebar.button("🔄 Cargar / Actualizar Motor"):
     # 1. Limpiar widget data_editor para que se reconstruya con datos frescos
@@ -477,6 +488,18 @@ debug_mode = st.sidebar.toggle("🛠️ Modo Debug (Ver Contexto IA)")
 
 # --- INTERFAZ PRINCIPAL ---
 st.title("⚖️ Sistema de Consulta Unificado")
+
+# Mostrar versión y fecha de última actualización (del último commit git)
+import subprocess
+try:
+    _last_commit = subprocess.check_output(
+        ["git", "log", "-1", "--format=%ai"],
+        cwd=os.path.join(os.path.dirname(__file__), ".."),
+        stderr=subprocess.DEVNULL
+    ).decode().strip()
+    st.caption(f"Última actualización: {_last_commit}")
+except Exception:
+    st.caption(f"Sesión iniciada: {datetime.now().strftime('%d/%m/%Y %H:%M')}")
 
 # Mostrar Historial
 for msg in st.session_state.chat_history:
