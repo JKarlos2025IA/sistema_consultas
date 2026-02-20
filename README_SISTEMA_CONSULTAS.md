@@ -1,7 +1,7 @@
 # ⚖️ SISTEMA DE CONSULTA NORMATIVA UNIFICADA (HUB RAG)
 
 > **Documento Maestro de Arquitectura y Operación**
-> **Última Actualización:** 11 de Febrero 2026
+> **Última Actualización:** 19 de Febrero 2026
 > **Estado:** Producción (Local + Cloud)
 > **Acceso Web:** [sistemaconsultas-2026.streamlit.app](https://sistemaconsultas-2026.streamlit.app/)
 
@@ -38,7 +38,8 @@ La estructura "Single Source of Truth" en `G:\Mi unidad\01_BASE_NORMATIVA\000_CO
 El sistema cuenta con un panel de control avanzado en la barra lateral para gestionar qué normativas se consultan en tiempo real.
 
 ### 1. Panel de Control "En Vivo"
-*   **Columna "Cargar":** Checkbox para activar/desactivar una fuente. Si desmarcas una fuente y pulsas "🔄 Cargar Motor", se descarga de la memoria RAM para ahorrar recursos.
+*   **Columna "Cargar":** Checkbox para activar/desactivar una fuente. Marca solo las fuentes que necesitas consultar.
+*   **Botón "🔄 Cargar / Actualizar Motor":** Después de cambiar los checkboxes, pulsa este botón para aplicar los cambios. El motor se recargará solo con las fuentes marcadas.
 *   **Columna "Estado":**
     *   ✅ **Listo:** La fuente está cargada en memoria y lista para responder.
     *   ⚪ **Inactivo:** La fuente está en tu lista pero NO se está usando actualmente.
@@ -99,15 +100,17 @@ Los **"Documentos Pesados"** y datos sensibles.
 
 ### 🔄 Sincronización Automática
 Para actualizar la web, utilice el script `PUSH_GIT.bat` incluido en la raíz. Este script:
-1.  Detecta cambios en código o nuevos índices vectoriales.
-2.  Ignora automáticamente los PDFs nuevos.
-3.  Sube la actualización a GitHub en segundos.
+1.  Sincroniza con GitHub (`git pull --rebase`) para evitar conflictos con cambios remotos.
+2.  Detecta cambios en código o nuevos índices vectoriales.
+3.  Ignora automáticamente los PDFs nuevos.
+4.  Sube la actualización a GitHub en segundos.
 
 Repositorio: `https://github.com/JKarlos2025IA/sistema_consultas`
 
 **Comandos manuales (si no usa el .bat):**
 ```bash
 # En la carpeta 000_CONSULTAS
+git pull --rebase origin main
 git add .
 git commit -m "Descripción del cambio"
 git push origin main
