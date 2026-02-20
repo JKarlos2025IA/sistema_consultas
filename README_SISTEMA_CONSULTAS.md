@@ -47,8 +47,10 @@ El sistema cuenta con un panel de control avanzado en la barra lateral para gest
 ### 2. Agregar Nuevas Normas
 Desde el desplegable **"➕ Agregar Nueva Fuente"**:
 1.  Pon un **Alias** (nombre corto).
-2.  Pega la **Ruta de Embeddings** (debe ser la carpeta que contiene `embeddings_unificados`).
+2.  Pega la **Ruta de Embeddings** (carpeta que contiene `embeddings_unificados`).
 3.  Pulsa **Guardar**.
+
+> **Nota sobre rutas:** El sistema convierte automáticamente las rutas absolutas (`G:\Mi unidad\...`) a rutas relativas (`../02_BIBLIOTECA_NORMATIVA/...`) para garantizar compatibilidad entre Local y Streamlit Cloud.
 
 ### 3. Eliminación Segura ("Borrado Nuclear")
 Para eliminar una fuente de la lista:
@@ -68,7 +70,7 @@ Para eliminar una fuente de la lista:
 Para agregar una nueva normativa (ej: "Nueva Ley X"):
 1.  Crear carpeta en `02_BIBLIOTECA_NORMATIVA/Nueva_Ley_X`.
 2.  Generar embeddings (usando scripts estándar) dentro de esa carpeta (subcarpeta `embeddings_unificados`).
-3.  Registrar la nueva ruta en `03_CONFIG/config.json`.
+3.  Desde la interfaz, usar **"➕ Agregar Nueva Fuente"** (se registra automáticamente en `03_CONFIG/fuentes_usuario.json`).
 
 ### 2. Motor de Búsqueda (`01_APP_CORE/motor_busqueda.py`)
 El sistema usa una estrategia **Híbrida**:
@@ -139,3 +141,14 @@ Este Hub Normativo puede ser consultado por agentes de IA mediante la "Puerta de
     *   *Modelo actualizado a Feb 2026.*
     *   Usa "Chain of Thought" (Cadena de Pensamiento) para deducir respuestas legales complejas antes de responder.
 *   **Lenguaje:** Python 3.10+
+
+---
+
+## 📋 Historial de Cambios
+
+| Fecha | Cambio |
+| :--- | :--- |
+| 19-Feb-2026 | Fix carga de fuentes en Cloud: rutas relativas, fix widget data_editor, timestamp deploy |
+| 19-Feb-2026 | PUSH_GIT.bat con `git pull --rebase`, eliminado `.devcontainer/` |
+| 18-Feb-2026 | Motor IA cambiado a DeepSeek R1 (Reasoner), Borrado Nuclear de fuentes |
+| 11-Feb-2026 | Lanzamiento inicial: Hub RAG Monolítico con gestión dinámica de fuentes |
