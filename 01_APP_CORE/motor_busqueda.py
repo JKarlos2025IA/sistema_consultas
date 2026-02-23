@@ -156,6 +156,14 @@ class QueryRouter:
                     loaded_chunks = True
                     n_con_texto = sum(1 for t in reconstructed_chunks if t)
                     print(f"    ✅ Reconstruidos {n_con_texto}/{len(reconstructed_chunks)} chunks con texto")
+                    # Auto-guardar chunks.json para acelerar cargas futuras
+                    try:
+                        chunks_save_path = str(Path(ruta_indice_abs).parent / "chunks.json")
+                        with open(chunks_save_path, 'w', encoding='utf-8') as f:
+                            json.dump(reconstructed_chunks, f, ensure_ascii=False)
+                        print(f"    💾 chunks.json guardado ({len(reconstructed_chunks)} items) — proxima carga sera instantanea")
+                    except Exception as e:
+                        print(f"    ⚠️ No se pudo guardar chunks.json: {e}")
 
                 if loaded_chunks:
                     n_chunks = len(self.chunks[nombre])

@@ -1,6 +1,7 @@
 import streamlit as st
 from motor_busqueda import QueryRouter
 import json
+import hashlib
 from datetime import datetime
 import os
 from collections import defaultdict
@@ -10,6 +11,54 @@ import pandas as pd
 # --- Configuración DeepSeek ---
 DEEPSEEK_API_KEY = "sk-4e6b4c12e3e24d5c8296b6084aac4aac"
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
+
+# --- Cache de Consultas ---
+CACHE_PATH = os.path.join(os.path.dirname(__file__), '../04_LOGS/query_cache.json')
+CACHE_MAX_DAYS = 7
+
+def _get_cache():
+    if os.path.exists(CACHE_PATH):
+        try:
+            with open(CACHE_PATH, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except:
+            pass
+    return {}
+
+def _save_cache(cache):
+    try:
+        os.makedirs(os.path.dirname(CACHE_PATH), exist_ok=True)
+        with open(CACHE_PATH, 'w', encoding='utf-8') as f:
+            json.dump(cache, f, ensure_ascii=False, indent=2)
+    except:
+        pass
+
+def _cache_key(query, sources):
+    raw = query.lower().strip() + "|" + "|".join(sorted(sources))
+    return hashlib.md5(raw.encode()).hexdigest()[:12]
+
+def _cache_get(query, sources):
+    cache = _get_cache()
+    key = _cache_key(query, sources)
+    if key in cache:
+        entry = cache[key]
+        try:
+            fecha = datetime.fromisoformat(entry['fecha'])
+            if (datetime.now() - fecha).days <= CACHE_MAX_DAYS:
+                return entry['respuesta']
+        except:
+            pass
+    return None
+
+def _cache_set(query, sources, respuesta):
+    cache = _get_cache()
+    key = _cache_key(query, sources)
+    cache[key] = {"query": query, "respuesta": respuesta, "fecha": datetime.now().isoformat()}
+    # Limitar a 200 entradas (eliminar la más antigua si se excede)
+    if len(cache) > 200:
+        oldest = next(iter(cache))
+        del cache[oldest]
+    _save_cache(cache)
 
 DEFAULT_PROMPT = """Eres un asistente legal especializado. Tu trabajo es responder consultas basándote ÚNICAMENTE en los documentos proporcionados como contexto.
 
@@ -88,6 +137,36 @@ CONSULTA REFORMULADA:"""
         return query_mejorada
     except Exception:
         return consulta  # Fallback seguro: query original
+
+
+def expandir_consulta(consulta_reformulada):
+    """
+    Genera 2 variaciones alternativas con vocabulario técnico legal diferente.
+    Usa deepseek-chat (rápido/barato). Si falla, devuelve lista vacía (no rompe nada).
+    """
+    prompt = f"""Eres un experto en recuperación de documentos legales peruanos.
+La consulta del usuario puede requerir información dispersa en varios artículos o normas.
+Genera 2 sub-consultas que cubran ASPECTOS DISTINTOS de la pregunta original (no sinónimos, sino ángulos diferentes que complementen la búsqueda).
+Por ejemplo: si preguntan por un proceso completo, una variación busca el inicio del proceso y otra busca los requisitos previos o documentos necesarios.
+Responde SOLO con las 2 sub-consultas, una por línea, sin numeración ni explicaciones.
+
+CONSULTA: {consulta_reformulada}"""
+
+    headers = {"Authorization": f"Bearer {DEEPSEEK_API_KEY}", "Content-Type": "application/json"}
+    payload = {
+        "model": "deepseek-chat",
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.5,
+        "max_tokens": 150
+    }
+    try:
+        response = requests.post(DEEPSEEK_URL, headers=headers, json=payload, timeout=10)
+        response.raise_for_status()
+        raw = response.json()["choices"][0]["message"]["content"].strip()
+        lines = [l.strip() for l in raw.split('\n') if l.strip() and len(l.strip()) > 10]
+        return lines[:2]
+    except Exception:
+        return []  # Fallo silencioso: el sistema sigue sin expansión
 
 
 def consultar_deepseek(consulta, contexto_chunks, system_prompt=None, historial=None):
@@ -547,6 +626,12 @@ if st.sidebar.button("🧹 Limpiar Historial"):
     st.session_state.chat_history = []
     st.rerun()
 
+_n_cache = len(_get_cache())
+if _n_cache > 0:
+    if st.sidebar.button(f"🗑️ Limpiar Caché ({_n_cache} consultas guardadas)"):
+        _save_cache({})
+        st.rerun()
+
 # 4. Debug Mode
 debug_mode = st.sidebar.toggle("🛠️ Modo Debug (Ver Contexto IA)")
 
@@ -579,41 +664,64 @@ if query_text := st.chat_input("Escribe tu consulta legal aquí..."):
 
     # Procesar Consulta
     with st.chat_message("assistant"):
-        with st.spinner("Analizando consulta..."):
-            # 1. REFORMULACIÓN (siempre activa, invisible)
-            query_busqueda = reformular_consulta(query_text, st.session_state.chat_history)
-
-        with st.spinner("Buscando en base normativa..."):
-            # 2. BÚSQUEDA con query mejorada
-            results = query_router.search(query_busqueda, top_k=20, sources=sources_to_search)
-
-        with st.spinner("Filtrando resultados..."):
-            # 3. RE-RANKING (siempre activo, invisible)
-            results_final = query_router.rerank(query_busqueda, results, top_n=7)
-
-        if debug_mode:
-            if query_busqueda != query_text:
-                st.info(f"**Query original:** {query_text}\n\n**Query reformulada:** {query_busqueda}")
-            with st.expander("🛠️ Debug: Chunks recuperados"):
-                for r in results_final:
-                    st.markdown(f"**Rerank:** {r['rerank_score']:.4f} | **Fuente:** {r['source']} | **Método:** {r.get('method', 'N/A')}")
-                    st.text(r['chunk_text'][:200] + "...")
-
-        if results_final:
-            # 4. RESPUESTA con R1 + historial conversacional
-            respuesta = consultar_deepseek(
-                query_text, results_final,
-                system_prompt=_prompt_editado,
-                historial=st.session_state.chat_history
-            )
-            st.markdown(respuesta)
-            st.session_state.chat_history.append({"role": "assistant", "content": respuesta})
-
-            with st.expander("📚 Ver Fuentes Consultadas"):
-                for i, res in enumerate(results_final):
-                    st.markdown(f"**[{i+1}] {res['source']}** (Similitud: {res['rerank_score']:.3f})")
-                    st.caption(res['chunk_text'][:300] + "...")
+        # 0. VERIFICAR CACHE (antes de cualquier llamada externa)
+        cached_respuesta = _cache_get(query_text, sources_to_search)
+        if cached_respuesta:
+            if debug_mode:
+                st.info("⚡ Respuesta desde caché (consulta idéntica previa)")
+            st.markdown(cached_respuesta)
+            st.session_state.chat_history.append({"role": "assistant", "content": cached_respuesta})
         else:
-            msg_error = "No se encontraron documentos relevantes en las fuentes seleccionadas."
-            st.warning(msg_error)
-            st.session_state.chat_history.append({"role": "assistant", "content": msg_error})
+            with st.spinner("Analizando consulta..."):
+                # 1. REFORMULACIÓN (siempre activa, invisible)
+                query_busqueda = reformular_consulta(query_text, st.session_state.chat_history)
+                # 1b. EXPANSIÓN: 2 variaciones adicionales (deepseek-chat, fallo silencioso)
+                expansiones = expandir_consulta(query_busqueda)
+
+            with st.spinner("Buscando en base normativa..."):
+                # 2. BÚSQUEDA con query principal
+                results = query_router.search(query_busqueda, top_k=20, sources=sources_to_search)
+                # 2b. Búsqueda con variaciones expandidas (sin duplicar chunks)
+                seen_hashes = {hash(r['chunk_text']) for r in results}
+                for alt_query in expansiones:
+                    alt_results = query_router.search(alt_query, top_k=10, sources=sources_to_search)
+                    for r in alt_results:
+                        h = hash(r['chunk_text'])
+                        if h not in seen_hashes:
+                            results.append(r)
+                            seen_hashes.add(h)
+
+            with st.spinner("Filtrando resultados..."):
+                # 3. RE-RANKING (siempre activo, invisible)
+                results_final = query_router.rerank(query_busqueda, results, top_n=7)
+
+            if debug_mode:
+                if query_busqueda != query_text:
+                    st.info(f"**Query original:** {query_text}\n\n**Query reformulada:** {query_busqueda}")
+                if expansiones:
+                    st.info(f"**Expansiones generadas:** {' | '.join(expansiones)}")
+                with st.expander("🛠️ Debug: Chunks recuperados"):
+                    for r in results_final:
+                        st.markdown(f"**Rerank:** {r['rerank_score']:.4f} | **Fuente:** {r['source']} | **Método:** {r.get('method', 'N/A')}")
+                        st.text(r['chunk_text'][:200] + "...")
+
+            if results_final:
+                # 4. RESPUESTA con R1 + historial conversacional
+                respuesta = consultar_deepseek(
+                    query_text, results_final,
+                    system_prompt=_prompt_editado,
+                    historial=st.session_state.chat_history
+                )
+                st.markdown(respuesta)
+                st.session_state.chat_history.append({"role": "assistant", "content": respuesta})
+                # Guardar en caché para consultas idénticas futuras
+                _cache_set(query_text, sources_to_search, respuesta)
+
+                with st.expander("📚 Ver Fuentes Consultadas"):
+                    for i, res in enumerate(results_final):
+                        st.markdown(f"**[{i+1}] {res['source']}** (Similitud: {res['rerank_score']:.3f})")
+                        st.caption(res['chunk_text'][:300] + "...")
+            else:
+                msg_error = "No se encontraron documentos relevantes en las fuentes seleccionadas."
+                st.warning(msg_error)
+                st.session_state.chat_history.append({"role": "assistant", "content": msg_error})
