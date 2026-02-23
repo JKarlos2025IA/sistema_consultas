@@ -1,7 +1,7 @@
 # ⚖️ SISTEMA DE CONSULTA NORMATIVA UNIFICADA (HUB RAG)
 
 > **Documento Maestro de Arquitectura y Operación**
-> **Última Actualización:** 19 de Febrero 2026
+> **Última Actualización:** 23 de Febrero 2026
 > **Estado:** Producción (Local + Cloud)
 > **Acceso Web:** [sistemaconsultas-2026.streamlit.app](https://sistemaconsultas-2026.streamlit.app/)
 
@@ -33,34 +33,32 @@ La estructura "Single Source of Truth" en `G:\Mi unidad\01_BASE_NORMATIVA\000_CO
 
 ---
 
-## 📂 Gestión de Fuentes (Admin) - NUEVO (Feb 2026)
+## 📂 Gestión de Fuentes (Admin) - Actualizado 23-Feb-2026
 
-El sistema cuenta con un panel de control avanzado en la barra lateral para gestionar qué normativas se consultan en tiempo real.
+### 1. Sidebar — Flujo simplificado
 
-### 1. Panel de Control "En Vivo"
-*   **Columna "Cargar":** Checkbox para activar/desactivar una fuente. Marca solo las fuentes que necesitas consultar.
-*   **Botón "🔄 Cargar / Actualizar Motor":** Después de cambiar los checkboxes, pulsa este botón para aplicar los cambios. El motor se recargará solo con las fuentes marcadas.
-*   **Columna "Estado":**
-    *   ✅ **Listo:** La fuente está cargada en memoria y lista para responder.
-    *   ⚪ **Inactivo:** La fuente está en tu lista pero NO se está usando actualmente.
+#### 🔍 Consultar en (sección principal)
+Muestra **todas** las fuentes configuradas con un checkbox cada una:
+- ✅ `Nombre (X vec.)` = cargada en memoria, lista para buscar
+- ⚪ `Nombre (no cargada)` = configurada pero inactiva
 
-### 2. Agregar Nuevas Normas
-Desde el desplegable **"➕ Agregar Nueva Fuente"**:
-1.  Pon un **Alias** (nombre corto).
-2.  Pega la **Ruta de Embeddings** (carpeta que contiene `embeddings_unificados`).
-3.  Pulsa **Guardar**.
+**Cómo usar:**
+1. Marca/desmarca las fuentes que quieres usar
+2. Pulsa **🔄 Recargar Motor** para aplicar cambios
+3. Escribe tu consulta — el sistema buscará solo en las fuentes marcadas y cargadas
 
-> **Nota sobre rutas:** El sistema convierte automáticamente las rutas absolutas (`G:\Mi unidad\...`) a rutas relativas (`../02_BIBLIOTECA_NORMATIVA/...`) para garantizar compatibilidad entre Local y Streamlit Cloud.
+#### ⚙️ Gestión de Fuentes (expander colapsado)
+Solo para mantenimiento:
+- **Agregar fuente:** Alias + ruta de embeddings → Guardar (aparece automáticamente en los checkboxes)
+- **Eliminar fuente:** Seleccionar alias + clave `admin2026`
 
-### 3. Eliminación Segura ("Borrado Nuclear")
-Para eliminar una fuente de la lista:
-1.  Borra la fila correspondiente en la tabla.
-2.  Aparecerá un aviso de confirmación.
-3.  Ingresa la **Clave Maestra de Borrado**: `admin2026`.
-4.  Al confirmar, el sistema ejecuta un **Borrado Nuclear**:
-    *   Elimina la fuente del archivo de configuración.
-    *   Purga la memoria Caché del servidor.
-    *   Recarga el sistema desde cero para evitar "zombies".
+### 2. Agregar Nueva Norma — Flujo completo
+1. Generar embeddings → crea `faiss.index` + `metadata.pkl`
+2. En "Gestión de Fuentes": poner Alias + Ruta → Guardar
+3. La fuente aparece automáticamente en los checkboxes con ✅
+4. Primera carga: el sistema genera `chunks.json` automáticamente (cargas futuras instantáneas)
+
+> **Nota sobre rutas:** El sistema convierte automáticamente rutas absolutas (`G:\Mi unidad\...`) a relativas para compatibilidad Local + Streamlit Cloud.
 
 ---
 
@@ -73,10 +71,14 @@ Para agregar una nueva normativa (ej: "Nueva Ley X"):
 3.  Desde la interfaz, usar **"➕ Agregar Nueva Fuente"** (se registra automáticamente en `03_CONFIG/fuentes_usuario.json`).
 
 ### 2. Motor de Búsqueda (`01_APP_CORE/motor_busqueda.py`)
-El sistema usa una estrategia **Híbrida**:
-*   **Búsqueda Vectorial (FAISS):** Encuentra conceptos semánticos.
-*   **Búsqueda Keyword:** Refuerza coincidencias exactas.
-*   **IA (DeepSeek):** Genera respuestas fundamentadas citando la fuente.
+El sistema usa una estrategia **Híbrida + Expansión**:
+*   **Reformulación:** DeepSeek-chat corrige typos y expande abreviaciones legales.
+*   **Expansión de query:** genera 2 sub-consultas con aspectos distintos para mayor cobertura.
+*   **Búsqueda Vectorial (FAISS):** top_k=20 por fuente activa.
+*   **Búsqueda Keyword:** refuerza coincidencias exactas de términos legales.
+*   **Re-ranking:** cosine similarity real selecciona los 12 mejores chunks.
+*   **Cache:** respuestas guardadas en `04_LOGS/query_cache.json` (expira 7 días).
+*   **IA (DeepSeek R1 Reasoner):** genera respuesta con Chain of Thought citando fuentes.
 
 ### 3. Consumo (Interfaz)
 *   **Local:** Ejecutar `00_START.bat`.
@@ -148,7 +150,14 @@ Este Hub Normativo puede ser consultado por agentes de IA mediante la "Puerta de
 
 | Fecha | Cambio |
 | :--- | :--- |
-| 19-Feb-2026 | Fix carga de fuentes en Cloud: rutas relativas, fix widget data_editor, timestamp deploy |
+| 23-Feb-2026 | Sidebar simplificado: checkboxes por fuente + Recargar Motor |
+| 23-Feb-2026 | Prompt único experto legal general (contrataciones, civil, penal, admin) |
+| 23-Feb-2026 | chunks.json auto-save en primera carga (cargas futuras instantáneas) |
+| 23-Feb-2026 | Cache de consultas (04_LOGS/query_cache.json, 7 días, 200 entradas max) |
+| 23-Feb-2026 | Expansión de query por aspectos distintos (deepseek-chat, 2 variaciones) |
+| 23-Feb-2026 | Rerank top_n 7→12 para preguntas de proceso amplio |
+| 23-Feb-2026 | PUSH_GIT.bat: fix orden (add→commit→pull→push) |
+| 19-Feb-2026 | Fix carga de fuentes en Cloud: rutas relativas, fix widget data_editor |
 | 19-Feb-2026 | PUSH_GIT.bat con `git pull --rebase`, eliminado `.devcontainer/` |
 | 18-Feb-2026 | Motor IA cambiado a DeepSeek R1 (Reasoner), Borrado Nuclear de fuentes |
 | 11-Feb-2026 | Lanzamiento inicial: Hub RAG Monolítico con gestión dinámica de fuentes |
