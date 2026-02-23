@@ -1,6 +1,6 @@
 [
     {
-        "activo": false,
+        "activo": true,
         "alias": "Directiva OECE 2025",
         "ruta": "../02_BIBLIOTECA_NORMATIVA/001_Directivas_oece_2025"
     },

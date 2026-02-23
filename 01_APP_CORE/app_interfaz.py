@@ -60,18 +60,19 @@ def _cache_set(query, sources, respuesta):
         del cache[oldest]
     _save_cache(cache)
 
-DEFAULT_PROMPT = """Eres un asistente legal especializado. Tu trabajo es responder consultas basándote ÚNICAMENTE en los documentos proporcionados como contexto.
+DEFAULT_PROMPT = """Eres un asesor legal experto con dominio en todas las ramas del derecho peruano: contrataciones públicas (Ley 32069, Reglamento, Directivas y Opiniones OECE), derecho civil, derecho penal, derecho administrativo y procesal.
 
 REGLAS:
-1. Responde SOLO con información del contexto proporcionado.
-2. Si la información no es exacta, infiere con cautela citando la fuente.
-3. SIEMPRE cita la fuente (documento, artículo, opinión, fecha).
-4. Si el contexto es insuficiente, dilo claramente.
+1. Responde ÚNICAMENTE con información del contexto proporcionado.
+2. Cita siempre el artículo, numeral y fuente exacta.
+3. Si el contexto no contiene la respuesta, dilo claramente e indica qué norma adicional se necesitaría consultar.
+4. Si el contexto permite inferir una conclusión con base legal, hazlo con cautela señalando que es una inferencia.
+5. Nunca inventes artículos ni atribuyas contenido que no esté en el contexto.
 
 ESTRUCTURA DE RESPUESTA:
-- **Respuesta Directa:** (Sí/No/Depende + explicación breve)
-- **Fundamento:** (Análisis citando los documentos)
-- **Referencias:** (Lista de documentos utilizados)"""
+- **Respuesta Directa:** (Sí / No / Depende + explicación breve)
+- **Fundamento Legal:** (análisis citando artículos y fuentes exactas)
+- **Referencias:** (lista numerada de documentos utilizados)"""
 
 PROMPT_TEMPLATE = """{system_prompt}
 
@@ -278,25 +279,6 @@ def load_query_router():
     router = QueryRouter()
     return router
 
-# --- Gestión de Prompts ---
-PROMPTS_PATH = os.path.join(os.path.dirname(__file__), '../03_CONFIG/prompts.json')
-
-def load_prompts():
-    if os.path.exists(PROMPTS_PATH):
-        try:
-            with open(PROMPTS_PATH, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except:
-            pass
-    return [{"nombre": "General Legal", "activo": True, "prompt": DEFAULT_PROMPT}]
-
-def save_prompts(prompts_list):
-    try:
-        with open(PROMPTS_PATH, 'w', encoding='utf-8') as f:
-            json.dump(prompts_list, f, indent=4, ensure_ascii=False)
-    except Exception as e:
-        st.error(f"Error guardando prompts: {e}")
-
 # --- Inicialización del Estado de la Sesión ---
 if 'latest_query' not in st.session_state:
     st.session_state.latest_query = ""
@@ -308,313 +290,161 @@ if 'user_sources_df' not in st.session_state:
     st.session_state.user_sources_df = load_user_sources()
 if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
-if 'prompts_list' not in st.session_state:
-    st.session_state.prompts_list = load_prompts()
+if 'prompt_personalizado' not in st.session_state:
+    st.session_state.prompt_personalizado = DEFAULT_PROMPT
 
 # --- Cargar Componentes Principales ---
 query_router = load_query_router()
 available_indices = sorted(list(query_router.indices.keys())) if query_router else []
 
 # --- BARRA LATERAL (SIDEBAR) ---
-st.sidebar.title("Configuración")
+st.sidebar.title("⚖️ Consulta Legal")
 
-# 1. Gestión de Fuentes (tabla unificada base + usuario)
-st.sidebar.subheader("📂 Gestión de Fuentes")
-
-# Construir tabla unificada
 _load_status = getattr(query_router, 'load_status', {})
-_filas_unificadas = []
-
-# Indices base (config.json)
-# LEER DIRECTAMENTE DEL DISCO para evitar "zombies" en caché
-CONFIG_PATH = os.path.join(os.path.dirname(__file__), '../03_CONFIG/config.json')
-indices_base_disk = []
-if os.path.exists(CONFIG_PATH):
-    try:
-        with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
-            _cfg = json.load(f)
-            indices_base_disk = _cfg.get('indices', [])
-    except:
-        indices_base_disk = []
-
-if indices_base_disk:
-    for idx_info in indices_base_disk:
-        nombre = idx_info['nombre']
-        status = _load_status.get(nombre, {})
-        vec = status.get('vectores', 0) if status.get('estado') == 'ok' else 0
-        
-        # Lógica del Check Verde: ¿Está realmente en memoria?
-        en_memoria = nombre in query_router.indices
-        estado_visual = "✅ Listo" if en_memoria else "⚪ Inactivo"
-        
-        _filas_unificadas.append({
-            "Cargar": True, 
-            "Estado": estado_visual,
-            "Nombre": nombre, 
-            "Vectores": vec, 
-            "_tipo": "base"
-        })
-
-# Indices usuario (fuentes_usuario.json)
-# Asegurar que user_sources_df tenga estructura correcta antes de iterar
-if 'alias' not in st.session_state.user_sources_df.columns:
-    st.session_state.user_sources_df = pd.DataFrame(columns=["activo", "alias", "ruta"])
-
-for _, row in st.session_state.user_sources_df.iterrows():
-    alias = row.get('alias', '')
-    activo = row.get('activo', True)
-    status = _load_status.get(alias, {})
-    vec = status.get('vectores', 0) if status.get('estado') == 'ok' else 0
-    
-    # Lógica del Check Verde para usuario
-    en_memoria = alias in query_router.indices
-    estado_visual = "✅ Listo" if en_memoria else "⚪ Inactivo"
-    
-    # Guardamos la ruta oculta para no perderla
-    _filas_unificadas.append({
-        "Cargar": activo, 
-        "Estado": estado_visual,
-        "Nombre": alias, 
-        "Vectores": vec, 
-        "_tipo": "usuario", 
-        "ruta": row.get('ruta', '')
-    })
-
-_df_unificada = pd.DataFrame(_filas_unificadas)
-
-if not _df_unificada.empty:
-    edited_sources = st.sidebar.data_editor(
-        _df_unificada[["Cargar", "Estado", "Nombre", "Vectores", "_tipo"]], # Mostramos columnas relevantes
-        column_config={
-            "Cargar": st.column_config.CheckboxColumn("Cargar", help="Marca para incluir en la próxima recarga", default=True),
-            "Estado": st.column_config.TextColumn("Status", disabled=True, width="small"),
-            "Nombre": st.column_config.TextColumn("Fuente"),
-            "Vectores": st.column_config.NumberColumn("Vec.", disabled=True, width="small"),
-            "_tipo": st.column_config.TextColumn("Tipo", disabled=True, width="small"),
-        },
-        hide_index=True,
-        use_container_width=True,
-        num_rows="dynamic",
-        key="unified_sources"
-    )
-    
-    # --- LOGICA DE ACTUALIZACION Y BORRADO ---
-    # 1. Detectar cambios en fuentes de USUARIO
-    user_edited = edited_sources[edited_sources["_tipo"] == "usuario"]
-    
-    # 2. Verificar si hubo cambios en la lista de fuentes (Borrado)
-    current_aliases = st.session_state.user_sources_df['alias'].tolist()
-    edited_aliases = user_edited['Nombre'].tolist()
-    
-    # Si faltan alias (alguien borró filas)
-    if len(edited_aliases) < len(current_aliases):
-        # Identificar qué se quiere borrar
-        deleted_aliases = list(set(current_aliases) - set(edited_aliases))
-        
-        st.sidebar.warning(f"Eliminar: {', '.join(deleted_aliases)}")
-        del_pass = st.sidebar.text_input("Clave para confirmar borrado:", type="password", key="del_pass_fuentes_new")
-        
-        col_d1, col_d2 = st.sidebar.columns(2)
-        with col_d1:
-            if st.button("Confirmar Borrado", key="btn_confirm_del"):
-                if del_pass == "admin2026":
-                    # Proceder al borrado real
-                    # Reconstruimos el DF de usuario manteniendo las rutas originales de los que quedan
-                    alias_to_path = dict(zip(st.session_state.user_sources_df['alias'], st.session_state.user_sources_df['ruta']))
-                    
-                    new_rows = []
-                    for _, row in user_edited.iterrows():
-                        name = row["Nombre"]
-                        path = alias_to_path.get(name, "")
-                        if path: 
-                            new_rows.append({"activo": row["Cargar"], "alias": name, "ruta": path})
-                    
-                    # 1. Actualizar Dataframe en Memoria
-                    df_to_save = pd.DataFrame(new_rows)
-                    if df_to_save.empty: 
-                         df_to_save = pd.DataFrame(columns=["activo", "alias", "ruta"])
-
-                    # 2. Guardado "Fuerte" en Disco
-                    save_user_sources(df_to_save)
-                    
-                    # 3. Sincronización Nuclear (Evitar Zombies)
-                    st.session_state.user_sources_df = load_user_sources() # Releer del disco para estar 100% seguros
-                    st.cache_resource.clear() # Eliminar caché del motor (QueryRouter)
-                    
-                    st.success("Fuente eliminada y caché purgada correctamente.")
-                    st.rerun()
-                else:
-                    st.sidebar.error("Clave incorrecta.")
-        with col_d2:
-             # Si no confirma, simplemente no hacemos nada (el estado visual volverá al original al recargar si no se guarda)
-             if st.button("Cancelar", key="btn_cancel_del"):
-                 st.rerun()
-        
-    # 3. Verificar cambios solo en "Activo" (Checkbox) sin borrar filas
-    elif len(edited_aliases) == len(current_aliases):
-        # Check if 'activo' status changed
-        has_changes = False
-        for index, row in user_edited.iterrows():
-            alias = row["Nombre"]
-            new_active = row["Cargar"]
-            
-            mask = st.session_state.user_sources_df['alias'] == alias
-            if mask.any():
-                current_active = st.session_state.user_sources_df.loc[mask, 'activo'].values[0]
-                if current_active != new_active:
-                    st.session_state.user_sources_df.loc[mask, 'activo'] = new_active
-                    has_changes = True
-        
-        if has_changes:
-            save_user_sources(st.session_state.user_sources_df)
-
-    sources_to_search = edited_sources[edited_sources["Cargar"] == True]["Nombre"].tolist()
-else:
-    sources_to_search = available_indices
-
-# Agregar nueva fuente (st.form evita doble registro)
 BIBLIOTECA_ABS = os.path.abspath(os.path.join(os.path.dirname(__file__), '../02_BIBLIOTECA_NORMATIVA'))
 
-with st.sidebar.expander("➕ Agregar Nueva Fuente", expanded=False):
+# === 1. FUENTE DE BÚSQUEDA (interacción principal) ===
+st.sidebar.subheader("🔍 Consultar en:")
+
+# Leer TODAS las fuentes configuradas (en memoria o no)
+CONFIG_PATH_SIDEBAR = os.path.join(os.path.dirname(__file__), '../03_CONFIG/config.json')
+_todas_fuentes = []
+
+# Fuentes base (config.json)
+if os.path.exists(CONFIG_PATH_SIDEBAR):
+    try:
+        with open(CONFIG_PATH_SIDEBAR, 'r', encoding='utf-8') as f:
+            for _idx in json.load(f).get('indices', []):
+                _n = _idx['nombre']
+                _todas_fuentes.append({
+                    "alias": _n, "activo": True, "tipo": "base",
+                    "en_memoria": _n in query_router.indices,
+                    "vectores": _load_status.get(_n, {}).get('vectores', 0)
+                })
+    except:
+        pass
+
+# Fuentes usuario (fuentes_usuario.json)
+if 'alias' in st.session_state.user_sources_df.columns:
+    for _, _row in st.session_state.user_sources_df.iterrows():
+        _alias = _row.get('alias', '')
+        _todas_fuentes.append({
+            "alias": _alias,
+            "activo": bool(_row.get('activo', True)),
+            "tipo": "usuario",
+            "en_memoria": _alias in query_router.indices,
+            "vectores": _load_status.get(_alias, {}).get('vectores', 0)
+        })
+
+# Mostrar checkbox por cada fuente
+_cambios_activo = False
+for _f in _todas_fuentes:
+    if _f['en_memoria']:
+        _label = f"{_f['alias']}  ✅ ({_f['vectores']:,} vec.)"
+    else:
+        _label = f"{_f['alias']}  ⚪ (no cargada)"
+    _nuevo_activo = st.sidebar.checkbox(_label, value=_f['activo'], key=f"chk_src_{_f['alias']}")
+    if _f['tipo'] == 'usuario' and _nuevo_activo != _f['activo']:
+        _mask = st.session_state.user_sources_df['alias'] == _f['alias']
+        st.session_state.user_sources_df.loc[_mask, 'activo'] = _nuevo_activo
+        _cambios_activo = True
+
+if _cambios_activo:
+    save_user_sources(st.session_state.user_sources_df)
+
+if st.sidebar.button("🔄 Recargar Motor", key="btn_reload_principal"):
+    st.session_state.user_sources_df = load_user_sources()
+    st.cache_resource.clear()
+    st.rerun()
+
+# sources_to_search = solo lo que está actualmente en memoria
+sources_to_search = list(query_router.indices.keys()) if query_router.indices else available_indices
+_vec_sel = sum(_load_status.get(s, {}).get('vectores', 0) for s in sources_to_search)
+st.sidebar.caption(f"En memoria: {len(sources_to_search)} fuente(s) — {_vec_sel:,} vectores")
+
+st.sidebar.markdown("---")
+
+# === 2. GESTIÓN DE FUENTES (mantenimiento, colapsado) ===
+with st.sidebar.expander("⚙️ Gestión de Fuentes", expanded=False):
+
+    # Agregar nueva fuente
+    st.markdown("**➕ Agregar fuente:**")
     with st.form("form_add_source", clear_on_submit=True):
-        new_alias = st.text_input("Alias", placeholder="Ej: LEY 27444")
-        new_path = st.text_input("Ruta de Embeddings", placeholder="Carpeta dentro de 02_BIBLIOTECA_NORMATIVA")
+        new_alias = st.text_input("Alias", placeholder="Ej: Ley 27444")
+        new_path = st.text_input("Ruta embeddings", placeholder="Ruta a carpeta con embeddings")
         submitted = st.form_submit_button("Guardar")
         if submitted and new_alias and new_path:
-            # VALIDACION: Verificar si ya existe
-            if new_alias in st.session_state.user_sources_df['alias'].values:
-                st.error(f"⚠️ El alias '{new_alias}' ya existe. Usa otro nombre.")
+            if 'alias' in st.session_state.user_sources_df.columns and new_alias in st.session_state.user_sources_df['alias'].values:
+                st.error(f"'{new_alias}' ya existe.")
             else:
-                # Convertir ruta absoluta a relativa si apunta a la biblioteca
                 abs_path = os.path.abspath(new_path) if os.path.isabs(new_path) else os.path.abspath(os.path.join(BIBLIOTECA_ABS, new_path))
                 if not os.path.exists(abs_path):
-                    st.error(f"🚫 La ruta no existe: {abs_path}")
+                    st.error(f"Ruta no existe: {abs_path}")
                 else:
-                    # Guardar siempre como ruta relativa desde 01_APP_CORE
                     try:
                         rel_path = os.path.relpath(abs_path, os.path.dirname(__file__))
                         save_path = rel_path.replace("\\", "/")
                     except ValueError:
-                        save_path = abs_path  # Fallback si están en discos distintos
+                        save_path = abs_path
                     new_row = {"activo": True, "alias": new_alias, "ruta": save_path}
                     st.session_state.user_sources_df = pd.concat(
                         [st.session_state.user_sources_df, pd.DataFrame([new_row])],
                         ignore_index=True
                     )
                     save_user_sources(st.session_state.user_sources_df)
-                    st.success("Guardado.")
+                    st.success("Guardada. Recarga el motor.")
                     st.cache_resource.clear()
                     st.rerun()
 
-if st.sidebar.button("🔄 Cargar / Actualizar Motor"):
-    # 1. Limpiar widget data_editor para que se reconstruya con datos frescos
-    if "unified_sources" in st.session_state:
-        del st.session_state["unified_sources"]
-    # 2. Re-leer fuentes del disco (por si hubo cambios de checkbox no sincronizados)
-    st.session_state.user_sources_df = load_user_sources()
-    # 3. Limpiar cache del motor para que QueryRouter recargue con las fuentes activas
-    st.cache_resource.clear()
-    st.rerun()
+    # Eliminar fuente de usuario
+    if 'alias' in st.session_state.user_sources_df.columns:
+        _user_aliases = st.session_state.user_sources_df['alias'].tolist()
+        if _user_aliases:
+            st.markdown("---")
+            st.markdown("**🗑️ Eliminar fuente:**")
+            _alias_del = st.selectbox("Fuente:", [""] + _user_aliases, key="sel_delete_fuente")
+            if _alias_del:
+                _del_pass = st.text_input("Clave (admin2026):", type="password", key="pass_delete_fuente")
+                if st.button("Confirmar eliminación", key="btn_del_fuente"):
+                    if _del_pass == "admin2026":
+                        new_df = st.session_state.user_sources_df[
+                            st.session_state.user_sources_df['alias'] != _alias_del
+                        ].reset_index(drop=True)
+                        st.session_state.user_sources_df = new_df
+                        save_user_sources(new_df)
+                        st.cache_resource.clear()
+                        st.success(f"'{_alias_del}' eliminada.")
+                        st.rerun()
+                    else:
+                        st.error("Clave incorrecta.")
+
 
 st.sidebar.markdown("---")
 
-# 2. Gestión de Prompts
-st.sidebar.subheader("🤖 Prompt de Búsqueda")
-
-# Tabla de prompts con eliminación desde toolbar
-_prompts_df = pd.DataFrame([
-    {"Activo": p["activo"], "Nombre": p["nombre"]}
-    for p in st.session_state.prompts_list
-])
-_nombres_prompts_orig = set(_prompts_df["Nombre"].tolist())
-
-edited_prompts = st.sidebar.data_editor(
-    _prompts_df,
-    column_config={
-        "Activo": st.column_config.CheckboxColumn("Usar", help="Selecciona el prompt activo", default=False),
-        "Nombre": st.column_config.TextColumn("Tema"),
-    },
-    hide_index=True,
-    use_container_width=True,
-    num_rows="dynamic",
-    key="prompts_editor"
-)
-
-# Detectar prompts eliminados desde la tabla
-_nombres_prompts_edit = set(edited_prompts["Nombre"].tolist())
-_prompts_eliminados = _nombres_prompts_orig - _nombres_prompts_edit
-
-if _prompts_eliminados and len(st.session_state.prompts_list) > 1:
-    st.sidebar.warning(f"Eliminar: {', '.join(_prompts_eliminados)}")
-    _del_pass_p = st.sidebar.text_input("Clave para confirmar:", type="password", key="del_pass_prompts")
-    _col_p1, _col_p2 = st.sidebar.columns(2)
-    with _col_p1:
-        if st.button("Confirmar", key="confirm_del_prompt"):
-            if _del_pass_p == "admin2026":
-                st.session_state.prompts_list = [p for p in st.session_state.prompts_list if p["nombre"] not in _prompts_eliminados]
-                if not any(p["activo"] for p in st.session_state.prompts_list):
-                    st.session_state.prompts_list[0]["activo"] = True
-                save_prompts(st.session_state.prompts_list)
-                st.sidebar.success("Eliminado.")
-                st.rerun()
-            else:
-                st.sidebar.error("Clave incorrecta.")
-    with _col_p2:
-        if st.button("Cancelar", key="cancel_del_prompt"):
-            st.rerun()
-
-# Detectar cambio de selección y asegurar solo 1 activo
-if not _prompts_eliminados:
-    _activos = edited_prompts[edited_prompts["Activo"] == True]
-    if len(_activos) > 0:
-        _nombre_activo = _activos.iloc[-1]["Nombre"]
-        for p in st.session_state.prompts_list:
-            p["activo"] = (p["nombre"] == _nombre_activo)
-    else:
-        _nombre_activo = st.session_state.prompts_list[0]["nombre"]
-        st.session_state.prompts_list[0]["activo"] = True
-
-# Obtener prompt activo
-_prompt_activo = next((p for p in st.session_state.prompts_list if p["activo"]), st.session_state.prompts_list[0])
-
-# Text area editable con el prompt seleccionado
-_prompt_editado = st.sidebar.text_area(
-    f"Prompt: {_prompt_activo['nombre']}",
-    value=_prompt_activo["prompt"],
-    height=150,
-    help="Edita el prompt. Los cambios se guardan al hacer clic fuera del campo."
-)
-
-# Guardar si cambió
-if _prompt_editado != _prompt_activo["prompt"]:
-    _prompt_activo["prompt"] = _prompt_editado
-    save_prompts(st.session_state.prompts_list)
-
-# Agregar nuevo prompt
-with st.sidebar.expander("➕ Agregar Prompt", expanded=False):
-    with st.form("form_add_prompt", clear_on_submit=True):
-        new_prompt_name = st.text_input("Nombre del tema", placeholder="Ej: Derecho Laboral")
-        new_prompt_text = st.text_area("Instrucciones", placeholder="Eres un especialista en...", height=100)
-        submitted_p = st.form_submit_button("Guardar Prompt")
-        if submitted_p and new_prompt_name and new_prompt_text:
-            st.session_state.prompts_list.append({
-                "nombre": new_prompt_name,
-                "activo": False,
-                "prompt": new_prompt_text
-            })
-            save_prompts(st.session_state.prompts_list)
-            st.success("Prompt guardado.")
-            st.rerun()
+# === 3. PROMPT DEL SISTEMA (colapsado, editable si se necesita) ===
+with st.sidebar.expander("🤖 Prompt del sistema", expanded=False):
+    _prompt_editado = st.text_area(
+        "Instrucciones para la IA:",
+        value=st.session_state.prompt_personalizado,
+        height=220,
+        key="prompt_text_area"
+    )
+    if _prompt_editado != st.session_state.prompt_personalizado:
+        st.session_state.prompt_personalizado = _prompt_editado
+    if st.button("↩️ Restaurar prompt original", key="btn_restore_prompt"):
+        st.session_state.prompt_personalizado = DEFAULT_PROMPT
+        st.rerun()
+# Usar siempre el valor actualizado de session_state
+_prompt_editado = st.session_state.prompt_personalizado
 
 st.sidebar.markdown("---")
 
-# 3. Herramientas de Sesión
+# === 4. HERRAMIENTAS DE SESIÓN ===
 st.sidebar.subheader("💾 Sesión")
 if st.sidebar.button("Descargar Historial de Chat"):
     history_text = "# Historial de Consultas\n\n"
     for msg in st.session_state.chat_history:
         history_text += f"### {msg['role']}\n{msg['content']}\n\n---\n\n"
-    
     st.sidebar.download_button(
         label="📥 Guardar como Markdown",
         data=history_text,
@@ -632,7 +462,7 @@ if _n_cache > 0:
         _save_cache({})
         st.rerun()
 
-# 4. Debug Mode
+# === 5. Debug Mode ===
 debug_mode = st.sidebar.toggle("🛠️ Modo Debug (Ver Contexto IA)")
 
 # --- INTERFAZ PRINCIPAL ---
@@ -693,7 +523,7 @@ if query_text := st.chat_input("Escribe tu consulta legal aquí..."):
 
             with st.spinner("Filtrando resultados..."):
                 # 3. RE-RANKING (siempre activo, invisible)
-                results_final = query_router.rerank(query_busqueda, results, top_n=7)
+                results_final = query_router.rerank(query_busqueda, results, top_n=12)
 
             if debug_mode:
                 if query_busqueda != query_text:
