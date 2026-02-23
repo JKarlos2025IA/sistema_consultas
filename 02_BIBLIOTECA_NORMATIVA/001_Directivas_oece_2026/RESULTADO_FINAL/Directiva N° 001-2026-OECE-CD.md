@@ -1,5 +1,6 @@
 **Directiva N° 001-2026-OECE-CD**
 
+
 **DIRECTIVA SOBRE LA FICHA ÚNICA DEL PROVEEDOR – FUP**
 
 **I.** **FINALIDAD**
@@ -16,7 +17,9 @@ del proveedor en la Ficha Única del Proveedor (FUP).
 
 **III.** **ÁMBITO DE APLICACIÓN**
 
+
 La Directiva es de cumplimiento obligatorio para:
+
 
     - Las entidades contratantes comprendidas en el artículo 3 de la Ley N° 32069,
 Ley General de Contrataciones Públicas.
@@ -31,6 +34,7 @@ Contrataciones Públicas Eficientes (OECE) vinculadas a la gestión de
 información del proveedor.
 
 **IV.** **BASE LEGAL**
+
 
     - Ley N° 32069, Ley General de Contrataciones Públicas
 
@@ -50,12 +54,12 @@ Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas.
 el Texto Integrado del Reglamento de Organización y Funciones del Organismo
 Especializado para las Contrataciones Públicas Eficientes (OECE).
 
-Página | 2
 
 Las referidas normas incluyen sus respectivas disposiciones ampliatorias,
 modificatorias y conexas, de ser el caso.
 
 **V.** **DEFINICIONES**
+
 
     - **Ficha Única del Proveedor (FUP):** Es una herramienta administrada por el
 Organismo Especializado para las Contrataciones Eficientes (OECE) que
@@ -82,7 +86,9 @@ corresponda.
 
 **VI.** **REFERENCIAS**
 
+
 En la Directiva se utilizan las siguientes referencias:
+
 
     - **Directiva:** Directiva sobre la Ficha Única del Proveedor - FUP.
 
@@ -93,7 +99,9 @@ Públicas, aprobado por Decreto Supremo N° 009-2025-EF.
 
 **VII.** **SIGLAS**
 
+
 En la Directiva se utilizan las siguientes siglas:
+
 
     - **CGR:** Contraloría General de la República.
 
@@ -106,7 +114,6 @@ En la Directiva se utilizan las siguientes siglas:
     - **INDECOPI:** Instituto Nacional de Defensa de la Competencia y de la Protección
 de la Propiedad Intelectual.
 
-Página | 3
 
     - **JNE:** Jurado Nacional de Elecciones.
 
@@ -140,6 +147,7 @@ Página | 3
 
 **VIII.** **RESPONSABILIDADES**
 
+
 Todos los actores comprendidos dentro del ámbito de aplicación de la Directiva son
 responsables de su cumplimiento. El incumplimiento de las disposiciones
 establecidas en la Directiva genera las responsabilidades administrativas, civiles y/o
@@ -147,6 +155,7 @@ penales a que hubiera lugar, según corresponda, en el marco de la normativa
 vigente.
 
 **IX.** **DISPOSICIONES GENERALES**
+
 
 9.1 La FUP consolida información relevante de los proveedores sobre la base de la
 
@@ -175,7 +184,6 @@ Reglamento.
 consistencia de la información que declaran en los procedimientos y trámites
 ante el RNP, así como de aquella que presentan en los procedimientos de
 
-Página | 4
 
 selección. Dicha información se incorpora a la FUP y es utilizada como fuente
 oficial de información de los proveedores.
@@ -191,10 +199,13 @@ proveedores.
 
 **10.1** **Contenido de la información en la FUP**
 
+
 10.1.1 Información relevante del proveedor
+
 
        - La FUP contiene información relevante del proveedor proveniente de
 fuentes internas y externas, conforme a lo siguiente:
+
 
 |Información en<br>la FUP|Contenido que muestra la FUP|Fuente de origen<br>de la información|
 |---|---|---|
@@ -205,7 +216,6 @@ fuentes internas y externas, conforme a lo siguiente:
 |**Sanciones del**<br>**Tribunal de**<br>**Contrataciones**<br>**Públicas**|Inhabilitación temporal|Inhabilitación temporal|
 |**Sanciones del**<br>**Tribunal de**<br>**Contrataciones**<br>**Públicas**|Inhabilitación definitiva<br>|Inhabilitación definitiva<br>|
 
-Página | 5
 
 |Información en<br>la FUP|Contenido que muestra la FUP|Fuente de origen<br>de la información|
 |---|---|---|
@@ -222,11 +232,11 @@ Página | 5
 |**Información**<br>**declarada por**<br>**proveedores**|Información declarada en los procedimientos<br>administrativos y trámites ante el RNP|Fuente interna:<br>RNP.|
 |**Mecanismo**<br>**valorativo de la**<br>**reputación de**<br>**los proveedores**|Nivel de desempeño conforme al mecanismo<br>valorativo de reputación del proveedor|Fuente interna:<br>SEACE y TCP.<br> <br>Fuente externa:<br>PJ, SBS y entidades<br>públicas y<br>privadas.<br>|
 
-Página | 6
 
 |Información en<br>la FUP|Contenido que muestra la FUP|Fuente de origen<br>de la información|
 |---|---|---|
 |**Licencias,**<br>**autorizaciones y**<br>**otros**<br>**documentos**<br>**emitidos por**<br>**entidades**<br>**públicas.**|Certificados,<br>constancias,<br>licencias,<br>autorizaciones y otros documentos emitidos<br>por entidades públicas|Fuente externa:<br>Entidades públicas.|
+
 
  - La FUP también contiene información que establezca la DGA mediante
 directiva, conforme a lo previsto en el literal i) del numeral 36.2 del artículo
@@ -239,6 +249,7 @@ en el numeral 36.3 del artículo 36 y la Segunda Disposición
 Complementaria Final del Reglamento.
 
 El proveedor debe tener en cuenta las consideraciones siguientes:
+
 
    - El proveedor puede acreditar experiencia anterior al 2013 de acuerdo
 
@@ -256,6 +267,7 @@ corresponda.
 
 10.1.2 Información relacionada a los impedimentos
 
+
 La FUP contiene información respecto de los proveedores que tengan
 [los impedimentos previstos en el numeral 31.2 del artículo 31 de la Ley,](https://spij.minjus.gob.pe/Graficos/Peru/2024/Junio/24/L-32069.pdf)
 conforme a lo siguiente:
@@ -266,22 +278,25 @@ conforme a lo siguiente:
 |2. Impedimentos en razón del parentesco.|2A, 2B y 2C|
 |3. Impedimentos para personas jurídicas o<br>por representación.|3C y 3D|
 
-Página | 7
 
 |IMPEDIMENTO|TIPO<br>(solo los que corresponden)|
 |---|---|
 |4. Impedimentos derivados de sanciones<br>administrativas, civiles y penales, o por la<br>inclusión en otros registros.|4A, 4C, 4D y 4E|
 
+
 10.1.3 Fuentes de información para la determinación de impedimentos
+
 
  - La FUP obtiene datos de fuentes de información internas y externas, según
 el siguiente detalle:
+
 
 |FUENTE<br>INTERNA|RNP|
 |---|---|
 |**FUENTE**<br>**INTERNA**|Información de la persona natural o persona jurídica como<br>proveedor inscrito, conforme a la información declarada en los<br>procedimientos administrativos y trámites ante el RNP.|
 |**FUENTE**<br>**INTERNA**|**TCP**|
 |**FUENTE**<br>**INTERNA**|Información de proveedores sancionados con inhabilitación<br>temporal o inhabilitación definitiva.|
+
 
 |FUENTE<br>EXTERNA|CGR|
 |---|---|
@@ -293,7 +308,6 @@ el siguiente detalle:
 |**FUENTE**<br>**EXTERNA**|**Organismos Multilaterales**|
 |**FUENTE**<br>**EXTERNA**|Información de personas naturales o jurídicas que se encuentren|
 
-Página | 8
 
 |Col1|comprendidas en alguna de las listas de organismos multilaterales<br>de personas y empresas no elegibles para ser contratadas.|
 |---|---|
@@ -308,11 +322,13 @@ Página | 8
 ||**SUNARP**|
 ||Información de personas naturales y personas jurídicas que<br>tengan como apoderados, representantes, miembros de sus<br>órganos de administración a los impedidos establecidos en los<br>numerales 1 y 2 del artículo 30 de la Ley que cuenten con poderes<br>en asuntos vinculados a contrataciones públicas.|
 
+
  - Las entidades públicas que proporcionan información para la validación de
 impedimentos en la FUP son responsables de que la información que obre
 en sus registros sea veraz y se encuentre debidamente actualizada.
 
 10.1.4 Mensaje de información de impedimento
+
 
 10.1.4.1 La FUP informa mediante mensajes de impedimento cuando un
 
@@ -329,12 +345,12 @@ proveedor no puede contratar.
 proveedor con impedimento no pueda registrar su oferta en procesos
 de contratación a nivel nacional.
 
-Página | 9
 
 En caso del proveedor con impedimento de acuerdo a la competencia
 institucional, sectorial, territorial, jurisdiccional o de la entidad
 contratante, dicha integración genera una restricción en el registro de
 la oferta en el respectivo proceso de contratación.
+
 
 **10.2** **Atención de solicitudes sobre inconsistencia o actualización de la**
 
@@ -374,6 +390,7 @@ en el numeral 10.1.3. de la Directiva.
 
 **10.3** **Atención de requerimiento de información**
 
+
 10.3.1 La atención de requerimientos de información relacionados con la FUP
 
 se realiza a través de los procedimientos de colaboración entre
@@ -386,7 +403,6 @@ la FUP, conforme a lo establecido en el numeral 10.1 de la Directiva, así
 como a cualquier otra información que la FUP muestre conforme a la
 Ley y el Reglamento.
 
-Página | 10
 
 10.3.3 En caso de solicitar información vinculada con impedimentos generados
 
@@ -397,11 +413,13 @@ información.
 
 **10.4** **Módulo informático de monitoreo de la información**
 
+
 La FUP cuenta con un módulo de monitoreo que permite supervisar su
 correcto funcionamiento para identificar de manera preventiva posibles
 inconsistencias de la información.
 
 **10.5** **Verificación de impedimentos para contratar**
+
 
 10.5.1 La entidad contratante revisa la FUP a fin de verificar que los
 
@@ -418,6 +436,7 @@ contratadas (tipo 4E) se realiza en los enlaces ubicados en la sección
 contratar con el Estado” de la FUP.
 
 **XI.** **DISPOSICIONES COMPLEMENTARIAS TRANSITORIAS**
+
 
 11.1 En tanto culmine el proceso de implementación de la validación de
 
@@ -441,7 +460,6 @@ proveedor, la inhabilitación administrativa por otros organismos
 facultados por ley, los certificados, constancias, licencias, autorizaciones y
 otros documentos emitidos por entidades públicas.
 
-Página | 11
 
      - La información declarada por los proveedores señalada en el numeral 36.3
 
@@ -477,7 +495,6 @@ verificarla directamente en la FUP.
 Solicitud de corrección, modificación, exclusión o inclusión de información en la
 FUP.
 
-Página | 12
 
 |ANEXO<br>DIRECCIÓN DEL REGISTRO NACIONAL DE PROVEEDORES<br>SOLICITUD DE CORRECCIÓN, MODIFICACIÓN, EXCLUSIÓN O INCLUSIÓN DE INFORMACIÓN EN LA<br>FICHA ÚNICA DEL PROVEEDOR<br>(Solo en el caso de fuentes internas)<br>(Debe ser llenado con letra clara y legible)<br>Marque con un aspa "X", el tipo de persona y origen.|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -510,4 +527,4 @@ Página | 12
 |**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|**4.3 Documentos de sustento del requerimiento:**<br>**Debe decir**<br>**Dice**<br>**4.1 Identificación de la información**<br>**4.2 Explicar de manera clara y detallada lo solicitado**|
 |**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|**BASE LEGAL: Ley N° 32069, Ley General de Contrataciones Públicas y su Reglamento aprobado mediante Decreto Supremo N° 009-2025-EF.**<br>**FIRMA DIGITAL DE LA PERSONA NATURAL O REPRESENTANTE**<br>**LEGAL DE LA PERSONA JURIDICA**<br>**NOMBRES Y APELLIDOS:**<br>**N° DE DOCUMENTO DE IDENTIDAD:**<br>**Declaro bajo juramento que toda la información proporcionada es veraz, en caso contrario me someto al procedimiento y a las sanciones previstas en la Ley Nº**<br>**27444, Ley del Procedimiento Administrativo General. Asimismo, faculto se notifiquen las comunicaciones a través de su casilla electrónica del OECE .**|
 
-Página | 13
+

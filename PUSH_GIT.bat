@@ -18,7 +18,15 @@ if "%commit_msg%"=="" (
 )
 
 echo.
-echo 2. Sincronizando con GitHub (git pull --rebase)...
+echo 2. Agregando cambios (git add)...
+git add .
+
+echo.
+echo 3. Guardando cambios (git commit)...
+git commit -m "%commit_msg%"
+
+echo.
+echo 4. Sincronizando con GitHub (git pull --rebase)...
 git pull --rebase origin main
 if %errorlevel% neq 0 (
     echo.
@@ -27,14 +35,6 @@ if %errorlevel% neq 0 (
     pause
     exit /b 1
 )
-
-echo.
-echo 3. Agregando cambios (git add)...
-git add .
-
-echo.
-echo 4. Guardando cambios (git commit)...
-git commit -m "%commit_msg%"
 
 echo.
 echo 5. Subiendo a la nube (git push)...

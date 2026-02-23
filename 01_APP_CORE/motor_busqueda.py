@@ -200,45 +200,49 @@ class QueryRouter:
 
     def search_keyword(self, query_text, sources=None):
         """
-        Búsqueda de respaldo por coincidencia exacta de texto (Keyword Search).
-        Útil para términos específicos como 'entidad cesionaria'.
+        Búsqueda por palabras clave (flexible, no requiere substring exacto).
+        Busca chunks que contengan TODAS las palabras significativas de la query.
         """
-        print(f"  [Modo Híbrido] Activando búsqueda exacta para: '{query_text}'")
+        print(f"  [Modo Híbrido] Activando búsqueda por palabras para: '{query_text}'")
         results = []
         indices_to_search = sources if sources else self.chunks.keys()
-        
-        query_lower = query_text.lower()
-        
+
+        # Extraer palabras significativas (>= 3 chars, sin stopwords)
+        stopwords = {'del', 'las', 'los', 'una', 'uno', 'con', 'por', 'para', 'que', 'como', 'sin', 'sobre', 'entre', 'desde', 'hasta', 'más', 'sus', 'este', 'esta', 'ese', 'esa'}
+        palabras = [w for w in re.split(r'\W+', query_text.lower()) if len(w) >= 3 and w not in stopwords]
+
+        if not palabras:
+            return results
+
         for nombre_indice in indices_to_search:
             if nombre_indice not in self.chunks: continue
-            
-            # Recorrer todos los chunks en memoria (O(N) pero rápido para <100k chunks)
+
             chunks_list = self.chunks[nombre_indice]
             meta_list = self.metadata[nombre_indice]
-            
-            # Manejar si los chunks son lista o dict
+
             if isinstance(chunks_list, dict):
                 items = chunks_list.items()
             else:
                 items = enumerate(chunks_list)
-                
+
             for idx, text in items:
-                # Verificar coincidencia
-                if query_lower in text.lower():
-                    # Recuperar metadata con seguridad
+                text_lower = text.lower()
+                # Contar cuántas palabras clave están presentes
+                matches = sum(1 for p in palabras if p in text_lower)
+                if matches >= len(palabras):  # Todas las palabras presentes
                     if isinstance(meta_list, dict):
                         meta = meta_list.get(str(idx), {})
                     else:
                         meta = meta_list[idx] if idx < len(meta_list) else {}
-                        
+
                     results.append({
                         'source': nombre_indice,
-                        'score': 99.9, # Score artificialmente alto para forzar relevancia
+                        'score': 99.9,
                         'chunk_text': text,
                         'metadata': meta,
                         'method': 'keyword'
                     })
-        
+
         return results
 
     def search(self, query_text, top_k=5, sources=None):
@@ -320,7 +324,43 @@ class QueryRouter:
                 final_results.append(res)
         
         sorted_results = sorted(final_results, key=lambda x: x['normalized_score'], reverse=True)
-        return sorted_results[:top_k*2] # Devolver un poco más para tener variedad
+
+        # Asegurar que resultados vectoriales no sean ahogados por keyword
+        # Tomar los top keyword + TODOS los vectoriales para re-ranking
+        keyword_results_final = [r for r in sorted_results if r['method'] == 'keyword'][:top_k * 2]
+        vector_results_final = [r for r in sorted_results if r['method'] == 'vector']
+        # Combinar sin duplicados
+        seen = set(id(r) for r in keyword_results_final)
+        combined_final = keyword_results_final + [r for r in vector_results_final if id(r) not in seen]
+        return combined_final
+
+    def rerank(self, query_text, results, top_n=7, min_score=0.15):
+        """
+        Re-rankea resultados usando cosine similarity real entre query y chunks.
+        Usa el modelo SentenceTransformer ya cargado en memoria (gratis, ~50ms).
+        """
+        if not results:
+            return []
+
+        # Codificar query y textos de chunks
+        query_embedding = self.model.encode([query_text], normalize_embeddings=True)
+        chunk_texts = [r['chunk_text'] for r in results]
+        chunk_embeddings = self.model.encode(chunk_texts, normalize_embeddings=True)
+
+        # Cosine similarity (embeddings ya normalizados, dot product = cosine sim)
+        similarities = np.dot(chunk_embeddings, query_embedding.T).flatten()
+
+        # Asignar scores y filtrar
+        scored_results = []
+        for i, res in enumerate(results):
+            sim = float(similarities[i])
+            if sim >= min_score:
+                res['rerank_score'] = sim
+                scored_results.append(res)
+
+        # Ordenar por similitud real descendente
+        scored_results.sort(key=lambda x: x['rerank_score'], reverse=True)
+        return scored_results[:top_n]
 
 if __name__ == '__main__':
     router = QueryRouter()

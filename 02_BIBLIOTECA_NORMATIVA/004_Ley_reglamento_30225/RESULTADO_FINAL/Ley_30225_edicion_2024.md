@@ -1,22 +1,22 @@
-LEY
+
 
 # **LEY DE CONTRATACIONES DEL ESTADO** **LEY No 30225**
 
-_Materiales de enseñanza_
 
 ### 1
 
-LEY
 
 ### **TABLA DE CONTENIDO**
 
 **TÍTULO I** **:** **DISPOSICIONES PRELIMINARES**
+
 
 Capítulo I : Disposiciones generales
 Capítulo II : Autoridad responsable del proceso de contratación
 Capítulo IV : Condiciones exigibles a los proveedores
 
 **TÍTULO II :** **PROCESO DE CONTRATACIÓN**
+
 
 Capítulo I : Planificación
 Capítulo II : Actuaciones preparatorias
@@ -43,11 +43,9 @@ Capítulo IV : El contrato y su ejecución
 
 **DISPOSICIÓN COMPLEMENTARIA DEROGATORIA**
 
-_Materiales de enseñanza_
 
 ### 2
 
-LEY
 
 ## **TÍTULO I** **DISPOSICIONES PRELIMINARES**
 
@@ -75,6 +73,7 @@ a) Libertad de concurrencia. Las Entidades promueven el libre acceso y participa
 de contratación que realicen, debiendo evitarse exigencias y formalidades costosas e innecesarias. Se encuentra
 prohibida la adopción de prácticas que limiten o afecten la libre concurrencia de proveedores.
 
+
 **Opinión** **[056-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4294876-opinion-n-056-2023-dtn)**
 
 b) Igualdad de trato. Todos los proveedores deben disponer de las mismas oportunidades para formular sus ofertas,
@@ -91,17 +90,16 @@ las excepciones establecidas en el ordenamiento jurídico.
 **Opinión** **[004-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5138882-opinion-n-004-2024-dtn)**
 **Opinión** **[005-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3832606-opinion-n-005-2023-dtn)**
 
-1
+
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017._
 
-_Materiales de enseñanza_
 
 ### 3
 
-LEY
 
 d) Publicidad. El proceso de contratación debe ser objeto de publicidad y difusión con la finalidad de promover la libre
 concurrencia y competencia efectiva, facilitando la supervisión y el control de las contrataciones.
+
 
 **Opinión** **[004-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5138882-opinion-n-004-2024-dtn)**
 
@@ -134,6 +132,7 @@ comunicada a las autoridades competentes de manera directa y oportuna.
 
 3.1 Se encuentran comprendidos dentro de los alcances de la presente Ley, bajo el término genérico de Entidad:
 
+
 a) Los Ministerios y sus organismos públicos, programas y proyectos adscritos.
 
 b) El Poder Legislativo, Poder Judicial y Organismos Constitucionalmente Autónomos.
@@ -148,11 +147,9 @@ f) Juntas de Participación Social.
 
 g) Las empresas del Estado pertenecientes a los tres niveles de gobierno.
 
-_Materiales de enseñanza_
 
 ### 4
 
-LEY
 
 h) Los fondos constituidos total o parcialmente con recursos públicos, sean de derecho público o privado. [2]
 
@@ -162,6 +159,7 @@ tienen el mismo tratamiento que las Entidades señaladas en el numeral anterior.
 3.3 La presente Ley se aplica a las contrataciones que deben realizar las Entidades y órganos señalados en los numerales
 precedentes, así como a otras organizaciones que, para proveerse de bienes, servicios u obras, asumen el pago con
 fondos públicos.
+
 
 **Opinión** **[092-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4623075-opinion-n-092-2023-dtn)**
 **Opinión** **[086-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4587198-opinion-n-086-2023-dtn)**
@@ -181,6 +179,7 @@ a) Contratos bancarios y financieros que provienen de un servicio financiero, lo
 accesorios o auxiliares a un servicio de naturaleza financiera, salvo la contratación de seguros y el arrendamiento
 financiero, distinto de aquel que se regula en la Ley 28563 o norma que la sustituya.
 
+
 NOTA:
 De conformidad con el Artículo 2 del Decreto Supremo N° 169-2022-EF, publicado el
 24 julio 2022, los contratos bancarios y financieros que provienen de un servicio
@@ -198,16 +197,15 @@ dignatarios y comisionados, siempre que tales contrataciones se encuentren por d
 establecidos en los tratados u otros compromisos internacionales que incluyan disposiciones en materia de
 contratación pública, de los que el Perú es parte.
 
+
 _2_
 _Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 5
 
-LEY
 
 d) La contratación de notarios públicos para que ejerzan las funciones previstas en la presente norma y su reglamento.
 
@@ -230,10 +228,12 @@ Legislativo Nº 674, o normas que lo sustituyan [3] .
 
 j) Las contrataciones que se sujetan a regímenes especiales
 
+
 Literal incorporado por el **Artículo 2 del Decreto Legislativo N° 1444**, publicado el 16
 septiembre 2018, el mismo que entró en **vigencia** a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
+
 
 **Opinión** **[062-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4314293-opinion-n-062-2023-dtn)**
 **Opinión** **[015-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3857758-opinion-n-015-2023-dtn)**
@@ -246,11 +246,12 @@ Artículo 5.- Supuestos excluidos del ámbito de aplicación sujetos a supervisi
 5.1 Están sujetos a supervisión del Organismo Supervisor de las Contrataciones del Estado (OSCE), los siguientes
 supuestos excluidos de la aplicación de la Ley:
 
+
 a) Las contrataciones cuyos montos sean iguales o inferiores a ocho (8) Unidades Impositivas Tributarias,
 vigentes al momento de la transacción. Lo señalado en el presente literal no es aplicable a las contrataciones
 de bienes y servicios incluidos en el Catálogo Electrónico de Acuerdo Marco.
 
-3
+
 _Literal incorporado por el Artículo 2 del Decreto Legislativo N° 1341, publicado el 07,01. 2017 y posteriormente modificado por_
 
 _por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16.09.2018_
@@ -258,11 +259,9 @@ _por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16.09.2018_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final, cuyo texto es el siguiente:_
 
-_Materiales de enseñanza_
 
 ### 6
 
-LEY
 
 Notas:
 
@@ -284,6 +283,7 @@ del artículo 3 del citado Decreto de Urgencia, queda suspendido lo establecido 
 presente literal. El citado Decreto de Urgencia tiene vigencia hasta el 31 de diciembre
 de 2022.
 
+
 **Opinión** **[031-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4021924-opinion-n-031-2023-dtn)**
 **Opinión** **[088-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2172926-opinion-n-088-2021-dtn)**
 **Opinión** **[042-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195961-opinion-n-042-2020-dtn)**
@@ -294,6 +294,7 @@ b) La contratación de servicios públicos, siempre que no exista la posibilidad
 
 c) Los convenios de colaboración u otros de naturaleza análoga, suscritos entre Entidades, siempre que se brinden los
 bienes, servicios u obras propios de la función que por Ley les corresponde, y no se persigan fines de lucro.
+
 
 **Opinión** **[092-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4623075-opinion-n-092-2023-dtn)**
 **Opinión** **[044-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4148802-opinion-n-044-2023-dtn)**
@@ -310,15 +311,14 @@ f) Las contrataciones realizadas con proveedores no domiciliados en el país cua
 condiciones: i) se sustente la imposibilidad de realizar la contratación a través de los métodos de contratación de la
 presente Ley; o ii) el mayor valor de las prestaciones se realice en territorio extranjero.
 
+
 5 _Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 7
 
-LEY
 
 **Opinión** **[078-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2058155-opinion-n-078-2021-dtn)**
 
@@ -328,13 +328,16 @@ _compromisos internacionales vigentes. Para tal efecto, la Entidad debe verifica
 _pertenece a un Estado clasificado con grado de inversión, que es supervisada por la autoridad competente de su país y_
 _que cuenta con la clasificación de riesgo mínima._
 
+
 Literal derogado por el Artículo 4 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
 
+
 5.2 El reglamento establece los aspectos y requisitos aplicables a estas contrataciones. El Organismo Supervisor de las
 Contrataciones del Estado (OSCE) establece los criterios para la supervisión.
+
 
 **CAPÍTULO II**
 **AUTORIDAD RESPONSABLE DEL PROCESO DE CONTRATACIÓN**
@@ -359,6 +362,7 @@ remitir la documentación referida a la ejecución del convenio por parte del or
 información debe ser puesta en conocimiento del Organismo Supervisor de las Contrataciones del Estado (OSCE) y
 de los órganos que conforman el Sistema Nacional de Control, cuando estos lo soliciten.
 
+
 _6 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
@@ -367,16 +371,15 @@ _Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publica
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 8
 
-LEY
 
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
+
 
 CONCORDANCIAS:
 R.M. N° 495-2017-EF-15 - Aprueban lineamientos y criterios para el encargo de
@@ -394,10 +397,12 @@ agregación de demanda, conforme a lo establecido en el reglamento. Asimismo, la
 corporativas obligatorias a cargo de la Central de Compras Públicas - Perú Compras, conforme a las disposiciones
 establecidas por esta Entidad.
 
+
 CONCORDANCIAS:
 D.S. N.º 253-2023-EF - Aprueba las compras corporativas obligatorias para la adquisición
 de papelería en general, útiles de oficina y materiales de aseo y limpieza, a través de los
 Catálogos Electrónicos de Acuerdo Marco y dicta otras disposiciones.
+
 
 **Opinión** **[110-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825671-opinion-n-110-2023-dtn)**
 **Opinión** **[087-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4587241-opinion-n-087-2023-dtn)**
@@ -406,7 +411,9 @@ Catálogos Electrónicos de Acuerdo Marco y dicta otras disposiciones.
 
 8.1 Se encuentran encargados de los procesos de contratación de la Entidad:
 
+
 **Opinión** **[057-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1963570-opinion-n-057-2021-dtn)**
+
 
 a) El Titular de la Entidad, que es la más alta autoridad ejecutiva, de conformidad con sus normas de
 organización, que ejerce las funciones previstas en la Ley y su reglamento para la aprobación, autorización y
@@ -415,7 +422,7 @@ supervisión de los procesos de contratación de bienes, servicios y obras.
 b) El Área Usuaria, que es la dependencia cuyas necesidades pretenden ser atendidas con determinada
 contratación o, que dada su especialidad y funciones, canaliza los requerimientos formulados por otras
 
-8
+
 _Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -424,14 +431,13 @@ _9 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, pub
 _vigencia a los quince (15) días contados a partir de la publicación de las modificaciones al reglamento_
 _a que hace referencia la Primera Disposición Complementaria Final-_
 
-_Materiales de enseñanza_
 
 ### 9
 
-LEY
 
 dependencias, que colabora y participa en la planificación de las contrataciones, y realiza la verificación
 técnica de las contrataciones efectuadas a su requerimiento, para su conformidad.
+
 
 **Opinión** **[069-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4415197-opinion-n-069-2023-dtn)**
 **Opinión** **[112-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2549332-opinion-n-112-2021-dtn)**
@@ -439,6 +445,7 @@ técnica de las contrataciones efectuadas a su requerimiento, para su conformida
 
 c) El Órgano Encargado de las Contrataciones, que es el órgano o unidad orgánica que realiza las actividades
 relativas a la gestión del abastecimiento de la Entidad, incluida la gestión administrativa de los contratos.
+
 
 La Entidad puede conformar comités de selección, que son órganos colegiados encargados de seleccionar al
 proveedor que brinde los bienes, servicios u obras requeridos por el área usuaria a través de determinada
@@ -454,6 +461,7 @@ dispuesto en el reglamento [11] .
 
 8.3 El reglamento establece otros supuestos en los que el Titular de la Entidad no puede delegar la autoridad otorgada.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
@@ -468,7 +476,7 @@ contrato y su conclusión, de manera eficiente, bajo el enfoque de gestión por 
 de las normas aplicables y de los fines públicos de cada contrato, conforme a los principios establecidos en el artículo
 2 de la presente Ley.
 
-10
+
 _Extremo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -477,11 +485,9 @@ _a los treinta (30) días calendario contados a partir de la publicación de las
 _Disposición Complementaria Final-_
 _12 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017._
 
-_Materiales de enseñanza_
 
 ### 10
 
-LEY
 
 De corresponder la determinación de responsabilidad por las contrataciones, esta se realiza de acuerdo al régimen
 jurídico que vincule a las personas señaladas en el párrafo anterior con la Entidad, sin perjuicio de las
@@ -490,6 +496,7 @@ responsabilidades civiles y penales que correspondan.
 9.2 Las Entidades son responsables de prevenir y solucionar de manera efectiva los conflictos de intereses que puedan
 surgir en la contratación a fin de garantizar el cumplimiento de los principios regulados en el artículo 2 de la presente
 Ley.
+
 
 **Opinión** **[065-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3405823-opinion-n-065-2022-dtn)**
 **Opinión** **[057-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1963570-opinion-n-057-2021-dtn)**
@@ -510,10 +517,12 @@ surjan discrepancias en el contrato y estas se sometan a arbitraje, por el tiemp
 de inspectores en tanto se contrata la supervisión. El reglamento establece las condiciones necesarias para su
 aplicación.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
+
 
 **Opinión** **[053-2023/DTN](https://cdn.www.gob.pe/uploads/document/file/4583021/Opini%C3%B3n%20053-2023-DTN%20-%20GOB.REG.PIURA%20-%20OBLIG.PAGO%20X%20SERVs.SUPERV.OBRA.pdf?v=1684531402)**
 **Opinión** **[003-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1484839-opinion-n-003-2021-dtn)**
@@ -521,6 +530,7 @@ referencia la Primera Disposición Complementaria Final.
 **CONDICIONES EXIGIBLES A LOS PROVEEDORES**
 
 **Artículo 11. Impedimentos** **[14]** **.**
+
 
 **Opinión** **[125-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976803-opinion-n-125-2023-dtn)**
 **Opinión** **[100-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760005-opinion-n-100-2023-dtn)**
@@ -530,14 +540,11 @@ referencia la Primera Disposición Complementaria Final.
 _13 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
-14
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017._
 
-_Materiales de enseñanza_
 
 ### 11
 
-LEY
 
 **Opinión** **[027-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4013215-opinion-n-027-2023-dtn)**
 **Opinión** **026-2023/DTN**
@@ -557,10 +564,12 @@ Ley, las siguientes personas [15] :
 **Opinión** **[155-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/307283-opinion-n-155-2019-dtn)**
 **Opinión** **[070-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290906-opinion-n-070-2019-dtn)**
 
+
 a) El Presidente y los Vicepresidentes de la República, los Congresistas de la República, los Jueces Supremos de
 la Corte Suprema de Justicia de la República, los titulares y los miembros del órgano colegiado de los
 Organismos Constitucionales Autónomos, en todo proceso de contratación mientras ejerzan el cargo y hasta
 doce (12) meses después de haber dejado el mismo.
+
 
 **Opinión** **[002-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5138829-opinion-n-002-2024-dtn)**
 **Opinión** **[077-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3495895-opinion-n-077-2022-dtn)**
@@ -568,6 +577,7 @@ doce (12) meses después de haber dejado el mismo.
 **Opinión** **[029-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2992777-opinion-n-029-2022-dtn)**
 **Opinión** **[012-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2776046-opinion-n-12-2022-dtn)**
 **Opinión** **[140-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/293670-opinion-n-140-2019-dtn)**
+
 
 b) Los Ministros y Viceministros de Estado en todo proceso de contratación mientras ejerzan el cargo; luego de
 dejar el cargo, el impedimento establecido para estos subsiste hasta (12) meses después y solo en el ámbito
@@ -584,20 +594,21 @@ meses después y solo en el ámbito de su competencia territorial. En el caso de
 Regionales, el impedimento aplica para todo proceso de contratación en el ámbito de su competencia
 territorial durante el ejercicio del cargo y hasta doce (12) meses después de haber concluido el mismo.
 
+
 **Opinión** **[002-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5138829-opinion-n-002-2024-dtn)**
+
 
 15 _Extremo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 12
 
-LEY
 
 **Opinión** **[023-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/686961-opinion-n-023-2020-dtn)**
 **Opinión** **[003-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/426463-opinion-n-003-2020-dtn)**
+
 
 d) Los Jueces de las Cortes Superiores de Justicia, los Alcaldes y los Regidores. Tratándose de los Jueces de las
 Cortes Superiores y de los Alcaldes, el impedimento aplica para todo proceso de contratación durante el
@@ -606,10 +617,12 @@ meses después y solo en el ámbito de su competencia territorial. En el caso de
 aplica para todo proceso de contratación en el ámbito de su competencia territorial, durante el ejercicio del
 cargo y hasta doce (12) meses después de haber concluido el mismo.
 
+
 **Opinión** **[002-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5138829-opinion-n-002-2024-dtn)**
 **Opinión** **[033-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1781463-opinion-n-033-2021-dtn)**
 **Opinión** **[034-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195953-opinion-n-034-2020-dtn)**
 **Opinión** **[212-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/393930-opinion-n-212-2019-dtn)**
+
 
 e) Los titulares de instituciones o de organismos públicos del Poder Ejecutivo, los funcionarios públicos,
 empleados de confianza, servidores públicos con poder de dirección o decisión, según la ley especial de la
@@ -619,6 +632,7 @@ en la entidad a la que pertenecieron. Los directores de las empresas del Estado 
 Consejos Directivos de los organismos públicos del Poder Ejecutivo se encuentran impedidos en el ámbito de
 la Entidad a la que pertenecen, mientras ejercen el cargo y hasta doce (12) meses después de haber culminado
 el mismo.
+
 
 **Opinión** **[016-2023/DTN](https://cdn.www.gob.pe/uploads/document/file/4080873/Opini%C3%B3n%20016-2022%20-%20SR.%20WILFREDO%20MELO%20CHUMBIAUCA%20-%20IMPEDIMENTOS.pdf.pdf?v=1675181828)**
 **Opinión** **[010-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/436023-opinion-n-010-2020-dtn)**
@@ -634,6 +648,7 @@ contratación en la Entidad a la que pertenecieron, siempre que por la función 
 hayan tenido influencia, poder de decisión, información privilegiada referida a tales procesos o conflicto de
 intereses.
 
+
 **Opinión** **[002-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5138829-opinion-n-002-2024-dtn)**
 **Opinión** **[100-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760005-opinion-n-100-2023-dtn)**
 **Opinión** **[016-2023/DTN](https://cdn.www.gob.pe/uploads/document/file/4080873/Opini%C3%B3n%20016-2022%20-%20SR.%20WILFREDO%20MELO%20CHUMBIAUCA%20-%20IMPEDIMENTOS.pdf.pdf?v=1675181828)**
@@ -644,11 +659,9 @@ intereses.
 **Opinión** **[111-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290947-opinion-n-111-2019-dtn)**
 **Opinión** **[006-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290844-opinion-n-006-2019-dtn)**
 
-_Materiales de enseñanza_
 
 ### 13
 
-LEY
 
 g) En el proceso de contratación correspondiente, las personas naturales o jurídicas que tengan intervención
 directa en cualquiera de las siguientes actuaciones: i) determinación de las características técnicas y/o valor
@@ -657,14 +670,17 @@ evaluación de ofertas, y iv) la conformidad de los contratos derivados de dicho
 caso de los contratos de supervisión. Tratándose de personas jurídicas el impedimento le alcanza si la referida
 intervención se produce a través de personas que se vinculan a esta.
 
+
 **Opinión** **[007-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3832621-opinion-n-007-2023-dtn)**
 **Opinión** **[023-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2901496-opinion-n-23-2022-dtn)**
 **Opinión** **[074-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2029832-opinion-n-074-2021-dtn)**
 **Opinión** **[068-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2014909-opinion-n-068-2021-dtn)**
 **Opinión** **[051-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290887-opinion-n-051-2019-dtn)**
 
+
 h) El cónyuge, conviviente o los parientes hasta el segundo grado de consanguinidad o afinidad de las personas
 señaladas en los literales precedentes, de acuerdo a los siguientes criterios:
+
 
 (i) Cuando la relación existe con las personas comprendidas en los literales a) y b), el impedimento se
 configura respecto del mismo ámbito y por igual tiempo que los establecidos para cada una de estas;
@@ -680,9 +696,11 @@ después de concluido;
 (iv) Cuando la relación existe con las personas comprendidas en los literales f) y g), el impedimento tiene
 el mismo alcance al referido en los citados literales. (*)
 
+
 (*) De conformidad con el Numeral 1 del Acuerdo de la Sala Plena N° 003-2022/TCE,
 publicado el 29 diciembre 2022, la interpretación del impedimento previsto en el
 presente literal, se realiza conforme se detalla en el citado numeral.
+
 
 **Opinión** **[100-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760005-opinion-n-100-2023-dtn)**
 **Opinión** **[027-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4013215-opinion-n-027-2023-dtn)**
@@ -694,25 +712,26 @@ presente literal, se realiza conforme se detalla en el citado numeral.
 **Opinión** **[012-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2776046-opinion-n-12-2022-dtn)**
 **Opinión** **[034-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195953-opinion-n-034-2020-dtn)**
 
+
 i) En el ámbito y tiempo establecidos para las personas señaladas en los literales precedentes, las personas
 jurídicas en las que aquellas tengan o hayan tenido una participación individual o conjunta superior al treinta
 por ciento (30%) del capital o patrimonio social, dentro de los doce (12) meses anteriores a la convocatoria
 del respectivo procedimiento de selección.
 
-_Materiales de enseñanza_
 
 ### 14
 
-LEY
 
 **Opinión** **[098-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3668618-opinion-n-098-2022-dtn)**
 **Opinión** **[023-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2901496-opinion-n-23-2022-dtn)**
 **Opinión** **[035-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1781465-opinion-n-035-2021-dtn)**
 
+
 j) En el ámbito y tiempo establecido para las personas señaladas en los literales precedentes, las personas
 jurídicas sin fines de lucro en las que aquellas participen o hayan participado como asociados o miembros de
 sus consejos directivos, dentro de los doce (12) meses anteriores a la convocatoria del respectivo
 procedimiento de selección.
+
 
 **Opinión** **[077-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3495895-opinion-n-077-2022-dtn)**
 **Opinión** **[012-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2776046-opinion-n-12-2022-dtn)**
@@ -729,9 +748,11 @@ referidas personas. Idéntica prohibición se extiende a las personas naturales 
 l) En todo proceso de contratación, las personas naturales o jurídicas inhabilitadas o suspendidas para contratar
 con el Estado [16] .
 
+
 **Opinión** **026-2023/DTN**
 **Opinión** **[031-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1774213-opinion-n-031-2021-dtn)**
 **Opinión** **[190-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/357242-opinion-n-190-2019-dtn)**
+
 
 m) En todo proceso de contratación, las personas condenadas, en el país o el extranjero, mediante sentencia
 consentida o ejecutoriada por delitos de concusión, peculado, corrupción de funcionarios, enriquecimiento
@@ -739,6 +760,7 @@ ilícito, tráfico de influencias, delitos cometidos en remates o procedimientos
 equivalentes en caso estos hayan sido cometidos en otros países. El impedimento se extiende a las personas
 que, directamente o a través de sus representantes, hubiesen admitido y/o reconocido la comisión de
 cualquiera de los delitos antes descritos ante alguna autoridad nacional o extranjera competente [17] .
+
 
 **Opinión** **[131-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1466925-opinion-n-131-2020-dtn)**
 **Opinión** **[116-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1359738-opinion-n-116-2020-dtn)**
@@ -750,6 +772,7 @@ por delitos de concusión, peculado, corrupción de funcionarios, enriquecimient
 delitos cometidos en remates o procedimientos de selección, o delitos equivalentes en caso estos hayan sido
 cometidos en otros países; o, (ii) directamente o a través de sus representantes, hubiesen admitido y/o
 
+
 16 _Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -757,19 +780,19 @@ _17 Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 15
 
-LEY
 
 reconocido la comisión de cualquiera de los delitos antes descritos ante alguna autoridad nacional o
 extranjera competente. Tratándose de consorcios, el impedimento se extiende a los representantes legales
 
        - personas vinculadas a cualquiera de los integrantes del consorcio [18] .
 
+
 **Opinión** **[116-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1359738-opinion-n-116-2020-dtn)**
 **Opinión** **[082-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1196351-opinion-n-082-2020-dtn)**
+
 
 o) En todo proceso de contratación, las personas naturales o jurídicas a través de las cuales, por razón de las
 personas que las representan, las constituyen o participan en su accionariado o cualquier otra circunstancia
@@ -778,13 +801,16 @@ impedida o inhabilitada, o que de alguna manera esta posee su control efectivo, 
 forma jurídica empleada para eludir dicha restricción, tales como fusión, escisión, reorganización,
 transformación o similares [19] .
 
+
 **Opinión** **[107-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760104-opinion-n-107-2023-dtn)**
 **Opinión** **[023-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2901496-opinion-n-23-2022-dtn)**
 **Opinión** **[108-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1359733-opinion-n-108-2020-dtn)**
 **Opinión** **[187-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/357239-opinion-n-187-2019-dtn)**
 
+
 p) En un mismo procedimiento de selección las personas naturales o jurídicas que pertenezcan a un mismo
 grupo económico, conforme se define en el reglamento.
+
 
 **Opinión** **[091-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2250244-opinion-n-091-2021-dtn)**
 **Opinión** **[117-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290953-opinion-n-117-2019-dtn)**
@@ -800,8 +826,10 @@ r) Las personas jurídicas nacionales o extranjeras que hubiesen efectuado aport
 durante un proceso electoral, por todo el período de gobierno representativo y dentro de la circunscripción
 en la cual la organización política beneficiada con el aporte ganó el proceso electoral que corresponda.
 
+
 Literal r) incorporado por el Artículo 3 de la Ley N° 30689, publicada el 30 noviembre
 2017.
+
 
 _18 Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
@@ -813,11 +841,9 @@ _20 Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 16
 
-LEY
 
 **Opinión** **[044-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1196742-opinion-n-044-2020-dtn)**
 
@@ -833,6 +859,7 @@ accionistas, participacionistas o titulares, el impedimento es aplicable siempre
 
     - conjunta sea superior al treinta por ciento (30%) del capital o patrimonio social y por el tiempo que la sanción
 se encuentre vigente.
+
 
 Literal incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -854,10 +881,12 @@ referencia la Primera Disposición Complementaria Final.
 t) En todo proceso de contratación, las personas naturales o jurídicas que se encuentren comprendidas en las
 Listas de Organismos Multilaterales de personas y empresas no elegibles para ser contratadas.
 
+
 Literal incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
+
 
 Nota:
 De conformidad con el Numeral 2 del Acuerdo de la Sala Plena N° 008-2020-TCE,
@@ -869,14 +898,13 @@ de servicios, para dicho efecto, no configura la infracción tipificada en el li
 numeral 50.1 del artículo 50 de dicha Ley, consistente en Contratar con el Estado estando
 impedido.
 
-_Materiales de enseñanza_
 
 ### 17
 
-LEY
 
 11.2 El incumplimiento de lo establecido en el presente artículo conlleva las consecuencias y responsabilidades
 establecidas en la Ley.
+
 
 Notas:
 
@@ -916,7 +944,7 @@ su participación durante la ejecución del contrato. El contrato de consorcio d
 imputan a todos sus integrantes de manera solidaria, salvo que por la naturaleza de la infracción, la promesa formal,
 el contrato de consorcio o el contrato suscrito con la Entidad, pueda individualizarse la responsabilidad, conforme
 
-21
+
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final_,
@@ -927,11 +955,9 @@ _23 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 18
 
-LEY
 
 los criterios que establece el reglamento. En este caso, se aplica la sanción únicamente al consorciado que cometió
 la infracción [24] .
@@ -941,6 +967,7 @@ porcentaje mínimo de participación, en función a la naturaleza de la prestaci
 
 13.5 A los integrantes del consorcio les son aplicables las disposiciones establecidas en los artículos precedentes del
 presente Capítulo.
+
 
 **Opinión** **[094-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4623110-opinion-n-094-2023-dtn)**
 **Opinión** **[017-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2847989-opinion-n-17-2022-dtn)**
@@ -961,15 +988,17 @@ contraviniendo los principios de libertad de concurrencia y competencia, ordena 
 adicionalmente, el OSCE toma conocimiento de la existencia de indicios de delito, debe remitir toda la información
 pertinente al Ministerio Público.
 
+
 **TÍTULO II**
 **PROCESO DE CONTRATACIÓN**
+
 
 **CAPÍTULO I**
 **PLANIFICACIÓN**
 
 **Artículo 15.- Plan Anual de Contrataciones** **[28]** **.**
 
-24
+
 _Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -982,15 +1011,12 @@ _Complementaria Final._
 _27 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
-28
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017 y posteriormente por el artículo_
 _modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018._
 
-_Materiales de enseñanza_
 
 ### 19
 
-LEY
 
 15.1 Formulación del Plan Anual de Contrataciones: Teniendo en cuenta la etapa de formulación y programación
 presupuestaria correspondiente al siguiente año fiscal, cada Entidad debe programar en el Cuadro de Necesidades
@@ -1004,6 +1030,7 @@ independencia de que se sujeten al ámbito de aplicación de la presente Ley o n
 
 15.3 El Plan Anual de Contrataciones se publica en el Sistema Electrónico de Contrataciones del Estado (SEACE) y en el
 portal institucional de la respectiva Entidad.
+
 
 **CAPÍTULO II**
 **ACTUACIONES PREPARATORIAS**
@@ -1027,32 +1054,32 @@ ciertos proveedores o ciertos productos."
 16.3 El reglamento establece mecanismos que pueden utilizar las Entidades para la difusión de sus necesidades, con la
 finalidad de contar con mayor información para poder optimizar los requerimientos.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
 
-29
+
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación._
-30
 _Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 20
 
-LEY
 
 16.4 El requerimiento puede incluir que la prestación se ejecute bajo las modalidades de concurso oferta, llave en mano
 u otras que se establezcan en el reglamento.
+
 
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
+
 
 **Opinión** **[069-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4415197-opinion-n-069-2023-dtn)**
 **Opinión** **[035-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2994102-opinion-n-035-2022-dtn)**
@@ -1071,6 +1098,7 @@ contratación.
 priorizando aquellos que sean de contratación recurrente, de uso masivo por las Entidades y/o aquellos identificados
 como estratégicos.
 
+
 CONCORDANCIAS:
 R.J.N° 037-2016-PERU-COMPRAS - Aprueban Directiva “Procedimiento de Homologación
 de Bienes y Servicios.
@@ -1085,7 +1113,7 @@ presupuestales necesarios, siendo de su exclusiva responsabilidad dicha determin
 18.2 No corresponde establecer valor estimado en los procedimientos que tengan por objeto implementar o mantener
 Catálogos Electrónicos de Acuerdo Marco..
 
-31
+
 _Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -1093,11 +1121,9 @@ _32 Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, pu
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 21
 
-LEY
 
 **Artículo 19.- Requisito de certificación de crédito presupuestario para convocar procedimientos de selección** **[33]** **.**
 
@@ -1113,6 +1139,7 @@ contrataciones iguales o inferiores a ocho (8) UIT y/o evadir el cumplimiento de
 que incluyan disposiciones sobre contratación pública.
 
 El reglamento establece los casos o supuestos debidamente justificados que no constituyen fraccionamiento.
+
 
 **Opinión** **[119-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1373104-opinion-n-119-2020-dtn)**
 **Opinión** **[066-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290902-opinion-n-066-2019-dtn)**
@@ -1139,6 +1166,7 @@ dentro de los márgenes que establece la ley de presupuesto del sector público 
 
 22.2 El reglamento establece las modalidades de licitación pública y concurso público.
 
+
 _33 Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -1150,11 +1178,9 @@ _35 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 22
 
-LEY
 
 22.3 Los actos públicos deben contar con la presencia de notario público o juez de paz. Su actuación es desarrollada en
 el reglamento.
@@ -1187,11 +1213,11 @@ a los de consultoría, que no sean fabricados o prestados siguiendo las especifi
 siempre que sean fáciles de obtener o que tengan un estándar establecido en el mercado, conforme a lo que señale el
 reglamento.
 
+
 _36 Numeral derogado por el Artículo 4 del Decreto Legislativo N° 1444, publicado el_ 16 septiembre 2018 _, el mismo que entró en_
 _vigencia a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia_
 _la Primera Disposición Complementaria Final._
 
-37
 _Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -1202,11 +1228,9 @@ _39 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, pu
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 23
 
-LEY
 
 **Artículo 26.- Subasta inversa electrónica** **[40]** **.**
 
@@ -1216,8 +1240,10 @@ técnica y se encuentren incluidos en el Listado de Bienes y Servicios Comunes.
 26.2 La ficha técnica debe ser utilizada, incluso en aquellas contrataciones que no se encuentran bajo su ámbito o que
 se sujeten a otro régimen legal de contratación.
 
+
 CONCORDANCIAS:   R.J.N° 042-2016-PERU-COMPRAS - Aprueban la Directiva Nº 0062016-PERÚ-COMPRAS, denominada “Disposiciones sobre el Listado de Bienes y Servicios
 Comunes, y la obligatoriedad de su uso.
+
 
 **Opinión** **[108-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760117-opinion-n-108-2023-dtn)**
 **Opinión** **[027-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1762362-opinion-n-027-2021-dtn)**
@@ -1229,6 +1255,7 @@ Comunes, y la obligatoriedad de su uso.
 
 27.1 Excepcionalmente, las Entidades pueden contratar directamente con un determinado proveedor en los siguientes
 supuestos:
+
 
 a) Cuando se contrate con otra Entidad, siempre que en razón de costos de oportunidad resulte más eficiente
 y técnicamente viable para satisfacer la necesidad, y no se contravenga lo señalado en el artículo 60 de la
@@ -1247,19 +1274,17 @@ de Inteligencia requieran efectuar contrataciones con carácter secreto, secreto
 orden interno, que deban mantenerse en reserva conforme a ley, previa opinión favorable de la Contraloría
 General de la República.
 
+
 _40 Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
-41
 _Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 24
 
-LEY
 
 e) Cuando los bienes y servicios solo puedan obtenerse de un determinado proveedor o un determinado
 proveedor posea derechos exclusivos respecto de ellos.
@@ -1293,6 +1318,7 @@ participaron en el procedimiento de selección y no se hubiese obtenido aceptaci
 causal procede aun cuando haya existido un solo postor en el procedimiento de selección de donde proviene
 el contrato resuelto o declarado nulo.
 
+
 Puede invocarse esta causal para la contratación de la elaboración de expedientes técnicos de saldos de obra
 derivados de contratos de obra resueltos o declarados nulos conforme a lo indicado en el párrafo anterior.
 
@@ -1307,17 +1333,16 @@ no alcanza a aquellos supuestos de contratación directa que el reglamento calif
 
 27.3 Este procedimiento de selección puede efectuarse a través de compras corporativas.
 
-42
+
 _Numeral modificado por la Primera Disposición Complementaria Modificatoria de la Ley Nº 31433, publicada el 06 marzo 2022._
 
-_Materiales de enseñanza_
 
 ### 25
 
-LEY
 
 27.4 El reglamento establece las condiciones para la configuración de cada uno de estos supuestos, los requisitos y
 formalidades para su aprobación y el procedimiento de contratación directa.
+
 
 **Opinión** **[117-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4882927-opinion-n-117-2023-dtn)**
 **Opinión** **[109-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825621-opinion-n-109-2023-dtn)**
@@ -1352,12 +1377,14 @@ de la composición de su oferta para asegurarse de que pueda cumplir satisfactor
 del contrato, se acredita mediante razones objetivas un probable incumplimiento. El rechazo de la oferta debe
 encontrarse fundamentado.
 
+
 En los casos señalados en el presente numeral, la Entidad puede rechazar toda oferta que supera la disponibilidad
 presupuestal del procedimiento de selección, siempre que haya realizado las gestiones para el incremento de la
 disponibilidad presupuestal y este no se haya podido obtener [44] .
 
 28.2 Tratándose de ejecución o consultoría de obras, la Entidad rechaza las ofertas que se encuentran por debajo del
 noventa por ciento (90%) del valor referencial o que excedan este en más del diez por ciento (10%). En este último
+
 
 _43 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
@@ -1366,14 +1393,13 @@ _44 Párrafo modificado por el Artículo 2 del Decreto Legislativo N° 1444, pub
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 26
 
-LEY
 
 caso, las propuestas que excedan el valor referencial en menos del 10% serán rechazadas si no resulta posible el
 incremento de la disponibilidad presupuestal [45] .
+
 
 **Opinión** **[081-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4555222-opinion-n-081-2023-dtn)**
 **Opinión** **[035-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195954-opinion-n-035-2020-dtn)**
@@ -1387,6 +1413,7 @@ desierto, en la comparación de precios y la subasta inversa electrónica, se ri
 29.3 Cuando se declare desierto un procedimiento de selección cuyo objeto sea la contratación de seguros patrimoniales,
 la Entidad puede utilizar el procedimiento que determine el reglamento para los procedimientos declarados
 desiertos o lo previsto en el literal f) del numeral 5.1 del artículo 5 de la presente Ley.
+
 
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -1408,13 +1435,13 @@ respecto de los proveedores que hayan presentado ofertas.
 **Opinión** **[061-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3341472-opinion-n-061-2022-dtn)**
 **Opinión** **[091-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1199702-opinion-n-091-2020-dtn)**
 
+
 _45 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 _46 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final_
-47
 _Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -1422,16 +1449,15 @@ _48 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, pu
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 27
 
-LEY
 
 **Artículo 31. Métodos especiales de contratación** **[49]** **.**
 
 31.1 Las Entidades contratan, sin realizar procedimiento de selección, los bienes y servicios que se incorporen en los
 Catálogos Electrónicos de Acuerdo Marco como producto de la formalización de Acuerdos Marco.
+
 
 CONCORDANCIAS:   R.J.N° 080-2018-PERU COMPRAS - Directiva Nº 007-2018-PERÚ para
 la incorporación de nuevos proveedores en los Catálogos Electrónicos de Acuerdos
@@ -1444,12 +1470,15 @@ capacidad técnica y legal de los proveedores y demás particularidades.
 31.3. Las reglas especiales del procedimiento de cada acuerdo marco definen el monto a partir del cual el uso de catálogos
 electrónicos es obligatorio.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
 
+
 **Opinión** **[035-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4099888-opinion-n-035-2023-dtn)**
+
 
 **CAPÍTULO IV**
 **EL CONTRATO Y SU EJECUCIÓN**
@@ -1467,20 +1496,18 @@ las directivas que se emitan para tal efecto, según los criterios establecidos 
 referidas a: a) Garantías, b) Anticorrupción, c) Solución de controversias y d) Resolución de contrato por
 incumplimiento, conforme a lo previsto en el reglamento.
 
+
 _49 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-50
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 28
 
-LEY
 
 32.4 El reglamento establece el procedimiento, plazos y requisitos para el perfeccionamiento del contrato, así como los
 casos en que el contrato puede perfeccionarse mediante una orden de compra o servicio, no debiendo
@@ -1490,6 +1517,7 @@ necesariamente en estos casos incorporarse las cláusulas indicadas, sin perjuic
 Excepcionalmente dicha disponibilidad puede ser acreditada mediante entregas parciales siempre que las
 características de la obra a ejecutar lo permitan. Esta información debe estar incluida en los documentos del
 procedimiento de selección.
+
 
 Para el caso de ejecución de obras que cuentan con residentes o supervisores a tiempo completo, estos no podrán
 prestar servicios en más de una obra a la vez.
@@ -1502,6 +1530,7 @@ apoyando el buen desarrollo contractual para conseguir los objetivos públicos p
 proyectista y a la supervisión, de acuerdo al alcance de los respectivos contratos, y la aprobación a la Entidad. De
 igual modo, la entrega completa de la información que es puesta a disposición de los postores, corresponde a la
 Entidad.
+
 
 **Opinión** **[096-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3668587-opinion-n-096-2022-dtn)**
 **Opinión** **[030-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1774211-opinion-n-030-2021-dtn)**
@@ -1525,16 +1554,14 @@ a la ejecución de las garantías debiendo limitarse a honrarlas de inmediato de
 hábiles. Toda demora genera responsabilidad solidaria para el emisor de la garantía y para el postor o contratista, y
 da lugar al pago de intereses legales en favor de la Entidad.
 
-51
+
 _Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 29
 
-LEY
 
 33.4 Las entidades financieras que emitan garantías a las que se refiere la presente Ley, facilitan el acceso de estas a las
 Entidades públicas beneficiarias, debiendo para el efecto implementar los mecanismos correspondientes que
@@ -1543,6 +1570,7 @@ permitan la aplicación de la presente disposición
 CONCORDANCIAS:
 Comunicado N° 003-2016-OSCE-PRE - Aceptación de Garantías en los Procesos de
 Contratación.
+
 
 **[Opinión128](https://www.gob.pe/institucion/osce/informes-publicaciones/1434049-opinion-n-128-2020-dtn)** **-2023/DTN**
 **Opinión** **[056-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4294876-opinion-n-056-2023-dtn)**
@@ -1573,6 +1601,7 @@ correspondientes son aprobados por el Titular de la Entidad [55] .
 expediente técnico o situaciones imprevisibles posteriores al perfeccionamiento del contrato o por causas no
 previsibles en el expediente técnico de obra y que no son responsabilidad del contratista, mayores a las establecidas
 
+
 _52 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final, cuyo texto es el siguiente:_
@@ -1580,7 +1609,6 @@ _53 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-54
 _Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -1588,11 +1616,9 @@ _55 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 30
 
-LEY
 
 en el numeral precedente y hasta un máximo de cincuenta por ciento (50%) del monto originalmente contratado,
 sin perjuicio de la responsabilidad que pueda corresponder al proyectista, el Titular de la Entidad puede decidir
@@ -1612,6 +1638,7 @@ monto máximo del quince por ciento (15%) del monto contratado de la supervisió
 todas las prestaciones adicionales previamente aprobadas. Cuando se supere el citado porcentaje, se requiere la
 autorización, previa al pago, de la Contraloría General de la República.
 
+
 Numeral incorporado por el **Artículo 2 del Decreto Legislativo N° 1444**, publicado el 16
 septiembre 2018, el mismo que entró en **vigencia** a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
@@ -1622,6 +1649,7 @@ adicionales de obra, siempre que resulten indispensables para el adecuado contro
 condiciones del contrato original y/o precios pactados, según corresponda. Para lo regulado en los numerales 34.6
 y 34.7 no es aplicable el límite establecido en el numeral 34.3 del presente artículo.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
@@ -1631,6 +1659,7 @@ referencia la Primera Disposición Complementaria Final.
 adicionales de supervisión que se produzcan por variaciones en el plazo de la obra o variaciones en el ritmo de
 trabajo de la obra, distintos a los adicionales de obra.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
@@ -1639,15 +1668,14 @@ referencia la Primera Disposición Complementaria Final.
 34.9 El contratista puede solicitar la ampliación del plazo pactado por atrasos y paralizaciones ajenas a su voluntad
 debidamente comprobados y que modifiquen el plazo contractual de acuerdo a lo que establezca el reglamento.
 
+
 _56 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 31
 
-LEY
 
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -1660,10 +1688,12 @@ que no sean imputables a alguna de las partes, permitan alcanzar su finalidad de
 cambien los elementos determinantes del objeto. Cuando la modificación implique el incremento del precio debe
 ser aprobada por el Titular de la Entidad.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado
 el 16 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días
 calendario contados a partir de la publicación de las modificaciones al reglamento
 a que hace referencia la Primera Disposición Complementaria Final.
+
 
 **Opinión** **[009-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5279519-opinion-n-009-2024-dtn)**
 **Opinión** **[006-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5138901-opinion-n-006-2024-dtn)**
@@ -1698,11 +1728,9 @@ a que hace referencia la Primera Disposición Complementaria Final.
 **Opinión** **[096-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1224088-opinion-n-096-2020-dtn)**
 **Opinión** **[079-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1495530-opinion-n-079-2020-dtn)**
 
-_Materiales de enseñanza_
 
 ### 32
 
-LEY
 
 **Opinión** **[068-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1116126-opinion-n-068-2020-dtn)**
 **Opinión** **[058-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195967-opinion-n-058-2020-dtn)**
@@ -1725,9 +1753,11 @@ estar impedido, inhabilitado ni suspendido para contratar con el Estado.
 
 35.4 El contratista mantiene la responsabilidad por la ejecución total de su contrato frente a la Entidad.
 
+
 CONCORDANCIAS:
 Acuerdo N° 003-2019-TCE - Acuerdo de Sala Plena referido a la configuración de la
 infracción consistente en subcontratar prestaciones.
+
 
 **Opinión** **[103-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3703316-opinion-n-103-2022-dtn)**
 
@@ -1742,24 +1772,22 @@ partes.
 ocasionados. No corresponde el pago de daños y perjuicios en los casos de corrupción de funcionarios o servidores
 propiciada por parte del contratista, de conformidad a lo establecido en el artículo 11 de la presente Ley.
 
+
 **Opinión** **[060-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4299488-opinion-n-058-2023-dtn)**
 **Opinión** **[058-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4299488-opinion-n-058-2023-dtn)**
 
-57
+
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-58
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 33
 
-LEY
 
 **Opinión** **[046-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/828323-opinion-n-046-020-dtn)**
 
@@ -1767,6 +1795,7 @@ LEY
 
 Salvo disposición legal o reglamentaria en contrario, el contratista puede ceder su derecho al pago a favor de terceros. No
 procede la cesión de posición contractual del contratista, salvo en los casos previstos en el reglamento.
+
 
 **Opinión** **[226-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/429465-opinion-n-226-2019-dtn)**
 
@@ -1782,6 +1811,7 @@ luego de otorgado.
 contratista constituya un fideicomiso para el manejo de los recursos que reciba a título de adelanto, con el fin de
 garantizar que dichos recursos se apliquen exclusivamente a la ejecución del contrato correspondiente. El
 reglamento desarrolla los requisitos y condiciones para la operatividad de la figura del fideicomiso.
+
 
 **[Opinión 040-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4123980-opinion-n-040-2023-dtn)**
 
@@ -1802,6 +1832,7 @@ demora injustificada. Igual derecho corresponde a la Entidad en caso sea la acre
 
 **Artículo 40. Responsabilidad del contratista** **[61]** **.**
 
+
 _59 Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -1813,11 +1844,9 @@ _Complementaria Final._
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 34
 
-LEY
 
 40.1 El contratista es responsable de ejecutar la totalidad de las obligaciones a su cargo, de acuerdo a lo establecido en
 el contrato. En los contratos de ejecución de obra, el plazo de responsabilidad no puede ser inferior a siete (7) años,
@@ -1843,15 +1872,18 @@ conforme a las disposiciones del presente artículo [64] .
 40.6 En todos los casos, los contratos incluyen una cláusula de no participación en prácticas corruptas, conforme al
 numeral 32.3 del artículo 32 de la presente Ley, bajo sanción de nulidad.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
 
+
 **TÍTULO III**
 **SOLUCIÓN DE CONTROVERSIAS**
 
 **Artículo 41. Recursos administrativos** **[65]** **.**
+
 
 _62 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
@@ -1863,16 +1895,13 @@ _64 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-65
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 35
 
-LEY
 
 41.1 Las discrepancias que surjan entre la Entidad y los participantes o postores en un procedimiento de selección, y las
 que surjan en los procedimientos para implementar o extender la vigencia de los Catálogos Electrónicos de Acuerdo
@@ -1905,9 +1934,11 @@ del ítem que se decida impugnar [69] .
 contencioso-administrativa procede contra lo resuelto en última instancia administrativa, sin suspender su
 ejecución.
 
+
 **Opinión** **[104-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760067-opinion-n-104-2023-dtn)**
 **Opinión** **[016-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2847972-opinion-n-16-2022-dtn)**
 **Opinión** **[043-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1853907-opinion-n-043-2021-dtn)**
+
 
 _66 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
@@ -1922,11 +1953,9 @@ _69 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final, cuyo texto es el siguiente:_
 
-_Materiales de enseñanza_
 
 ### 36
 
-LEY
 
 **Artículo 42. Suspensión del procedimiento.**
 
@@ -1964,12 +1993,12 @@ pueda ser declarada en la resolución recaída sobre el recurso de apelación. L
 la Central de Compras Públicas - Perú Compras, en los procedimientos de implementación o extensión de la vigencia
 de los Catálogos Electrónicos de Acuerdo Marco [72] .
 
+
 **Opinión** **[084-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4555238-opinion-n-084-2023-dtn)**
 **Opinión** **064-2023/DTN**
 **Opinión** **[021-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3905206-opinion-n-021-2023-dtn)**
 **Opinión** **[110-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3808953-opinion-n-110-2022-dtn)**
 
-70
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
@@ -1980,15 +2009,14 @@ _72 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 37
 
-LEY
 
 **Opinión** **[120-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1373105-opinion-n-120-2020-dtn)**
 **Opinión** **[111-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1359734-opinion-n-111-2020-dtn)**
 **Opinión** **[028-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/686966-opinion-n-028-2020-dtn)**
+
 
 Después de celebrados los contratos, la Entidad puede declarar la nulidad de oficio en los siguientes casos:
 
@@ -1999,6 +2027,7 @@ celebraron irregularmente el contrato.
 
 b) Cuando se verifique la trasgresión del principio de presunción de veracidad durante el procedimiento de
 selección o para el perfeccionamiento del contrato, previo descargo.
+
 
 **Opinión** **064-2023/DTN**
 **Opinión** **[059-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3341425-opinion-n-059-2022-dtn)**
@@ -2026,7 +2055,7 @@ Esta nulidad es sin perjuicio de la responsabilidad penal y civil a que hubiere 
 
 g) En caso de contratarse bienes, servicios u obras, sin el previo procedimiento de selección que correspondiera.
 
-73
+
 _Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -2034,14 +2063,13 @@ _74 Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 38
 
-LEY
 
 44.3 La nulidad del procedimiento y del contrato ocasiona la obligación de la Entidad de efectuar el deslinde de
 responsabilidades a que hubiere lugar [75] .
+
 
 **Opinión** **064-2023/DTN.**
 **Opinión** **[008-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3836951-opinion-n-008-2023-dtn)**
@@ -2058,10 +2086,12 @@ en el derecho nacional [77] .
 44.6 Cuando la nulidad sea solicitada por alguno de los participantes o postores, bajo cualquier mecanismo distinto al
 recurso de apelación, ésta debe tramitarse conforme a lo establecido en el artículo 41 de la Ley.
 
+
 Numeral incorporado por el **Artículo 2 del Decreto Legislativo N° 1444**, publicado el 16
 septiembre 2018, el mismo que entró en **vigencia** a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
+
 
 **Opinión** **[104-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760067-opinion-n-104-2023-dtn)**
 **Opinión** **[064-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4331689-opinion-n-064-2023-dtn)**
@@ -2078,26 +2108,23 @@ solo pueden ser sometidas a arbitraje.
 las partes, salvo que la entidad disponga lo contrario, de acuerdo al plazo y condiciones establecidos en el
 reglamento.
 
+
 _75 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 _76 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
-77
 _Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
-78
 _Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 39
 
-LEY
 
 45.3 Las partes pueden recurrir a la Junta de Resolución de Disputas en las contrataciones de obras, de acuerdo al valor
 referencial y demás condiciones previstas en el reglamento, siendo sus decisiones vinculantes. El reglamento puede
@@ -2146,11 +2173,9 @@ costo en tiempo y recursos del proceso arbitral, la expectativa de éxito de seg
 resolver la controversia en la instancia más temprana posible. En ambos casos, se puede solicitar opinión de la
 procuraduría pública correspondiente o la que haga sus veces.
 
-_Materiales de enseñanza_
 
 ### 40
 
-LEY
 
 45.13 Constituye responsabilidad funcional impulsar o proseguir la vía arbitral cuando el análisis costo-beneficio determina
 que la posición de la entidad razonablemente no será acogida en dicha sede. El reglamento establece otros criterios,
@@ -2202,11 +2227,9 @@ Entidad, mediante resolución debidamente motivada, bajo responsabilidad, siendo
 tal efecto, se realiza el análisis costo-beneficio, considerando el costo en tiempo y recursos del proceso judicial, la
 expectativa de éxito de seguir la anulación. Constituye responsabilidad funcional impulsar la anulación del laudo
 
-_Materiales de enseñanza_
 
 ### 41
 
-LEY
 
 arbitral cuando el análisis costo-beneficio determina que la posición de la entidad razonablemente no puede ser
 acogida.
@@ -2234,6 +2257,7 @@ procedimental. El deber de informar se mantiene a lo largo de todo el arbitraje.
 independencia, imparcialidad, transparencia y debida conducta procedimental previstos en el Código de Ética para
 el Arbitraje en Contrataciones del Estado, siendo pasible de las siguientes sanciones éticas según su gravedad:
 
+
 a) Amonestación.
 
 b) Suspensión temporal de hasta cinco (5) años.
@@ -2255,11 +2279,9 @@ demás aspectos concernientes al Consejo de Ética son establecidos en el reglam
 arbitraje especializado y subsidiario para la resolución de controversias en las contrataciones con el Estado, de
 acuerdo a lo previsto en el reglamento.
 
-_Materiales de enseñanza_
 
 ### 42
 
-LEY
 
 45.32 Este régimen se rige por su propio reglamento arbitral que es aprobado mediante directiva por el Organismo
 Supervisor de las Contrataciones del Estado (OSCE) y supletoriamente por el Decreto Legislativo que norma el
@@ -2279,6 +2301,7 @@ Contrataciones del Estado (OSCE) constituyen título ejecutivo.
 45.36 Si como resultado de un proceso arbitral se reconoce algún monto a pagar al proveedor o contratista, el pago por
 parte de la Entidad debe efectuarse junto con la liquidación o conclusión del Contrato.
 
+
 **Opinión** **[126-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976815-opinion-n-126-2023-dtn)**
 **Opinión** **[115-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4848227-opinion-n-115-2023-dtn)**
 **Opinión** **[096-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4642091-opinion-n-096-2023-dtn)**
@@ -2293,6 +2316,7 @@ parte de la Entidad debe efectuarse junto con la liquidación o conclusión del 
 **Opinión** **[060-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195969-opinion-n-060-2020-dtn)**
 **Opinión** **[152-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/323022-opinion-n-152-2019-dtn)**
 
+
 **TÍTULO IV**
 **REGISTRO NACIONAL DE PROVEEDORES**
 
@@ -2305,27 +2329,29 @@ implementar herramientas que permitan medir el desempeño de los proveedores que
 administrados están sujetos a los principios de presunción de veracidad, informalismo y privilegio de controles
 posteriores.
 
+
 _79 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 43
 
-LEY
 
 La inscripción en el Registro Nacional de Proveedores (RNP) tiene vigencia indeterminada sujeta a la actualización
 de información de conformidad con lo que señala el reglamento.
 
+
 En ningún caso el Registro Nacional de Proveedores (RNP) constituye una barrera de acceso para contratar con el
 Estado.
+
 
 Para ser participante, postor, contratista y/o subcontratista del Estado se requiere estar inscrito en el Registro
 Nacional de Proveedores (RNP). Únicamente en el Reglamento de la presente Ley se establecen la organización,
 funciones y los requisitos para el acceso, permanencia y retiro del registro. En el caso de los supuestos excluidos del
 ámbito de aplicación de la Ley sujetos a supervisión, el Reglamento establecerá las condiciones para su inscripción
 ante dicho Registro así como sus excepciones.
+
 
 La presentación de documentación falsa o información inexacta ante el Registro Nacional de Proveedores (RNP)
 habilita la declaración de nulidad del acto correspondiente.
@@ -2352,6 +2378,7 @@ Ley con la finalidad de que el Registro Nacional de Proveedores (RNP) cuente con
 y actualizada. La Oficina Nacional de Gobierno Electrónico e Informática (ONGEI) de la Presidencia del Consejo de
 Ministros, cautela y apoya el debido cumplimiento de esta disposición.
 
+
 Mediante decreto supremo refrendado por el Ministro de Economía y Finanzas puede disponerse el acceso a la
 información que posean otras Entidades y que sea relevante para el Registro Nacional de Proveedores (RNP).
 
@@ -2363,11 +2390,9 @@ declaración jurada y las entidades verificar su contenido en el Registro Nacion
 46.7 La información del Registro Nacional de Proveedores (RNP) es de acceso público, salvo aquella información
 confidencial de índole tributaria, bancaria o comercial de las personas inscritas.
 
-_Materiales de enseñanza_
 
 ### 44
 
-LEY
 
 Nota: De conformidad con la Décima Disposición Complementaria Final de la Ley N°
 30556, publicada el 29 abril 2017, se exonera del requisito de estar inscrito en el Registro
@@ -2380,7 +2405,9 @@ citada disposición no se encuentran exentas del control gubernamental que se
 encuentra legitimada a ejercer la Contraloría General de la República respecto del uso de
 los recursos públicos, de acuerdo con lo previsto en su Ley Orgánica.
 
+
 **Opinión** **[065-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365287-opinion-n-065-2023-dtn)**
+
 
 **TÍTULO V**
 **SISTEMA ELECTRÓNICO DE CONTRATACIONES DEL ESTADO**
@@ -2411,7 +2438,7 @@ progresiva y obligatoriamente las contrataciones electrónicas a los otros méto
 considerando la infraestructura y condiciones tecnológicas que estas posean o los medios disponibles para estos
 efectos, se establecen en la citada directiva.
 
-80
+
 _Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
@@ -2419,11 +2446,9 @@ _81 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, pu
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 45
 
-LEY
 
 **Opinión** **[055-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195965-opinion-n-055-2020-dtn)**
 
@@ -2441,6 +2466,7 @@ cumplimiento de las distintas actuaciones y actos que se disponen en la presente
 los requisitos y parámetros establecidos en las leyes pertinentes. En todos los casos, deben utilizar las tecnologías
 necesarias que garanticen la identificación de los proveedores y la confidencialidad de las ofertas.
 
+
 **TÍTULO VI**
 **RÉGIMEN DE INFRACCIONES Y SANCIONES**
 
@@ -2455,11 +2481,12 @@ infracciones [84] :
 **Opinión** **[095-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4623126-opinion-n-095-2023-dtn)**
 **Opinión** **[049-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1891757-opinion-n-049-2021-dtn)**
 
+
 a) Desistirse o retirar injustificadamente su oferta [85] .
 
 b) Incumplir injustificadamente con su obligación de perfeccionar el contrato o de formalizar Acuerdos Marco [86] .
 
-82
+
 _Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -2476,13 +2503,12 @@ _86 Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 46
 
-LEY
 
 c) Contratar con el Estado estando impedido conforme a Ley [87] .
+
 
 **Notas** :
 
@@ -2506,12 +2532,15 @@ evidencien la realización de otras actuaciones, siempre que estos medios probat
 permitan identificar de manera fehaciente que se trata de la contratación por la que
 se atribuye responsabilidad al proveedor.
 
+
 d) Subcontratar prestaciones sin autorización de la Entidad o en porcentaje mayor al permitido por el
 Reglamento o cuando el subcontratista no cuente con inscripción vigente en el Registro Nacional de
 Proveedores (RNP), esté impedido o inhabilitado o suspendido para contratar con el Estado [88] .
 
+
 CONCORDANCIAS:   Acuerdo N° 003-2019-TCE - Acuerdo de Sala Plena referido a la
 configuración de la infracción consistente en subcontratar prestaciones.
+
 
 e) Incumplir la obligación de prestar servicios a tiempo completo como residente o supervisor de obra, salvo en
 aquellos casos en que la normativa lo permita [89] .
@@ -2519,11 +2548,11 @@ aquellos casos en que la normativa lo permita [89] .
 f) Ocasionar que la Entidad resuelva el contrato, incluido Acuerdos Marco, siempre que dicha resolución haya
 quedado consentida o firme en vía conciliatoria o arbitral [90] .
 
+
 _87 Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-88
 _Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -2534,14 +2563,13 @@ _90 Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publ
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 47
 
-LEY
 
 g) No proceder al saneamiento de los vicios ocultos en la prestación a su cargo, según lo requerido por la
 Entidad, cuya existencia haya sido reconocida por el contratista o declarada en vía arbitral [91] .
+
 
 h) Negarse injustificadamente a cumplir las obligaciones derivadas del contrato que deben ejecutarse con
 posterioridad al pago [92] .
@@ -2555,6 +2583,7 @@ presentada al Tribunal de Contrataciones del Estado, al Registro Nacional de Pro
 Organismo Supervisor de las Contrataciones del Estado (OSCE), el beneficio o ventaja debe estar relacionada
 con el procedimiento que se sigue ante estas instancias [93] ."(*)
 
+
 Nota: De conformidad con la Decimoprimera Disposición Complementaria Final del
 Reglamento aprobado por el Artículo Primero del Decreto Supremo N° 344-2018-EF,
 publicado el 31 diciembre 2018, se dispone que dentro del supuesto de hecho de la
@@ -2563,6 +2592,7 @@ inexacta, se encuentra comprendida la presentación de garantías que no hayan s
 emitidas por las empresas indicadas en el numeral 33.2 del artículo 33 de la presente Ley.
 El referido Decreto entró en **vigencia** a los treinta (30) días calendario, contados a partir
 de su publicación en el Diario Oficial El Peruano.
+
 
 j) Presentar documentos falsos o adulterados a las Entidades, al Tribunal de Contrataciones del Estado, al
 Registro Nacional de Proveedores (RNP), al Organismo Supervisor de las Contrataciones del Estado (OSCE),
@@ -2573,10 +2603,10 @@ k) Suscribir contratos o Acuerdos Marco sin contar con inscripción vigente en e
 Proveedores (RNP) o suscribir contratos por montos mayores a su capacidad libre de contratación, en
 especialidades o categorías distintas a las autorizadas por el Registro Nacional de Proveedores (RNP) [95] .
 
+
 _91  Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
-92
 _Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -2586,20 +2616,18 @@ _Disposición Complementaria Final._
 _94 Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
-95
 _Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 48
 
-LEY
 
 l) Perfeccionar el contrato, luego de notificada en el Sistema Electrónico de Contrataciones del Estado (SEACE)
 la suspensión, recomendación de nulidad o la nulidad del proceso de contratación dispuesta por el Organismo
 Supervisor de las Contrataciones del Estado (OSCE) en el ejercicio de sus funciones.
+
 
 m) Formular fichas técnicas o estudios de pre inversión o expedientes técnicos con omisiones, deficiencias o
 información equivocada, o supervisar la ejecución de obras faltando al deber de velar por la correcta
@@ -2611,11 +2639,13 @@ y/u observaciones [97] .
 
 o) Presentar recursos maliciosos o manifiestamente infundados.
 
+
 Para los casos a que se refiere el literal a) del artículo 5 de la presente Ley, solo son aplicables las infracciones
 previstas en los literales c), h), i), j) y k), del presente numeral.
 
 La responsabilidad derivada de las infracciones previstas en este artículo es objetiva, salvo en aquellos tipos
 infractores que admitan la posibilidad de justificar la conducta.
+
 
 CONCORDANCIAS:   Ley Nº 31535, Primera Disp. Comp. Final (Régimen excepcional de
 redención de sanciones para las MYPE.
@@ -2632,11 +2662,10 @@ infractores previsto en los literales a), b), h), y n) del numeral 50.1 del pres
 50.4 Las sanciones que aplica el Tribunal de Contrataciones del Estado, sin perjuicio de las responsabilidades civiles o
 penales por la misma infracción, son [100] :
 
-96
+
 _Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
-97
 _Literal modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia a_
 _los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -2650,14 +2679,13 @@ _100 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, pub
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 49
 
-LEY
 
 **Opinión** **[095-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4623126-opinion-n-095-2023-dtn)**
 **Opinión** **[078-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4469054-opinion-n-078-2023-dtn)**
+
 
 a) Multa: Es la obligación pecuniaria generada para el infractor de pagar en favor del Organismo Supervisor de
 las Contrataciones del Estado (OSCE), un monto económico no menor del cinco por ciento (5%) ni mayor al
@@ -2701,16 +2729,14 @@ demás reglas necesarias. En el caso de consorcio, la sanción recae sobre el in
 
     - algunas de las infracciones tipificadas en el numeral 50.1 de la presente ley; tratándose de declaraciones juradas y
 
-101
+
 _Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la_
 _Primera Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 50
 
-LEY
 
 toda información presentada en el procedimiento de selección, solo involucra a la propia situación de cada
 integrante [102] .
@@ -2723,6 +2749,7 @@ años de cometida [103] .
 el plazo de prescripción se suspende por el periodo que dure dicho proceso jurisdiccional. Asimismo, el plazo de
 prescripción se suspende cuando el Poder Judicial ordene la suspensión del procedimiento sancionador.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
@@ -2731,6 +2758,7 @@ referencia la Primera Disposición Complementaria Final.
 50.9 Las sanciones se publican en el Registro Nacional de Proveedores (RNP). La publicación de los sancionados incluye
 información de los socios o titulares y de los integrantes de los órganos de administración, así como el récord de
 sanciones de los últimos cuatro (4) años, de conformidad con el procedimiento previsto en el reglamento.
+
 
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -2751,6 +2779,7 @@ graduar la sanción [104] .
 50.11 La graduación de la sanción por debajo del mínimo prevista en el numeral anterior no procede en el caso de los
 literales c), d), j), l) y n) del numeral 50.1 del presente artículo.
 
+
 _102 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la_
 _Primera Disposición Complementaria Final._
@@ -2758,14 +2787,11 @@ _103 Numeral modificado por el Artículo 2 del Decreto Legislativo N° 1444, pub
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la_
 _Primera Disposición Complementaria Final._
 
-104
 _Párrafo modificado por el Artículo 2 de la Ley Nº 31535, publicada el 28 julio 2022._
 
-_Materiales de enseñanza_
 
 ### 51
 
-LEY
 
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -2775,6 +2801,7 @@ referencia la Primera Disposición Complementaria Final.
 50.12 En caso de reorganización societaria el Tribunal inicia o prosigue el procedimiento administrativo sancionador
 contra la persona jurídica que haya surgido de dicha reorganización, la que debe asumir las consecuencias de la
 responsabilidad administrativa en caso el Tribunal determine su existencia.
+
 
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -2786,10 +2813,12 @@ artículo, no pueden integrar el plantel de profesionales propuestos ni particip
 con el Estado, mientras la sanción se encuentre pendiente de cumplimiento. En caso de advertirse el incumplimiento
 de esta disposición la propuesta debe ser descalificada.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
+
 
 **TÍTULO VII**
 **ORGANISMO SUPERVISOR DE LAS CONTRATACIONES DEL ESTADO**
@@ -2803,6 +2832,7 @@ de autonomía técnica, funcional, administrativa, económica y financiera.
 Cuenta con un órgano de defensa jurídica, sin perjuicio de la defensa coadyuvante de la Procuraduría Pública del Ministerio
 de Economía y Finanzas, en el marco de las normas que rigen el Sistema de Defensa Jurídica del Estado.
 
+
 CONCORDANCIAS:
 R.N° 276-2016-OSCE-PRE - Directiva “Reglamento del régimen institucional de arbitraje
 subsidiario de cuantía menor en contrataciones del Estado a cargo del OSCE.
@@ -2812,11 +2842,9 @@ Acuerdo Marco”.
 R.M.N° 327-2018-EF-10 - Cuadro para Asignación de Personal Provisional del Organismo
 Supervisor de las Contrataciones del Estado – OSCE.
 
-_Materiales de enseñanza_
 
 ### 52
 
-LEY
 
 Artículo 52.- Funciones
 
@@ -2864,19 +2892,19 @@ n) Absolver consultas sobre el sentido y alcance de la normativa de contratacion
 Entidades, así como por el sector privado y la sociedad civil. Las consultas que le efectúen las Entidades son
 gratuitas.
 
+
 **Opinión** **[120-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976626-opinion-n-120-2023-dtn)**
 **Opinión** **[078-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2058155-opinion-n-078-2021-dtn)**
 
-_Materiales de enseñanza_
 
 ### 53
 
-LEY
 
 o) Desconcentrar sus funciones en sus órganos de alcance regional o local de acuerdo a lo que establezca su
 Reglamento de Organización y Funciones.
 
 p) Las demás que le asigne la normativa.
+
 
 CONCORDANCIAS:
 D.S.N° 344-2018-EF (REGLAMENTO), Segunda Disp. Compl. Final
@@ -2921,11 +2949,9 @@ Organización y Funciones del Organismo Supervisor de las Contrataciones del Est
 
 Artículo 55. Requisitos e impedimentos
 
-_Materiales de enseñanza_
 
 ### 54
 
-LEY
 
 Para ser designado miembro del Consejo Directivo o Presidente Ejecutivo del Organismo Supervisor de las Contrataciones
 del Estado (OSCE), se requiere:
@@ -2976,11 +3002,9 @@ del Estado (OSCE) se formaliza mediante resolución suprema.
 
 **Artículo 57. Notificaciones.**
 
-_Materiales de enseñanza_
 
 ### 55
 
-LEY
 
 El Organismo Supervisor de las Contrataciones del Estado (OSCE) notifica los actos que emite en el ejercicio de sus
 funciones a través del Sistema Electrónico de Contrataciones del Estado (SEACE) y/u otros medios electrónicos, los que
@@ -3001,6 +3025,7 @@ requerirse información, deben proporcionar el acceso a la información pertinen
 mecanismos de interoperabilidad, salvaguardando las reservas o excepciones previstas por Ley con la finalidad que el OSCE
 pueda desarrollar las funciones que la ley le otorga.
 
+
 **TÍTULO VIII**
 **TRIBUNAL DE CONTRATACIONES DEL ESTADO**
 
@@ -3011,6 +3036,7 @@ pueda desarrollar las funciones que la ley le otorga.
 59.1 El Tribunal de Contrataciones del Estado es un órgano resolutivo que forma parte de la estructura administrativa del
 Organismo Supervisor de las Contrataciones del Estado (OSCE). Cuenta con plena autonomía e independencia en el
 ejercicio de sus funciones. Tiene las siguientes funciones:
+
 
 a) Resolver, de ser el caso, las controversias que surjan entre las Entidades, los participantes y los postores
 durante el procedimiento de selección y los procedimientos para implementar o extender la vigencia de los
@@ -3023,7 +3049,7 @@ c) Aplicar multas a las Entidades cuando actúen como proveedor.
 
 d) Las demás funciones que le otorga la normativa.
 
-105
+
 _Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en vigencia_
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la_
 _Primera Disposición Complementaria Final._
@@ -3031,11 +3057,9 @@ _106 Artículo modificado por el Artículo 2 del Decreto Legislativo N° 1444, p
 _a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la_
 _Primera Disposición Complementaria Final, cuyo texto es el siguiente:_
 
-_Materiales de enseñanza_
 
 ### 56
 
-LEY
 
 59.2 Su conformación y el número de salas son establecidos mediante decreto supremo, refrendado por el Ministro de
 Economía y Finanzas.
@@ -3054,6 +3078,7 @@ el cumplimiento de la presente disposición.
 Comisión Multisectorial constituida por representantes de la Presidencia del Consejo de Ministros, Ministerio de
 Economía y Finanzas y Ministerio de Justicia y Derechos Humanos. La designación de los Vocales es por un periodo
 de tres (3) años. Para ello se requiere:
+
 
 a) Contar con título profesional universitario.
 
@@ -3081,15 +3106,14 @@ nuevos vocales.
 60.3 El Presidente del Tribunal de Contrataciones del Estado es elegido por el pleno de los Vocales en funciones de
 acuerdo a lo previsto en el reglamento de la presente Ley.
 
+
 _107 Artículo modificado por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia a los_
 _quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera Disposición_
 _Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 57
 
-LEY
 
 **Artículo 61. Causales de vacancia** .
 
@@ -3135,16 +3159,13 @@ se elabore para tal efecto.
 **Opinión** **[111-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3808957-opinion-n-111-2022-dtn)**
 **Opinión** **[099-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3668624-opinion-n-099-2022-dtn)**
 
-108
 _Disposición modificada por el Artículo 2 del Decreto Legislativo N° 1444, publicado el 16 septiembre 2018, el mismo que entró en_
 _vigencia a los treinta (30) días calendario contados a partir de la publicación de las modificaciones al reglamento a que hace referencia_
 _la Primera Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 58
 
-LEY
 
 **Opinión** **[083-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195981-opinion-n-083-2020-dtn)**
 **Opinión** **[060-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195969-opinion-n-060-2020-dtn)**
@@ -3196,11 +3217,9 @@ Todos los actos realizados dentro de los procedimientos a que se refiere la pres
 obligatoriamente al Sistema Electrónico de Contrataciones del Estado (SEACE) en la oportunidad y forma que señale la
 presente norma, el reglamento y las directivas que emite el Organismo Supervisor de las Contrataciones del Estado (OSCE).
 
-_Materiales de enseñanza_
 
 ### 59
 
-LEY
 
 Las contrataciones que se realicen de acuerdo a la presente disposición no requieren de la constitución de la garantía de
 fiel cumplimiento, siempre que la prestación se cumpla por adelantado.
@@ -3228,6 +3247,7 @@ vida. Mediante Decreto Supremo se establecen los criterios para la incorporació
 de modelamiento digital de la información para la ejecución de la obra pública que permitan mejorar la calidad y eficiencia
 de los proyectos desde su diseño, durante su construcción, operación y hasta su mantenimiento.
 
+
 Disposición incorporada por el Artículo 3 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
@@ -3237,12 +3257,13 @@ Decimocuarta.- Mediante Decreto Supremo, con voto aprobatorio de Consejo de Mini
 para la contratación de bienes, servicios y obras necesarias para la rehabilitación y reconstrucción de zonas afectadas por
 la ocurrencia de desastres, de conformidad con la normativa de la materia.
 
+
 Disposición incorporada por el Artículo 3 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
 referencia la Primera Disposición Complementaria Final.
 
-109
+
 _Disposición modificada por el Artículo 1 del Decreto Legislativo N° 1341, publicado el 07 enero 2017, el mismo que entró en vigencia_
 _a los quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
@@ -3250,11 +3271,9 @@ _110 Disposición incorporada por el Artículo 2 del Decreto Legislativo N° 134
 _a los quince (15) días contados a partir de la publicación de las modificaciones al reglamento a que hace referencia la Primera_
 _Disposición Complementaria Final._
 
-_Materiales de enseñanza_
 
 ### 60
 
-LEY
 
 Decimoquinta.- El supervisor de obra está obligado a remitir a la Contraloría General de la República, en la misma
 oportunidad que a la Entidad, los informes u opiniones emitidos respecto a los adicionales de obra, solicitudes de mayores
@@ -3262,6 +3281,7 @@ gastos generales, variación en calendario de obra, ampliaciones de plazo, aplic
 marco de sus funciones, de acuerdo a los lineamientos regulados por dicho organismo autónomo de control a través de
 Directiva. Esta obligación no representa la paralización del plazo de ejecución de obra, sin perjuicio del ejercicio del control
 concurrente que realice la Contraloría General, de ser el caso.
+
 
 Disposición incorporada por el Artículo 3 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -3276,6 +3296,7 @@ a la información, por calificar como información confidencial, de acuerdo a lo
 Texto Único Ordenado de la Ley Nº 27806, Ley de Transparencia y Acceso a la Información Pública, aprobado por Decreto
 Supremo Nº 043-2003-PCM.
 
+
 Disposición incorporada por el Artículo 3 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
@@ -3283,6 +3304,7 @@ referencia la Primera Disposición Complementaria Final.
 
 **Decimoséptima.-** En el Reglamento se establecen objetos en los que se puede utilizar el valor referencial, así como las
 disposiciones que permitan definir los límites mínimos y máximos de las ofertas en tales casos.
+
 
 Disposición incorporada por el Artículo 3 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -3295,6 +3317,7 @@ Privada mediante Asociaciones Público Privadas y Proyectos en Activos, la Entid
 directamente bajo el supuesto de desabastecimiento contenido en el literal c) del artículo 27 de la Ley a aquellos
 proveedores necesarios para garantizar la continuidad del proyecto.
 
+
 Disposición incorporada por el Artículo 3 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
@@ -3303,11 +3326,9 @@ referencia la Primera Disposición Complementaria Final.
 **Decimo novena.-** Las actividades y operaciones a que se refiere el literal c) del artículo 27 de la Ley comprenden los servicios
 de operación y mantenimiento de redes de infraestructura de telecomunicaciones financiadas por el Estado.
 
-_Materiales de enseñanza_
 
 ### 61
 
-LEY
 
 Disposición incorporada por el Artículo 3 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -3327,6 +3348,7 @@ La presente disposición es aplicable al Seguro Social de Salud (ESSALUD), para 
 
 - dispositivos médicos.
 
+
 Disposición incorporada por el Artículo 3 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
 contados a partir de la publicación de las modificaciones al reglamento a que hace
@@ -3334,6 +3356,7 @@ referencia la Primera Disposición Complementaria Final.
 
 **Vigésima Primera** .- Mediante Decreto Supremo se puede hacer extensivo lo dispuesto en el numeral 38.3 del artículo 38
 de la Ley para el manejo de los recursos que se reciban a título de pago.
+
 
 Disposición incorporada por el Artículo 3 del Decreto Legislativo N° 1444, publicado el 16
 septiembre 2018, el mismo que entró en vigencia a los treinta (30) días calendario
@@ -3348,6 +3371,7 @@ Supervisor de las Contrataciones del Estado (OSCE) continúa sujeto al régimen 
 **SEGUNDA** . Los procedimientos de selección iniciados antes de la entrada en vigencia de la presente Ley se rigen por las
 normas vigentes al momento de su convocatoria.
 
+
 **Opinión** **[002-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3828060-opinion-n-002-2023-dtn)**
 **Opinión** **[033-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2992824-opinion-n-033-2022-dtn)**
 **Opinión** **[111-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2448788-opinion-n-111-2021-dtn)**
@@ -3360,11 +3384,9 @@ normas vigentes al momento de su convocatoria.
 
 **DISPOSICIÓN COMPLEMENTARIA MODIFICATORIA**
 
-_Materiales de enseñanza_
 
 ### 62
 
-LEY
 
 ÚNICA. Modifícase el artículo 2 del Decreto Legislativo 1018, Decreto Legislativo que crea la Central de Compras Públicas Perú Compras, en los términos siguientes:
 
@@ -3387,6 +3409,7 @@ a) Decreto Legislativo 1017, Ley de Contrataciones del Estado y normas modificat
 b) La primera y tercera disposiciones complementarias finales del Decreto Legislativo 1018, Decreto Legislativo que
 crea la Central de Compras Públicas - Perú Compras.
 
+
 **Opinión** **[071-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1137551-opinion-n-071-2020-dtn)**
 
 Comuníquese al señor Presidente Constitucional de la República para su promulgación.
@@ -3395,6 +3418,7 @@ En Lima a los ocho días del mes de julio de dos mil catorce.
 
 FREDY OTÁROLA PEÑARANDA
 
-_Materiales de enseñanza_
 
 ### 63
+
+

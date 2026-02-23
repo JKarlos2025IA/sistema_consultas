@@ -1,0 +1,24 @@
+[
+  {
+    "archivo": "Directiva N° 001-2026-OECE-CD.pdf",
+    "pymupdf_chars": 52386,
+    "gemini_chars": 24573,
+    "pymupdf_calidad": 0.88,
+    "gemini_calidad": 0.923,
+    "pymupdf_articulos": 5,
+    "gemini_articulos": 5,
+    "pymupdf_porcentajes": 0,
+    "gemini_porcentajes": 0
+  },
+  {
+    "archivo": "Directiva N° 002-2026-OECE-CD.pdf",
+    "pymupdf_chars": 51421,
+    "gemini_chars": 152706,
+    "pymupdf_calidad": 0.811,
+    "gemini_calidad": 1.0,
+    "pymupdf_articulos": 3,
+    "gemini_articulos": 4,
+    "pymupdf_porcentajes": 1,
+    "gemini_porcentajes": 2
+  }
+]

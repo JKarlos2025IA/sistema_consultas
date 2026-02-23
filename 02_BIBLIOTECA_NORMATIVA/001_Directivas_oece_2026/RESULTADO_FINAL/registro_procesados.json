@@ -1,0 +1,16 @@
+{
+  "Directiva N° 001-2026-OECE-CD.pdf": {
+    "hash": "5a7f6f524fd6e3d2807ced7692032986",
+    "paginas": 13,
+    "estado": "OK",
+    "metodo": "pipeline_v1",
+    "timestamp": "2026-02-20T02:59:58.634676"
+  },
+  "Directiva N° 002-2026-OECE-CD.pdf": {
+    "hash": "0e876e1b879b9963a185a2ada717c35c",
+    "paginas": 32,
+    "estado": "ACEPTABLE",
+    "metodo": "pipeline_v1",
+    "timestamp": "2026-02-20T02:59:58.716439"
+  }
+}

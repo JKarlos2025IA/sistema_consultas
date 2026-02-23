@@ -20,7 +20,7 @@
         "ruta": "../02_BIBLIOTECA_NORMATIVA/003_Decreto_Legistativo_1017"
     },
     {
-        "activo": false,
+        "activo": true,
         "alias": "Ley y Reglamento 30225",
         "ruta": "../02_BIBLIOTECA_NORMATIVA/004_Ley_reglamento_30225"
     },
@@ -35,7 +35,7 @@
         "ruta": "../02_BIBLIOTECA_NORMATIVA/006_Opiniones_2025_OECE"
     },
     {
-        "activo": true,
+        "activo": false,
         "alias": "Manuales",
         "ruta": "../02_BIBLIOTECA_NORMATIVA/007_Manuales"
     }

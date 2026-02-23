@@ -1,8 +1,10 @@
 **Lineamientos N° 002-2025-OECE-CD**
 
+
 **LINEAMIENTOS DE CONDUCTA DE LOS COMPRADORES PÚBLICOS PARA EL**
 
 **DESARROLLO DEL PROCESO DE CONTRATACIÓN PÚBLICA**
+
 
 **I.** **FINALIDAD**
 
@@ -51,7 +53,6 @@ Reglamento de la Ley N° 32069, Ley General de Contrataciones Públicas.
 **-** Resolución de Secretaría de Integridad Pública N° 005-2023-PCM-SIP,
 Resolución que aprueba la Directiva N° 002-2023-PCM-SIP “Directiva para la
 
-Página | 1
 
 gestión de denuncias y solicitudes de medidas de protección al denunciante de
 actos de corrupción recibidas a través de la plataforma digital única de
@@ -105,10 +106,10 @@ seguimiento de la ejecución del contrato y su conclusión.
 públicos involucrados en las fases del proceso de contratación conforme a la
 normativa de contratación pública, con énfasis en el cumplimiento de los
 
-Página | 2
 
 principios y enfoques, para garantizar que su comportamiento permita lograr
 la finalidad pública de la contratación.
+
 
 **e)** **Conflictos de interés** : Es la situación en la que los intereses privados del
 
@@ -165,11 +166,11 @@ comportamiento transgreda, por acción u omisión, el respeto de los principios,
 deberes y normas relacionadas al ejercicio de la función pública, así como los
 valores de la organización y configure una práctica contraria a la ética.
 
-Página | 3
 
 **VI.** **REFERENCIAS**
 
 En los Lineamientos se utilizan las siguientes referencias:
+
 
 **-** **Ley:** Ley N° 32069, Ley General de Contrataciones Públicas.
 
@@ -207,7 +208,9 @@ En los Lineamientos se utilizan las siguientes siglas:
 
 Digital para las Contrataciones Públicas (Pladicop).
 
+
 **VIII.** **RESPONSABILIDADES**
+
 
 8.1. Todos los compradores públicos son responsables de cumplir y hacer cumplir
 
@@ -227,7 +230,6 @@ correspondan, de conformidad con las disposiciones emitidas por los
 órganos de control interno y otras instancias competentes, así como del
 régimen disciplinario vigente, de acuerdo con el régimen jurídico que vincule
 
-Página | 4
 
 al comprador público y demás servidores involucrados en los procesos de
 contratación con la entidad contratante.
@@ -235,6 +237,7 @@ contratación con la entidad contratante.
 **IX.** **DISPOSICIONES GENERALES**
 
 9.1. **Naturaleza de los Lineamientos**
+
 
 9.1.1. Las disposiciones previstas en los Lineamientos constituyen
 
@@ -272,6 +275,7 @@ los procesos de contratación.
 
 9.2. **Discrecionalidad y rigor técnico**
 
+
 9.2.1. La facultad para actuar discrecionalmente se fundamenta en el rigor
 
 técnico empleado por el comprador público al adoptar decisiones
@@ -283,7 +287,6 @@ públicos.
 
 contratación pública, así como las decisiones discrecionales adoptadas,
 
-Página | 5
 
 son de responsabilidad de los compradores públicos de las entidades
 contratantes.
@@ -295,6 +298,7 @@ rigurosidad técnica que adoptan los compradores públicos en el marco
 de la facultad discrecional con la que cuentan.
 
 9.3. **Supervisión del proceso de contratación**
+
 
 9.3.1. La AGA es responsable de la aprobación, autorización y supervisión de
 
@@ -317,6 +321,7 @@ recomendadas por el OECE.
 
 9.4. **Principios**
 
+
 Los principios que rigen las contrataciones públicas sirven de criterio de
 interpretación para la aplicación de las disposiciones contenidas en la
 normativa de contrataciones públicas.
@@ -329,13 +334,13 @@ reducir y/o evitar riesgos que afecten el cumplimiento de la finalidad pública.
 En los Lineamientos se recogen los siguientes principios que guían y orientan
 las conductas de los compradores públicos:
 
+
 **a)** **Integridad:** Es la conducta obligada de todo aquel que participe en el
 
 proceso de contratación, quien, guiado por la honestidad, veracidad y
 la apertura a la rendición de cuentas, evita y denuncia cualquier
 práctica indebida o corrupta ante las autoridades competentes.
 
-Página | 6
 
 **b)** **Probidad:** Actúa con rectitud, honradez y honestidad, procurando
 
@@ -390,7 +395,6 @@ acceso a toda plataforma, sistemas, procedimientos y trámites debe
 ser sencillo, amigable al usuario y oportuno, de modo que garantice la
 seguridad y brinde información confiable, oficial y útil.
 
-Página | 7
 
 **i)** **Competencia** : Los procesos de contratación incluyen disposiciones que
 permiten establecer condiciones de competencia efectiva y obtener la
@@ -417,13 +421,16 @@ objetivos de sostenibilidad en todo proceso de contratación pública.
 
 9.5. **Enfoques**
 
+
 Considerando que las funciones que desempeñan los compradores públicos
 se encuentran expuestas a conflictos de interés o potenciales conflictos de
 interés, al aplicar los Lineamientos, los compradores públicos utilizan los
 siguientes enfoques, fin de reducir y/o evitar riesgos que afecten el
 cumplimiento de la finalidad pública de la contratación.
 
+
 **a)** **Integridad**
+
 
         - Conlleva la promoción de la conducta funcional, la actividad
 
@@ -441,7 +448,6 @@ de interés y otras que puedan afectar la integridad pública.
 
 **b)** **Gestión por resultados**
 
-Página | 8
 
         - Permite vincular la asignación de recursos presupuestales, bienes
 
@@ -454,6 +460,7 @@ que las entidades contratantes empleen los recursos públicos con
 eficacia y eficiencia.
 
 **c)** **Gestión de riesgos en contratación pública**
+
 
         - Comprende las actividades y las acciones proactivas, preventivas y
 
@@ -473,6 +480,7 @@ puedan afectar el cumplimiento de la finalidad pública.
 
 **d)** **Gobernanza de la contratación pública**
 
+
         - Prioriza la gestión efectiva, eficaz, ordenada y transparente del
 
 proceso de contratación pública, en cumplimiento del mandato
@@ -489,6 +497,7 @@ de adquirir bienes, servicios y obras.
 
 **e)** **Profesionalización de la contratación pública**
 
+
         - La promoción de estrategias de profesionalización integrales y
 
 dinámicas de los compradores públicos es una prioridad para la
@@ -496,11 +505,11 @@ mejora continua en las contrataciones públicas.
 
 9.6. **Deber de informar y/o denunciar presuntas infracciones**
 
+
 9.6.1. El comprador público que participa en un proceso de contratación
 
 pública, en cualquiera de sus fases, puede enfrentarse a situaciones
 
-Página | 9
 
 que comprometen su probidad o integridad. Ante dichos escenarios
 deben presentar su denuncia en la Plataforma Digital Única de
@@ -546,6 +555,7 @@ conductas esperadas contempladas en el referido Anexo no son taxativas.
 
 **10.2.** **Prohibiciones**
 
+
 10.2.1. Constituyen restricciones contempladas en la normativa de
 
 contratación pública, dado que son incompatibles con el interés
@@ -555,10 +565,10 @@ público, los principios y enfoques recogidos en la Ley.
 
 la integridad y transparencia en la gestión de la contratación pública.
 
-Página | 10
 
 Los compradores públicos tienen en cuenta las siguientes
 prohibiciones:
+
 
          - Aceptar directa         - indirectamente de proveedores,
 participantes, postores y contratistas regalos, presentes,
@@ -583,6 +593,7 @@ taxativas.
 **10.3.** **Seguimiento, monitoreo y evaluación del cumplimiento de los**
 
 **Lineamientos**
+
 
 10.3.1. La AGA, el Jefe de Administración o quien haga sus veces, realizan el
 
@@ -612,7 +623,6 @@ ciento (100%) de las conductas esperadas que hayan sido consignadas
 en el Anexo N° 2 “Checklist de logros de conductas esperadas”. La
 Entidad contratante puede otorgar los siguientes reconocimientos:
 
-Página | 11
 
              - 📝 **Reconocimiento formal** mediante diploma, carta,
 memorando u otra comunicación oficial.
@@ -634,15 +644,17 @@ en los Lineamientos por parte de los compradores públicos.
 
 **XII.** **ANEXOS**
 
+
 **▪** Anexo N° 1: Conductas esperadas en las fases de la contratación.
 
 **▪** Anexo N° 2: Checklist de logros de conductas esperadas.
 
-Página | 12
 
 **ANEXO N° 1**
 
+
 **1.** **CONDUCTAS ESPERADAS EN LA FASE DE ACTUACIONES PREPARATORIAS**
+
 
 La fase de actuaciones preparatorias, de acuerdo al artículo 41 del Reglamento,
 comprende todas aquellas acciones desde la segmentación de contrataciones del PAC
@@ -665,6 +677,7 @@ determinado riesgo:
 
 **a.** **Actividad:** Verificación del registro del requerimiento en el CMN
 
+
 **Riesgo identificado:** La verificación y alerta extemporánea al área usuaria sobre la
 no inclusión del requerimiento en el CMN, puede generar demoras y devoluciones
 que afecten el inicio del proceso de contratación y la satisfacción de necesidades de
@@ -672,7 +685,9 @@ manera oportuna.
 
 **Descripción de la Conducta esperada:**
 
+
 **b.** **Actividad:** Segmentación de las contrataciones
+
 
 **Riesgo identificado:** La incorrecta clasificación de las contrataciones en la
 segmentación conlleva a que la entidad contratante realice una inadecuada o
@@ -680,9 +695,9 @@ insuficiente interacción con el mercado y, por ende, desarrolle una deficiente 
 incompleta estrategia de contratación, poniendo en riesgo el cumplimiento de la
 finalidad pública de la contratación.
 
-Página | 13
 
 **Descripción de la Conducta esperada:**
+
 
 **c.** **Actividad:** Informar a las áreas usuarias los resultados de la segmentación
 
@@ -692,6 +707,7 @@ las contrataciones y compromete el cumplimiento de los plazos previstos para la
 atención oportuna de sus requerimientos.
 
 **Descripción de la Conducta esperada:**
+
 
 **d.** **Actividad:** Elaboración del requerimiento de acuerdo a las bases estándar y
 
@@ -706,19 +722,20 @@ pública de dicha contratación.
 
 **Descripción de la Conducta esperada:**
 
+
 **e.** **Actividad:** Revisión de los requerimientos elaborados por las áreas usuarias
 
 **Riesgo identificado:** La no participación del comprador público en la elaboración y
 revisión de los requerimientos de las áreas usuarias en torno al cumplimiento de la
 normativa de contrataciones públicas, puede conllevar a que se incluyan
 
-Página | 14
 
 condiciones que direccionen la contratación o vulneren los principios contenidos en
 la Ley, como, por ejemplo, libertad de concurrencia, competencia e igualdad de
 trato.
 
 **Descripción de la Conducta esperada:**
+
 
 **f.** **Actividad:** Verificación de existencias y stock en el Almacén
 
@@ -728,6 +745,7 @@ necesidades del área usuaria, situación que puede conllevar a que se destinen 
 recursos de manera ineficiente.
 
 **Descripción de la Conducta esperada:**
+
 
 **g.** **Actividad:** Verificación de si el requerimiento se encuentra estandarizado en una
 ficha de homologación o ficha técnica vigente.
@@ -739,19 +757,22 @@ referidas fichas.
 
 **Descripción de la Conducta esperada:**
 
+
 **h.** **Actividad:** Agrupación de las contrataciones de bienes, servicios y obras
+
 
 **Riesgo identificado:** Agrupamientos de requerimientos en ítems o paquetes mal
 diseñados pueden favorecer a determinados sectores de proveedores y excluir a
 
-Página | 15
 
 otros proveedores, como a las micro o pequeñas empresas que no estarían en
 capacidad de participar.
 
 **Descripción de la Conducta esperada:**
 
+
 **i.** **Actividad:** Elaboración de la estrategia de contratación
+
 
 **Riesgo identificado:** La estrategia de contratación no contiene todo el análisis, ni la
 evaluación integral de las variables que influyen en el proceso de contratación, ni
@@ -761,6 +782,7 @@ de mala calidad que no permita atender las necesidades de la población
 beneficiaria.
 
 **Descripción de la Conducta esperada:**
+
 
 **j.** **Actividad:** Análisis de la estrategia de contratación para asegurar el cumplimiento
 de la finalidad pública
@@ -772,9 +794,9 @@ DGA y no contiene toda la información y sustento requerido y proporcionado por 
 
 **Descripción de la Conducta esperada:**
 
+
 **k.** **Actividad:** Interacción con el mercado
 
-Página | 16
 
 **Riesgo identificado:** Una deficiente interacción con el mercado no permite
 perfeccionar el requerimiento del área usuaria, actualizar la cuantía de la
@@ -785,7 +807,9 @@ incumplimiento de la finalidad pública de la contratación.
 
 **Descripción de la Conducta esperada:**
 
+
 **l.** **Actividad:** Análisis de información en base a la indagación
+
 
 **Riesgo identificado:** En la indagación el comprador público no explora, no recopila,
 no evalúa, ni analiza toda la información de los proveedores, datos, precios,
@@ -795,7 +819,9 @@ información insuficiente o desactualizada.
 
 **Descripción de la Conducta esperada:**
 
+
 **m.** **Actividad:** Intercambio de información a través de la consulta al mercado
+
 
 **Riesgo identificado:** No se aprovecha el potencial de la consulta al mercado,
 convirtiéndose en un trámite formal y mecánico, que no permite un intercambio de
@@ -805,7 +831,6 @@ contratación.
 
 **Descripción de la Conducta esperada:**
 
-Página | 17
 
 **n.** **Actividad:** Registro ordenado de reuniones informativas durante la consulta al
 
@@ -820,7 +845,9 @@ ni la estrategia de contratación.
 
 **Descripción de la Conducta esperada:**
 
+
 **o.** **Actividad:** Verificación del nivel mínimo de interacción con el mercado
+
 
 **Riesgo identificado:** La verificación y uso incorrecto del tipo de interacción con el
 mercado determinado en la segmentación de las contrataciones, puede conllevar
@@ -828,6 +855,7 @@ que no se tenga un adecuado y oportuno análisis de las variables usadas en la
 interacción con el mercado.
 
 **Descripción de la Conducta esperada:**
+
 
 **p.** **Actividad:** Asegurar la confidencialidad de la información obtenida como resultado
 
@@ -839,9 +867,9 @@ proceso de contratación, afectando el principio de igualdad de trato y competen
 
 **Descripción de la Conducta esperada:**
 
-Página | 18
 
 **q.** **Actividad:** Elaboración de bases del procedimiento de selección
+
 
 **Riesgo identificado:** Si las bases, que constituyen las reglas del procedimiento,
 incluyen condiciones, requisitos y factores que no son claros o contienen
@@ -851,8 +879,10 @@ contrato.
 
 **Descripción de la Conducta esperada:**
 
+
 **r.** **Actividad:** Planificar la gestión de riesgos en bienes y servicios segmentados como
 estratégicos
+
 
 **Riesgo identificado:** Ausencia de una matriz de riesgos para los casos de
 contrataciones clasificadas como estratégicas, de manera que ante cualquier suceso
@@ -861,7 +891,9 @@ la continuidad o culminación de la contratación.
 
 **Descripción de la Conducta esperada:**
 
+
 **s.** **Actividad: Requerimiento de contratos menores**
+
 
 **Riesgo identificado:** Si bien los contratos menores son de baja complejidad y
 cuantía, el hecho de no verificar que el requerimiento se adecúe a las disposiciones
@@ -871,9 +903,9 @@ la finalidad pública de la contratación.
 
 **Descripción de la Conducta esperada:**
 
-Página | 19
 
 **2.** **CONDUCTAS ESPERADAS EN LA FASE DE SELECCIÓN**
+
 
 En esta fase las entidades contratantes, a través de oficiales de compra, comités o
 jurados, según corresponda, llevan a cabo los actos conducentes para seleccionar la
@@ -882,13 +914,16 @@ conductas esperadas en esta fase de la contratación:
 
 **a.** **Actividad:** Adopción de decisiones autónomas por parte de los evaluadores
 
+
 **Riesgo identificado:** Influencias externas en la toma de decisiones en el
 procedimiento de selección pueden afectar la integridad, transparencia y
 competencia de la contratación pública.
 
 **Descripción de la Conducta esperada:**
 
+
 **b.** **Actividad:** Comunicar sobre cualquier presunto acto de corrupción
+
 
 **Riesgo identificado:** En determinadas situaciones el hecho de no comunicar o
 denunciar un presunto caso de corrupción puede generar responsabilidades
@@ -899,9 +934,9 @@ pública en la entidad contratante.
 
 **Descripción de la Conducta esperada:**
 
-Página | 20
 
 **c.** **Actividad:** Absolución de consultas y observaciones debidamente motivada
+
 
 **Riesgo identificado:** La falta de motivación o justificación técnica o legal al
 momento de absolver una consulta u observación puede conllevar a que se
@@ -911,9 +946,11 @@ contratación o limite la concurrencia de proveedores.
 
 **Descripción de la Conducta esperada:**
 
+
 **d.** **Actividad:** Deber de remitir información completa y oportuna al OECE para que
 emita su pronunciamiento ante una elevación de cuestionamientos al pliego de
 absolución de consultas y observaciones y/o a las bases integradas.
+
 
 **Riesgo identificado:** Las entidades contratantes no remiten la información prevista
 en la Directiva de disposiciones para la presentación de la solicitud de elevación de
@@ -922,20 +959,24 @@ bases aprobada por el OECE, generando la suspensión del procedimiento de
 selección hasta que se remita toda la documentación solicitada para la emisión del
 pronunciamiento.
 
+
 **Descripción de la Conducta esperada:**
 
+
 **e.** **Actividad:** Subsanación de ofertas
+
 
 **Riesgo identificado:** Solicitar la subsanación de documentos que alteren el
 contenido esencial de la oferta, sin considerar los criterios establecidos en la
 normativa de contrataciones públicas, afecta el principio de igualdad de trato.
 
+
 **Descripción de la Conducta esperada:**
 
-Página | 21
 
 **f.** **Actividad:** Acceso de documentos de la buena pro para hacer efectivo el derecho
 impugnar la decisión de los evaluadores
+
 
 **Riesgo identificado:** La negativa o retraso en la atención a la solicitud de acceso del
 expediente de contratación por parte del participante o postor a fin de ejercer su
@@ -944,8 +985,10 @@ transparencia y legalidad.
 
 **Descripción de la Conducta esperada:**
 
+
 **g.** **Actividad:** Publicación del otorgamiento de la buena pro y documentos que lo
 sustenten.
+
 
 **Riesgo identificado:** La omisión o publicación incompleta e inoportuna de la
 documentación que sustenta la buena pro en el SEACE vulnera el principio de
@@ -954,8 +997,10 @@ de selección en caso se interpongan recursos impugnativos.
 
 **Descripción de la Conducta esperada:**
 
+
 **h.** **Actividad:** Control posterior de documentos presentados por el postor ganador de
 la buena pro
+
 
 **Riesgo identificado:** La omisión o demora en la fiscalización posterior de la
 documentación presentada por el postor ganador de la buena pro puede conllevar
@@ -963,12 +1008,13 @@ a que se perfeccione el contrato con el adjudicatario de la buena pro que presen
 información inexacta o falsa, lo cual podría afectar la continuidad de la contratación
 y la ejecución de los recursos públicos.
 
-Página | 22
 
 **Descripción de la Conducta esperada:**
 
+
 **i.** **Actividad:** Verificar en la FUP si el proveedor cuenta con multas impagas antes de
 la suscripción del contrato
+
 
 **Riesgo identificado:** No verificar en la FUP si el proveedor cuenta con multas
 impagas que no se encuentren en procedimiento de cobranza coactiva, antes de la
@@ -977,7 +1023,9 @@ obligaciones por parte de los proveedores.
 
 **Descripción de la Conducta esperada:**
 
+
 **3.** **CONDUCTAS ESPERADAS EN LA FASE DE EJECUCIÓN CONTRACTUAL**
+
 
 En esta fase, las entidades contratantes y el contratista inician la ejecución de las
 prestaciones de acuerdo a las reglas previstas en el contrato; por ello, es importante que
@@ -995,7 +1043,6 @@ así como a la finalidad del contrato.
 
 **Descripción de la Conducta esperada:**
 
-Página | 23
 
 **b.** **Actividad:** Evaluación adecuada de condiciones y supuestos necesarios para
 realizar prestaciones adicionales en bienes, servicios y obras
@@ -1007,7 +1054,9 @@ de la contratación o que se desnaturalice la prestación a cargo del contratist
 
 **Descripción de la Conducta esperada:**
 
+
 **c.** **Actividad:** Ampliación del plazo contractual en bienes y servicios
+
 
 **Riesgo identificado:** Un registro tardío en el SEACE del pronunciamiento de la
 entidad contratante sobre las solicitudes de ampliación de plazo planteadas por los
@@ -1016,22 +1065,26 @@ cuente con el sustento técnico respectivo, lo cual puede afectar la satisfacci�
 oportuna de las necesidades de la entidad, así como la finalidad pública de la
 contratación.
 
+
 **Descripción de la Conducta esperada:**
+
 
 **d.** **Actividad:** En la recepción y conformidad de los bienes y servicios, verificar que el
 otorgamiento de plazo para subsanar las observaciones se encuentre dentro del
 plazo máximo previsto
+
 
 **Riesgo identificado:** A veces no se verifica que el plazo otorgado sea el máximo
 permitido por la normativa de contrataciones públicas, lo cual puede generar que
 no se aplique la penalidad por mora en la ejecución de la prestación prevista en la
 normativa de contrataciones públicas.
 
+
 **Descripción de la Conducta esperada:**
 
-Página | 24
 
 **e.** **Actividad:** Revisión de la conformidad de prestación emitida por el área usuaria
+
 
 **Riesgo identificado:** Una deficiente revisión de las conformidades no permitirá
 alertar omisiones o incongruencias no advertidas por las áreas usuarias, como es el
@@ -1039,9 +1092,12 @@ incumplimiento del plazo y, consecuentemente, la no aplicación de penalidades u
 observaciones necesarias de acuerdo a la normativa de contrataciones públicas,
 entre otros, generando un perjuicio económico para la entidad contratante.
 
+
 **Descripción de la Conducta esperada:**
 
+
 **f.** **Actividad:** Oportunidad para realizar el pago al contratista
+
 
 **Riesgo identificado:** La demora injustificada de los pagos al contratista puede
 originar suspensiones o paralizaciones en la ejecución de los contratos, afectación
@@ -1050,9 +1106,12 @@ originar suspensiones o paralizaciones en la ejecución de los contratos, afecta
 beneficios indebidos o encubiertos, como pagos por agilización interna o prácticas
 que afecten los principios de integridad y transparencia en la contratación pública.
 
+
 **Descripción de la Conducta esperada:**
 
+
 **g.** **Actividad:** Evaluación de causales de nulidad de contrato
+
 
 **Riesgo identificado:** La inadecuada evaluación de una causal de nulidad del
 contrato puede conllevar a una incorrecta aplicación de la normativa de
@@ -1060,27 +1119,33 @@ contrataciones públicas, que no se adopte la mejor decisión de gestión e incu
 responsabilidades, de ser el caso, afectando el cumplimiento de la finalidad pública
 que se persigue con la contratación.
 
+
 **Descripción de la Conducta esperada:**
 
-Página | 25
 
 **h.** **Actividad:** Monitoreo y evaluación de la ejecución contractual
+
 
 **Riesgo identificado:** La falta de monitoreo durante la fase de ejecución contractual
 puede conllevar al incumplimiento del contrato y que no se adopten medidas de
 mejora o acciones correctivas para satisfacer las necesidades del área usuaria e
 incumplir las condiciones y obligaciones de las partes previstas en el contrato.
 
+
 **Descripción de la Conducta esperada:**
 
+
 **i.** **Actividad:** Retroalimentación sobre lecciones aprendidas a las etapas previas
+
 
 **Riesgo identificado:** La ausencia o deficiencia en la retroalimentación de lecciones
 aprendidas durante la ejecución contractual puede conllevar a que se cometan los
 mismos errores y malas prácticas, lo cual afecta la eficiencia, transparencia y
 legalidad de las contrataciones llevadas a cabo por la entidad contratante.
 
+
 **Descripción de la Conducta esperada:**
+
 
 **4.** **CONDUCTAS ESPERADAS TRANSVERSALES A TODAS LAS FASES DEL PROCESO DE**
 
@@ -1099,7 +1164,6 @@ contrato.
 
 **Descripción de la Conducta esperada:**
 
-Página | 26
 
 **b.** **Actividad a realizar: Registro en el SEACE de todos los actos realizados durante las**
 **tres fases de la contratación pública**
@@ -1111,6 +1175,7 @@ exigidas por la normativa de contratación pública.
 
 **Descripción de la Conducta esperada:**
 
+
 **c.** **Actividad:** Custodia de la documentación contenida en el expediente de
 contratación
 
@@ -1120,6 +1185,7 @@ puede conllevar a la pérdida de información del expediente de contratación o
 limitar el ejercicio de control y fiscalización de los organismos competentes.
 
 **Descripción de la Conducta esperada:**
+
 
 **d.** **Actividad: Identificar e Informar situaciones que constituyan potenciales**
 **conflictos de intereses**
@@ -1131,15 +1197,14 @@ así como el cumplimiento de la finalidad pública de la contratación.
 
 **Descripción de la Conducta esperada:**
 
-Página | 27
-
-Página | 28
 
 **ANEXO N°2**
+
 
 |DIA|MES|AÑO|
 |---|---|---|
 ||||
+
 
 |Nombres y apellidos del<br>:<br>comprador público|[CONSIGNAR NOMBRES Y APELLIDOS DEL<br>COMPRADOR PÚBLICO EVALUADO]|
 |---|---|
@@ -1149,7 +1214,6 @@ Página | 28
 |<br>**Fase(s) de la contratación**<br>**: **|[CONSIGNAR<br>LA<br>NOMENCLATURA<br>Y/O<br>DENOMINACIÓN<br>DEL/LOS<br>PROCESO(S)<br>DE<br>CONTRATACIÓN, OBJETO DE LA EVALUACIÓN]|
 |<br>**Periodo de evaluación**<br>**: **|[CONSIGNAR EL PERIODO DE EVALUACIÓN QUE<br>PUEDE SER TRIMESTRAL, SEMESTRAL O EL PERIODO<br>ESTIMADO DEL ENCARGO DEL/ LOS PROCESO(S) DE<br>CONTRATACIÓN ASIGNADO(S)]|
 
-Página | 29
 
 |N°|DESCRIPCIÓN DE LAS CONDUCTAS<br>ESPERADAS|LOGRADO|EN<br>PROCESO|NO<br>LOGRADO|
 |---|---|---|---|---|
@@ -1160,6 +1224,7 @@ Página | 29
 |**5 **|||||
 |**… **|||||
 
+
 |EVALUADO|FUNCIONARIO A CARGO DE LA<br>EVALUACIÓN|
 |---|---|
 |Nombres y apellidos:<br>______________________________________<br>______________________________________|Nombres y apellidos:<br>____________________________________<br>____________________________________|
@@ -1167,22 +1232,24 @@ Página | 29
 |DNI:<br> ______________________________________|DNI:<br>____________________________________|
 |Firma:<br>|Firma:<br>|
 
-Página | 30
 
 **Instrucciones:**
+
 
 **●** Incorporar las conductas esperadas de acuerdo a las fases de la contratación,
 competencias y rol del comprador público, en los procesos de contratación asignados,
 que serán objeto de evaluación durante el periodo determinado.
+
 
 **●** Incorporar las conductas contempladas en el Anexo N° 1; no obstante, dichas conductas
 no son taxativas, se pueden incluir otras conductas esperadas, SIEMPRE QUE EN NINGÚN
 CASO SE CONSIDEREN CONDUCTAS CONTRARIAS A LA NORMATIVA DE
 CONTRATACIONES PÚBLICAS VIGENTE.
 
+
 **●** Incorporar campos adicionales (filas o columnas) o realizar las adecuaciones que se
 consideren necesarias, a efectos de realizar el seguimiento, monitoreo y evaluación del
 cumplimiento de los Lineamientos por parte de los compradores públicos de las
 entidades contratantes.
 
-Página | 31
+

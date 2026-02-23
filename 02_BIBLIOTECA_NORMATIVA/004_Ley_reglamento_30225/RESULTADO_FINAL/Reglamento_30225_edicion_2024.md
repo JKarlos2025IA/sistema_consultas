@@ -1,18 +1,14 @@
-REGLAMENTO
 
 # **REGLAMENTO DE LA LEY DE CONTRATACIONES DEL ESTADO** **Decreto Supremo No 344-2018 - EF**
 
-_Materiales de enseñanza_
-
-1
-
-REGLAMENTO
 
 ## **TABLA DE CONTENIDO**
+
 
 **TÍTULO I** **:** **DISPOSICIONES GENERALES**
 
 **TÍTULO II** **:** **REGISTRO**
+
 
 Capítulo I : Registro Nacional de Proveedores.
 Capítulo II : Registro de Entidades Contratantes.
@@ -21,12 +17,14 @@ Capítulo II : Registro de Entidades Contratantes.
 
 **TÍTULO IV** **:** **ACTUACIONES PREPARATORIAS**
 
+
 Capítulo I : Requerimiento y preparación del expediente de
 Contratación
 Capítulo II : Órganos a cargo del procedimiento de selección
 Capítulo III : Documentos del procedimiento de selección
 
 **TÍTULO V** **:** **MÉTODOS DE CONTRATACIÓN.**
+
 
 Capítulo I : Disposiciones Generales Aplicables a los Procedimientos
 de selección
@@ -37,6 +35,7 @@ Subcapítulo I : Contratación de servicios en general
 Subcapítulo II : Contratación de consultoría en general y
 consultoría de obras
 Subcapítulo III : Concurso de proyectos arquitectónicos
+
 
 Capítulo IV : Adjudicación simplificada
 Capítulo V : Selección de Consultores Individuales.
@@ -55,11 +54,6 @@ Capítulo I : Del contrato
 Capítulo II : Garantías y adelantos
 Capítulo III : Modificaciones del contrato
 
-_Materiales de enseñanza_
-
-2
-
-REGLAMENTO
 
 Capítulo IV : Incumplimiento del contrato
 Capítulo V : Culminación de la ejecución contractual
@@ -67,11 +61,13 @@ Capítulo VI : Obras
 
 **TÍTULO VIII :** **EJECUCIÓN DE OBRA QUE INCLUYE DISEÑO Y CONSTRUCCIÓN.**
 
+
 Capítulo I : Aspectos generales
 Capítulo II : Diseño y construcción
 Capítulo III : Diseño y construcción con estudio básico de ingeniería
 
 **TÍTULO IX** **:** **CONTROVERSIAS DURANTE LA EJECUCIÓN CONTRACTUAL**
+
 
 Capítulo I : Medios de solución de controversias
 Capítulo II : Registro Nacional de Ärbitros
@@ -88,11 +84,6 @@ Capítulo IV : Código de ética y consejo de ética
 **ANEXO Nº 2 :** **CONDICIONES Y REQUISITOS DE LOS PROCEDIMIENTOS ADMINISTRATIVOS**
 **Y LOS SERVICIOS PRESTADOS EN EXCLUSIVIDAD DEL OSCE**
 
-_Materiales de enseñanza_
-
-3
-
-REGLAMENTO
 
 **TÍTULO I**
 **DISPOSICIONES GENERALES**
@@ -130,6 +121,7 @@ Pueden realizar contrataciones en el marco de la Ley y el Reglamento, las organi
 ordenamiento jurídico nacional, así como los órganos desconcentrados de las Entidades siempre que cuenten
 con autonomía y capacidad para gestionar sus contrataciones, conforme a sus normas autoritativas.
 
+
 [Opinión 106-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2348124-opinion-n-106-2021-dtn)
 [Opinión 103-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2348107-opinion-n-103-2021-dtn)
 
@@ -141,11 +133,6 @@ utilizan para encargar la realización de las actuaciones preparatorias o del pr
 4.2. Las contrataciones a las que se refieren los literales c) y f) del numeral 5.1 del artículo 5 de la Ley requieren
 de informe técnico e informe legal que sustenten la configuración del supuesto de inaplicación.
 
-_Materiales de enseñanza_
-
-4
-
-REGLAMENTO
 
 **Artículo 5. Organización de la Entidad para las contrataciones**
 
@@ -172,6 +159,7 @@ encuentra sujeto al pago del costo previsto en el TUPA. [1]
 [Opinión 005-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3832606-opinion-n-005-2023-dtn)
 [Opinión 104-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290940-opinion-n-104-2019-dtn)
 
+
 **Directiva N° 002-2020-OSCE/CD**
 **Certificación de los profesionales y técnicos que laboren en los OEC de las**
 **entidades públicas**
@@ -190,13 +178,9 @@ de trabajo distintos.
 hubiera delegado dicha facultad, de conformidad con las reglas previstas en la normatividad del Sistema
 Nacional de Abastecimiento.
 
+
 _1 Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-5
-
-REGLAMENTO
 
 6.2. Luego de aprobado, el Plan Anual de Contrataciones, puede ser modificado en cualquier momento
 durante el año fiscal para incluir o excluir contrataciones.
@@ -209,12 +193,14 @@ correspondiente documento aprobatorio o modificatorio, de ser el caso.
 6.4. Es requisito para la convocatoria de los procedimientos de selección, salvo para la Comparación de
 Precios, que estén incluidos en el Plan Anual de Contrataciones, bajo sanción de nulidad.
 
+
 [Opinión 103-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1294399-opinion-n-103-2020-dtn)
 [Opinión 099-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290935-opinion-n-099-2019-dtn)
 
 **Artículo 7. Impedimentos**
 
 7.1. El impedimento previsto en el literal n) del numeral 11.1 del artículo 11 de la Ley se aplica a:
+
 
 a) Las personas jurídicas, cuyos representantes legales o personas vinculadas han sido condenados
 en el país o en el extranjero, mediante sentencia consentida o ejecutoriada, por delitos de
@@ -233,6 +219,7 @@ delitos, ante alguna autoridad nacional o extranjera competente.
 7.2. En relación con lo previsto en el literal n) del numeral 11.1 del artículo 11 de la Ley, se entiende como
 persona vinculada a una persona natural o jurídica a:
 
+
 a) Cualquier persona jurídica que sea propietaria directa de más del treinta por ciento (30%) de las
 acciones representativas del capital o tenedora de participaciones sociales en dicho porcentaje en
 la propiedad de esta.
@@ -244,17 +231,14 @@ cuales aquella ejerce también un control.
 vigentes por el plazo de la condena o, en el caso de admisión o reconocimiento de la comisión del delito,
 por el plazo mínimo previsto como pena para este.
 
-_Materiales de enseñanza_
-
-6
-
-REGLAMENTO
 
 **TÍTULO II**
 **REGISTRO**
 
+
 **CAPITULO I**
 **REGISTRO NACIONAL DE PROVEEDORES**
+
 
 **Artículo 8. Finalidad y organización.**
 
@@ -282,6 +266,7 @@ consultores de obras, y iv) ejecutores de obras **.** **[6]**
 9.1. Los proveedores se incorporan al RNP mediante el procedimiento de inscripción, cuyos requisitos se
 establecen en el Reglamento.
 
+
 _2 Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Entro en vigencia_
 _a los diez (10) días hábiles siguientes de su publicación-_
 3 _Numeral modificado por el Artículo 3 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Entro en vigencia_
@@ -295,11 +280,6 @@ _a los diez (10) días hábiles siguientes de su publicación-_
 7 _Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Entro en vigencia_
 _a los diez (10) días hábiles siguientes de su publicación_
 
-_Materiales de enseñanza_
-
-7
-
-REGLAMENTO
 
 9.2. En el RNP se inscriben o reinscriben todas las personas naturales o jurídicas, nacionales o extranjeras,
 estas últimas domiciliadas o no domiciliadas con o sin representante legal, que deseen participar en
@@ -342,15 +322,12 @@ Nacional de los Registros Públicos - SUNARP, la Superintendencia de Banca, Segu
 Privadas de Fondos de Pensiones - SBS; así como ante los Colegios Profesionales y otras entidades
 públicas, según corresponda.
 
+
 [Opinión 065-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365287-opinion-n-065-2023-dtn)
+
 
 _8 Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-8
-
-REGLAMENTO
 
 **Artículo 10. Excepciones**
 
@@ -363,6 +340,7 @@ conyugal, sucesión indivisa, masa hereditaria, fondo de garantía, fondos de in
 conforme a la ley de la materia **.** **[9]**
 
 c) Aquellos proveedores cuyas contrataciones sean por montos iguales o menores a una (1) UIT.
+
 
 [Opinión 086-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4587198-opinion-n-086-2023-dtn)
 [Opinión 065-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365287-opinion-n-065-2023-dtn)
@@ -387,22 +365,19 @@ de ampliación de categoría y aumento de capacidad máxima de contratación.
 11.4. La actualización de la información financiera por parte de los consultores y ejecutores de obra se realiza
 anualmente, de acuerdo a la Directiva correspondiente y de la siguiente manera:
 
+
 a) Las personas naturales y jurídicas nacionales actualizan su información financiera para determinar
 la solvencia económica hasta el mes de junio de cada año.
 
 b) Las personas naturales y jurídicas extranjeras actualizan su información financiera para determinar
 la solvencia económica hasta el mes de setiembre de cada año.
 
+
 _9   Litera_ l modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. En vigencia a los
 diez (10) días hábiles contados a partir del día siguiente de su publicación en el Diario Oficial El Peruano.
 10 Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Entro en vigencia a
 los diez (10) días hábiles siguientes a su publicación.
 
-_Materiales de enseñanza_
-
-9
-
-REGLAMENTO
 
 c) Las personas naturales y jurídicas nacionales actualizan su información financiera, cuando se realice
 una declaración rectificatoria ante la SUNAT, posterior a la presentada al RNP, siempre que influya
@@ -427,7 +402,9 @@ pese a haber sido requerido previamente por el RNP.
 
 b) Cuando de la evaluación de la información financiera el proveedor resulte insolvente.
 
+
 c) A solicitud del proveedor.
+
 
 [Opinión 065-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365287-opinion-n-065-2023-dtn)
 **Artículo 13. Recuperación de la vigencia de inscripción en el RNP**
@@ -441,6 +418,7 @@ b) del artículo anterior, pueden recuperar la vigencia actualizando su informac
 14.1. El retiro definitivo del RNP extingue la inscripción del proveedor en el RNP y puede ser a su solicitud, o de
 oficio cuando el OSCE advierta alguna de las siguientes causales:
 
+
 a) Muerte o extinción del proveedor.
 
 b) Por haber sido sancionado con inhabilitación definitiva, conforme al literal c) del numeral 50.4 del
@@ -449,11 +427,6 @@ artículo 50 de la Ley, mediante resolución firme.
 14.2. Un tercero puede solicitar el retiro del RNP de un proveedor por las mismas causales previstas en los
 literales anteriores.
 
-_Materiales de enseñanza_
-
-10
-
-REGLAMENTO
 
 **Artículo 15. Especialidad de los consultores de obras**
 
@@ -469,6 +442,7 @@ afines a los antes mencionados.
 
 **b)** **Consultoría en obras viales, puertos y afines**
 
+
 Construcción, mejoramiento, ampliación y/o rehabilitación de carreteras, pistas de aterrizaje, puentes,
 viaductos, intercambios viales a desnivel, túneles, líneas férreas, puertos, teleféricos; y afines a los antes
 mencionados.
@@ -478,14 +452,17 @@ caminos vecinales con un IMD menor o igual a 50 vehículos/día, puentes con una
 
 **c)** **Consultoría en obras de saneamiento y afines**
 
+
 Construcción, instalación, ampliación, mejoramiento, reconstrucción y/o rehabilitación de sistemas y
 líneas de agua potable, alcantarillado y desagüe, plantas de tratamiento de agua, plantas de tratamiento
 de residuos sólidos; y afines a los antes mencionados.
+
 
 Tratándose de obras rurales, se considera construcción, instalación, ampliación, reconstrucción y/o
 rehabilitación de tanques sépticos, pozo percolador; y afines a los antes mencionados.
 
 **d)** **Consultoría en obras electromecánicas, energéticas, telecomunicaciones y afines**
+
 
 Instalación, ampliación y/o mejoramiento de líneas de transmisión eléctrica y redes de conducción de
 corriente eléctrica, subestaciones de transformación, plantas de generación de energía eléctrica, sistemas
@@ -493,6 +470,7 @@ de telecomunicaciones, líneas y redes de conducción de combustibles, gases; y 
 mencionados.
 
 **e)** **Consultoría en obras de represas, irrigaciones y afines**
+
 
 Construcción, instalación, mejoramiento, ampliación, rehabilitación y/o reconstrucción de represas de
 concreto, tierra y otros; estructuras de almacenamiento hídrico con fines de riego; obras de captación de
@@ -504,11 +482,6 @@ Tratándose de obras rurales, se considera instalación, mejoramiento, ampliaci�
 reconstrucción de obras de infraestructura de riego menor (canales laterales, canales sub laterales,
 canales parcelarios), sistemas de riego tecnificado, pozos tubulares; y afines a los antes mencionados.
 
-_Materiales de enseñanza_
-
-11
-
-REGLAMENTO
 
 **Artículo 16. Asignación de especialidad y de categoría a los consultores de obras**
 
@@ -518,6 +491,7 @@ que se determine en la Directiva que emite el OSCE. Las categorías que asigna e
 teniendo esta última el nivel más alto, conforme a lo previsto en la Directiva correspondiente.
 
 16.2. La especialidad y categoría de los consultores de obras se asigna conforme a lo siguiente:
+
 
 a) A las personas jurídicas se les puede otorgar todas las especialidades y a las personas naturales las
 especialidades que correspondan de acuerdo a su profesión.
@@ -552,14 +526,9 @@ previa con aplicación del silencio administrativo negativo y tiene un plazo de 
 a contratar la ejecución de obras públicas simultáneamente, y está determinada por la ponderación del
 capital y las obras registradas en el módulo de experiencia, de la siguiente manera:
 
-11
+
 _Numeral incorporado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-12
-
-REGLAMENTO
 
 **CMC =** **10c +2S Obras**
 
@@ -606,15 +575,10 @@ hábiles. [13]
 18.1. Los ejecutores y consultores de obras registran electrónicamente los contratos suscritos, a través del
 módulo correspondiente en la sección del RNP del portal institucional del OSCE.
 
+
 _12 Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019,_
-13
 _Numeral incorporado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-13
-
-REGLAMENTO
 
 18.2. Los ejecutores de obras registran las valorizaciones periódicas aprobadas por el inspector o supervisor,
 adicionales y/o deductivos aprobados por la Entidad si los hubiera, hasta el mes de realizada la última
@@ -665,11 +629,6 @@ ejecutor de obras, acreditando con ello que el ejecutor de obras cuenta con capa
 perfeccionar el contrato. Asimismo, de ser el caso, recoge información de los actos judiciales que
 suspenden la sanción impuesta por el Tribunal u otros organismos autorizados por ley.
 
-_Materiales de enseñanza_
-
-14
-
-REGLAMENTO
 
 20.2. La constancia de capacidad libre de contratación es solicitada al RNP por los ejecutores de obra a partir
 del registro en el SEACE del consentimiento de la buena pro o de que esta haya quedado
@@ -714,14 +673,10 @@ electrónicos, digitales u otros de naturaleza análoga, proporcionados por los 
 representantes, en los procedimientos de aprobación automática o evaluación previa. Dicha fiscalización
 se sujeta a los Principios de Presunción de Veracidad y de Privilegio de Controles Posteriores.
 
+
 14 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre_
 _2019._
 
-_Materiales de enseñanza_
-
-15
-
-REGLAMENTO
 
 23.2. El proceso de fiscalización posterior es de carácter inspectivo, de comprobación administrativa y se
 desarrolla de forma reservada por lo que el inicio del procedimiento de fiscalización no es notificado a los
@@ -737,7 +692,9 @@ acciones legales correspondientes.
 23.4. La declaración de nulidad del acto administrativo tiene efecto declarativo y retroactivo a la fecha de su
 aprobación, conservándose como válida la información correspondiente al acto anterior, de ser el caso.
 
+
 [Opinión 065-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365287-opinion-n-065-2023-dtn)
+
 
 **CAPÍTULO II**
 **REGISTRO DE ENTIDADES CONTRATANTES**
@@ -752,8 +709,10 @@ OSCE, conforme a los requisitos establecidos en la Directiva que emita el OSCE.
 24.2. Las Entidades actualizan, a través del SEACE, las modificaciones a la información proporcionada en el REC,
 en un plazo no mayor de diez (10) días hábiles de producida.
 
+
 **TÍTULO III**
 **SISTEMA ELECTRÓNICO DE CONTRATACIONES DEL ESTADO - SEACE**
+
 
 **Directiva N° 003-2020-OSCE/CD**
 Disposiciones aplicables para el acceso y registro de información en el Sistema
@@ -772,11 +731,6 @@ Anual de Contrataciones, las actuaciones preparatorias, los procedimientos de se
 su ejecución, así como todos los actos que requieran ser publicados, conforme se establece en la Ley, en
 el Reglamento y en la Directiva que emita el OSCE.
 
-_Materiales de enseñanza_
-
-16
-
-REGLAMENTO
 
 25.2. Las Entidades registran en el SEACE las contrataciones correspondientes a los supuestos excluidos del
 ámbito de aplicación de la Ley sujetos a supervisión del OSCE y las demás contrataciones que no se sujeten
@@ -784,6 +738,7 @@ a su ámbito de aplicación conforme a la Directiva que emita el OSCE.
 
 25.3. Las demás contrataciones a las que se refiere el numeral anterior se sujetan a los lineamientos y/o
 precisiones funcionales y técnicas para el uso del SEACE o a los documentos que el OSCE emita al respecto.
+
 
 [Opinión 055-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195965-opinion-n-055-2020-dtn)
 **Artículo 26. Acceso al SEACE.**
@@ -818,14 +773,10 @@ tribunal arbitral, según corresponda.
 Los procedimientos de selección se realizan en forma electrónica y se difunden, íntegramente, a través del
 SEACE, conforme a la Directiva que emita el OSCE.
 
-_Materiales de enseñanza_
-
-17
-
-REGLAMENTO
 
 **TÍTULO IV**
 **ACTUACIONES PREPARATORIAS**
+
 
 **CAPÍTULO I**
 **REQUERIMIENTO Y PREPARACIÓN DEL EXPEDIENTE DE CONTRATACIÓN**
@@ -869,11 +820,6 @@ norma técnica; y, iii) no contravengan las normas de carácter obligatorio menc
 29.7. El requerimiento de bienes o servicios en general de carácter permanente, cuya provisión se requiera de
 manera continua o periódica se realiza por periodos no menores a un (1) año.
 
-_Materiales de enseñanza_
-
-18
-
-REGLAMENTO
 
 29.8. El área usuaria es responsable de la adecuada formulación del requerimiento, debiendo asegurar la
 calidad técnica y reducir la necesidad de su reformulación por errores o deficiencias técnicas que
@@ -893,6 +839,7 @@ requerimiento recoge las características técnicas ya definidas. [15]
 técnicas, los términos de referencia y el expediente técnico de obra, así como los requisitos de calificación,
 previa justificación que forma parte del expediente de contratación, bajo responsabilidad. Las
 modificaciones cuentan con la aprobación del área usuaria.
+
 
 [Opinión 112-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825748-opinion-n-112-2023-dtn)
 [Opinión 069-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4415197-opinion-n-069-2023-dtn)
@@ -921,20 +868,17 @@ bajo el ámbito de la Ley o que se sujeten a otro régimen legal de contratació
 mediante el procedimiento de selección de Adjudicación Simplificada. Lo dispuesto no aplica cuando el
 requerimiento ha sido homologado parcialmente.
 
+
 15 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano_ .
 
-_Materiales de enseñanza_
-
-19
-
-REGLAMENTO
 
 30.5. En el caso de las Entidades bajo el ámbito de la Ley, si el bien o servicio es incluido en el Listado de Bienes
 y Servicios Comunes corresponde que se contrate mediante Subasta Inversa Electrónica. Asimismo, en el
 caso que el bien o servicio esté incluido en un Catálogo Electrónico de Acuerdo Marco, se utiliza este
 método especial para su contratación.
+
 
 [Opinión 020-2020/DTN](https://portal.osce.gob.pe/osce/sites/default/files/Documentos/legislacion/Legislacion%20y%20Documentos%20Elaborados%20por%20el%20OSCE/Opiniones_2020/020-20%20-%20EXP%204473%20PERU%20COMPRAS%20-%20Homologaci%C3%B3n.doc)
 
@@ -974,7 +918,7 @@ mercado.
 de la posibilidad de distribuir la buena pro. En caso solo exista una marca en el mercado, dicho análisis
 incluye pluralidad de postores.
 
-16
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano_ **.**
@@ -982,11 +926,6 @@ _17 Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF, 
 _contenidas en el citado Decreto Supremo entran en vigor a los diez (10) días hábiles contados a partir del día siguiente de su_
 _publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-20
-
-REGLAMENTO
 
 32.4. El valor estimado considera todos los conceptos que sean aplicables, conforme al mercado específico del
 bien o servicio a contratar, debiendo maximizar el valor de los recursos públicos que se invierten.
@@ -997,6 +936,7 @@ los valores estimados de cada uno de los ítems considerados.
 
 32.6. El órgano encargado de las contrataciones está facultado a solicitar el apoyo que requiera de las
 dependencias o áreas pertinentes de la Entidad, las que están obligadas a brindarlo bajo responsabilidad.
+
 
 [Opinión 117-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4882927-opinion-n-117-2023-dtn)
 [Opinión 085-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4587145-opinion-n-085-2023-dtn)
@@ -1031,20 +971,17 @@ pudiendo actualizarse antes de la convocatoria.
 
 34.2. El valor referencial se determina conforme a lo siguiente:
 
+
 a) En la contratación para la ejecución de obras, corresponde al monto del presupuesto de obra
 establecido en el expediente técnico de obra aprobado por la Entidad. Para obtener dicho monto,
 la dependencia de la Entidad o el consultor de obra que tiene a su cargo la elaboración del
 expediente técnico realiza las indagaciones de mercado necesarias que le permitan contar con el
 análisis de precios unitarios actualizado por cada partida y subpartida, teniendo en cuenta los
 
-_Materiales de enseñanza_
-
-21
-
-REGLAMENTO
 
 insumos requeridos, las cantidades, precios o tarifas; además de los gastos generales variables y
 fijos, así como la utilidad.
+
 
 El presupuesto de obra se encuentra suscrito por los consultores de obra y/o servidores públicos
 que participaron en su elaboración, evaluación y/o aprobación, según corresponda.
@@ -1086,6 +1023,7 @@ selección lo hace de conocimiento del órgano encargado de las contrataciones o
 encargada de la determinación del valor referencial, según corresponda, para su opinión y, si fuera el caso,
 para que apruebe un nuevo valor referencial.
 
+
 [Opinión 124-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976788-opinion-n-124-2023-dtn)
 [Opinión 123-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976690-opinion-n-123-2023-dtn)
 [Opinión 117-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4882927-opinion-n-117-2023-dtn)
@@ -1093,11 +1031,6 @@ para que apruebe un nuevo valor referencial.
 [Opinión 040-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195959-opinion-n-040-2020-dtn)
 [Opinión 040-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195959-opinion-n-040-2020-dtn)
 
-_Materiales de enseñanza_
-
-22
-
-REGLAMENTO
 
 **Artículo 35. Sistemas de Contratación**
 
@@ -1109,11 +1042,13 @@ especificaciones técnicas, memoria descriptiva y presupuesto de obra, respectiv
 oferta por un monto fijo integral y por un determinado plazo de ejecución, para cumplir con el
 requerimiento.
 
+
 Tratándose de obras, el postor formula dicha oferta considerando los trabajos que resulten necesarios
 para el cumplimiento de la prestación requerida según los planos, especificaciones técnicas, memoria
 descriptiva, presupuesto de obra que forman parte del expediente técnico de obra, en ese orden de
 prelación; debiendo presentar en su oferta el desagregado de partidas que la sustenta. El mismo orden
 de prelación se aplica durante la ejecución de la obra.
+
 
 Tratándose de consultoría de obras, el postor formula su oferta considerando los trabajos necesarios para
 el cumplimiento de la prestación requerida, según los términos de referencia y el valor referencial, en ese
@@ -1122,9 +1057,11 @@ orden de prelación.
 b) Precios unitarios, aplicable en las contrataciones de bienes, servicios en general, consultorías y obras,
 cuando no puede conocerse con exactitud o precisión las cantidades o magnitudes requeridas.
 
+
 En el caso de bienes, servicios en general y consultorías, el postor formula su oferta proponiendo precios
 unitarios en función de las cantidades referenciales contenidas en los documentos del procedimiento de
 selección y que se valorizan en relación a su ejecución real, durante un determinado plazo de ejecución.
+
 
 En el caso de obras, el postor formula su oferta proponiendo precios unitarios considerando las partidas
 contenidas en los documentos del procedimiento, las condiciones previstas en los planos y
@@ -1134,9 +1071,11 @@ por un determinado plazo de ejecución.
 c) Esquema mixto de suma alzada, tarifas y/o precios unitarios, aplicable para la contratación de servicios en
 general, obras y consultoría de obras.
 
+
 Tratándose de servicios, cuando las prestaciones comprendan magnitudes o cantidades que pueden
 conocerse con exactitud y precisión, se contratan bajo el sistema de suma alzada; los elementos cuyas
 magnitudes o cantidades no puedan conocerse, se contratan bajo el sistema de precios unitarios.
+
 
 En el caso de obras, cuando en el expediente técnico de obra uno o varios componentes técnicos
 corresponden a magnitudes y cantidades no definidas con precisión, se contratan bajo el sistema de
@@ -1148,11 +1087,6 @@ puede conocerse con precisión el tiempo de prestación de servicio. En este cas
 oferta proponiendo tarifas en base al tiempo estimado o referencial para la ejecución de la prestación
 contenido en los documentos del procedimiento y que se valoriza en relación a su ejecución real. Los
 
-_Materiales de enseñanza_
-
-23
-
-REGLAMENTO
 
 pagos se basan en tarifas. Las tarifas incluyen costos directos, cargas sociales, tributos, gastos generales
 y utilidades.
@@ -1165,6 +1099,7 @@ f) En base a un honorario fijo y una comisión de éxito, aplicable en las contr
 caso el postor formula su oferta contemplando un monto fijo y un monto adicional como incentivo que
 es pagado al alcanzarse el resultado esperado. El honorario fijo y la comisión de éxito pueden calcularse
 en base a porcentajes.
+
 
 [Opinión 126-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976815-opinion-n-126-2023-dtn)
 [Opinión 082-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4555230-opinion-n-082-2023-dtn)
@@ -1185,6 +1120,7 @@ la elaboración del expediente técnico y/o la operación asistida de la obra. [
 
 b) Concurso oferta: Cuando el postor oferta la elaboración del expediente técnico y ejecución de la obra.
 
+
 [Opinión 109-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825621-opinion-n-109-2023-dtn)
 [Opinión 066-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365300-opinion-n-066-2023-dtn)
 [Opinión 044-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290880-opinion-n-044-2019-dtn)
@@ -1194,26 +1130,22 @@ b) Concurso oferta: Cuando el postor oferta la elaboración del expediente técn
 bienes, servicios en general o consultorías distintas pero vinculados entre sí, considerando que la
 contratación conjunta es más eficiente que efectuar contrataciones separadas.
 
+
 [Opinión 041-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290877-opinion-n-041-2019-dtn)
 
 37.2. También puede contratar por paquete la ejecución de obras de similar naturaleza cuya contratación en
 conjunto resulte más eficiente para el Estado en términos de calidad, precio y oportunidad frente a la
 
-18
+
 _Artículo modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
-19
 _Literal modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-24
-
-REGLAMENTO
 
 contratación independiente. En este caso, la Entidad suscribe un contrato por cada obra incluida en el
 paquete.
+
 
 [Opinión 001-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1479686-opinion-n-001-2021-dtn)
 [Opinión 044-2019/DTN](https://portal.osce.gob.pe/osce/sites/default/files/Documentos/legislacion/Legislacion%20y%20Documentos%20Elaborados%20por%20el%20OSCE/Opiniones_2019/044-19%20-%20TD.%2014383605%20-%20PRONIED%20%283%29.docx)
@@ -1258,15 +1190,10 @@ facturas el monto resultante de la aplicación de dichas fórmulas, cuyas variac
 la fecha de pago prevista en el contrato respectivo, utilizando los Índices de Precios al Consumidor
 publicados por el Instituto Nacional de Estadística e Informática - INEI a la fecha de facturación. Una vez
 
-20
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 _21 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-25
-
-REGLAMENTO
 
 publicados los índices correspondientes al mes en que debió efectuarse el pago, se realizan las
 regularizaciones necesarias.
@@ -1274,6 +1201,7 @@ regularizaciones necesarias.
 38.6. No son de aplicación las fórmulas de reajuste cuando los documentos del procedimiento de selección
 establezcan que las ofertas se expresen en moneda extranjera, salvo el caso de los bienes sujetos a
 cotización internacional o cuyo precio esté influido por esta.
+
 
 [Opinión 007-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5274303-opinion-n-007-2024-dtn)
 [Opinión 054-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4251903-opinion-n-054-2023-dtn)
@@ -1295,6 +1223,7 @@ principal, con las excepciones previstas en el Reglamento.
 
 39.2. La Entidad puede efectuar contrataciones por lotes o tramos.
 
+
 [Opinión 224-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/393941-opinion-n-224-2019-dtn)
 
 **Artículo 40. Prohibición de fraccionamiento**
@@ -1311,6 +1240,7 @@ constituye fraccionamiento.
 
 40.3. No se incurre en fraccionamiento cuando:
 
+
 a) Se contraten bienes o servicios idénticos a los contratados anteriormente durante el mismo
 ejercicio fiscal, cuando la contratación completa no se pudo realizar en su oportunidad, debido a
 que no se contaba con los recursos disponibles suficientes para realizar dicha contratación
@@ -1319,13 +1249,9 @@ completa, o surge una necesidad imprevisible adicional a la programada.
 b) La contratación se efectúe a través de los Catálogos Electrónicos de Acuerdo Marco, salvo en los
 casos que determine el OSCE a través de Directiva.
 
+
 [Opinión 066-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290902-opinion-n-066-2019-dtn)
 
-_Materiales de enseñanza_
-
-26
-
-REGLAMENTO
 
 **Artículo 41. Requisitos para convocar.**
 
@@ -1339,6 +1265,7 @@ con el expediente técnico y la disponibilidad física del terreno, salvo que, p
 se permita entregas parciales del terreno. En este caso, la Entidad adopta las medidas necesarias para
 asegurar la disponibilidad oportuna del terreno, a efecto de no generar mayores gastos por demoras en
 la entrega, bajo responsabilidad, salvo lo dispuesto en el numeral 146.2 del artículo 146.
+
 
 [Opinión 021-2023/DTN](https://cdn.www.gob.pe/uploads/document/file/4131045/Opini%C3%B3n%20021-2023-DTN%20-%20INPE%20-%20INDAG.MCDO%20PRESUP.OBRA.pdf.pdf?v=1676566397)
 [Opinión 024-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1755515-opinion-n-024-2021-dtn)
@@ -1358,6 +1285,7 @@ completo.
 funcionario competente para su aprobación, en forma previa a la convocatoria, de acuerdo a sus normas
 de organización interna. Para su aprobación, el expediente de contratación contiene [22] :
 
+
 a) El requerimiento, indicando si este se encuentra definido en una ficha de homologación incluida en
 el Listado de Requerimientos Homologados, en una ficha técnica del Listado de Bienes y Servicios
 Comunes, o en el Catálogo Electrónico de Acuerdos Marco; [23]
@@ -1368,17 +1296,12 @@ rehabilitación reguladas en la normativa aplicable;
 d) En el caso de obras contratadas bajo la modalidad llave en mano que cuenten con equipamiento,
 las especificaciones técnicas de los equipos requeridos;
 
-22
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 _23 Inciso modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano,_
 
-_Materiales de enseñanza_
-
-27
-
-REGLAMENTO
 
 e) En el caso de ejecución de obras, el sustento de que procede efectuar la entrega parcial del terreno,
 de ser el caso;
@@ -1403,6 +1326,7 @@ ajustado.
 42.5. El órgano encargado de las contrataciones tiene a su cargo la custodia del expediente de contratación,
 salvo en el período en el que dicha custodia esté a cargo del comité de selección.
 
+
 **CAPÍTULO II**
 **ÓRGANOS A CARGO DEL PROCEDIMIENTO DE SELECCIÓN**
 
@@ -1423,19 +1347,16 @@ del procedimiento de selección, así como para adoptar las decisiones y realiza
 el desarrollo del procedimiento hasta su culminación, sin que puedan alterar, cambiar o modificar la
 información del expediente de contratación.
 
+
 _24_
 _Numeral modificado por la Primera Disposición Complementaria Modificatoria del Decreto Supremo No 168-2020-EF,_
 _publicado el 30 junio 2020, el mismo que resulta aplicable a los procedimientos de selección que se convoquen a partir de la_
 _entrada en vigencia de la citada norma._
 
-_Materiales de enseñanza_
-
-28
-
-REGLAMENTO
 
 43.4. Las disposiciones señaladas en los numerales 46.4 y 46.5 del artículo 46 también son aplicables cuando el
 procedimiento de selección esté a cargo del órgano encargado de las contrataciones.
+
 
 [Opinión 022-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3943143-opinion-n-022-2023-dtn)
 [Opinión 052-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1940133-opinion-n-052-2021-dtn)
@@ -1483,11 +1404,6 @@ intereses. En este caso, la renuncia se presenta por escrito detallando las razo
 conflicto de intereses. Incurre en responsabilidad el servidor que temeraria o maliciosamente alega un
 conflicto de intereses inexistente con la finalidad de sustraerse del cumplimiento de sus obligaciones.
 
-_Materiales de enseñanza_
-
-29
-
-REGLAMENTO
 
 [Opinión 088-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3620761-opinion-n-088-2022-dtn)
 [Opinión 128-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290964-opinion-n-128-2019-dtn)
@@ -1509,6 +1425,7 @@ contratación, designado el comité de selección, aprobado los documentos del p
     - tengan facultades para resolver el recurso de apelación. Este impedimento se circunscribe al proceso
 de contratación en el que han efectuado las acciones antes mencionadas.
 
+
 [Opinión 088-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3620761-opinion-n-088-2022-dtn)
 [Opinión 030-2020/DTN](https://portal.osce.gob.pe/osce/sites/default/files/Documentos/legislacion/Legislacion%20y%20Documentos%20Elaborados%20por%20el%20OSCE/Opiniones_2020/030-20%20-%20EXP%2013676%20INPE%20impedimentos%20para%20ser%20miembro%20de%20comit%C3%A9%20de%20selecci%C3%B3n.doc)
 
@@ -1521,6 +1438,7 @@ por su actuación, salvo en relación a los actos por los cuales aquellos hayan 
 correspondiente su voto discrepante.
 
 46.2. Para sesionar y adoptar acuerdos válidos, el comité de selección se sujeta a las siguientes reglas:
+
 
 a) El quórum para el funcionamiento del comité de selección se da con la presencia del número total
 de integrantes. En caso de ausencia de alguno de los titulares, se procede a su reemplazo con el
@@ -1538,17 +1456,13 @@ de material documental, el mismo queda incorporado en el expediente de contratac
 requiera de las dependencias o áreas pertinentes de la Entidad, las que están obligadas a brindarlo bajo
 responsabilidad.
 
-_Materiales de enseñanza_
-
-30
-
-REGLAMENTO
 
 46.5. Los integrantes del comité de selección se encuentran obligados a actuar con honestidad, probidad,
 transparencia e imparcialidad en el ejercicio de sus funciones, debiendo informar oportunamente sobre
 la existencia de cualquier conflicto de intereses y de comunicar a la autoridad competente sobre cualquier
 acto de corrupción de la función pública del que tuvieran conocimiento durante el desempeño de su
 encargo, bajo responsabilidad.
+
 
 **CAPÍTULO III**
 **DOCUMENTOS DEL PROCEDIMIENTO DE SELECCIÓN**
@@ -1578,6 +1492,7 @@ por el funcionario competente de acuerdo a las normas de organización interna d
 
 **Artículo 48. Contenido mínimo de los documentos del procedimiento**
 
+
 **Directiva N° 001-2019-OSCE/CD**
 Bases y solicitud de expresión de interés estándar para los procedimientos de
 selección - Ley 30225
@@ -1589,16 +1504,12 @@ selección - Ley 30225
 **Opinión** **101-2023/DTN**
 **Opinión** **[091-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4623062-opinion-n-091-2023-dtn)**
 
+
 _25_
 Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones
 contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente
 de su publicación en el Diario Oficial El Peruano.
 
-_Materiales de enseñanza_
-
-31
-
-REGLAMENTO
 
 **Opinión** **[080-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4555196-opinion-n-080-2023-dtn)**
 **Opinión** **[033-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4035676-opinion-n-033-2023-dtn)**
@@ -1619,6 +1530,7 @@ REGLAMENTO
 
 48.1. Las bases de la Licitación Pública, el Concurso Público, la Adjudicación Simplificada y la Subasta Inversa
 Electrónica contienen:
+
 
 a) La denominación del objeto de la contratación;
 b) Las especificaciones técnicas, los Términos de Referencia, la Ficha de Homologación, la Ficha
@@ -1644,6 +1556,7 @@ o) La proforma del contrato, cuando corresponda.
 48.2. Las solicitudes de expresión de interés del procedimiento de Selección de Consultores Individuales
 contienen:
 
+
 a) La denominación del objeto de la contratación;
 b) Los Términos de Referencia;
 c) El valor estimado, que constituye el precio de la contratación;
@@ -1651,11 +1564,6 @@ d) El formato de hoja de vida;
 e) Los requisitos de calificación;
 f) Los factores de evaluación; y,
 
-_Materiales de enseñanza_
-
-32
-
-REGLAMENTO
 
 g) Las instrucciones para formular expresión de interés.
 
@@ -1665,6 +1573,7 @@ contiene como mínimo lo dispuesto en el literal b) del numeral 48.1.
 48.4. Cuando no se elabore una solicitud de cotización y la información se obtenga de manera telefónica,
 presencial o mediante portales electrónicos la Entidad elabora un informe que contenga los detalles de
 dicha indagación.
+
 
 [Opinión 025-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1755516-opinion-n-025-2021-dtn)
 
@@ -1678,9 +1587,11 @@ necesarias para ejecutar el contrato. Para ello, en los documentos del procedimi
 establecen de manera clara y precisa los requisitos que cumplen los postores a fin de acreditar su
 calificación.
 
+
 [Opinión 115-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2549337-opinion-n-115-2021-dtn)
 
 49.2. Los requisitos de calificación que pueden adoptarse son los siguientes [26] :
+
 
 a) Capacidad legal: habilitación para llevar a cabo la actividad económica materia de contratación.
 b) Capacidad técnica y profesional: aquella relacionada al equipamiento estratégico, infraestructura
@@ -1689,6 +1600,7 @@ pueden ser requeridas para servicios en general y obras. Tratándose de consulto
 consultoría de obra los requisitos de calificación comprenden obligatoriamente las calificaciones y
 experiencia del personal clave.
 c) Experiencia del postor en la especialidad.
+
 
 [Opinión 033-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4035676-opinion-n-033-2023-dtn)
 [Opinión 017-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3865991-opinion-n-017-2023-dtn)
@@ -1705,19 +1617,16 @@ Opinión 063-2022/DTN
 [Opinión 043-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290879-opinion-n-043-2019-dtn)
 [Opinión 042-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290878-opinion-n-042-2019-dtn)
 
+
 26 _Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-33
-
-REGLAMENTO
 
 49.3. Tratándose de obras y consultoría de obras, la capacidad técnica y profesional es verificada por el órgano
 encargado de las contrataciones para la suscripción del contrato. La Entidad no puede imponer requisitos
 distintos a los señalados en el numeral precedente. [27]
+
 
 [Opinión 039-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195958-opinion-n-039-2020-dtn)
 [Opinión 110-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290946-opinion-n-110-2019-dtn)
@@ -1749,12 +1658,14 @@ selección o ítem respectivo, por su cuantía, corresponda a una Adjudicación 
 
 50.1. Los documentos del procedimiento contemplan lo siguiente:
 
+
 a) La indicación de todos los factores de evaluación, los cuales guardan vinculación, razonabilidad y
 proporcionalidad con el objeto de la contratación.
 b) La ponderación de cada factor en relación con los demás, los puntajes máximos relativos para cada
 factor y la forma de asignación del puntaje en cada uno de estos. En las contrataciones de
 consultoría en general y consultoría de obras, el puntaje técnico mínimo se define en las bases
 estándar.
+
 
 27 _Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
@@ -1767,11 +1678,6 @@ _publicado el 30 junio 2020 y posteriormente modificado por el Artículo 2 del D
 _26 junio 2021. Las disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles_
 _contados a partir del día siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-34
-
-REGLAMENTO
 
 c) En las contrataciones de bienes, servicios en general y obras, la evaluación se realiza sobre la base
 de cien (100) puntos. En la evaluación se observa la ponderación que establecen los documentos
@@ -1799,6 +1705,7 @@ haya enunciado en los documentos del procedimiento.
 
 50.3. Lo dispuesto en el presente artículo no es aplicable para la Subasta Inversa Electrónica.
 
+
 [Opinión 064-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3405814-opinion-n-064-2022-dtn)
 [Opinión 086-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2098227-opinion-n-086-2021-dtn)
 **Artículo 51. Factores de evaluación**
@@ -1809,6 +1716,7 @@ procedimiento, a fin de determinar la mejor oferta.
 51.2. En el caso de bienes y servicios en general, el precio es un factor de evaluación y, adicionalmente, pueden
 establecerse los siguientes factores:
 
+
 a) El plazo para la entrega de los bienes o la prestación de los servicios;
 b) Aquellos relacionados con la sostenibilidad ambiental o social, mejoras para bienes y servicios,
 entre otras;
@@ -1817,18 +1725,13 @@ d) Otros factores que se prevean en las bases estándar que aprueba el OSCE.
 
 Los factores de evaluación señalados son objetivos.
 
-30
+
 _Literal incorporado por la Segunda Disposición Complementaria Modificatoria del Decreto Supremo N° 168-2020-EF,_
 _publicado el 30 junio 2020.Lo dispuesto en la citada disposición, resulta aplicable a los procedimientos de selección que se_
 _convoquen a partir de la entrada en vigencia de la citada norma y posteriormente modificado por el Artículo 2 del Decreto_
 _Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto Supremo entran en_
 _vigencia a los diez (10) días hábiles contados a partir del día siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-35
-
-REGLAMENTO
 
 51.3. En el caso de obras, el precio es un factor de evaluación y, adicionalmente, pueden establecerse aquellos
 relacionados con la sostenibilidad ambiental o social, entre otros que se prevean en las bases estándar
@@ -1836,6 +1739,7 @@ que aprueba el OSCE. Los factores de evaluación señalados son objetivos.
 
 _51.4. En el caso de consultoría en general o consultoría de obra, además del precio, se consideran los siguientes_
 _factores de evaluación:_ _[31]_
+
 
 _a)_ _Experiencia del postor en la especialidad; y,_
 _b)_ _La metodología propuesta._
@@ -1847,6 +1751,7 @@ de obra, las Bases Estándar que apruebe el OSCE pueden establecer otros factore
 como aquellos relacionados con la sostenibilidad ambiental y social. [32]
 
 51.6. En el caso de Selección de Consultores Individuales, los factores de evaluación son:
+
 
 a) Experiencia en la especialidad;
 b) Calificaciones; y,
@@ -1861,7 +1766,9 @@ Los documentos del procedimiento establecen el contenido de las ofertas. El cont
 
 a) Acreditación de la representación de quien suscribe la oferta.
 
+
 b) Declaración jurada declarando que [33] :
+
 
 i. No ha incurrido y se obliga a no incurrir en actos de corrupción, así como a respetar el principio de
 integridad;
@@ -1869,6 +1776,7 @@ ii. No tiene impedimento para postular en el procedimiento de selección ni para
 Estado, conforme al artículo 11 de la Ley;
 iii. Conoce las sanciones contenidas en la Ley y su Reglamento, así como las disposiciones aplicables
 de la Ley Nº 27444, Ley del Procedimiento Administrativo General;
+
 
 _31 Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente_
@@ -1881,11 +1789,6 @@ _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) día
 _su publicación en el Diario Oficial El Peruano._
 _:_
 
-_Materiales de enseñanza_
-
-36
-
-REGLAMENTO
 
 iv. Participa del proceso de contratación en forma independiente sin mediar consulta, comunicación,
 acuerdo, arreglo o convenio con ningún proveedor; y, conoce las disposiciones del Decreto
@@ -1900,6 +1803,7 @@ contrato en caso de resultar favorecido con la buena pro.
 c) Declaración jurada y/o documentación que acredite el cumplimiento de las especificaciones técnicas,
 términos de referencia o expediente técnico, según corresponda.
 
+
 d) Carta de compromiso del personal clave con firma legalizada, tratándose de consultorías en general.
 
 e) Promesa de consorcio legalizada, de ser el caso, en la que se consigne los integrantes, el representante
@@ -1908,6 +1812,7 @@ consorcio, así como el porcentaje equivalente a dichas obligaciones. El represe
 consorcio se encuentra facultado para actuar en nombre y representación del mismo en todos los actos
 referidos al procedimiento de selección, suscripción y ejecución del contrato, con amplias y suficientes
 facultades.
+
 
 Los integrantes de un consorcio no pueden presentar ofertas individuales ni conformar más de un
 consorcio en un procedimiento de selección, o en un determinado ítem cuando se trate de
@@ -1919,10 +1824,12 @@ sistemas hayan sido establecidos en los documentos del procedimiento de selecci�
 de la oferta de la prestación accesoria, cuando corresponda. Tratándose de compras corporativas, el
 postor formula su oferta considerando el monto por cada Entidad participante.
 
+
 Las ofertas incluyen todos los tributos, seguros, transporte, inspecciones, pruebas y, de ser el caso, los
 costos laborales conforme a la legislación vigente, así como cualquier otro concepto que pueda tener
 incidencia sobre el costo del bien, servicio en general, consultoría u obra a adquirir o contratar. Los
 postores que gocen de alguna exoneración legal, no incluyen en su oferta los tributos respectivos.
+
 
 El monto total de la oferta y los subtotales que lo componen son expresados con dos (2) decimales. Los
 precios unitarios o tarifas pueden ser expresados con más de dos decimales. [34]
@@ -1932,16 +1839,13 @@ precios unitarios o tarifas pueden ser expresados con más de dos decimales. [34
 [Opinión 089-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4587375-opinion-n-089-2023-dtn)
 [Opinión 051-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/828327-opinion-n-051-020-dtn)
 
+
 34 _Literal modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre de 2019._
 
-_Materiales de enseñanza_
-
-37
-
-REGLAMENTO
 
 **TÍTULO V**
 **MÉTODOS DE CONTRATACIÓN**
+
 
 **CAPÍTULO I**
 **DISPOSICIONES GENERALES APLICABLES A LOS PROCEDIMIENTOS DE SELECCIÓN**
@@ -1950,6 +1854,7 @@ REGLAMENTO
 
 53.1. Para la contratación de bienes, servicios en general, consultorías u obras, la Entidad utiliza, según
 corresponda, los siguientes procedimientos de selección:
+
 
 a) Licitación Pública.
 b) Concurso Público.
@@ -1972,6 +1877,7 @@ siempre que no desvirtúe la naturaleza de la contratación. [35]
 54.1. La convocatoria de los procedimientos de selección, con excepción de la Comparación de Precios, se
 realiza a través de la publicación en el SEACE, e incluye la siguiente información:
 
+
 a) La identificación, domicilio y RUC de la Entidad que convoca;
 b) La identificación del procedimiento de selección;
 c) La descripción básica del objeto del procedimiento;
@@ -1984,14 +1890,9 @@ g) El plazo para el cumplimiento de las prestaciones; y,
 h) La indicación de los instrumentos internacionales bajo cuyos alcances se encuentra cubierto el
 procedimiento de selección, información que es incluida por el SEACE.
 
-35
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-38
-
-REGLAMENTO
 
 54.2. La convocatoria incluye la publicación en el SEACE de las bases o las solicitudes de expresión de interés,
 según corresponda.
@@ -2001,6 +1902,7 @@ internacionales, el OSCE se encarga de elaborar y publicar una versión en idiom
 
 54.4. Las Entidades pueden utilizar, adicionalmente, otros medios a fin de que los proveedores puedan tener
 conocimiento de la convocatoria del procedimiento de selección.
+
 
 [Opinión 081-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4555222-opinion-n-081-2023-dtn)
 [Opinión 066-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1116125-opinion-n-066-2020-dtn)
@@ -2044,11 +1946,6 @@ La notificación a través del SEACE prevalece sobre cualquier medio que se haya
 responsabilidad de quienes intervienen en el procedimiento el permanente seguimiento de este a través del
 SEACE.
 
-_Materiales de enseñanza_
-
-39
-
-REGLAMENTO
 
 [Opinión 004-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3832598-opinion-n-004-2023-dtn)
 
@@ -2064,6 +1961,7 @@ responsable de la exactitud y veracidad de dichos documentos.
 59.2. Las solicitudes de expresiones de interés, ofertas y cotizaciones son suscritas por el postor o su
 representante legal, apoderado o mandatario designado para dicho fin.
 
+
 [Opinión 039-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195958-opinion-n-039-2020-dtn)
 
 **Artículo 60. Subsanación de las ofertas.**
@@ -2073,6 +1971,7 @@ solicita, a cualquier postor que subsane alguna omisión o corrija algún error 
 documentos presentados, siempre que no alteren el contenido esencial de la oferta.
 
 60.2. Son subsanables, entre otros, los siguientes errores materiales o formales:
+
 
 a) La omisión de determinada información en formatos y declaraciones juradas, distintas al plazo
 parcial o total ofertado y al precio u oferta económica;
@@ -2099,11 +1998,10 @@ autorizaciones, permisos, títulos, constancias, certificaciones y/o documentos 
 
     - integrar un registro, y otros de naturaleza análoga.
 
-_Materiales de enseñanza_
 
-40
 
-REGLAMENTO
+
+
 
 60.4. En el documento que contiene el precio ofertado u oferta económica puede subsanarse la rúbrica y la
 foliación. La falta de firma en la oferta económica no es subsanable. En caso de divergencia entre el precio
@@ -2115,6 +2013,7 @@ corrección no implica la variación de los precios unitarios ofertados.
 60.5. Cuando se requiera subsanación, la oferta continua vigente para todo efecto, a condición de la efectiva
 subsanación dentro del plazo otorgado, el que no puede exceder de tres (3) días hábiles. La presentación
 de las subsanaciones se realiza a través del SEACE.
+
 
 [Opinión 114-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4848219-opinion-n-114-2023-dtn)
 
@@ -2154,11 +2053,6 @@ anterior.
 El otorgamiento de la buena pro se publica y se entiende notificado a través del SEACE, el mismo día de su
 realización, bajo responsabilidad del comité de selección u órgano encargado de las contrataciones, debiendo
 
-_Materiales de enseñanza_
-
-41
-
-REGLAMENTO
 
 incluir el acta de otorgamiento de la buena pro y el cuadro comparativo, detallando los resultados de la
 calificación y evaluación.
@@ -2197,6 +2091,7 @@ establecido en la Ley y en el Reglamento. Adicionalmente, la Entidad comunica al
 el procedimiento administrativo sancionador y al Ministerio Público para que interponga la acción penal
 correspondiente.
 
+
 Opinión 087-2023/DTN
 
 [Opinión 026-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4013209-opinion-n-026-2023-dtn)
@@ -2213,11 +2108,6 @@ Entidad o al funcionario a quien haya delegado la facultad de aprobación del ex
 en el que justifique y evalúe las causas que no permitieron la conclusión del procedimiento, debiéndose
 adoptar las medidas correctivas antes de convocar nuevamente. Dicho informe es registrado en el SEACE.
 
-_Materiales de enseñanza_
-
-42
-
-REGLAMENTO
 
 65.3. Cuando los procedimientos de selección se declaran desiertos, la siguiente convocatoria se efectua
 siguiendo el mismo procedimiento de selección. En el caso de Licitación Pública o Concurso Público, la
@@ -2247,6 +2137,7 @@ las fichas técnicas excluidas. [38]
 patrimoniales y se opte por utilizar el mecanismo regulado en el literal f) del numeral 5.1 del artículo 5 de
 la Ley, la Entidad verifica que la empresa de seguros a contratar cumpla con los siguientes requisitos [39] :
 
+
 a) Encontrarse legalmente constituida en un Estado que cuente con una clasificación de riesgo con
 grado de inversión.
 b) Encontrarse bajo la supervisión de autoridad competente en el país de su constitución.
@@ -2256,6 +2147,7 @@ Entidad.
 d) No tener impedimento legal para pagar, en moneda de libre convertibilidad, las obligaciones que
 resulten del contrato de seguro que suscribe con la Entidad, lo que es acreditado por la autoridad
 competente en el país de su constitución.
+
 
 _36 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
@@ -2270,11 +2162,6 @@ _39 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, p
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-43
-
-REGLAMENTO
 
 e) Acreditar que en su país de origen no existen restricciones gubernamentales o legales para la libre
 transferencia de recursos para fines del pago de las obligaciones que resulten del contrato de
@@ -2287,6 +2174,7 @@ de las obligaciones que resulten del contrato de seguro.
 
 65.8. La publicación de la declaratoria de desierto de un procedimiento de selección se registra en el SEACE, el
 mismo día de producida. [40]
+
 
 [Opinión 045-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4148804-opinion-n-045-2023-dtn)
 [Opinión 022-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3943143-opinion-n-022-2023-dtn)
@@ -2312,6 +2200,7 @@ funcionario que aprobó el expediente de contratación u otro de igual o superio
 67.3. El alcance del numeral 30.2 del artículo 30 la Ley se determina, cuando menos, en función del análisis de
 la motivación de la resolución o acuerdo que formaliza la cancelación.
 
+
 [Opinión 069-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4415197-opinion-n-069-2023-dtn)
 [Opinión 061-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3341472-opinion-n-061-2022-dtn)
 [Opinión 091-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1199702-opinion-n-091-2020-dtn)
@@ -2323,15 +2212,11 @@ los elementos constitutivos de su oferta cuando, entre otros, i) la oferta se en
 por debajo del valor estimado; o ii) no se incorpore alguna de las prestaciones requeridas o estas no se
 encuentren suficientemente presupuestadas.
 
+
 _40 Numeral incorporado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-44
-
-REGLAMENTO
 
 68.2. La Entidad puede proporcionar un formato de estructura de costos con los componentes mínimos
 materia de acreditación, así como solicitar al postor la información adicional que resulte pertinente,
@@ -2364,6 +2249,7 @@ referencial en más del diez por ciento (10%) y que se encuentren por debajo del
 68.7. Lo dispuesto en los numerales precedentes no es aplicable para la Subasta Inversa Electrónica, salvo lo
 dispuesto en los numerales 68.3, 68.4 y 68.5. [45]
 
+
 [Opinión 123-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976690-opinion-n-123-2023-dtn)
 [Opinión 111-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825709-opinion-n-111-2023-dtn)
 [Opinión 105-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760079-opinion-n-105-2023-dtn)
@@ -2372,14 +2258,12 @@ dispuesto en los numerales 68.3, 68.4 y 68.5. [45]
 _41 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
-42
 _Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 _43 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las_
 _disposiciones contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir_
 _del día siguiente de su publicación en el Diario Oficial El Peruano._
-44
 _Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
@@ -2387,11 +2271,6 @@ _45 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, p
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-45
-
-REGLAMENTO
 
 **Artículo 69. Culminación de los procedimientos de selección**
 
@@ -2404,13 +2283,16 @@ c) Se deja sin efecto el otorgamiento de la buena pro por causa imputable a la E
 
 d) No se suscriba el contrato por las causales establecidas en el artículo 136.
 
+
 **CAPÍTULO II**
 **LICITACION PÚBLICA**
+
 
 **Artículo 70. Etapas**
 
 70.1. La Entidad utiliza la Licitación Pública para contratar bienes y obras. La Licitación Pública contempla las
 siguientes etapas:
+
 
 a) Convocatoria.
 b) Registro de participantes.
@@ -2436,15 +2318,11 @@ que incluye la publicación de las bases.
 
 **Artículo 72. Consultas, observaciones e integración de bases.**
 
-_Materiales de enseñanza_
-
-46
-
-REGLAMENTO
 
 72.1. Todo participante puede formular consultas y observaciones, a través del SEACE, respecto de las bases.
 Las consultas son solicitudes de aclaración u otros pedidos de cualquier extremo de las bases. Se
 presentan en un plazo no menor a diez (10) días hábiles contados desde el día siguiente de la convocatoria.
+
 
 [Opinión 033-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4035676-opinion-n-033-2023-dtn)
 
@@ -2472,6 +2350,7 @@ en las bases.
 integración de bases, prevalece lo absuelto en el referido pliego; sin perjuicio, del deslinde de
 responsabilidades correspondiente.
 
+
 [Opinión 003-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2702554-opinion-n-003-2022-dtn)
 
 72.7. En caso el pliego de absolución de consultas y observaciones e integración de bases incurra en alguno de
@@ -2494,11 +2373,6 @@ notificar el pronunciamiento e integración definitiva a través del SEACE es de
 computa desde el día siguiente de que la Entidad registra en el SEACE los documentos previstos en el
 TUPA del OSCE y en la Directiva correspondiente. El pronunciamiento sobre elevación de
 
-_Materiales de enseñanza_
-
-47
-
-REGLAMENTO
 
 cuestionamientos al pliego de absolución de consultas y observaciones y/o a las bases integradas,
 constituye un servicio prestado en exclusividad y se encuentra sujeto al pago del costo previsto en el
@@ -2507,6 +2381,7 @@ TUPA del OSCE. [46]
 72.11. Contra el pronunciamiento emitido por el OSCE no cabe interposición de recurso administrativo alguno,
 siendo de obligatorio cumplimiento para la Entidad y los proveedores que participan en el procedimiento
 de selección.
+
 
 Nota importante:
 El Artículo 3 del Decreto Supremo N° 250-2020-EF, publicado el 04 septiembre 2020,
@@ -2537,20 +2412,16 @@ puntaje y el orden de prelación de las ofertas.
 
 74.2. Para determinar la oferta con el mejor puntaje, se toma en cuenta lo siguiente:
 
+
 a) Cuando la evaluación del precio sea el único factor, se le otorga el máximo puntaje a la oferta de
 precio más bajo y se otorga a las demás ofertas puntajes inversamente proporcionales a sus
 respectivos precios, según la siguiente fórmula:
 
-46
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 _47 Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019, cuyo texto es el_
 _siguiente:_
 
-_Materiales de enseñanza_
-
-48
-
-REGLAMENTO
 
 Pi = Om x PMP
 Oi
@@ -2560,6 +2431,7 @@ Pi = Puntaje de la oferta a evaluar.
 Oi = Precio i
 Om = Precio de la oferta más baja.
 PMP = Puntaje máximo del precio.
+
 
 Cuando existan otros factores de evaluación además del precio, el mejor puntaje se determina en
 función de los criterios y procedimientos de evaluación enunciados en las bases. La evaluación del
@@ -2583,6 +2455,7 @@ de la revisión de las ofertas, solo se pueda identificar una (1) que cumpla con
 75.3. Tratándose de obras, se aplica lo dispuesto en el numeral 75.2, debiendo el comité de selección identificar
 cuatro (4) postores que cumplan con los requisitos de calificación.
 
+
 [Opinión 105-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760079-opinion-n-105-2023-dtn)
 [Opinión 119-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290955-opinion-n-119-2019-dtn)
 
@@ -2598,13 +2471,9 @@ revisa el cumplimiento de los requisitos de calificación de los postores que si
 76.3. Definida la oferta ganadora, el comité de selección otorga la buena pro, mediante su publicación en el
 SEACE.
 
+
 [Opinión 111-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825709-opinion-n-111-2023-dtn)
 
-_Materiales de enseñanza_
-
-49
-
-REGLAMENTO
 
 [Opinión 105-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760079-opinion-n-105-2023-dtn)
 
@@ -2616,6 +2485,7 @@ REGLAMENTO
 La Entidad utiliza el Concurso Público para contratar servicios en general, consultorías en general y consultoría
 de obras.
 
+
 **SUBCAPÍTULO I**
 **CONTRATACIÓN DE SERVICIOS EN GENERAL**
 
@@ -2624,6 +2494,7 @@ de obras.
 El Concurso Público para contratar servicios en general se rige por las disposiciones aplicables a la Licitación
 Pública contempladas en los artículos 70 al 76.
 
+
 **SUBCAPÍTULO II**
 **CONTRATACIÓN DE CONSULTORÍA EN GENERAL Y CONSULTORÍA DE OBRAS**
 
@@ -2631,6 +2502,7 @@ Pública contempladas en los artículos 70 al 76.
 
 79.1. El Concurso Público para contratar consultoría en general y consultoría de obra contempla las siguientes
 etapas:
+
 
 a) Convocatoria.
 b) Registro de participantes.
@@ -2649,15 +2521,11 @@ computados a partir del día siguiente de su publicación en el SEACE.
 79.3. Cuando se solicite la emisión de pronunciamiento, entre su publicación y la fecha de presentación de
 ofertas no puede mediar menos de siete (7) días hábiles.
 
+
 _48  Artículo modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-50
-
-REGLAMENTO
 
 **Artículo 80. Convocatoria y demás etapas.**
 
@@ -2686,6 +2554,7 @@ anterior. La evaluación se realiza conforme a los factores de evaluación enunc
 
 82.3. Las reglas de la evaluación técnica son las siguientes:
 
+
 a) El comité de selección evalúa las ofertas de acuerdo con los factores de evaluación previstos en las
 bases.
 b) Las ofertas técnicas que contengan algún tipo de información que forme parte de la oferta
@@ -2703,18 +2572,16 @@ en el artículo 28 de la Ley.
 precio más bajo y otorga a las demás ofertas puntajes inversamente proporcionales a sus respectivos
 precios, según la siguiente fórmula:
 
+
 49 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-51
-
-REGLAMENTO
 
 Pi = Om X PMP
 Oi
 
+
 Donde:
+
 
 I = Oferta.
 Pi = Puntaje de la oferta a evaluar.
@@ -2725,20 +2592,25 @@ PMP = Puntaje máximo del precio.
 83.3. Para determinar el puntaje total de las ofertas, que es el promedio ponderado de ambas evaluaciones, se
 aplica la siguiente fórmula:
 
+
 PTPi = C1 PT + C2Pei
 Donde:
 PTPi = Puntaje total del postor i
 Pti = Puntaje ´por evaluación técnica del postor i
 Pei = Puntaje por evaluación económica del postor i
 
+
 C1 = Coeficiente de ponderación para la evaluación técnica.
 C2 = Coeficiente de ponderación para la evaluación económica.
 
 83.4. Los coeficientes de ponderación cumplen las siguientes condiciones:
 
+
 0.80<c1<0.90; y 0.10<c2<0.20
 
+
 La suma de ambos coeficientes es igual a la unidad (1.00).
+
 
 La oferta evaluada como la mejor es la que obtiene el mayor puntaje total. [50]
 
@@ -2750,6 +2622,7 @@ conformidad con lo establecido para el rechazo de ofertas, previsto en el artíc
 84.2. En el supuesto de que dos (2) o más ofertas empaten, el otorgamiento de la buena pro se efectúa
 siguiendo estrictamente el siguiente orden:
 
+
 a) Al postor que haya obtenido el mejor puntaje técnico; o
 
 b) A través de sorteo.
@@ -2757,14 +2630,9 @@ b) A través de sorteo.
 84.3 Definida la oferta ganadora, el comité de selección otorga la buena pro, mediante su publicación en el
 SEACE.
 
-50
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-52
-
-REGLAMENTO
 
 **SUBCAPÍTULO III**
 **CONCURSO DE PROYECTOS ARQUITECTÓNICOS**
@@ -2774,6 +2642,7 @@ REGLAMENTO
 El Concurso de Proyectos Arquitectónicos se utiliza para la contratación de consultorías de obra para la
 elaboración de expediente técnico de obras urbanas, edificaciones y afines, mediante el cual se evalúa la
 propuesta arquitectónica.
+
 
 [Opinión 041-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290877-opinion-n-041-2019-dtn)
 **Artículo 86. Órgano a cargo del procedimiento de selección**
@@ -2796,13 +2665,16 @@ actas de evaluación de ofertas.
 
 c) La asignación de puntaje del factor “Propuesta arquitectónica” no es apelable.
 
+
 **CAPÍTULO IV**
 **ADJUDICACION SIMPLIFICADA**
+
 
 **Artículo 88. Etapas**
 
 88.1. La Adjudicación Simplificada para contratar bienes, servicios, consultoría en general, consultorías de
 obras y ejecución de obras contempla las siguientes etapas:
+
 
 a) Convocatoria.
 b) Registro de participantes.
@@ -2814,11 +2686,6 @@ g) Otorgamiento de la buena pro.
 
 88.2. Mediante la Adjudicación Simplificada no es posible convocar un concurso de proyectos arquitectónicos.
 
-_Materiales de enseñanza_
-
-53
-
-REGLAMENTO
 
 **Artículo 89. Procedimiento de la Adjudicación Simplificada** **[51]**
 
@@ -2852,6 +2719,7 @@ en la convocatoria, salvo que este se postergue de acuerdo a lo establecido en l
 la determinación del orden de prelación de las ofertas empatadas se efectúa siguiendo estrictamente el
 siguiente orden:
 
+
 a) Las microempresas y pequeñas empresas integradas por personas con discapacidad o a los
 consorcios conformados en su totalidad por estas empresas, siempre que acrediten tener tales
 condiciones de acuerdo con la normativa de la materia; o
@@ -2862,24 +2730,22 @@ c) A través de sorteo.
 91.2. En el caso de consultorías en general y consultoría de obras en el supuesto que dos (2) o más ofertas
 empaten, el otorgamiento de la buena pro se efectúa observando estrictamente el siguiente orden:
 
+
 a) Las microempresas y pequeñas empresas integradas por personas con discapacidad o a los
 consorcios conformados en su totalidad por estas empresas, siempre que acrediten tener tales
 condiciones de acuerdo con la normativa de la materia; o
+
 
 51 _Artículo modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los quince (15) días hábiles contados a partir del día_
 _siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-54
-
-REGLAMENTO
 
 b) Las microempresas y pequeñas empresas o a los consorcios conformados en su totalidad por estas,
 siempre que acrediten tener tal condición de acuerdo con la normativa de la materia; o
 c) Al postor que haya obtenido el mejor puntaje técnico; o
 d) A través de sorteo.
+
 
 [Opinión 083-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3620721-opinion-n-083-2022-dtn)
 [Opinión 216-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/429464-opinion-n-216-2019-dtn)
@@ -2924,13 +2790,9 @@ publica en el SEACE, conjuntamente con el cronograma de entrevistas personales p
 
 96.2. El comité evalúa a los postores calificados asignando puntajes conforme a los siguientes factores:
 
+
 a) Experiencia en la especialidad: sesenta (60) puntos.
 
-_Materiales de enseñanza_
-
-55
-
-REGLAMENTO
 
 b) Calificaciones: treinta (30) puntos.
 c) Entrevista: diez (10) puntos.
@@ -2947,12 +2809,14 @@ el otorgamiento de la buena pro se efectúa a través de sorteo.
 institucional de la Entidad contratante, salvo la información calificada como secreta, confidencial o
 reservada por la normativa de la materia.
 
+
 **CAPÍTULO VI**
 **COMPARACIÓN DE PRECIOS**
 
 **Artículo 98. Condiciones para el empleo de la Comparación de Precios.**
 98.1. Para aplicar el procedimiento de selección de Comparación de Precios, la Entidad verifica que los bienes
 y/o servicios en general objeto de la contratación [52] :
+
 
 (i) Existen en el mercado;
 (ii) Cumplan con las especificaciones técnicas o términos de referencia sin necesidad de ser fabricados,
@@ -2974,18 +2838,12 @@ selección de Comparación de Precios.
 contrataciones solicita y obtiene, de forma física o electrónica, un mínimo de tres (3) cotizaciones que
 cumplan con lo previsto en la solicitud de cotización, las que son acompañadas con declaraciones juradas
 
-52
+
 _Numeral modificado por la Primera Disposición Complementaria Modificatoria del Decreto Supremo N° 168-2020-EF,_
 _publicado el 30 junio 2020, el mismo que resulta aplicable a los procedimientos de selección que se convoquen a partir de_
 _la entrada en vigor de la citada norma._
-53
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-56
-
-REGLAMENTO
 
 de los proveedores de no encontrarse impedidos para contratar con el Estado. La Entidad otorga la buena
 pro a la cotización de menor precio, debiendo verificar previamente que el proveedor cuente con
@@ -2998,6 +2856,7 @@ cotizaciones obtenidas y el acta respectiva de buena pro.
 99.3. En el supuesto que dos o más ofertas empaten, el otorgamiento de la buena pro se efectúa a través de
 sorteo.
 
+
 **CAPÍTULO VII**
 **CONTRATACIÓN DIRECTA**
 
@@ -3008,13 +2867,16 @@ del artículo 27 de la Ley bajo las condiciones que a continuación se indican:
 
 **a)** **Contratación entre Entidades.**
 
+
 La Entidad que actúe como proveedor no debe ser empresa del Estado o realizar actividad empresarial de
 manera habitual. Se considera por habitual la suscripción de más de dos (2) contratos en el objeto de la
 contratación en los últimos doce (12) meses.
 
 **b)** **Situación de Emergencia.**
 
+
 La situación de emergencia se configura por alguno de los siguientes supuestos:
+
 
 b.1.) Acontecimientos catastróficos, que son aquellos de carácter extraordinario ocasionados por la
 naturaleza o por la acción u omisión del obrar humano que generan daños afectando a una
@@ -3030,6 +2892,7 @@ ocurra de manera inminente.
 b.4) Emergencias sanitarias, que son aquellas declaradas por el ente rector del sistema nacional de
 salud conforme a la ley de la materia.
 
+
 En dichas situaciones, la Entidad contrata de manera inmediata los bienes, servicios en general,
 consultorías u obras, estrictamente necesarios, tanto para prevenir los efectos del evento próximo a
 producirse, como para atender los requerimientos generados como consecuencia directa del evento
@@ -3037,11 +2900,6 @@ producido, sin sujetarse a los requisitos formales de la presente norma. Como m�
 de veinte (20) días hábiles siguientes de efectuada la entrega del bien, o la primera entrega en el caso de
 suministros o desde su instalación y puesta en funcionamiento en el caso de bienes bajo la modalidad de
 
-_Materiales de enseñanza_
-
-57
-
-REGLAMENTO
 
 llave en mano, o del inicio de la prestación del servicio, o del inicio de la ejecución de la obra, la Entidad
 regulariza aquella documentación referida a las actuaciones preparatorias, el informe o los informes que
@@ -3054,6 +2912,7 @@ haya otorgado la conformidad de la recepción de la prestación a cargo del cont
 de bienes, servicios en general y consultorías en general, o en el supuesto que se haya producido el
 consentimiento de la liquidación final para la ejecución y consultoría de obras [54] .
 
+
 Realizada la Contratación Directa, la Entidad contrata lo demás que requiera para la realización de las
 actividades de prevención y atención derivadas de la situación de emergencia y que no calificaron como
 estrictamente necesarias de acuerdo al numeral precedente. Cuando no corresponda realizar un
@@ -3061,6 +2920,7 @@ procedimiento de selección posterior, se incluye tal justificación en el infor
 el sustento técnico legal de la Contratación Directa.
 
 **c)** **Situación de desabastecimiento.**
+
 
 La situación de desabastecimiento se configura ante la ausencia inminente de determinado bien, servicio
 en general o consultoría, debido a la ocurrencia de una situación extraordinaria e imprevisible, que
@@ -3072,7 +2932,9 @@ tiempo y/o cantidad necesario para resolver la situación y llevar a cabo el pro
 corresponda. Cuando no corresponda realizar un procedimiento de selección posterior, se justifica en el
 informe o informes que contienen el sustento técnico legal de la Contratación Directa.
 
+
 No puede invocarse la existencia de una situación de desabastecimiento en las siguientes contrataciones:
+
 
 c.1) Contrataciones cuyo monto de contratación se encuentre bajo la cobertura de un tratado o
 compromiso internacional que incluya disposiciones sobre contrataciones públicas, cuando el
@@ -3087,19 +2949,16 @@ c.3) Para satisfacer necesidades anteriores a la fecha de aprobación de la Cont
 
 c.4) Por prestaciones cuyo alcance exceda lo necesario para atender el desabastecimiento.
 
+
 _54_ _Párrafo modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entraron en vigencia a los diez (10) días hábiles contados a partir del día_
 _siguiente de su publicación en el Diario Oficial El Peruano y posteriormente por el Artículo 2 del Decreto Supremo Nº_
 _234-2022-EF, publicado el 07 octubre 2022 que entró en vigencia a los quince (15) días hábiles contados a partir del día_
 _siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-58
-
-REGLAMENTO
 
 c.5) En vía de regularización.
+
 
 Cuando del sustento del desabastecimiento se desprenda que la conducta de los servidores de la
 Entidad hubiese originado la presencia o la configuración de la causal, la autoridad competente
@@ -3107,6 +2966,7 @@ para autorizar la Contratación Directa ordena, en el acto aprobatorio de la mis
 análisis para determinar las responsabilidades que correspondan.
 
 **d)** **Contrataciones con carácter secreto, secreto militar o por razones de orden interno.**
+
 
 Son aquellas cuyo objeto contractual se encuentra incluido en la lista que, mediante decreto supremo,
 haya aprobado el Consejo de Ministros, debidamente refrendado por el sector correspondiente. La
@@ -3120,13 +2980,16 @@ plazo de siete (7) días hábiles a partir de presentada la solicitud.
 
 **e)** **Proveedor único.**
 
+
 En este supuesto, la verificación de que los bienes, servicios en general y consultorías solo pueden
 obtenerse de un determinado proveedor se realiza en el mercado peruano.
 
 **f)** **Servicios personalísimos.**
 
+
 En este supuesto pueden contratarse servicios especializados profesionales, artísticos, científicos o
 tecnológicos brindado por personas naturales, siempre que se sustente objetivamente lo siguiente:
+
 
 f.1) Especialidad del proveedor, relacionada con sus conocimientos profesionales, artísticos, científicos
 
@@ -3135,10 +2998,12 @@ satisfacer la complejidad del objeto contractual.
 
 f.2.) Experiencia reconocida en la prestación objeto de la contratación.
 
+
 Las prestaciones que se deriven de los contratos celebrados al amparo del presente literal no son materia
 de subcontratación.
 
 **g)** **Servicios de publicidad para el Estado.**
+
 
 En este supuesto la contratación de los mencionados servicios corresponde a aquellos que prestan
 directamente los medios de comunicación para difundir un contenido determinado al público objetivo al
@@ -3147,11 +3012,6 @@ que se quiere llegar.
 **h)** **Servicios de consultoría distintos a las consultorías de obra que son continuación y/o actualización de un**
 **trabajo previo ejecutado por un consultor individual.**
 
-_Materiales de enseñanza_
-
-59
-
-REGLAMENTO
 
 En este supuesto se sustenta que la contratación resulta necesaria a efectos de mantener el enfoque
 técnico de la consultoría original, y el monto de la contratación no excede los márgenes señalados en el
@@ -3160,12 +3020,14 @@ artículo 24 de la Ley. Esta contratación se puede efectuar por única vez.
 **i)** **Contratación de bienes o servicios con fines de investigación, experimentación o desarrollo de carácter**
 **científico o tecnológico**
 
+
 Pueden contratarse directamente bienes, servicios en general o consultorías en general con fines de
 investigación, experimentación o desarrollo de carácter científico o tecnológico vinculadas con las
 funciones u objeto propios, que por Ley le corresponde a la Entidad, siempre que los resultados
 pertenezcan exclusivamente a esta.
 
 **j)** **Adquisición y arrendamiento.**
+
 
 Para efectos de la contratación directa prevista en el literal j) del artículo 27 de la Ley, se entiende por
 acondicionamiento la prestación destinada a habilitar un espacio físico, adecuando las dimensiones y
@@ -3176,17 +3038,21 @@ responsable de la ejecución de la totalidad de las prestaciones involucradas en
 **k)** **Contrataciones derivadas de un contrato resuelto o declarado nulo cuya continuidad de ejecución**
 **resulta urgente.**
 
+
 Este supuesto se aplica siempre que se haya agotado lo dispuesto en el artículo 167, de corresponder.
 
 **l)** **Contrataciones de servicios de capacitación de interés institucional.**
+
 
 La contratación de los servicios de capacitación se realiza con instituciones acreditadas: i) conforme a las
 normas del Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educativa, o ii) por
 organismos internacionales especializados, conforme a los lineamientos establecidos por el Sector
 Educación.
 
+
 En el supuesto que la capacitación sea prestada por un organismo internacional, este tiene entre su
 finalidad u objeto, la prestación de servicios de formación, capacitación o asistencia técnica.
+
 
 [Opinión 117-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4882927-opinion-n-117-2023-dtn)
 [Opinión 109-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825621-opinion-n-109-2023-dtn)
@@ -3205,11 +3071,6 @@ finalidad u objeto, la prestación de servicios de formación, capacitación o a
 [Opinión 132-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1466933-opinion-n-132-2020-dtn)
 [Opinión 120-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1373105-opinion-n-120-2020-dtn)
 
-_Materiales de enseñanza_
-
-60
-
-REGLAMENTO
 
 [Opinión 118-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1365685-opinion-n-118-2020-dtn)
 [Opinión 104-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1304717-opinion-n-104-2020-dtn)
@@ -3239,6 +3100,7 @@ complementarias.
 101.5. En las contrataciones directas por desabastecimiento y emergencia, de ser necesario prestaciones
 adicionales, se requiere previamente la emisión de un nuevo acuerdo o resolución que las apruebe.
 
+
 [Opinión 046-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3131414-opinion-n-046-2022-dtn)
 [Opinión 034-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2992830-opinion-n-034-2022-dtn)
 [Opinión 087-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2098228-opinion-n-087-2021-dtn)
@@ -3260,11 +3122,6 @@ define el plazo que le permita suscribir el contrato.
 servidores y miembros o ex miembros de las fuerzas armadas y la Policía Nacional del Perú, no
 corresponde realizar una indagación del mercado.
 
-_Materiales de enseñanza_
-
-61
-
-REGLAMENTO
 
 102.4. El cumplimiento de los requisitos previstos para las contrataciones directas, en la Ley y el Reglamento, es
 responsabilidad del Titular de la Entidad y de los funcionarios que intervengan en la decisión y ejecución.
@@ -3273,10 +3130,12 @@ responsabilidad del Titular de la Entidad y de los funcionarios que intervengan 
 automáticamente la adjudicación efectuada, debiendo la Entidad continuar con las acciones que
 correspondan.
 
+
 [Opinión 085-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4587145-opinion-n-085-2023-dtn)
 [Opinión 031-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2992822-opinion-n-031-2022-dtn)
 [Opinión 208-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/393926-opinion-n-208-2019-dtn)
 [Opinión 203-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/737336-opinion-n-203-2018-dtn)
+
 
 **CAPÍTULO VIII**
 **COMPRAS CORPORATIVAS**
@@ -3301,7 +3160,7 @@ estimados no superen las ocho (8) UIT.
 Entidades participantes, aunque corresponde indicar que se procede a contratar mediante Compra
 Corporativa, con expresa mención de la Entidad encargada de la Compra Corporativa. [55]
 
-55
+
 _De conformidad con la Numeral 1 de la Segunda Disposición Complementaria Transitoria del Decreto Supremo N° 167-_
 _2023-EF, publicado el 04 agosto 2023, el Organismo Supervisor de las Contrataciones del Estado (OSCE) desarrolla la_
 _funcionalidad que permita a las entidades participantes indicar la información a la que se refiere el presente numeral en_
@@ -3318,11 +3177,6 @@ _sede digital (www.gob.pe/osce) un comunicado mediante el cual hace de conocimie
 _partir de la cual pueden hacer uso de dicha funcionalidad. En tanto el OSCE no emita el comunicado, no es aplicable lo_
 _dispuesto por el presente numeral. El citado Decreto Supremo tiene vigencia hasta el 31 de diciembre de 2024._
 
-_Materiales de enseñanza_
-
-62
-
-REGLAMENTO
 
 103.6. Son entidades participantes aquellas que contratan bienes y servicios en general a través de Compras
 Corporativas.
@@ -3343,6 +3197,7 @@ días hábiles siguientes a su perfeccionamiento, ocurrencia o aprobación, seg�
 
 103.10. El proceso de contratación se realiza conforme a las reglas establecidas en la Ley, el presente Reglamento
 y demás disposiciones complementarias.
+
 
 [Opinión 001-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4997455-opinion-n-001-2024-dtn)
 [Opinión 087-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4587241-opinion-n-087-2023-dtn)
@@ -3370,14 +3225,10 @@ f) Resolver los recursos de apelación, cuando corresponda.
 g) Designar un comité técnico especializado para determinar las características homogeneizadas de los
 bienes y servicios en general requeridos por las Entidades participantes.
 
+
 [Opinión 046-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290882-opinion-n-046-2019-dtn)
 **Artículo 105. Comité de selección.**
 
-_Materiales de enseñanza_
-
-63
-
-REGLAMENTO
 
 El funcionamiento, competencia, obligaciones y demás atribuciones del comité de selección son los previstos en
 la Ley y el Reglamento, siendo además responsable de:
@@ -3388,6 +3239,7 @@ y ejecución del contrato respectivo.
 
 b) Una vez que quede consentido el otorgamiento de la buena pro, elevar el expediente al Titular de la
 Entidad encargada de la Compra Corporativa para su remisión a las Entidades participantes.
+
 
 [Opinión 046-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290882-opinion-n-046-2019-dtn)
 
@@ -3422,16 +3274,12 @@ cualquier método de contratación, de acuerdo a lo establecido en el Decreto Le
 Decreto Supremo que se emita para tal efecto, así como en los dispositivos y documentos de orientación
 que emita dicha Entidad [57] .
 
+
 56 _Numeral modificado por la Única Disposición Complementaria Modificatoria del Decreto Supremo N° 167-2023-EF,_
 _publicado el 04 agosto 2023._
 57 Numeral modificado por la Única Disposición Complementaria Modificatoria del Decreto Supremo N° 167-2023-EF,
 publicado el 04 agosto 2023.
 
-_Materiales de enseñanza_
-
-64
-
-REGLAMENTO
 
 107.3. PERÚ COMPRAS se encarga de homogeneizar, de corresponder, y consolidar los requerimientos de las
 Entidades participantes, para cuyo efecto determina el contenido, cantidad y oportunidad de remisión de
@@ -3458,12 +3306,14 @@ c), d), e) y f) del artículo 104.
 108.3. El funcionamiento, competencia, obligaciones y demás atribuciones del comité de selección son los
 previstos en la Ley y el Reglamento, siendo además responsable de:
 
+
 a. Elaborar las bases, conforme al contenido del expediente de contratación. En las bases se distingue
 claramente el requerimiento de cada Entidad participante del convenio, para los efectos de la
 suscripción y ejecución del contrato respectivo.
 
 b. Una vez que quede consentido el otorgamiento de la buena pro, elevar el expediente al Titular de
 la Entidad encargada de la Compra Corporativa para su remisión a las Entidades participantes.
+
 
 c. En caso que se desee complementar o incorporar requerimientos adicionales a los previstos en el
 convenio, las Entidades participantes pueden hacerlo mediante la suscripción de cláusulas
@@ -3475,17 +3325,14 @@ aprobación del Expediente de Contratación.
 108.5. Suscrito el convenio de cooperación interinstitucional, la Entidad no puede desistirse de participar en la
 compra corporativa, bajo responsabilidad, salvo que se configure alguno de los siguientes supuestos:
 
+
 a) Recorte presupuestal correspondiente al objeto materia de contratación;
+
 
 58 Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019 y
 posteriormente por la Única Disposición Complementaria Modificatoria del Decreto Supremo N° 167-2023-EF, publicado
 el 04 agosto 2023.
 
-_Materiales de enseñanza_
-
-65
-
-REGLAMENTO
 
 b) Desaparezca la necesidad, debidamente acreditada;
 
@@ -3505,7 +3352,9 @@ COMPRAS.
 **CONCORDANCIAS:   Directiva Nº 011-2019-OSCE-CD - Disposiciones sobre el**
 **contenido del convenio de compra corporativa facultativa.**
 
+
 [Opinión 110-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825671-opinion-n-110-2023-dtn)
+
 
 **CAPÍTULO IX**
 **DEL ENCARGO**
@@ -3516,6 +3365,7 @@ COMPRAS.
 [Opinión 045-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4148804-opinion-n-045-2023-dtn)
 
 109.1. Encargo a otra Entidad
+
 
 a) Una Entidad puede encargar a otra Entidad pública, mediante convenio interinstitucional, la
 realización de las actuaciones preparatorias y/o el procedimiento de selección que aquella requiera
@@ -3530,6 +3380,7 @@ encargante para el perfeccionamiento y ejecución del contrato respectivo.
 
 109.2. Encargo a Organismos Internacionales
 
+
 a) De conformidad con lo dispuesto en el numeral 6.3 del artículo 6 de la Ley, las Entidades pueden
 encargar las actuaciones preparatorias y el procedimiento de selección a organismos
 internacionales debidamente acreditados cuando se trate de objetos cuya contratación implica
@@ -3537,11 +3388,6 @@ capacidad técnica con la que la Entidad no cuenta, tiene de manera insuficiente
 envergadura o complejidad del objeto, requiere de apoyo técnico de mayor especialización,
 debiendo considerar además lo siguiente:
 
-_Materiales de enseñanza_
-
-66
-
-REGLAMENTO
 
 a.1) En el caso de bienes, estos responden a tecnología de última generación y/o encontrarse
 vinculados a innovación y/o uso científico.
@@ -3556,8 +3402,10 @@ millones y 00/100 Soles (S/ 20 000 000,00) [60] .
 a.4) Para el caso de obras, a aquellas cuyos montos superen los veinte millones y 00/100 Soles
 (S/ 20 000 000,00).
 
+
 Literal incorporado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el
 14 diciembre 2019.
+
 
 b) El encargo es aprobado: i) para el Poder Ejecutivo mediante Resolución del Titular de la Entidad, ii)
 para los Poderes Legislativo y Judicial y los Organismos Constitucionalmente Autónomos, por el
@@ -3565,12 +3413,14 @@ Titular de dichas Entidades, iii) para los Gobiernos Regionales y Locales por ac
 Regional o Concejo Municipal, según corresponda y iv) para las empresas del Estado por Acuerdo
 de Directorio. Esta facultad es indelegable.
 
+
 c) El expediente que sustenta la necesidad de efectuar este encargo contiene la justificación de la
 imposibilidad de que las actuaciones preparatorias y el procedimiento de selección sean
 efectuados por la Entidad, por las razones señaladas en el literal a) del presente numeral,
 precisando la conveniencia y ventajas de efectuarlo. Asimismo, cuenta con el informe favorable de
 la Oficina de Presupuesto, o la que haga sus veces, sobre la disponibilidad de los recursos para el
 financiamiento de la contratación del organismo encargado.
+
 
 d) Constituye requisito indispensable que el organismo internacional tenga dentro de sus fines el
 desarrollo de actividades objeto del encargo, conforme a los instrumentos que lo rigen y cuente
@@ -3586,16 +3436,13 @@ f) La competencia para la aprobación de los documentos del procedimiento de sel
 Entidad. Una vez consentido o administrativamente firme el otorgamiento de la buena pro, se
 remite el expediente a la Entidad para el perfeccionamiento y ejecución del contrato respectivo.
 
+
 [Opinión 079-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290915-opinion-n-079-2019-dtn)
+
 
 _59_ _Literal modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 _60 Literal modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-67
-
-REGLAMENTO
 
 109.3. La Entidad es responsable de registrar en el SEACE toda la información referida al encargo y al
 procedimiento encargado según lo dispuesto por el OSCE.
@@ -3605,8 +3452,10 @@ procedimiento encargado según lo dispuesto por el OSCE.
     - por el Tribunal, según corresponda. Tratándose de los encargos a Organismos Internacionales se aplican
 las reglas de sus respectivos procedimientos.
 
+
 **CAPÍTULO X**
 **SUBASTA INVERSA ELECTRÓNICA**
+
 
 **Directiva N° 006-2019-OSCE/CD**
 Procedimiento de selección de Subasta inversa electrónica
@@ -3623,6 +3472,7 @@ Subasta Inversa Electrónica se realiza a través del SEACE.
 110.2 La estandarización de requerimientos para generar Fichas Técnicas de Subasta Inversa Electrónica es
 conducida y ejecutada por PERÚ COMPRAS.
 
+
 Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
 Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día
@@ -3638,24 +3488,22 @@ Complementaria, PERÚ COMPRAS puede solicitar información u opinión técnica a
 las que brindan dicha información de manera idónea y oportuna, bajo responsabilidad. Así también, puede
 solicitar información a gremios, organismos u otras que se estime pertinente **.**
 
+
 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado
 el 26 junio 2021. Las disposiciones contenidas en el citado Decreto Supremo entran en
 vigencia a los diez (10) días hábiles contados a partir del día siguiente de su publicación
 en el Diario Oficial El Peruano.
 
+
 61 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las_
 _disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir_
 _del día siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-68
-
-REGLAMENTO
 
 110.5. PERÚ COMPRAS gestiona el Listado de Bienes y Servicios Comunes; asimismo, emite las disposiciones y
 ejecuta las acciones que sean necesarias, en colaboración y coordinación con las entidades e instituciones
 competentes, para su sostenimiento, según corresponda.
+
 
 Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF, publicado
 el 26 junio 2021. Las disposiciones contenidas en el citado Decreto Supremo entraron
@@ -3670,6 +3518,7 @@ Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF, publ
 el 26 junio 2021. Las disposiciones contenidas en el citado Decreto Supremo entraron
 en vigor a los diez (10) días hábiles contados a partir del día siguiente de su publicación
 en el Diario Oficial El Peruano.
+
 
 [Opinión 108-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760117-opinion-n-108-2023-dtn)
 
@@ -3690,6 +3539,7 @@ determine dicha Entidad.
 Fichas Técnicas Excluidas que elabora PERÚ COMPRAS. Las fichas técnicas excluidas son obligatorias para
 la contratación de bienes o servicios, salvo que PERÚ COMPRAS disponga lo contrario.
 
+
 Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
 Supremo entran en vigencia a los diez (10) días hábiles contados a partir del
@@ -3700,30 +3550,28 @@ para lo cual obtienen previamente la autorización de PERÚ COMPRAS, antes de ef
 debiendo adjuntar un informe técnico que justifique su necesidad, conforme a las disposiciones que
 determine dicha Entidad [62] .
 
-62
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano-_
 
-_Materiales de enseñanza_
-
-69
-
-REGLAMENTO
 
 111.4. En caso de que, con anterioridad a la publicación de las fichas técnicas, una Entidad haya convocado un
 procedimiento de selección sobre los mismos bienes y servicios, continúa con dicho procedimiento.
+
 
 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
 Supremo entran en vigencia a los diez (10) días hábiles contados a partir del
 día siguiente de su publicación en el Diario Oficial El Peruano.
 
+
 [Opinión 027-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1762362-opinion-n-027-2021-dtn)
 
 **Artículo 112. Etapas de la Subasta Inversa Electrónica.**
 
 112.1. El procedimiento de Subasta Inversa Electrónica tiene las siguientes etapas:
+
 
 a) Convocatoria.
 
@@ -3738,8 +3586,10 @@ d) Otorgamiento de la buena pro.
 112.3. El desarrollo del procedimiento de selección, a cargo de las Entidades, se sujeta a los lineamientos y a la
 documentación de orientación que emita el OSCE.
 
+
 **CAPÍTULO XI**
 **CATÁLOGOS ELECTRÓNICOS DE ACUERDOS MARCO**
+
 
 **Directiva N° 007-2017-OSCE/CD**
 **Disposiciones aplicables a los catálogos electrónicos de acuerdos marco**
@@ -3761,16 +3611,12 @@ de su entrada en vigencia, para lo cual el órgano encargado de las contratacion
 Catálogos contengan el bien y/o servicio que permita la atención del requerimiento y que se cuente con
 la disponibilidad de recursos.
 
-_Materiales de enseñanza_
-
-70
-
-REGLAMENTO
 
 114.2. En caso que, con anterioridad a la publicación del Catálogo Electrónico, una Entidad haya convocado un
 procedimiento de selección sobre los mismos bienes y servicios, continúa con dicho procedimiento. En
 caso de que dicho procedimiento sea declarado desierto, la contratación se efectúa a través del Catálogo
 Electrónico.
+
 
 [Opinión 110-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1345426-opinion-n-110-2020-dtn)
 [Opinión 052-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1195964-opinion-n-052-2020-dtn)
@@ -3780,6 +3626,7 @@ Electrónico.
 
 115.1. La implementación, extensión de la vigencia y gestión de los Catálogos Electrónicos de Acuerdo Marco
 está a cargo de PERÚ COMPRAS, y se sujeta a lo siguiente:
+
 
 a) PERÚ COMPRAS establece el procedimiento para la implementación y/o extensión de la vigencia
 de los Catálogos Electrónicos de Acuerdo Marco, asimismo elabora y aprueba los documentos
@@ -3791,6 +3638,7 @@ de selección de ofertas, las condiciones a ser aplicadas durante la ejecución 
 aspectos a ser considerados para cada Acuerdo Marco. Asimismo, las reglas especiales del
 procedimiento requieren al proveedor el cumplimiento de las exigencias previstas en normas
 especiales, tales como las normas tributarias y laborales, entre otras que resulten aplicables.
+
 
 c) El proveedor que participe en el procedimiento se encuentra inscrito en el RNP, no se encuentra
 impedido, inhabilitado ni suspendido para contratar con el Estado.
@@ -3817,11 +3665,6 @@ Entidades la información que considere necesaria o actuar de oficio para gestio
 Los proveedores adjudicatarios y las Entidades brindan dicha información en el plazo y la forma
 requerida bajo responsabilidad.
 
-_Materiales de enseñanza_
-
-71
-
-REGLAMENTO
 
 h) Las entidades que contraten a través de los Catálogos Electrónicos de Acuerdo Marco son
 responsables de aplicar las reglas establecidas en el respectivo Acuerdo Marco.
@@ -3868,14 +3711,10 @@ tiempo que no cuente con dicha inscripción.
 d) Cuando se incumpla las condiciones expresamente contempladas en el Acuerdo Marco, en cuyo caso la
 exclusión se efectúa conforme a las consideraciones establecidas en dicho acuerdo.
 
+
 **TÍTULO VI**
 **SOLUCIONES DE CONTROVERSIAS DURANTE EL PROCEDIMIENTO DE SELECCIÓN**
 
-_Materiales de enseñanza_
-
-72
-
-REGLAMENTO
 
 **Artículo 117. Competencia**
 
@@ -3925,11 +3764,6 @@ En el caso de Adjudicaciones Simplificadas, Selección de Consultores Individual
 Precios, el plazo es de cinco (5) días hábiles siguientes de tomado conocimiento del acto que se desea
 impugnar. En el caso de Subasta Inversa Electrónica, el plazo para la interposición del recurso es de cinco
 
-_Materiales de enseñanza_
-
-73
-
-REGLAMENTO
 
 (5) días hábiles siguientes de tomado conocimiento del acto que se desea impugnar, salvo que su valor
 estimado o referencial corresponda al de una Licitación Pública o Concurso Público, en cuyo caso el plazo
@@ -3941,6 +3775,7 @@ desierto se rige por las disposiciones del nuevo procedimiento que se convoque.
 119.4. Los plazos indicados resultan aplicables a todo recurso de apelación, sea que se interponga ante la Entidad
 
     - ante el Tribunal, según corresponda.
+
 
 [Opinión 104-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4760067-opinion-n-104-2023-dtn)
 
@@ -3983,11 +3818,6 @@ f) La garantía por interposición del recurso.
 
 g) Copia simple de la promesa de consorcio cuando corresponda.
 
-_Materiales de enseñanza_
-
-74
-
-REGLAMENTO
 
 h) La firma del impugnante o de su representante. En el caso de consorcios basta la firma del representante
 común señalado como tal en la promesa de consorcio.
@@ -4020,6 +3850,7 @@ condición en el SEACE, sin necesidad de pronunciamiento alguno y los recaudos s
 del apelante para que los recabe en la Unidad de Trámite Documentario de la Entidad, en la Mesa de Partes
 del Tribunal, o en las Oficinas Desconcentradas del OSCE, según corresponda.
 
+
 Si la Entidad o el Tribunal, según sea el caso, advierte que el recurso de apelación no contiene alguno de
 los requisitos de admisibilidad y que esta omisión no fue advertida en el momento de la presentación del
 recurso, la autoridad competente para resolver en la Entidad o el presidente del Tribunal, concede un
@@ -4036,13 +3867,9 @@ presente cuando corresponda.
 
 **Artículo 123. Improcedencia del recurso**
 
-_Materiales de enseñanza_
-
-75
-
-REGLAMENTO
 
 123.1. El recurso de apelación presentado ante la Entidad o ante el Tribunal es declarado improcedente cuando:
+
 
 a) La Entidad o el Tribunal carezca de competencia para resolverlo, de acuerdo con lo establecido en
 el artículo 117. No es de aplicación en estos casos lo establecido en el artículo 130 de la Ley Nº 27444,
@@ -4088,15 +3915,11 @@ corresponda, el cual se mantiene hasta el agotamiento de la vía administrativa.
 
 **Artículo 125. Procedimiento ante la Entidad**
 
+
 _63_ _Literal modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día_
 _siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-76
-
-REGLAMENTO
 
 125.1. El Titular de la Entidad puede delegar, mediante resolución, la facultad de resolver los recursos de
 apelación, sin que en ningún caso dicha delegación pueda recaer en los miembros del comité de selección,
@@ -4125,6 +3948,7 @@ no mayor a tres (3) días hábiles, contados a partir del día siguiente de noti
 Dicha absolución es publicada en el SEACE a más tardar al día siguiente de presentada. La Entidad
 resuelve con la absolución del traslado o sin ella.
 
+
 Las partes formulan sus pretensiones y ofrecen los medios probatorios en el escrito que contiene
 el recurso de apelación y en el escrito de absolución de traslado del recurso de apelación,
 presentados dentro del plazo legal. La determinación de puntos controvertidos se sujeta a lo
@@ -4144,17 +3968,14 @@ subsanación de las omisiones y/o defectos advertidos en la presentación del mi
 facultad, cuenta con la opinión previa de las áreas técnica y legal, cautelando que en la decisión de la
 impugnación no intervengan los servidores que participaron en el procedimiento de selección.
 
+
 [Opinión 127-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290963-opinion-n-127-2019-dtn)
 
 **Artículo 126. Procedimiento ante el Tribunal**
 
-_Materiales de enseñanza_
-
-77
-
-REGLAMENTO
 
 126.1 El Tribunal tramita el recurso de apelación conforme a las siguientes reglas:
+
 
 a) Al admitir el recurso, el Tribunal notifica a través del SEACE el recurso de apelación y sus anexos, a
 efectos que, dentro de un plazo no mayor de tres (3) días hábiles, la Entidad registre en el SEACE
@@ -4162,9 +3983,11 @@ el informe técnico legal en el cual se indique expresamente la posición de la 
 los fundamentos del recurso interpuesto, y el postor o postores distintos al impugnante que
 pudieran verse afectados con la resolución del Tribunal absuelvan el traslado del recurso.
 
+
 El incumplimiento de la Entidad de registrar el informe referido en el numeral anterior es
 comunicado al Órgano de Control Institucional de esta y/o a la Contraloría General de la República
 y genera responsabilidad funcional en el Titular de la Entidad.
+
 
 La absolución del traslado es presentada al OSCE, conforme lo establecido en el TUPA.
 
@@ -4200,13 +4023,9 @@ haya sido solicitado por aquellas, al interponer el recurso o en la respectiva a
 de que sea requerido de oficio a consideración del Tribunal. En tal caso, la audiencia pública se
 realiza dentro del período mencionado en el literal anterior.
 
+
 _64 Literal modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-78
-
-REGLAMENTO
 
 f) El día en que se recibe la información adicional, se realiza la audiencia pública o vence el plazo
 indicado en el literal d), se declara el expediente listo para resolver a través del decreto
@@ -4244,6 +4063,7 @@ los demás intervinientes en el procedimiento, conforme a los puntos controverti
 
 128.1 Al ejercer su potestad resolutiva, el Tribunal o la Entidad resuelve de una de las siguientes formas:
 
+
 a) Cuando el acto impugnado se ajusta a las disposiciones y principios de la Ley, al Reglamento, a los
 documentos del procedimiento de selección y demás normas conexas o complementarias, declara
 infundado el recurso de apelación y confirma el acto objeto del mismo.
@@ -4256,11 +4076,6 @@ revoca el acto impugnado.
 c) Cuando el impugnante ha cuestionado actos directamente vinculados a la evaluación, calificación
 de las ofertas y/u otorgamiento de la buena pro, evalúa si es posible efectuar el análisis sobre el
 
-_Materiales de enseñanza_
-
-79
-
-REGLAMENTO
 
 fondo del asunto, otorgando la buena pro a quien corresponda, siendo improcedente cualquier
 impugnación administrativa contra dicha decisión.
@@ -4312,16 +4127,16 @@ administrativo.
 
 **Artículo 132. Ejecución y devolución de la garantía**
 
-_Materiales de enseñanza_
 
-80
 
-REGLAMENTO
+
+
 
 132.1. Cuando el recurso de apelación sea declarado infundado o improcedente o el impugnante se desista, se
 procede a ejecutar el íntegro de la garantía.
 
 132.2. Procede la devolución de la garantía cuando:
+
 
 a) El recurso sea declarado fundado en todo o en parte.
 
@@ -4356,8 +4171,10 @@ La interposición de la acción contencioso administrativa cabe únicamente cont
 ficta que agotan la vía administrativa, y no suspende lo resuelto por la Entidad o por el Tribunal, según
 corresponda. Dicha acción se interpone dentro del plazo de la ley de la materia.
 
+
 **TÍTULO VII**
 **EJECUCIÓN CONTRACTUAL**
+
 
 **CAPÍTULO I**
 **DEL CONTRATO**
@@ -4368,11 +4185,6 @@ corresponda. Dicha acción se interpone dentro del plazo de la ley de la materia
 
     - los postores ganadores, están obligados a contratar.
 
-_Materiales de enseñanza_
-
-81
-
-REGLAMENTO
 
 136.2. La Entidad no puede negarse a contratar, salvo por razones de recorte presupuestal correspondiente al
 objeto materia del procedimiento de selección, por norma expresa o por desaparición de la necesidad,
@@ -4384,6 +4196,7 @@ objeto contractual durante el ejercicio presupuestal, salvo que la causal sea la
 136.3. En caso que el o los postores ganadores de la buena pro se nieguen a suscribir el contrato, son pasibles
 de sanción, salvo imposibilidad física o jurídica sobrevenida al otorgamiento de la buena pro que no le sea
 atribuible, declarada por el Tribunal.
+
 
 [Opinión 114-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3808970-opinion-n-114-2022-dtn)
 
@@ -4408,6 +4221,7 @@ y/o servicio emitida en el aplicativo de Catálogos Electrónicos de Acuerdos Ma
 que PERÚ COMPRAS determine. La normatividad aplicable a la contratación corresponde a aquella que
 se encuentre vigente a la fecha de la formalización de la orden de compra o de servicio [66] .
 
+
 [Opinión 105-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2348121-opinion-n-105-2021-dtn)
 [Opinión 109-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1345421-opinion-n-109-2020-dtn)
 **Artículo 138. Contenido del Contrato**
@@ -4419,6 +4233,7 @@ procedimiento de selección que establezcan obligaciones para las partes.
 138.2. El contrato incluye, bajo responsabilidad, cláusulas referidas a: i) Garantías, ii) Anticorrupción, iii) Solución
 de controversias y iv) Resolución por incumplimiento.
 
+
 _65  Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano._
@@ -4426,11 +4241,6 @@ _su publicación en el Diario Oficial El Peruano._
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano, cuyo texto es el siguiente:_
 
-_Materiales de enseñanza_
-
-82
-
-REGLAMENTO
 
 138.3. Tratándose de los contratos de obra se incluyen, además, las cláusulas que identifiquen los riesgos que
 pueden ocurrir durante la ejecución de la obra y la determinación de la parte del contrato que los asume
@@ -4462,6 +4272,7 @@ derecho a la Entidad correspondiente a resolver automáticamente y de pleno dere
 para tal efecto que la Entidad remita una comunicación informando que se ha producido dicha resolución, sin
 perjuicio de las acciones civiles, penales y administrativas a que hubiera lugar.
 
+
 [Opinión 096-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3668587-opinion-n-096-2022-dtn)
 [Opinión 053-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3280086-opinion-n-053-2022-dtn)
 [Opinión 001-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2702549-opinion-n-001-2022-dtn)
@@ -4479,13 +4290,9 @@ su cuenta bancaria y la entidad bancaria en el exterior.
 d) Documento que acredite que cuenta con facultades para perfeccionar el contrato, cuando
 corresponda.
 
+
 _67 Literal modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-83
-
-REGLAMENTO
 
 e) Los documentos que acrediten el requisito de calificación referidos a la capacidad técnica y
 profesional en el caso de obras y consultoría de obras.
@@ -4497,11 +4304,13 @@ de selección, con excepción de las Empresas del Estado.
 la buena pro presenta como personal clave a profesionales que se encuentran prestando servicios como
 residente o supervisor en obras contratadas por la Entidad que no cuentan con recepción.
 
+
 [Opinión 064-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4331689-opinion-n-064-2023-dtn)
 [Opinión 008-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3836951-opinion-n-008-2023-dtn)
 [Opinión 049-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3246243-opinion-n-049-2022-dtn)
 [Opinión 122-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1424785-opinion-n-122-2020-dtn)
 **Artículo 140. Contrato de consorcio**
+
 
 **Directiva N° 005-2019-OSCE/CD**
 **Participación de proveedores en consorcio en las contrataciones del Estado.**
@@ -4524,6 +4333,7 @@ común.
 
 140.2. Las disposiciones aplicables a consorcios son establecidas mediante Directiva emitida por el OSCE.
 
+
 [Opinión 011-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3847791-opinion-n-011-2023-dtn)
 [Opinión 112-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1345431-opinion-n-112-2020-dtn)
 
@@ -4532,15 +4342,11 @@ común.
 141.1. Dentro del plazo de ocho (8) días hábiles siguientes al registro en el SEACE del consentimiento de la buena
 pro o de que esta haya quedado administrativamente firme, el postor ganador de la buena pro presenta
 
+
 68 _Modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-84
-
-REGLAMENTO
 
 los requisitos para perfeccionar el contrato. En un plazo que no puede exceder de los dos (2) días hábiles
 siguientes de presentados los documentos, la Entidad suscribe el contrato o notifica la orden de compra
@@ -4593,11 +4399,6 @@ reúna las condiciones requeridas por las Bases.
 141.8. Cuando no se perfeccione el contrato luego de haberse realizado las acciones indicadas en los numerales
 precedentes, el órgano encargado de las contrataciones declara desierto el procedimiento de selección.
 
-_Materiales de enseñanza_
-
-85
-
-REGLAMENTO
 
 [Opinión 087-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4587241-opinion-n-087-2023-dtn)
 [Opinión 064-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4331689-opinion-n-064-2023-dtn)
@@ -4649,14 +4450,10 @@ _el 14 diciembre 2019._
 142.8. Reiniciado el plazo de ejecución corresponde a la Entidad comunicar al contratista la modificación de las
 fechas de ejecución, respetando los términos en los que se acordó la suspensión. **”(*)**
 
-_Materiales de enseñanza_
-
-86
-
-REGLAMENTO
 
 _Numeral incorporado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado_
 _el 14 diciembre 2019._
+
 
 [Opinión 093- 2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4623092-opinion-n-093-2023-dtn)
 [Opinión 070- 2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4415204-opinion-n-070-2023-dtn)
@@ -4680,6 +4477,7 @@ Durante la ejecución contractual los plazos se computan en días calendario, ex
 presente Reglamento indique lo contrario, aplicándose supletoriamente lo dispuesto por los artículos 183 y 184
 del Código Civil.
 
+
 [Opinión 035-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4099888-opinion-n-035-2023-dtn)
 **Artículo 144. Vigencia del Contrato**
 
@@ -4687,6 +4485,7 @@ del Código Civil.
 caso, desde la recepción de la orden de compra o de servicio.
 
 144.2. Tratándose de la adquisición de bienes y servicios, el contrato rige:
+
 
 a) Hasta que el funcionario competente da la conformidad de la recepción de la prestación a cargo
 del contratista y se efectúe el pago, salvo que este sea condición para la entrega de los bienes o la
@@ -4699,16 +4498,12 @@ corresponden ser ejecutadas con posterioridad al pago
 144.3. En el caso de ejecución y consultoría de obras, el contrato rige hasta el consentimiento de la liquidación y
 se efectúe el pago correspondiente.
 
+
 _**CONCORDANCIAS**_ _:   Acuerdo de Sala Plena Nº 002-2022/TCE (Acuerdo de_
 _Sala Plena que establece criterios para la configuración de la infracción_
 _consistente en ocasionar que la entidad resuelva el contrato, siempre que dicha_
 _resolución haya quedado consentida o firme en vía conciliatoria o arbitral)_
 
-_Materiales de enseñanza_
-
-87
-
-REGLAMENTO
 
 [Opinión 018-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1725099-opinion-n-018-2021-dtn)
 [Opinión 109-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1345421-opinion-n-109-2020-dtn)
@@ -4751,26 +4546,24 @@ el pedido ha sido rechazado.
 
 147.3. No cabe subcontratación en la Selección de Consultores Individuales.
 
+
 _Nota del docente: De conformidad con la Quinta Disposición Complementaria final del_
 _Decreto de Urgencia N° 004-2020, publicado el 08 enero 2020, se exonera al Proyecto_
 _Especial del porcentaje máximo establecido en el presente artículo._
+
 
 [Opinión 103-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3703316-opinion-n-103-2022-dtn)
 
 **CAPÍTULO II**
 **GARANTÍAS Y ADELANTOS**
 
-_Materiales de enseñanza_
-
-88
-
-REGLAMENTO
 
 **Artículo 148. Tipos de garantía**
 
 Los postores y/o contratistas presentan como garantías, cartas fianza o pólizas de caución emitidas por
 entidades bajo la supervisión de la Superintendencia de Banca, Seguros y AFP que cuenten con clasificación de
 riesgo B o superior [69] .
+
 
 [Opinión 128-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1434049-opinion-n-128-2020-dtn)
 [Opinión 056-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4294876-opinion-n-056-2023-dtn)
@@ -4801,6 +4594,7 @@ con las micro y pequeñas empresas, estas últimas pueden otorgar como garantía
 diez por ciento (10%) del monto del contrato original, porcentaje que es retenido por la Entidad. En el caso
 de los contratos para la ejecución de obras, tal beneficio solo procede cuando:
 
+
 a) El procedimiento de selección original del cual derive el contrato a suscribirse sea una Adjudicación
 Simplificada;
 
@@ -4809,21 +4603,18 @@ b) El plazo de ejecución de la obra sea igual o mayor a sesenta (60) días cale
 c) El pago a favor del contratista considere, al menos, dos (2) valorizaciones periódicas, en función
 del avance de obra.
 
+
 _69  Artículo modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-89
-
-REGLAMENTO
 
 149.5. La retención se efectúa durante la primera mitad del número total de pagos a realizarse, de forma
 prorrateada en cada pago, con cargo a ser devuelto a la finalización del mismo.
 
 149.6. En caso de servicios que consideren una comisión de éxito, el monto de la garantía de fiel cumplimiento
 se constituye únicamente sobre la base del honorario fijo.
+
 
 [Opinión 128-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1434049-opinion-n-128-2020-dtn)
 [Opinión 113-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825761-opinion-n-113-2023-dtn)
@@ -4850,12 +4641,15 @@ monto del contrato vigente.
 150.2. La sustitución de la garantía de fiel cumplimiento, bajo el procedimiento previsto en el presente artículo,
 también es aplicable para los casos de consultorías de obra, en lo que corresponda.
 
+
 Numeral incorporado por el artículo 3 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 de junio de 2021.
+
 
 [Opinión 045-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290881-opinion-n-045-2019-dtn)
 
 **Artículo 151. Garantías de fiel cumplimiento por prestaciones accesorias**
+
 
 **Directiva N° 003-2019-OSCE/CD**
 Lineamientos para la aplicación de la garantía de fiel cumplimiento por prestaciones
@@ -4865,15 +4659,11 @@ accesorias
 **Opinión** **[055-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1940136-opinion-n-055-2021-dtn)**
 **Opinión** **[008-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1519571-opinion-n-008-2021-dtn)**
 
+
 70 _Extremo modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las_
 _disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a_
 _partir del día siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-90
-
-REGLAMENTO
 
 151.1. En las contrataciones de bienes, servicios en general, consultorías o de obras que conllevan la ejecución
 de prestaciones accesorias, tales como mantenimiento, reparación o actividades afines, se otorga una
@@ -4885,6 +4675,7 @@ garantizadas [71] .
 cumplimiento por prestaciones accesorias, un monto equivalente al diez por ciento (10%) del monto del
 contrato de la prestación accesoria, conforme a lo establecido en el numeral 149.5 del artículo 149.
 
+
 _Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF,_
 _publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto_
 _Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día_
@@ -4892,6 +4683,7 @@ _siguiente_ _de_ _su_ _publicación_ _en_ _el_ _Diario_ _Oficial_ _El_ _Peruano.
 
 151.3. En el caso de los contratos para la ejecución de obras, lo señalado en el numeral anterior solo procede
 cuando se cumplan las condiciones establecidas en el numeral 149.4 del artículo 149.
+
 
 Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
@@ -4901,10 +4693,12 @@ día siguiente de su publicación en el Diario Oficial El Peruano.
 151.4. El OSCE mediante Directiva establece las disposiciones complementarias para la aplicación de las
 garantías de fiel cumplimiento por prestaciones accesorias.
 
+
 _Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF,_
 _publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto_
 _Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día_
 _siguiente de su publicación en el Diario Oficial El Peruano._
+
 
 [Opinión 056-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4294876-opinion-n-056-2023-dtn)
 [Opinión 055-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1940136-opinion-n-055-2021-dtn)
@@ -4915,15 +4709,11 @@ _siguiente de su publicación en el Diario Oficial El Peruano._
 No se otorga garantía de fiel cumplimiento del contrato ni garantía de fiel cumplimiento por prestaciones
 accesorias en los siguientes casos:
 
+
 _71  Párrafo modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano_
 
-_Materiales de enseñanza_
-
-91
-
-REGLAMENTO
 
 a) En los contratos de bienes y servicios, distintos a la consultoría de obra, cuyos montos sean iguales o
 menores a Doscientos mil con 00/100 Soles (S/ 200 000,00). Dicha excepción también aplica a: i) los
@@ -4938,6 +4728,7 @@ c) Contratos de arrendamiento de bienes muebles e inmuebles.
 
 d) Las contrataciones complementarias celebradas bajo los alcances del artículo 174, cuyos montos se
 encuentren dentro del supuesto contemplado en el literal a).
+
 
 [Opinión 097-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4642107-opinion-n-097-2023-dtn)
 
@@ -4963,20 +4754,17 @@ con el desarrollo respectivo.
 procedimiento de selección establezcan la obligación de constituir un fideicomiso para el manejo de los
 recursos que el contratista reciba a título de adelanto.
 
+
 [Opinión 119-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2593840-opinion-n-119-2021-dtn)
 
 **Artículo 154. Garantías a cargo de la Entidad**
+
 
 72 _Literal modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano_
 _._
 
-_Materiales de enseñanza_
-
-92
-
-REGLAMENTO
 
 En los contratos de arrendamiento de bienes muebles e inmuebles, la garantía es entregada por la Entidad al
 arrendador en los términos previstos en el contrato. Dicha garantía cubre las obligaciones derivadas del
@@ -4985,6 +4773,7 @@ contrato, con excepción de la indemnización por lucro cesante y daño emergent
 **Artículo 155. Ejecución de garantías**
 
 155.1 Las garantías se ejecutan en los siguientes supuestos:
+
 
 a) Cuando el contratista no la hubiere renovado antes de la fecha de su vencimiento. Una vez que se
 cuente con la conformidad de la recepción de la prestación o haya quedado consentida la
@@ -5028,11 +4817,6 @@ puesto, sin afectar la eficacia de la garantía extendida.
 155.4. Aquellas empresas que no cumplan con honrar la garantía otorgada son sancioadas por la
 Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones - SBS.
 
-_Materiales de enseñanza_
-
-93
-
-REGLAMENTO
 
 [Opinión 121-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976651-opinion-n-121-2023-dtn)
 [Opinión 113-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825761-opinion-n-113-2023-dtn)
@@ -5056,6 +4840,7 @@ parciales que se efectúen al contratista por la ejecución de la o las prestaci
 diferencia que se produzca respecto de la amortización parcial de los adelantos se toma en cuenta al
 momento de efectuar el siguiente pago que le corresponda al contratista o al momento de la conformidad
 de la recepción de la prestación.
+
 
 **CAPÍTULO III**
 **MODIFICACIONES DEL CONTRATO**
@@ -5083,16 +4868,12 @@ de obra o de variaciones en el plazo de la obra o en el ritmo de trabajo de la o
 aprobación del adicional de supervisión debe emitirse hasta antes del pago de dichas prestaciones
 adicionales, sin perjuicio de lo establecido en el numeral 34.6 del artículo 34 de la Ley.
 
-_Materiales de enseñanza_
-
-94
-
-REGLAMENTO
 
 _Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF,_
 _publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto_
 _Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día_
 _siguiente de su publicación en el Diario Oficial El Peruano._
+
 
 [Opinión 126-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976815-opinion-n-126-2023-dtn)
 [Opinión 082-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4555230-opinion-n-082-2023-dtn)
@@ -5106,6 +4887,7 @@ _siguiente de su publicación en el Diario Oficial El Peruano._
 **Artículo 158. Ampliación del plazo contractual**
 
 158.1. Procede la ampliación del plazo en los siguientes casos:
+
 
 a) Cuando se aprueba el adicional, siempre y cuando afecte el plazo. En este caso, el contratista
 amplía el plazo de las garantías que hubiere otorgado.
@@ -5128,6 +4910,7 @@ de obras, se paga al contratista según la tarifa contratada cuando se haya esta
 contratación o, en su defecto, se paga el gasto general y el costo directo, este último debidamente
 acreditado, además de la utilidad [74] .
 
+
 73 _Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022._
 _Las disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles_
 _contados a partir del día siguiente de su publicación en el Diario Oficial El Peruano._
@@ -5135,14 +4918,10 @@ _74_ _Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF,
 _Las disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles_
 _contados a partir del día siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-95
-
-REGLAMENTO
 
 158.6. Cualquier controversia relacionada con la ampliación del plazo puede ser sometida a conciliación y/o
 arbitraje dentro de los treinta (30) días hábiles posteriores a la notificación de esta decisión.
+
 
 [Opinión 066-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365300-opinion-n-066-2023-dtn)
 [Opinión 038-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4111183-opinion-n-038-2023-dtn)
@@ -5162,6 +4941,7 @@ arbitraje dentro de los treinta (30) días hábiles posteriores a la notificaci�
 Solo procede la cesión de posición contractual del contratista en los casos de transferencia de propiedad de
 bienes que se encuentren arrendados a las Entidades, cuando se produzcan fusiones, escisiones o que exista
 norma legal que lo permita expresamente.
+
 
 [Opinión 0622021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1970663-opinion-n-062-2021-dtn)
 [Opinión 004-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1494286-opinion-n-004-2021-dtn)
@@ -5190,18 +4970,15 @@ b) La aprobación por resolución del Titular de la Entidad.
 160.3. Adicionalmente a los supuestos de modificación del contrato establecidos en el artículo 34 de la Ley, este
 puede ser modificado cuando el contratista ofrezca bienes y/o servicios con iguales o mejores
 
+
 75 _Literal modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-96
-
-REGLAMENTO
 
 características técnicas, siempre que tales bienes y/o servicios satisfagan la necesidad de la Entidad. Tales
 modificaciones no varían las condiciones que motivaron la selección del contratista.
+
 
 [Opinión 001-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3828057-opinion-n-001-2023-dtn)
 [Opinión 072-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3495871-opinion-n-072-2022-dtn)
@@ -5209,6 +4986,7 @@ modificaciones no varían las condiciones que motivaron la selección del contra
 [Opinión 124-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1424787-opinion-n-124-2020-dtn)
 [Opinión 079-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1495530-opinion-n-079-2020-dtn)
 [Opinión 147-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/323021-opinion-n-147-2019-dtn)
+
 
 **CAPÍTULO IV**
 **INCUMPLIMIENTO DEL CONTRATO**
@@ -5224,6 +5002,7 @@ modificaciones no varían las condiciones que motivaron la selección del contra
 161.1. El contrato establece las penalidades aplicables al contratista ante el incumplimiento injustificado de sus
 obligaciones contractuales a partir de la información brindada por el área usuaria, las mismas que son
 objetivas, razonables y congruentes con el objeto de la convocatoria.
+
 
 [Opinión 020-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2870437-opinion-n-20-2022-dtn)
 [Opinión 010-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2765087-opinion-n-010-2022-dtn)
@@ -5241,6 +5020,7 @@ procedimiento, incluyen las previstas en el capítulo VI del presente título.
 final, según corresponda; o si fuera necesario, se cobra del monto resultante de la ejecución de la garantía
 de fiel cumplimiento.
 
+
 [Opinión 225-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/393942-opinion-n-225-2019-dtn)
 
 **Artículo 162. Penalidad por mora en la ejecución de la prestación**
@@ -5249,15 +5029,12 @@ de fiel cumplimiento.
 Entidad le aplica automáticamente una penalidad por mora por cada día de atraso. La penalidad se aplica
 automáticamente y se calcula de acuerdo a la siguiente fórmula:
 
+
 Penalidad diaria = 0.10 x monto vigente
 
-_Materiales de enseñanza_
-
-97
-
-REGLAMENTO
 
 F x plazo vigente en días
+
 
 Donde F tiene los siguientes valores:
 
@@ -5283,6 +5060,7 @@ Adicionalmente, se considera justificado el retraso y en consecuencia no se apli
 contratista acredite, de modo objetivamente sustentado, que el mayor tiempo transcurrido no le resulta
 imputable. En ese último caso, la calificación del retraso como justificado por parte de la Entidad no da
 lugar al pago de gastos generales ni costos directos de ningún tipo.
+
 
 [Opinión 006-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5138901-opinion-n-006-2024-dtn)
 [Opinión 119-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976494-opinion-n-119-2023-dtn)
@@ -5312,11 +5090,6 @@ Opinión 053-2023/DTN
 [Opinión 174-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/323033-opinion-n-174-2019-dtn)
 [Opinión 103-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290939-opinion-n-103-2019-dtn)
 
-_Materiales de enseñanza_
-
-98
-
-REGLAMENTO
 
 [Opinión 089-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290925-opinion-n-089-2019-dtn)
 
@@ -5330,6 +5103,7 @@ cual se verifica el supuesto a penalizar.
 
 163.2. Estas penalidades se calculan de forma independiente a la penalidad por mora.
 
+
 [Opinión 077-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4469049-opinion-n-077-2023-dtn)
 [Opinión 043-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4148800-opinion-n-043-2023-dtn)
 [Opinión 005-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3279955-opinion-n-052-2022-dtn)
@@ -5340,6 +5114,7 @@ cual se verifica el supuesto a penalizar.
 
 **Artículo 164. Causales de resolución**
 
+
 [Opinión 035-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4099888-opinion-n-035-2023-dtn)
 [Opinión 020-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2870437-opinion-n-20-2022-dtn)
 [Opinión 094-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2250314-opinion-n-094-2021-dtn)
@@ -5348,6 +5123,7 @@ cual se verifica el supuesto a penalizar.
 
 164.1. La Entidad puede resolver el contrato, de conformidad con el artículo 36 de la Ley, en los casos en que el
 contratista:
+
 
 a) Incumpla injustificadamente obligaciones contractuales, legales o reglamentarias a su cargo, pese
 a haber sido requerido para ello;
@@ -5364,17 +5140,14 @@ conforme al procedimiento establecido en el artículo 165.
 sobreviniente al perfeccionamiento del contrato que no sea imputable a las partes y que imposibilite de
 manera definitiva la continuación de la ejecución del contrato.
 
+
 [Opinión 199-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/393919-opinion-n-199-2019-dtn)
 
-_Materiales de enseñanza_
-
-99
-
-REGLAMENTO
 
 164.3. En los contratos de supervisión de obras, cuando se haya previsto que las actividades del supervisor
 comprenden la liquidación del contrato de obra, el supervisor puede resolver el contrato en los casos en
 que existe una controversia que se derive de la liquidación del contrato de obra **.**
+
 
 Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
@@ -5385,6 +5158,7 @@ día siguiente de su publicación en el Diario Oficial.
 sobreviniente al perfeccionamiento del contrato que no sea imputable a las partes y que imposibilite de
 manera definitiva la continuación de la ejecución del contrato.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
 Supremo entran en vigencia a los diez (10) días hábiles contados a partir del
@@ -5394,6 +5168,7 @@ día siguiente de su publicación en el Diario Oficial El Peruano.
 
 165.1. Cuando una de las partes incumple con sus obligaciones, se considera el siguiente procedimiento para
 resolver el contrato en forma total o parcial:
+
 
 a) La parte perjudicada requiere mediante carta notarial a la otra parte que ejecute la prestación
 materia de incumplimiento en un plazo no mayor a cinco (5) días, bajo apercibimiento de resolver
@@ -5409,23 +5184,19 @@ parcial, comunicando su decisión mediante carta notarial.
 165.2. En los siguientes casos, las partes comunican la resolución del contrato mediante carta notarial, sin
 requerir previamente la ejecución de la prestación materia de incumplimiento:
 
+
 a) Cuando la Entidad decida resolver el contrato, debido a la acumulación del monto máximo de
 penalidad por mora u otras penalidades.
 
 b) Cuando la Entidad decida resolver el contrato en forma total o parcial, debido a que la situación de
 incumplimiento no puede ser revertida.
 
-76
+
 _Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021 y modificado_
 _posteriormente por el artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en_ vigencia _a los quince (15) días hábiles contados a partir del día_
 _siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-100
-
-REGLAMENTO
 
 c) Cuando cualquiera de las partes invoque alguno de los supuestos establecidos en el numeral 164.4
 del artículo 164, en cuyo caso justifican y acreditan los hechos que sustentan su decisión de resolver
@@ -5444,6 +5215,7 @@ De no hacerse tal precisión, se entiende que la resolución es total.
 notificación efectuada en el marco del procedimiento de resolución del contrato regulado en el presente
 artículo se realiza a través del módulo de catálogo electrónico. En estos casos, no es necesario comunicar
 la decisión mediante carta notarial.
+
 
 [Opinión 010-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5279724-opinion-n-010-2024-dtn)
 [Opinión 058-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4299488-opinion-n-058-2023-dtn)
@@ -5466,6 +5238,7 @@ interesada a conciliación y/o arbitraje dentro de los treinta (30) días hábil
 resolución. Vencido este plazo sin que se haya iniciado ninguno de estos procedimientos, se entiende que
 la resolución del contrato ha quedado consentida.
 
+
 [Opinión 027-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2907229-opinion-n-27-2022-dtn)
 
 **Artículo 167. Prestaciones pendientes en caso de resolución de contrato o declaratoria de nulidad de contrato**
@@ -5476,11 +5249,6 @@ alguno de los medios de solución de controversias, la Entidad puede contratar a
 que participaron en el procedimiento de selección. Para estos efectos, la Entidad determina el precio de
 dichas prestaciones, incluyendo todos los costos necesarios para su ejecución, debidamente sustentados.
 
-_Materiales de enseñanza_
-
-101
-
-REGLAMENTO
 
 167.2. Una vez determinado el precio y las condiciones de ejecución, y de existir disponibilidad presupuestal, la
 Entidad invita a los postores que participaron en el procedimiento de selección para que, en un plazo
@@ -5495,6 +5263,7 @@ calificación del proveedor con el que se va a contratar. Los contratos que se c
 figura respetan los requisitos, condiciones, exigencias, garantías, entre otras formalidades previstas en la
 Ley y Reglamento.
 
+
 [Opinión 088-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4587277-opinion-n-088-2023-dtn)
 [Opinión 030-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4013250-opinion-n-030-2023-dtn)
 [Opinión 054-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1940135-opinion-n-054-2021-dtn)
@@ -5506,6 +5275,7 @@ Ley y Reglamento.
 [Opinión 119-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290955-opinion-n-119-2019-dtn)
 [Opinión 053-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290889-opinion-n-053-2019-dtn)
 [Opinión 028-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290865-opinion-n-028-2019-dtn)
+
 
 **CAPÍTULO V**
 **CULMINACIÓN DE LA EJECUCIÓN CONTRACTUAL**
@@ -5527,17 +5297,12 @@ consultorías, en cuyo caso la conformidad se emite en un plazo máximo de quinc
 responsabilidad del funcionario que debe emitir la conformidad. El mismo plazo resulta aplicable para que
 la Entidad se pronuncie sobre el levantamiento de observaciones, según corresponda [77] .
 
-77
+
 _Numeral modificado por la Primera Disposición Complementaria Modificatoria del Decreto Supremo N° 168-2020-EF,_
 _publicado el 30 junio 2020 y posteriormente modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado_
 _el 26 junio 2021. Las disposiciones contenidas en el citado Decreto Supremo entran en_ _vigencia a los diez (10) días hábiles_
 _contados a partir del día siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-102
-
-REGLAMENTO
 
 168.4. De existir observaciones, la Entidad las comunica al contratista, indicando claramente el sentido de estas,
 otorgándole un plazo para subsanar no menor de dos (2) ni mayor de ocho (08) días. Dependiendo de la
@@ -5548,6 +5313,7 @@ dentro del plazo otorgado, no corresponde la aplicación de penalidades [78] .
 168.5. Cuando la Entidad exceda el plazo legal previsto para emitir la conformidad o pronunciarse sobre el
 levantamiento de las observaciones, los días de retraso no pueden ser imputados al contratista a efectos
 de la aplicación de penalidades.
+
 
 Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
@@ -5569,10 +5335,12 @@ ejecutada la prestación, aplicándose la penalidad que corresponda por cada dí
 arbitraje dentro del plazo de treinta (30) días hábiles de ocurrida la recepción, la negativa de esta o de
 vencido el plazo para otorgar la conformidad, según corresponda.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
 Supremo entran en vigencia a los diez (10) días hábiles contados a partir del
 día siguiente de su publicación en el Diario Oficial El Peruano.
+
 
 [Opinión 001-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4997455-opinion-n-001-2024-dtn)
 [Opinión 119-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976494-opinion-n-119-2023-dtn)
@@ -5580,10 +5348,10 @@ día siguiente de su publicación en el Diario Oficial El Peruano.
 [Opinión 113-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3808967-opinion-n-113-2022-dtn)
 [Opinión 037-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3025089-opinion-n-037-2022-dtn)
 
+
 _78_ _Numeral modificado por la Primera Disposición Complementaria Modificatoria del Decreto Supremo N° 168-2020-EF,_
 _publicado el 30 junio 2020, el mismo que resulta aplicable a los procedimientos de selección que se convoquen a partir de_
 _la entrada en vigencia de la citada norma, cuyo texto es el siguiente:_
-79
 _Numeral modificado por el Artículo 2 del Decreto Supremo No 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
@@ -5591,11 +5359,6 @@ _80_ _Numeral modificado por el Artículo 2 del Decreto Supremo No 162-2021-EF, 
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-103
-
-REGLAMENTO
 
 [Opinión 008-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2752160-opinion-n-008-2022-dtn)
 [Opinión 055-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1940136-opinion-n-055-2021-dtn)
@@ -5645,15 +5408,11 @@ liquidación con las observaciones formuladas.
 170.7. Una vez que la liquidación haya quedado consentida o aprobada, según corresponda, no procede
 someterla a los medios de solución de controversias.
 
+
 [Opinión 028-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4013227-opinion-n-028-2023-dtn)
 
 **Artículo 171. Del pago**
 
-_Materiales de enseñanza_
-
-104
-
-REGLAMENTO
 
 171.1. La Entidad paga las contraprestaciones pactadas a favor del contratista dentro de los diez (10) días
 calendario siguientes de otorgada la conformidad de los bienes, servicios en general y consultorías,
@@ -5677,6 +5436,7 @@ mismo monto del pago.
 respectivo laudo y como máximo junto con la liquidación o conclusión del contrato, salvo que el proceso
 arbitral concluya con posterioridad.
 
+
 [Opinión 045-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3114044-opinion-n-045-2022-dtn)
 
 **Artículo 172. Obligaciones posteriores al pago final**
@@ -5684,6 +5444,7 @@ arbitral concluya con posterioridad.
 Las controversias relacionadas con obligaciones que corresponden ejecutarse con posterioridad a la fecha del
 pago final pueden ser sometidas a conciliación y/o arbitraje dentro de los treinta (30) días hábiles siguientes a la
 fecha en que debían ejecutarse.
+
 
 [Opinión 072-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4415218-opinion-n-072-2023-dtn)
 **Artículo 173. Vicios ocultos**
@@ -5701,16 +5462,11 @@ contrato.
 174.1. Dentro de los tres (3) meses posteriores a la culminación del plazo de ejecución del contrato, la Entidad
 puede contratar complementariamente bienes y servicios en general con el mismo contratista, por única
 
-81
+
 _Numeral modificado por la Primera Disposición Complementaria Modificatoria del Decreto Supremo N° 168-2020-EF,_
 _publicado el 30 junio 2020, el mismo que resulta aplicable a los procedimientos de selección que se convoquen a partir de la_
 _entrada en vigencia de la citada norma._
 
-_Materiales de enseñanza_
-
-105
-
-REGLAMENTO
 
 vez y en tanto culmine el procedimiento de selección convocado, hasta por un máximo del treinta por
 ciento (30%) del monto del contrato original, siempre que se trate del mismo bien o servicio y que el
@@ -5723,9 +5479,11 @@ usuaria al formular su requerimiento.
 174.3. No caben contrataciones complementarias en los contratos que tengan por objeto la ejecución de obras
 ni de consultorías, ni en las contrataciones directas.
 
+
 [Opinión 097-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4642107-opinion-n-097-2023-dtn)
 [Opinión 028-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/686966-opinion-n-028-2020-dtn)
 [Opinión 085-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290921-opinion-n-085-2019-dtn)
+
 
 **CAPÍTULO VI**
 
@@ -5735,6 +5493,7 @@ ni de consultorías, ni en las contrataciones directas.
 
 175.1. Para la suscripción del contrato de ejecución de obra, adicionalmente a lo previsto en el artículo 139 el
 postor ganador cumple los siguientes requisitos:
+
 
 a) Presentar la constancia de Capacidad Libre de Contratación expedida por el RNP, salvo en los
 contratos derivados de procedimientos de contrataciones directas por la causal de carácter de
@@ -5759,15 +5518,11 @@ sistema de suma alzada.
 175.2. Los documentos indicados en los literales b), c) y d) precedentes son acompañados de una memoria en
 la que se señalen las consideraciones que se han tomado en cuenta para su elaboración.
 
+
 82 _Literal modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día_
 _siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-106
-
-REGLAMENTO
 
 175.3. Los documentos señalados en los literales b), c) y d) son revisados y aprobados de acuerdo al
 procedimiento previsto en los numerales 176.4 y 176.5 del artículo 176.
@@ -5776,6 +5531,7 @@ procedimiento previsto en los numerales 176.4 y 176.5 del artículo 176.
 
 176.1. El inicio del plazo de ejecución de obra rige desde el día siguiente de que se cumplan las siguientes
 condiciones:
+
 
 a) Que la Entidad notifique al contratista quién es el inspector o el supervisor, según corresponda;
 
@@ -5817,11 +5573,6 @@ corresponda.
 176.6. Mientras se aprueban los documentos señalados en el literal en los literales b), c) y d) del numeral 175.1
 del artículo 175, se consideran los calendarios del expediente técnico de obra.
 
-_Materiales de enseñanza_
-
-107
-
-REGLAMENTO
 
 176.7. Las condiciones a que se refiere el numeral 176.1, son cumplidas dentro de los quince (15) días contados a
 partir del día siguiente de la suscripción del contrato. En caso no se haya solicitado la entrega del adelanto
@@ -5840,6 +5591,7 @@ solicitud.
 176.9. La Entidad puede acordar con el contratista diferir la fecha de inicio del plazo de ejecución de la obra en
 los siguientes supuestos:
 
+
 a) Cuando la estacionalidad climática no permite el inicio de la ejecución de la obra, hasta la
 culminación de dicho evento.
 
@@ -5853,6 +5605,7 @@ quince (15) días antes de la nueva fecha de inicio del plazo de ejecución.
 176.11. Las circunstancias invocadas para diferir el inicio del plazo de ejecución de la obra, se sustentan en un
 informe técnico que forma parte del expediente de contratación, debiéndose suscribir la adenda
 correspondiente [83] .
+
 
 [Opinión 074-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4419066-opinion-n-074-2023-dtn)
 [Opinión 066-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365300-opinion-n-066-2023-dtn)
@@ -5871,17 +5624,13 @@ adicionales, riesgos del proyecto y otros aspectos que sean materia de consulta.
 del plazo de siete (7) días calendario para obras con plazo menor o igual a ciento veinte (120) días y diez (10) días
 calendario para obras con plazo mayor a ciento veinte (120) días, eleva el informe técnico de revisión del
 
-83
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-108
-
-REGLAMENTO
 
 expediente técnico de obra a la Entidad, con copia al contratista, adjuntando su evaluación, pronunciamiento y
 verificaciones propias realizadas como supervisión o inspección.
+
 
 [Opinión 069-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2014910-opinion-n-069-2021-dtn)
 
@@ -5898,6 +5647,7 @@ ejecución del contrato de supervisión hasta que se contrate la ejecución del 
 178.3. En caso se resuelva el contrato de supervisión, las partes pueden acordar suspender el plazo de ejecución
 del contrato de obra, hasta que se contrate un nuevo supervisor.
 
+
 [Opinión 073-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4418881-opinion-n-073-2023-dtn)
 [Opinión 110-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3808953-opinion-n-110-2022-dtn)
 
@@ -5906,6 +5656,7 @@ requieran supervisión.
 
 178.5. El contratista puede suspender el plazo de ejecución del contrato de obra cuando la Entidad no cumpla
 con el pago de tres (3) valorizaciones consecutivas, debiendo considerarse lo siguiente:
+
 
 a) El contratista requiere a la Entidad, mediante comunicación escrita, que pague por lo menos una
 (1) de las valorizaciones pendientes en un plazo no mayor de diez (10) días.
@@ -5925,15 +5676,11 @@ vinculados, debidamente acreditados.
 178.6. Durante la suspensión del plazo de ejecución, las partes pueden realizar trámites propios de la gestión de
 contrato, tales como aquellos destinados a la aprobación de prestaciones adicionales u otro tipo de
 
+
 _84 Artículo modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano, cuyo texto es el siguiente:_
 
-_Materiales de enseñanza_
-
-109
-
-REGLAMENTO
 
 modificaciones contractuales, siempre que ello resulte posible y no contravenga otras disposiciones del
 presente Reglamento.
@@ -5947,6 +5694,7 @@ reinicio."
 178.8. Reiniciado el plazo de ejecución del contrato, la Entidad comunica por escrito al contratista la modificación
 de las fechas de ejecución de la obra, del Programa de Ejecución de Obra y de los calendarios
 correspondientes, respetando los términos en los que se acordó la suspensión.
+
 
 Numeral incorporado por el Artículo 3 del Decreto Supremo Nº 234-2022-EF,
 publicado el 07 octubre 2022. Las disposiciones contenidas en el citado
@@ -5975,25 +5723,23 @@ teniendo en consideración la complejidad y magnitud de las obras a ejecutar.
 
 180.1. Los documentos del procedimiento de selección pueden establecer los siguientes adelantos:
 
+
 a) Directos, los que en ningún caso exceden en conjunto el diez por ciento (10%) del monto del
 contrato original.
 
 b) Para materiales e insumos.
 
+
 85 _Artículo modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-110
-
-REGLAMENTO
 
 c) Para equipamiento y mobiliario, en contratos bajo la modalidad llave en mano.
 
 180.2. Los adelantos previstos en los literales b) y c) del numeral precedente, en conjunto no superan el veinte
 por ciento (20%) del monto del contrato original.
+
 
 [Opinión 075-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1137552-opinion-n-075-2020-dtn)
 
@@ -6033,15 +5779,11 @@ lo dispuesto en el Decreto Supremo Nº 011-79-VC y sus modificatorias, ampliator
 de los adelantos para materiales, insumos, equipamiento y mobiliario, de acuerdo al calendario
 correspondiente.
 
+
 86 _Artículo modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano-_
 
-_Materiales de enseñanza_
-
-111
-
-REGLAMENTO
 
 **Artículo 183. Amortización de Adelantos**
 
@@ -6081,14 +5823,13 @@ asumido por el contratista interviniente.
 184.5. Cuando el contratista solicite, además del adelanto directo, adelanto para materiales, insumos,
 equipamiento y mobiliario, dicho monto es transferido al patrimonio fideicometido [90] .
 
+
 _87 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
-88
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano_
-89
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano, cuyo texto es el siguiente:_
@@ -6096,11 +5837,6 @@ _90 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, p
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-112
-
-REGLAMENTO
 
 184.6. En caso se solicite únicamente la entrega de adelanto de materiales, insumos, equipamiento y mobiliario,
 se considera lo dispuesto en el artículo 182 para su solicitud. La Entidad inicia el trámite para constituir el
@@ -6116,6 +5852,7 @@ administración de los adelantos destinados a la ejecución de obra, las partes 
 incorporación de una cláusula en el contrato para la constitución del fideicomiso. Para tal efecto, se tiene
 en cuenta lo siguiente:
 
+
 a) En la oportunidad de la presentación de los requisitos para perfeccionar el contrato, el postor
 adjudicado puede presentar la solicitud a la Entidad para la constitución del fideicomiso. En caso la
 Entidad acepte la solicitud, se incorpora en el contrato a suscribirse la cláusula que prevé la
@@ -6128,10 +5865,12 @@ dentro de los siete (7) días siguientes de recibida la mencionada solicitud, se
 contrato la cláusula que prevé la constitución del fideicomiso. Desde el día siguiente de la
 incorporación de esta cláusula, se computa el plazo establecido en el numeral 184.2.
 
+
 Numeral incorporado por el Artículo 3 del Decreto Supremo Nº 234-2022-EF,
 publicado el 07 octubre 2022. Las disposiciones contenidas en el citado
 Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a
 partir del día siguiente de su publicación en el Diario Oficial El Peruano.
+
 
 [Opinión 057-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4294881-opinion-n-057-2023-dtn)
 [Opinión 040-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4123980-opinion-n-040-2023-dtn)
@@ -6145,19 +5884,16 @@ partir del día siguiente de su publicación en el Diario Oficial El Peruano.
 185.1. El contrato de fideicomiso por medio del cual se administran los adelantos directos y de materiales en los
 términos del artículo precedente, cumple como mínimo con los siguientes requisitos: **(*)**
 
+
 _91 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-113
-
-REGLAMENTO
 
 185.1. El contrato de fideicomiso por medio del cual se administran los adelantos directos y de materiales,
 insumos, equipamiento y mobiliario en los términos del artículo precedente, cumple como mínimo con los
 siguientes requisitos [92] :
+
 
 a) El fideicomitente y fideicomisario es la entidad contratante.
 
@@ -6195,6 +5931,7 @@ la obra [93] .
 corresponda, cumple al menos con la experiencia y calificaciones profesionales establecidas para el
 residente de obra. Es obligatorio contratar un supervisor cuando el valor referencial de la obra a ejecutar
 
+
 92 _Encabezado modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las_
 _disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del_
 _día siguiente de su publicación en el Diario Oficial El Peruano._
@@ -6202,11 +5939,6 @@ _93 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, p
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-114
-
-REGLAMENTO
 
 sea igual o mayor al monto establecido en la Ley de Presupuesto del Sector Público para el año fiscal
 respectivo [94] .
@@ -6218,6 +5950,7 @@ numeral.
 186.4. En el caso de obras convocadas por paquete, la participación permanente, directa y exclusiva del
 inspector o supervisor es definida en los documentos del procedimiento de selección por la Entidad, bajo
 responsabilidad, teniendo en consideración la complejidad y magnitud de las obras a ejecutar.
+
 
 [Opinión 083-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4555234-opinion-n-083-2023-dtn)
 [Opinión 053-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4243711-opinion-n-053-2023-dtn)
@@ -6242,6 +5975,7 @@ modificarlo.
 187.3. El contratista brinda al inspector o supervisor las facilidades necesarias para el cumplimiento de su
 función, las cuales están estrictamente relacionadas con esta.
 
+
 [Opinión 105-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3808921-opinion-n-105-2022-dtn)
 
 **Artículo 188. Jefe del Proyecto para la elaboración del expediente técnico**
@@ -6254,15 +5988,11 @@ consultor de obra, el cual es ingeniero o arquitecto, según el objeto del proye
 (2) años de experiencia en la especialidad, en función de la naturaleza, envergadura y complejidad del
 mismo.
 
+
 _94 Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-115
-
-REGLAMENTO
 
 **Artículo 189. Obligaciones del contratista de obra en caso de atraso en la finalización de la obra** **[95]**
 
@@ -6272,6 +6002,7 @@ extensión de los servicios de inspección o supervisión, lo que genera un mayo
 la obra asume el pago del monto correspondiente por los servicios indicados, el que se hace efectivo deduciendo
 dicho monto de las valorizaciones y/o de la liquidación del contrato de ejecución de obra. La Entidad puede
 asumir provisionalmente dichos costos durante la ejecución de la obra, cuando corresponda.
+
 
 [Opinión 099-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4985240-opinion-n-099-2023-dtn)
 [Opinión 053-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4243711-opinion-n-053-2023-dtn)
@@ -6310,18 +6041,12 @@ personal.
 190.3. Luego de transcurrido el plazo señalado en el numeral anterior, el contratista puede solicitar de manera
 justificada a la Entidad que le autorice la sustitución del personal acreditado.
 
-95
+
 _Artículo modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las_
 _disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a_
 _partir del día siguiente de su publicación en el Diario Oficial El Peruano._
-96
 Artículo modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019,
 
-_Materiales de enseñanza_
-
-116
-
-REGLAMENTO
 
 190.4. Para que proceda la sustitución del personal acreditado, según lo previsto en los numerales 190.2 y 190.3,
 el perfil del reemplazante no afecta las condiciones que motivaron la selección del contratista.
@@ -6345,6 +6070,7 @@ costos ni gastos para la Entidad.
 salvo la Selección de Consultores Individuales.
 
 **Artículo 191. Cuaderno de Obra**
+
 
 **Directiva N° 009-2020-OSCE/CD**
 Lineamientos para el uso del Cuaderno de Obra Digital
@@ -6371,13 +6097,9 @@ por mil (5/1 000) del monto de la valorización del periodo por cada día de dic
 La entrega del cuaderno de obra a la entidad se realiza en el acto recepción de obra o en el acto de
 constatación física de la obra, de corresponder; debiendo dichas actos anotarse como último asiento.
 
+
 [Opinión 067-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4415179-opinion-n-067-2023-dtn)
 
-_Materiales de enseñanza_
-
-117
-
-REGLAMENTO
 
 **Artículo 192. Anotación de ocurrencias**
 
@@ -6393,6 +6115,7 @@ periodicidad semanal, precisando sus efectos y los hitos afectados o no cumplido
 
 192.3. El cuaderno de obra es cerrado por el inspector o supervisor cuando la obra haya sido recibida
 definitivamente por la Entidad.
+
 
 [Opinión 009-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5279519-opinion-n-009-2024-dtn)
 [Opinión 034-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4092748-opinion-n-034-2023-dtn)
@@ -6424,20 +6147,16 @@ siguiente de recibida la comunicación del contratista.
 proyectista, las remite a la Entidad, con copia al contratista, dentro del plazo máximo de cuatro (4) días,
 contados a partir del día siguiente de anotadas en el cuaderno de obra."
 
-97
+
 _Artículo modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las_
 _disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados_
 _a partir del día siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-118
-
-REGLAMENTO
 
 193.6. En el supuesto previsto en el numeral anterior y siempre que las consultas puedan implicar una
 modificación del expediente técnico de obra, el inspector o supervisor emite el informe técnico
 correspondiente, pronunciándose respecto de las consultas formuladas por el residente de obra.
+
 
 Numeral incorporado por el Artículo 3 del Decreto Supremo Nº 234-2022-EF,
 publicado el 07 octubre 2022. Las disposiciones contenidas en el citado
@@ -6449,6 +6168,7 @@ supervisor, en un plazo máximo de dos (2) días, contados desde el día siguien
 se pronuncia en un plazo máximo de diez (10) días, contados a partir del día siguiente de recibida la
 comunicación de la Entidad.
 
+
 Numeral incorporado por el Artículo 3 del Decreto Supremo Nº 234-2022-EF,
 publicado el 07 octubre 2022. Las disposiciones contenidas en el citado
 Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a
@@ -6458,6 +6178,7 @@ partir del día siguiente de su publicación en el Diario Oficial El Peruano.
 que debe adoptar, con copia al inspector o supervisor. La citada comunicación se realiza dentro del plazo
 máximo de cinco (5) días, contados desde el día siguiente de recibida la opinión del proyectista sobre las
 consultas, o de vencido el plazo para que el proyectista remita su opinión.
+
 
 Numeral incorporado por el Artículo 3 del Decreto Supremo Nº 234-2022-EF,
 publicado el 07 octubre 2022. Las disposiciones contenidas en el citado
@@ -6470,6 +6191,7 @@ plazo contractual por el tiempo correspondiente a la demora. Esta demora se comp
 fecha en que la no ejecución de los trabajos materia de la consulta empiece a afectar la ruta crítica del
 programa de ejecución de la obra.
 
+
 Numeral incorporado por el Artículo 3 del Decreto Supremo Nº 234-2022-EF,
 publicado el 07 octubre 2022. Las disposiciones contenidas en el citado
 Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a
@@ -6478,24 +6200,22 @@ partir del día siguiente de su publicación en el Diario Oficial El Peruano.
 193.10. La Entidad incluye en los contratos para la elaboración del expediente técnico de obra y para la
 supervisión de obra, según corresponda, cláusulas que establezcan lo siguiente:
 
+
 a) La obligación del proyectista de atender las consultas que le remita la Entidad, sin perjuicio de las
 acciones que se adopten contra el proyectista por la falta de absolución de las mismas.
 
 b) La aplicación de una penalidad ascendente a una (1) UIT al supervisor de obra en caso este no
 absuelva las consultas o las absuelva fuera del plazo señalado en el numeral 193.3.
 
-_Materiales de enseñanza_
-
-119
-
-REGLAMENTO
 
 Numeral incorporado por el Artículo 3 del Decreto Supremo Nº 234-2022-EF,
 publicado el 07 octubre 2022. Las disposiciones contenidas en el citado
 Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a
 partir del día siguiente de su publicación en el Diario Oficial El Peruano.
 
+
 [Opinión 116-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3808977-opinion-n-116-2022-dtn)
+
 
 **Artículo 194. Valorizaciones y metrados**
 
@@ -6525,6 +6245,7 @@ hasta el total de los metrados del presupuesto de obra.
 es aquel indicado en la oferta del contratista. En caso que a través de las valorizaciones no se hubiese
 llegado a completar dicho monto, en la liquidación final se define el saldo a favor del contratista.
 
+
 Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
 Supremo entran en vigencia a los diez (10) días hábiles contados a partir del
@@ -6534,16 +6255,15 @@ día siguiente de su publicación en el Diario Oficial El Peruano.
 
     - supervisor, y son presentados a la Entidad dentro de los plazos que establezca el contrato. Si el inspector
 
-98
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
 
-120
 
-REGLAMENTO
+
+
 
     - supervisor no se presenta para la valorización conjunta con el contratista, este la efectúa. El inspector o
 supervisor revisa los metrados durante el periodo de aprobación de la valorización [99] .
@@ -6558,10 +6278,12 @@ bases establecen el tratamiento correspondiente de acuerdo con lo dispuesto en e
 a la Entidad, el contratista tiene derecho al reconocimiento de los intereses legales efectivos, de
 conformidad con los artículos 1234, 1245 y 1246 del Código Civil **.**
 
+
 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021-EF,
 publicado el 26 junio 2021. Las disposiciones contenidas en el citado Decreto
 Supremo entran en vigencia a los diez (10) días hábiles contados a partir del
 día siguiente de su publicación en el Diario Oficial El Peruano.
+
 
 [Opinión 015-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2847957-opinion-n-15-2022-dtn)
 [Opinión 042-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1853906-opinion-n-042-2021-dtn)
@@ -6584,22 +6306,17 @@ reajuste “K” contractual correspondiente, mientras que las valorizaciones de
 adicionales se reajustan con su(s) propia(s) fórmula(s) polinómica(s), la(s) que forma(n) parte del
 expediente técnico de la prestación adicional.
 
+
 99 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las_
 _disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a_
 _partir del día siguiente de su publicación en el Diario Oficial El Peruano._
 100 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF,, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano._
-101
 _Artículo modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-121
-
-REGLAMENTO
 
 [Opinión 007-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5274303-opinion-n-007-2024-dtn)
 [Opinión 109-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3808949-opinion-n-109-2022-dtn)
@@ -6651,11 +6368,6 @@ contados desde el día siguiente de presentada la solicitud. La Entidad resuelve
 notifica, a través del SEACE, su decisión al contratista en un plazo máximo de quince (15) días hábiles,
 contados desde el día siguiente de la recepción del indicado informe o del vencimiento del plazo, bajo
 
-_Materiales de enseñanza_
-
-122
-
-REGLAMENTO
 
 responsabilidad. De no emitirse pronunciamiento alguno dentro del plazo señalado, se tiene por
 aprobado lo indicado por el inspector o supervisor en su informe [102] .
@@ -6696,6 +6408,7 @@ respectivo medio de solución de controversias dentro de los treinta (30) días 
 en que la Entidad debió notificar su decisión o de la notificación de la denegatoria, total o parcial, de la
 solicitud formulada.
 
+
 [Opinión 098-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4985230-opinion-n-098-2023-dtn)
 [Opinión 068-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4415187-opinion-n-068-2023-dtn)
 [Opinión 063-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4331677-opinion-n-063-2023-dtn)
@@ -6709,11 +6422,6 @@ _de su publicación en el Diario Oficial El Peruano._
 _disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir_
 _del día siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-123
-
-REGLAMENTO
 
 [Opinión 043-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3114041-opinion-n-043-2022-dtn)
 [Opinión 022-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2887368-opinion-n-22-2022-dtn)
@@ -6745,6 +6453,7 @@ de Ejecución de Obra y sus Calendarios [104] .
 199.7. En virtud de la ampliación otorgada, la Entidad amplía, sin solicitud previa, el plazo de los otros contratos
 que hubiera celebrado y que se encuentren vinculados directamente al contrato principal.
 
+
 [Opinión 126-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976815-opinion-n-126-2023-dtn)
 [Opinión 082-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4555230-opinion-n-082-2023-dtn)
 [Opinión 066-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365300-opinion-n-066-2023-dtn)
@@ -6760,16 +6469,11 @@ ofertados entre el número de días del plazo contractual original, ajustado por
 e Informática-INEI correspondiente al mes calendario en que ocurre la causal de ampliación del plazo
 contractual, e “Io” es el mismo índice de precios correspondiente al mes del valor referencial.
 
-104
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-124
-
-REGLAMENTO
 
 **Artículo 201. Pago de mayores costos directos y mayores gastos generales variables**
 
@@ -6791,7 +6495,9 @@ derecho al reconocimiento de los intereses legales, de conformidad con los artí
 Código Civil. Para el pago de intereses se formula una valorización de intereses, la cual se efectúa en las
 valorizaciones siguientes.
 
+
 [Opinión 042-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1853906-opinion-n-042-2021-dtn)
+
 
 **Artículo 202. Actualización del Programa de Ejecución de Obra**
 
@@ -6816,16 +6522,11 @@ y calendarios vigentes. En caso el supervisor o inspector no se manifieste en lo
 Entidad, en un plazo máximo de cinco (5) días de vencido el plazo del supervisor, emite su conformidad u
 observaciones a los programas presentados; en caso se emitan observaciones, se sigue el procedimiento
 
-105
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-125
-
-REGLAMENTO
 
 previsto para el levantamiento de observaciones aplicable a la revisión que debió realizar el supervisor o
 inspector. Si la Entidad no se manifiesta, se da por aprobado el Programa de Ejecución de Obra
@@ -6835,7 +6536,9 @@ Actualizado y los calendarios propuestos por el contratista que pasan a ser los 
 contratista en el plazo señalado en el numeral 202.1, el supervisor o inspector lo elabora y se vuelve
 obligatorio para todos sus efectos.
 
+
 [Opinión 074-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4419066-opinion-n-074-2023-dtn)
+
 
 **Artículo 203. Demoras injustificadas en la ejecución de la Obra**
 
@@ -6869,25 +6572,21 @@ de obra e **informa** a la Entidad. Dicho retraso puede ser considerado como cau
 contrato o de intervención económica de la obra, no siendo necesario apercibimiento alguno al
 contratista de obra.
 
+
 [Opinión 006-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5138901-opinion-n-006-2024-dtn)
 [Opinión 126-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976815-opinion-n-126-2023-dtn)
 [Opinión 074-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4419066-opinion-n-074-2023-dtn)
 [Opinión 046-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4148805-opinion-n-046-2023-dtn)
 
-106
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-126
-
-REGLAMENTO
 
 [Opinión 029-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4013240-opinion-n-029-2023-dtn)
 [Opinión 043-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3114041-opinion-n-043-2022-dtn)
 **Artículo 204. Intervención Económica de la Obra.**
+
 
 **Directiva N° 013-2019-OSCE/CD**
 Intervención Económica de la Obra
@@ -6909,7 +6608,9 @@ consecuencia del incumplimiento del contratista.
 204.3. Para la aplicación de lo establecido en el presente artículo se tiene en cuenta lo dispuesto en la Directiva
 y demás disposiciones que dicte el OSCE sobre la materia.
 
+
 [Opinión 029-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4013240-opinion-n-029-2023-dtn)
+
 
 **Artículo 205. Prestaciones adicionales de obras menores o iguales al quince por ciento (15%)**
 
@@ -6936,11 +6637,6 @@ supervisor estar en la obra.
 205.4. El contratista presenta el expediente técnico del adicional de obra, dentro de los quince (15) días
 siguientes a la anotación en el cuaderno de obra, siempre que el inspector o supervisor, según
 
-_Materiales de enseñanza_
-
-127
-
-REGLAMENTO
 
 corresponda, haya ratificado la necesidad de ejecutar la prestación adicional. De ser el caso, el inspector
 
@@ -6989,16 +6685,11 @@ de obras, restándole los presupuestos deductivos. El monto a pagarse por la eje
 metrados se computa para el cálculo del límite para la aprobación de adicionales, previsto en el numeral
 34.5 del artículo 34 de la Ley [107] .
 
-107
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de su_
 _publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-128
-
-REGLAMENTO
 
 205.12. No se requiere la aprobación previa de la Entidad para la ejecución de mayores metrados, pero sí para su
 pago. El encargado de autorizar el pago es el Titular de la Entidad o a quien se le delegue dicha función.
@@ -7023,6 +6714,7 @@ apruebe la reducción de prestaciones, el contratista puede reducir el monto de 
 requiera realizar ensayos especializados de alta complejidad y/o la participación de algún especialista que
 no esté contemplado en la relación de su personal clave, corresponde incluir su costo en los gastos
 generales propios del adicional.
+
 
 [Opinión 009-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5279519-opinion-n-009-2024-dtn)
 [Opinión 007-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5274303-opinion-n-007-2024-dtn)
@@ -7049,11 +6741,6 @@ General de la República. La determinación del referido porcentaje incluye los 
 mayores metrados, en contratos a precios unitarios. En el caso de adicionales con carácter de emergencia
 la autorización de la Contraloría General de la República se emite previa al pago.
 
-_Materiales de enseñanza_
-
-129
-
-REGLAMENTO
 
 206.2. La Contraloría General de la República cuenta con un plazo máximo de quince (15) días hábiles, bajo
 responsabilidad, para emitir su pronunciamiento, el cual se encuentra motivado en todos los casos. El
@@ -7066,6 +6753,7 @@ montos que hubiere solicitado, sin perjuicio del control posterior. De requerirs
 complementaria, la Contraloría General de la República comunica a la Entidad este requerimiento, en una
 sola oportunidad, a más tardar al quinto día hábil contado desde el inicio del plazo a que se refiere el
 numeral precedente, más el término de la distancia.
+
 
 La Entidad cuenta con cinco (5) días hábiles para cumplir con el requerimiento.
 
@@ -7083,7 +6771,9 @@ superen este límite, se procede a la resolución del contrato, no siendo aplica
 continuar con la ejecución de la obra se convoca a un nuevo procedimiento por el saldo de obra por
 ejecutar, sin perjuicio de las responsabilidades que pudiera corresponder al proyectista.
 
+
 [Opinión 050-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4222601-opinion-n-050-2023-dtn)
+
 
 **Artículo 207. Resolución del Contrato de Obras**
 
@@ -7102,11 +6792,6 @@ efecto legal.
 
 207.3. Culminado este acto, la obra queda bajo responsabilidad de la Entidad y se procede a su liquidación.
 
-_Materiales de enseñanza_
-
-130
-
-REGLAMENTO
 
 207.4. En caso que la resolución sea por incumplimiento del contratista, en la liquidación se consignan y se hacen
 efectivas las penalidades que correspondan.
@@ -7127,6 +6812,7 @@ recurrir a los medios de solución establecidos en la Ley, el Reglamento o en el
 de treinta (30) días hábiles siguientes de la notificación de la resolución, vencido el cual la resolución del
 contrato queda consentida.
 
+
 [Opinión 010-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/5279724-opinion-n-010-2024-dtn)
 [Opinión 137-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/305843-opinion-n-137-2019-dtn)
 
@@ -7146,6 +6832,7 @@ expediente técnico de obra y las modificaciones aprobadas por la Entidad, remit
 dicho plazo. De no constatar la culminación de la obra anota en el cuaderno de obra dicha circunstancia y
 comunica a la Entidad, en el mismo plazo.
 
+
 [Opinión 116-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3808977-opinion-n-116-2022-dtn)
 [Opinión 078-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3495899-opinion-n-078-2022-dtn)
 [Opinión 108-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/290944-opinion-n-108-2019-dtn)
@@ -7155,16 +6842,11 @@ Entidad designa un comité de recepción. El comité está integrado, cuando men
 de la Entidad, necesariamente ingeniero o arquitecto, según corresponda a la naturaleza de los
 trabajos [108] .
 
-108
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia_ _a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-131
-
-REGLAMENTO
 
 208.3. El Colegio de Ingenieros, el Colegio de Arquitectos, el representante del Órgano de Control Institucional
 de la Entidad puede participar, en calidad de veedor, en la recepción de la obra, la ausencia del veedor no
@@ -7217,11 +6899,6 @@ justificadas debidamente acreditadas por el contratista, informa de inmediato a 
 vencido dicho plazo y notifica ello al Contratista. A partir del día siguiente de la mencionada notificación
 la Entidad asume la subsanación de las observaciones con cargo a las valorizaciones pendientes de pago
 
-_Materiales de enseñanza_
-
-132
-
-REGLAMENTO
 
     - de acuerdo al procedimiento que se establece en la Directiva que se apruebe conforme a lo que
 dispone el numeral 204.3 del artículo 204.
@@ -7245,7 +6922,9 @@ expresamente en las bases, en el contrato o las partes expresamente lo convengan
 no exime al contratista del cumplimiento del plazo de ejecución; en caso contrario, se le aplican las
 penalidades correspondientes.
 
+
 [Opinión 211-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/393929-opinion-n-211-2019-dtn)
+
 
 208.16. Si por causas ajenas al contratista la recepción de la obra se retrasa, superando los plazos establecidos
 en el presente artículo para tal acto, el lapso de la demora se adiciona al plazo de ejecución de la misma y
@@ -7272,11 +6951,6 @@ detallados, dentro de un plazo de sesenta (60) días o el equivalente a un déci
 de ejecución de la obra, el que resulte mayor, contado desde el día siguiente de la recepción de la obra,
 de consentida la resolución del contrato de obra o de que la última controversia haya sido resuelta y
 
-_Materiales de enseñanza_
-
-133
-
-REGLAMENTO
 
 consentida. Dentro de los sesenta (60) días o el equivalente a un décimo (1/10) del plazo vigente de
 ejecución de la obra, el que resulte mayor, contado desde el día siguiente de la recepción de la obra o de
@@ -7316,6 +6990,7 @@ contrato.
 
 209.9. No se procede a la liquidación mientras existan controversias pendientes de resolver.
 
+
 [Opinión 116-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4880853-opinion-n-116-2023-dtn)
 [Opinión 096-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4642091-opinion-n-096-2023-dtn)
 [Opinión 090-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4623042-opinion-n-090-2023-dtn)
@@ -7323,15 +6998,11 @@ contrato.
 [Opinión 007-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3832621-opinion-n-007-2023-dtn)
 [Opinión 023-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1749122-opinion-n-023-2021-dtn)
 
+
 _109_ _Numeral modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las_
 _disposiciones contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir_
 _del día siguiente de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-134
-
-REGLAMENTO
 
 **Artículo 210. Efectos de la liquidación**
 
@@ -7343,7 +7014,9 @@ dicho caso el plazo de caducidad se computa a partir de la recepción de la obra
 (30) días hábiles posteriores al vencimiento del plazo de responsabilidad del contratista previsto en el
 contrato.
 
+
 [Opinión 096-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4642091-opinion-n-096-2023-dtn)
+
 
 **Artículo 211. Declaratoria de fábrica o memoria descriptiva valorizada**
 
@@ -7355,8 +7028,10 @@ contratista, una obligación contractual a su cargo.
 211.2. La Declaratoria de Fábrica se otorga conforme a lo dispuesto en la Ley de la materia. La presentación de
 la Declaratoria de Fábrica mediante escritura pública, es opcional.
 
+
 **TÍTULO VIII**
 **EJECUCIÓN DE OBRA QUE INCLUYE DISEÑO Y CONSTRUCCIÓN**
+
 
 **CAPÍTULO I**
 **ASPECTOS GENERALES**
@@ -7377,21 +7052,18 @@ las que pueden incluir la posibilidad de utilizar modelos contractuales de uso e
 postor sea un consorcio o acredite un subcontratista especializado, la inscripción en el RNP se efectúa de
 acuerdo a lo dispuesto en la Directiva que el OSCE apruebe para tal efecto.
 
-110
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 209 y modificado_
 _posteriormente por el DS N° 051-2024-EF publicado en el Peruano el 13 de abril del 2024._
 
-_Materiales de enseñanza_
-
-135
-
-REGLAMENTO
 
 212.4. La Entidad para la elaboración del expediente técnico y la ejecución de la obra, cuenta con un supervisor,
 para garantizar el adecuado cumplimiento de las prestaciones contractuales
 
+
 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 377-2019-EF,
 publicado el 14 diciembre 2019.
+
 
 [Opinión 126-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976815-opinion-n-126-2023-dtn)
 [Opinión 099-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4985240-opinion-n-099-2023-dtn)
@@ -7435,14 +7107,9 @@ para ello se requiera que cada parte a ejecutar tenga funcionalidad por sí mism
 técnicamente viable y siempre que se cuente con la conformidad expresa del área usuaria, se puede
 realizar aprobaciones parciales del expediente técnico de obra quedando facultada la Entidad para
 
-111
+
 _Literal modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-136
-
-REGLAMENTO
 
 disponer la ejecución de los trabajos contemplados en los expedientes técnicos parciales, sin que para
 ello se requiera que cada parte a ejecutar tenga funcionalidad por sí misma [112] .
@@ -7481,6 +7148,7 @@ partir de los documentos señalados en el artículo 213 y determina la competenc
 capítulo, la Entidad designa un comité de selección conformado por cinco (5) miembros, según las
 siguientes condiciones:
 
+
 a) Un (1) miembro del órgano encargado de las contrataciones.
 
 b) Un (1) miembro del área usuaria o la que haga sus veces.
@@ -7492,14 +7160,10 @@ expediente de contratación, los expertos designados pueden ser servidores de la
 217.2. La evaluación técnica al diseño es realizada exclusivamente por los miembros del comité de selección
 señalados en el literal c) del numeral precedente.
 
+
 112 _Modificado por el DS N° 051-2024-EF del 13 de abril del 2024._
 113 _Incorporado por el DS N° 051-2024-EF del 13 de abril del 2024._
 
-_Materiales de enseñanza_
-
-137
-
-REGLAMENTO
 
 **Artículo 218. Desarrollo del procedimiento**
 
@@ -7548,11 +7212,6 @@ comprobación de que se cuenta con la disponibilidad de los créditos presupuest
 En caso dicho incremento supere en cincuenta por ciento (50%) el presupuesto de obra ofertado, se
 resuelve el contrato, debiendo la Entidad convocar un nuevo procedimiento de selección.
 
-_Materiales de enseñanza_
-
-138
-
-REGLAMENTO
 
 219.4. La Contraloría General de la República cuenta con un plazo máximo de diez (10) días hábiles, bajo
 responsabilidad, para emitir su pronunciamiento, el cual se encuentra motivado en todos los casos. El
@@ -7574,6 +7233,7 @@ adicionales por errores o deficiencias de dicho expediente; asimismo, no procede
 mayores metrados. En ambos supuestos, el contratista asume la responsabilidad y costo por la ejecución
 de las referidas prestaciones adicionales y los mayores metrados.
 
+
 **CAPÍTULO III**
 **DISEÑO Y CONSTRUCCIÓN CON ESTUDIO BÁSICO DE INGENIERÍA**
 
@@ -7582,6 +7242,7 @@ de las referidas prestaciones adicionales y los mayores metrados.
 Mediante esta modalidad, el postor oferta la elaboración del expediente técnico, la ejecución de la obra y, de ser
 el caso, el equipamiento y la puesta en funcionamiento, a partir del estudio básico de ingeniería brindado por la
 Entidad.
+
 
 [Opinión 124-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976788-opinion-n-124-2023-dtn)
 [Opinión 177-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/354488-opinion-n-177-2019-dtn)
@@ -7601,21 +7262,19 @@ para su ejecución, a partir del estudio básico de ingeniería elaborado por la
 título se desagregan en partidas específicas, hasta un tercer nivel, según corresponda, el cual constituye
 el presupuesto detallado.
 
+
 114 _Literal modificado por el Artículo 2 del Decreto Supremo Nº 234-2022-EF, publicado el 07 octubre 2022. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los quince (15) días hábiles contados a partir del día siguiente_
 _de su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-139
-
-REGLAMENTO
 
 d) En caso se realicen aprobaciones parciales del expediente técnico de obra, conforme a lo previsto en el
 numeral 215.1 del artículo 215, el pago de las valorizaciones se efectúa con los precios unitarios contenidos
 en el presupuesto detallado de la oferta, en tanto se apruebe el presupuesto definitivo de obra.
 
+
 [Opinión 177-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/354488-opinion-n-177-2019-dtn)
+
 
 **Artículo 222. Aprobación del Expediente Técnico de Obra**
 
@@ -7660,22 +7319,20 @@ Contraloría General de la República.
 
 222.7. El titular de la Entidad puede delegar la facultad de aprobar los expedientes técnicos.
 
-_Materiales de enseñanza_
-
-140
-
-REGLAMENTO
 
 222.8. Aprobado el expediente técnico de obra, se encuentra prohibida la autorización de prestaciones
 adicionales por errores o deficiencias de dicho expediente; asimismo, no procede el reconocimiento de
 mayores metrados. En ambos supuestos, el contratista asume la responsabilidad y costo por la ejecución
 de las referidas prestaciones adicionales y los mayores metrados.
 
+
 [Opinión 066-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4365300-opinion-n-066-2023-dtn)
 [Opinión 073-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3495876-opinion-n-073-2022-dtn)
 
+
 **TÍTULO IX**
 **CONTROVERSIAS DURANTE LA EJECUCIÓN CONTRACTUAL**
+
 
 **CAPÍTULO I**
 **MEDIOS DE SOLUCIÓN DE CONTROVERSIAS**
@@ -7689,7 +7346,9 @@ arbitraje institucional, según corresponda y por acuerdo de las partes.
 223.2. Las controversias referidas al incumplimiento del pago final también son resueltas mediante conciliación
 y/o arbitraje.
 
+
 [Opinión 035-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4099888-opinion-n-035-2023-dtn)
+
 
 **Artículo 224. Conciliación**
 
@@ -7712,11 +7371,6 @@ partes lo acuerdan, dicho plazo puede ser ampliado por treinta (30) días hábil
 los plazos señalados la Entidad no presenta la Resolución Autoritativa ante el Centro de Conciliación, se
 entiende que no existe acuerdo y se concluye el procedimiento conciliatorio.
 
-_Materiales de enseñanza_
-
-141
-
-REGLAMENTO
 
 224.4. Las Entidades registran las actas de conciliación con acuerdo total o parcial en el SEACE, dentro del plazo
 de diez (10) días hábiles de suscritas, bajo responsabilidad.
@@ -7724,6 +7378,7 @@ de diez (10) días hábiles de suscritas, bajo responsabilidad.
 224.5. En caso el procedimiento conciliatorio concluya por acuerdo parcial o sin acuerdo, las partes pueden
 resolver la controversia en la vía arbitral. En caso de acuerdo parcial, el arbitraje solo puede versar sobre
 la parte controvertida.
+
 
 [Opinión 115-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4848227-opinion-n-115-2023-dtn)
 [Opinión 103-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2348107-opinion-n-103-2021-dtn)
@@ -7755,6 +7410,7 @@ en el numeral 45.5 del artículo 45 de la Ley.
 225.6. Si las partes han convenido que las controversias se sometan previamente a una Junta de Resolución de
 Disputas (JRD), el inicio del arbitraje y su plazo se rige por lo dispuesto en el artículo 251.
 
+
 **Opinión 021-2021/DTN**
 **L**
 **Artículo 226. Convenio arbitral**
@@ -7764,16 +7420,12 @@ organización y administración del arbitraje a una institución arbitral.
 
 226.2. En los siguientes supuestos, el arbitraje es iniciado ante cualquier institución arbitral:
 
+
 a) Cuando no se ha incorporado un convenio arbitral expreso en el contrato.
 
-115
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-142
-
-REGLAMENTO
 
 b) Cuando a pesar de haberse precisado en el convenio arbitral que el arbitraje es institucional no se
 ha designado a una institución arbitral determinada.
@@ -7792,6 +7444,7 @@ mismas.
 
 226.3. Las partes pueden establecer estipulaciones adicionales o modificatorias del convenio arbitral, en la
 medida que no contravengan las disposiciones de la normativa de contrataciones del Estado.
+
 
 [Opinión 080-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4555196-opinion-n-080-2023-dtn)
 Opinión 021-2021/DTN
@@ -7823,11 +7476,6 @@ al finalizar la etapa postulatoria y antes que se fijen los puntos controvertido
 
 **Artículo 230. Árbitros**
 
-_Materiales de enseñanza_
-
-143
-
-REGLAMENTO
 
 230.1. El arbitraje es resuelto por árbitro único o por un tribunal arbitral conformado por tres (3) árbitros, según
 el acuerdo de las partes, salvo lo señalado en el artículo **236** . En caso de duda o falta de acuerdo, el
@@ -7846,6 +7494,7 @@ en el RNA-OSCE es de evaluación previa con aplicación del silencio administrat
 de treinta (30) días hábiles. Los plazos y procedimientos para la designación y aceptación de árbitros en
 arbitrajes ad hoc se establecen en la directiva aprobada por el OSCE [116] .
 
+
 **Directiva N° 006-2020-OSCE/CD**
 Directiva del Registro Nacional de Árbitro
 [https://www.gob.pe/institucion/osce/normas-legales/606939-006-2020-osce-cd-](https://www.gob.pe/institucion/osce/normas-legales/606939-006-2020-osce-cd-vigente)
@@ -7856,6 +7505,7 @@ vigente
 **Artículo 231. Impedimentos para ser árbitro** **[117]**
 
 231.1. Se encuentran impedidos para ejercer la función de árbitro:
+
 
 a) El Presidente y los Vicepresidentes de la República, los Congresistas de la República, los Ministros
 de Estado, los Viceministros, los titulares y los miembros del órgano colegiado de los Organismos
@@ -7876,15 +7526,10 @@ g) Los gobernadores regionales y los alcaldes.
 
 h) Los directores de las empresas del Estado.
 
-116
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 _117 Artículo modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019,_
 
-_Materiales de enseñanza_
-
-144
-
-REGLAMENTO
 
 i) El personal militar y policial en situación de actividad.
 
@@ -7925,7 +7570,9 @@ t) Las personas a las que se refiere el literal m) del numeral 11.1 del artícul
 231.2. En los casos a que se refieren los literales h) y j) del numeral precedente, el impedimento se restringe al
 ámbito sectorial al que pertenecen esas personas.
 
+
 [Opinión 062-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4314293-opinion-n-062-2023-dtn)
+
 
 **Artículo 232. Designación Residual de Árbitros**
 
@@ -7934,11 +7581,6 @@ designa a los árbitros o no se hayan puesto de acuerdo respecto a la designaci�
 árbitro que integre el Tribunal Arbitral, o los árbitros no se hayan puesto de acuerdo sobre la designación
 del presidente del Tribunal Arbitral, cuando corresponda, cualquiera de las partes puede solicitar al OSCE
 
-_Materiales de enseñanza_
-
-145
-
-REGLAMENTO
 
 la designación residual, la que se efectúa a través de una asignación aleatoria por medios electrónicos, de
 acuerdo a los plazos y procedimiento previstos en la Directiva correspondiente.
@@ -7948,6 +7590,7 @@ designarse debe estar inscrito en el RNA-OSCE [118] .
 
 232.3. Las designaciones residuales efectuadas por el OSCE se realizan del RNA-OSCE, y son definitivas e
 inimpugnables.
+
 
 [Opinión 084-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2078537-opinion-n-084-2021-dtn)
 [Opinión 082-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2078522-opinion-n-082-2021-dtn)
@@ -7972,6 +7615,7 @@ satisfactoria.
 
 234.1. Los árbitros pueden ser recusados por las siguientes causas:
 
+
 a) Cuando se encuentren impedidos conforme el artículo **231**     - no cumplan con lo dispuesto por el
 artículo 233.
 
@@ -7982,16 +7626,11 @@ c) Cuando existan circunstancias que generen dudas justificadas respecto de su i
 independencia, siempre que dichas circunstancias no hayan sido excusadas por las partes en forma
 oportuna.
 
-118
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia_ _a los diez (10) días hábiles contados a partir del día siguiente de su_
 _publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-146
-
-REGLAMENTO
 
 234.2. En los arbitrajes ad hoc y en los administrados por el SNA-OSCE, la recusación es resuelta por el OSCE, en
 forma definitiva e inimpugnable, conforme al procedimiento establecido en la Directiva correspondiente,
@@ -8003,6 +7642,7 @@ institucionales [120] .
 
 234.4. Si una parte acumula tres (3) recusaciones que se declaran infundadas en un mismo arbitraje, sean
 continuas o no, ya no puede interponer una nueva recusación en dicho arbitraje.
+
 
 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021EF, publicado el 26 junio 2021. Las disposiciones contenidas en el citado
 Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a
@@ -8026,13 +7666,14 @@ Esta disposición no menoscaba la facultad del Tribunal Arbitral o del Árbitro 
 posterioridad a la aprobación del citado calendario, las medidas que considere convenientes para
 garantizar la celeridad del arbitraje, conforme a sus competencias.
 
+
 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021EF, publicado el 26 junio 2021. Las disposiciones contenidas en el citado
 Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a
 partir del día siguiente de su publicación en el Diario Oficial El Peruano.
 
 **Artículo 236. De la organización y Administración de Arbitrajes a cargo del SNA - OSCE**
 
-119
+
 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano._
@@ -8041,11 +7682,6 @@ _120 Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, 
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-147
-
-REGLAMENTO
 
 **Directiva N° 021-2016-OSCE/CD**
 Tabla de gastos arbitrales aplicables a los arbitrajes organizados y administrados por el
@@ -8094,11 +7730,6 @@ partes a través del SEACE. El laudo vincula a las partes del Arbitraje, no pudi
 facultades legales de personas ni autoridades ajenas al proceso. El laudo se encuentra motivado, no
 pudiéndose pactar en contrario.
 
-_Materiales de enseñanza_
-
-148
-
-REGLAMENTO
 
 238.2. Es responsabilidad del árbitro único o del presidente del Tribunal Arbitral registrar correctamente el laudo
 en el SEACE, así como sus integraciones, exclusiones, interpretaciones y rectificaciones, conforme a lo
@@ -8132,6 +7763,7 @@ responsabilidad, pronunciarse sobre el fondo de la controversia o sobre el conte
 calificar los criterios, motivaciones o interpretaciones expuestas por el Árbitro Único o por el Tribunal
 Arbitral.
 
+
 Numeral incorporado por el Artículo 3 del Decreto Supremo N° 162-2021EF, publicado el 26 junio 2021. Las disposiciones contenidas en el citado
 Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a
 partir del día siguiente de su publicación en el Diario Oficial El Peruano.
@@ -8143,15 +7775,11 @@ caso contrario se le devuelve al contratista, bajo responsabilidad [121] .
 público o funcionario o servidor que ejerce similar función en la Entidad, según corresponda, al OSCE en
 el plazo de diez (10) días hábiles de notificadas para su registro y publicación, bajo responsabilidad.
 
+
 121 _Numeral modificado por el Artículo 2 del Decreto Supremo N° 162-2021-EF, publicado el 26 junio 2021. Las disposiciones_
 _contenidas en el citado Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a partir del día siguiente de_
 _su publicación en el Diario Oficial El Peruano._
 
-_Materiales de enseñanza_
-
-149
-
-REGLAMENTO
 
 Numeral incorporado por el Artículo 2 del Decreto Supremo N° 162-2021EF, publicado el 26 junio 2021. Las disposiciones contenidas en el citado
 Decreto Supremo entran en vigencia a los diez (10) días hábiles contados a
@@ -8189,6 +7817,7 @@ la finalidad de evaluar y analizar la eficiencia de los medios de solución de c
 y, de ser el caso, proponer lineamientos de transparencia, estrategias y mejores prácticas que contribuyan al
 desarrollo eficiente del mercado de compras públicas.
 
+
 **CAPÍTULO II**
 **REGISTRO NACIONAL DE ÁRBITROS**
 
@@ -8202,11 +7831,6 @@ el OSCE y su información es publicada en su portal institucional.
 242.2. Mediante Directiva se regula la incorporación, permanencia, derechos, obligaciones, suspensión y
 exclusión de los profesionales al RNA-OSCE, así como su evaluación y ratificación periódica.
 
-_Materiales de enseñanza_
-
-150
-
-REGLAMENTO
 
 242.3. La información declarada en el RNA-OSCE no exime a los profesionales de cumplir con el deber de
 información en los respectivos procesos arbitrales en los que participen, debiendo, de ser el caso,
@@ -8223,10 +7847,13 @@ exigencias establecidas en la legislación vigente.
 242.5. La pérdida de la vigencia del registro de un profesional inscrito en el RNA-OSCE que se desempeña como
 árbitro en un proceso en curso no conlleva el cese de su función como tal.
 
+
 [Opinión 082-2021/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2078522-opinion-n-082-2021-dtn)
+
 
 **CAPÍTULO III**
 **JUNTA DE RESOLUCIÓN DE DISPUTAS**
+
 
 **Directiva N° 012-2019-OSCE/CD**
 **Junta de Resolución de Disputas**
@@ -8254,11 +7881,6 @@ solución de controversias del contrato que las soluciones de estas estén a car
 Resolución de Disputas en aquellos contratos de obra cuyos montos sean inferiores o iguales a veinte
 millones con 00/100 Soles (S/ 20 000 000,00), siendo esta incorporación obligatoria para contratos cuyos
 
-_Materiales de enseñanza_
-
-151
-
-REGLAMENTO
 
 montos sean superiores. Las decisiones emitidas por la Junta de Resolución de Disputas son vinculantes
 para las partes [122] .
@@ -8268,6 +7890,7 @@ las partes. A falta de acuerdo entre las partes o en caso de duda, la Junta de R
 integra por un (1) miembro cuando el monto del respectivo contrato de obra tenga un valor menor a
 cuarenta millones con 00/100 Soles (S/ 40 000 000,00); y, por tres (3) miembros, cuando el monto del
 respectivo contrato de obra tenga un valor igual o superior a dicho monto [123] **.**
+
 
 [Opinión 126-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4976815-opinion-n-126-2023-dtn)
 [Opinión 025-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3973322-opinion-n-025-2023-dtn)
@@ -8306,6 +7929,7 @@ identificado en el acuerdo. A falta de acuerdo o en caso de duda, cualquiera de 
 la organización y administración de la Junta de Resolución de Disputas ante cualquier Centro que preste
 dicho servicio [125] .
 
+
 _Numeral modificado por la Única Disposición Complementaria Modificatoria del Decreto Supremo N° 250-2020-EF,_
 _publicado el 04 septiembre 2020._
 _123_ _Numeral modificado por la Única Disposición Complementaria Modificatoria del Decreto Supremo N° 250-2020-EF,_
@@ -8313,11 +7937,6 @@ _publicado el 04 septiembre 2020._
 _124    Incorporado por el DS N° 051-2024-EF del 13 de abril del 2024._
 _125_ _Numeral modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-152
-
-REGLAMENTO
 
 **Artículo 245. Designación de miembros**
 
@@ -8336,6 +7955,7 @@ se establecen en el artículo 231, para actuar como árbitro.
 **Artículo 246. Actividades de la Junta de Resolución de Disputas**
 
 246.1. Los miembros de la Junta de Resolución de Disputas cumplen con las siguientes funciones:
+
 
 a) Emitir decisiones vinculantes respecto a controversias planteadas por las partes.
 
@@ -8361,13 +7981,9 @@ cumplen con la obligación de informar oportunamente si existe alguna circunstan
 ejercer el cargo con independencia, imparcialidad, transparencia, diligencia y la debida conducta
 procedimental.
 
+
 [Opinión 025-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3973322-opinion-n-025-2023-dtn)
 
-_Materiales de enseñanza_
-
-153
-
-REGLAMENTO
 
 **Artículo 247. Honorarios y gastos de los miembros de la Junta de Resolución de Disputas y retribución del**
 **Centro**
@@ -8379,7 +7995,9 @@ Administración de Junta de Resolución de Disputas.
 247.2. En caso de falta de pago por una de las partes, la otra parte puede subrogarse y efectuar el pago. En caso
 que se mantenga la falta de pago, la Junta de Resolución de Disputas está facultada a disolverse.
 
+
 [Opinión 133-2020/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/1466937-opinion-n-133-2020-dtn)
+
 
 **Artículo 248. Decisiones de la Junta de Resolución de Disputas emitidas y notificadas fuera de plazo**
 
@@ -8396,7 +8014,9 @@ Si al momento de la recepción total de la obra aún quedara pendiente que la Ju
 emita y notifique su decisión, el plazo de treinta (30) días hábiles para cuestionarla mediante arbitraje se
 computa desde el día siguiente de notificada la misma a las partes.
 
+
 [Opinión 116-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4880853-opinion-n-116-2023-dtn)
+
 
 **Artículo 250. Las decisiones y su obligatoriedad**
 
@@ -8419,11 +8039,6 @@ incumplimiento otorga a la parte afectada la potestad de resolver el contrato.
 250.5. Cualquiera de las partes que se encuentre en desacuerdo total o parcial con una decisión emitida por la
 Junta de Resolución de Disputas, dentro de un plazo de siete (7) días de notificada, envía a la otra parte y
 
-_Materiales de enseñanza_
-
-154
-
-REGLAMENTO
 
 a la Junta de Resolución de Disputas una comunicación escrita manifestando las razones de su desacuerdo
 y su reserva a someter la controversia a arbitraje.
@@ -8433,7 +8048,9 @@ total o parcial con la decisión en el plazo indicado en el numeral anterior o s
 se inicia el respectivo arbitraje dentro del plazo indicado en el numeral 251.3 del artículo 251, la decisión
 adquiere el carácter de definitiva e inimpugnable.
 
+
 [Opinión 086-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/3620746-opinion-n-086-2022-dtn)
+
 
 **Artículo 251. Sometimiento a arbitraje de una decisión de la Junta de Resolución de Disputas**
 
@@ -8469,15 +8086,12 @@ considerando criterios de costo-beneficio y ponderando los costos en tiempo y re
 vía arbitral, así como la expectativa de éxito en dicha vía y los riesgos de no adoptar la decisión. Dicha
 evaluación está contenida en un informe técnico legal debidamente fundamentado.
 
+
 [Opinión 116-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4880853-opinion-n-116-2023-dtn)
+
 
 **Artículo 252. Supuestos especiales de cómputo de plazos de caducidad**
 
-_Materiales de enseñanza_
-
-155
-
-REGLAMENTO
 
 Cuando las partes pactaron la Junta de Resolución de Disputas, los plazos de caducidad previstos en la Ley para
 someter la controversia a arbitraje se contabilizan de la siguiente manera:
@@ -8490,6 +8104,7 @@ dicha comunicación.
 b) Si la Junta de Resolución de Disputas se disuelve conforme a las reglas de procedimiento respectivas antes
 de la emisión de una decisión, el plazo de caducidad para someter la controversia a arbitraje se computa
 desde que se comunique a las partes la disolución de la Junta de Resolución de Disputas.
+
 
 **CAPÍTULO IV**
 **CÓDIGO DE ÉTICA Y CONSEJO DE ÉTICA**
@@ -8528,13 +8143,9 @@ a su cargo.
 **Artículo 254. Supuestos de Infracción Ética sancionable por el Consejo de Ética para el arbitraje en**
 **contrataciones del Estado**
 
-_Materiales de enseñanza_
-
-156
-
-REGLAMENTO
 
 254.1. Respecto al Principio de Independencia **:**
+
 
 a) Incurrir en los supuestos de conflicto de intereses que se señalan a continuación:
 
@@ -8556,14 +8167,17 @@ a.6) El árbitro con el abogado, asesor o representante de una de las partes for
 despacho o estudio de abogados, o mantienen, de hecho o de derecho, colaboración
 empresarial o alianzas estratégicas.
 
+
 b) Fuera de los supuestos señalados en el literal a) precedente, mantener o haber mantenido
 cualquier otro tipo de relación directa o indirecta con las partes, los árbitros y con cualquier
 persona vinculada al arbitraje, que por su relevancia puede afectar su desempeño independiente
 en el proceso.
 
+
 c) El incumplimiento o cumplimiento defectuoso o inoportuno del deber de revelación al momento
 de su aceptación al cargo por circunstancias acaecidas con cinco (5) años de anterioridad a su
 nombramiento o aquellas ocurridas de modo sobreviniente, respecto de los siguientes supuestos:
+
 
 c.1) El árbitro o su empresa o despacho, con anterioridad a su designación o en la actualidad,
 representa, asesora o, mantiene algún tipo de vínculo relevante con alguna de las partes,
@@ -8583,11 +8197,6 @@ c.8) El árbitro, en su condición pasada de juez, funcionario u otro cargo, con
 sobre una disputa importante, pero no relacionada a la controversia actual, en la que
 intervino una parte.
 
-_Materiales de enseñanza_
-
-157
-
-REGLAMENTO
 
 c.9) El árbitro tiene o ha tenido un cargo de dirección, gerencia, vigilancia, y en general cualquier
 otro similar, que denote un control y poder de decisión significativo, en una empresa filial o
@@ -8599,6 +8208,7 @@ relacionadas ni con su trabajo ni con asociaciones profesionales o sociales.
 c.11) El árbitro mantuvo o mantiene otros procesos arbitrales donde también ejerce el cargo de
 árbitro y donde participa alguna de las partes.
 
+
 d) Fuera de los supuestos indicados en el literal c) precedente, haber incumplido o cumplido
 defectuosa o inoportunamente con su deber de revelación respecto de cualquier otro tipo de
 circunstancias que podían haber generado dudas razonables de su independencia, al momento de
@@ -8607,7 +8217,9 @@ aquellos ocurridos de modo sobreviniente.
 
 254.2. Respecto al Principio de Imparcialidad:
 
+
 a) Incurrir en los supuestos de conflicto de intereses que se señalan a continuación:
+
 
 a.1) El interés económico significativo del árbitro o sus parientes, hasta el cuarto grado de
 consanguinidad y segundo de afinidad, respecto de una de las partes.
@@ -8616,15 +8228,18 @@ asesoró a una de las partes, acerca de la controversia objeto del arbitraje.
 a.3) El árbitro o su empresa o despacho patrocina o mantiene controversias relevantes con
 alguna de las partes, sus abogados, asesores o representantes.
 
+
 b) Fuera de los supuestos señalados en el literal a) precedente, haber asumido o generado cualquier
 tipo de situación o actuación que, en base a elementos razonables y probados, permitan evidenciar
 un tratamiento diferenciado, posición, interés, predisposición, hostilidad y cualquier actitud
 subjetiva del árbitro hacia las partes, el desarrollo del proceso o la materia de la controversia, que
 puede afectar su desempeño imparcial en el proceso.
 
+
 c) El incumplimiento o cumplimiento defectuoso o inoportuno del deber de revelación al momento
 de su aceptación al cargo por circunstancias acaecidas con cinco (5) años de anterioridad a su
 nombramiento o aquellas ocurridas de modo sobreviniente, respecto de los siguientes supuestos:
+
 
 c.1) El árbitro ha manifestado previamente y de forma pública su posición respecto de algún
 tema relacionado directamente y que forma parte de la materia controvertida en el arbitraje
@@ -8637,11 +8252,6 @@ c.3) El árbitro y alguna de las partes, sus abogados, asesores o representantes
 desempeñaron o desempeñan conjuntamente funciones de árbitros, en asuntos que no
 guarden relación con la controversia.
 
-_Materiales de enseñanza_
-
-158
-
-REGLAMENTO
 
 d) Fuera de los supuestos indicados en el literal c) precedente, haber incumplido o cumplido
 defectuosa o inoportunamente con su deber de revelación respecto de cualquier otro tipo de
@@ -8653,6 +8263,7 @@ aquellos ocurridos de modo sobreviniente.
 
     - inobservancia de los siguientes deberes éticos:
 
+
 a) Registrar el laudo en el SEACE de forma íntegra y fidedigna, así como sus integraciones,
 exclusiones, interpretaciones y rectificaciones, en los casos que corresponda.
 b) Registrar en el SEACE la información y/o documentación que se establece en el reglamento y la que
@@ -8662,8 +8273,10 @@ c) Custodiar los expedientes arbitrales y garantizar su integridad conforme las 
 
 254.4. Respecto al Principio de Debida Conducta Procedimental:
 
+
 Son supuestos de infracción a este principio el incumplimiento o inobservancia de los siguientes deberes
 éticos:
+
 
 a) Evitar utilizar, en beneficio propio o de un tercero, la información que, en el ejercicio de sus funciones,
 haya obtenido de un arbitraje, salvo para fines académicos.
@@ -8682,6 +8295,7 @@ d) Evitar incurrir, sin que exista causa justificada, en una paralización irraz
 e) No participar en arbitrajes estando en cualquiera de los supuestos de impedimento previstos en el
 artículo 231.
 
+
 Lo expuesto no desconoce la potestad de las instituciones arbitrales de sancionar otras conductas no
 descritas en el presente artículo que a su juicio y conforme a sus instrumentos normativos constituyan
 conductas no éticas.
@@ -8689,17 +8303,13 @@ conductas no éticas.
 **Artículo 255. Sanciones**
 255.1. Las sanciones que establece el Código de Ética son las siguientes:
 
+
 a) Amonestación.
 
 b) Suspensión temporal de hasta cinco (05) años.
 
 c) Inhabilitación permanente.
 
-_Materiales de enseñanza_
-
-159
-
-REGLAMENTO
 
 255.2. La graduación de estas sanciones considera criterios tales como la naturaleza de la infracción, la
 intencionalidad del infractor, la reiteración de la conducta, los motivos determinantes del
@@ -8723,6 +8333,7 @@ Consejo que ejerce la Presidencia tiene voto dirimente.
 256.4. Los miembros del Consejo de Ética son designados por los Titulares de Pliego de las siguientes
 instituciones:
 
+
 a) Un (1) Titular y un (1) suplente, en representación de la Presidencia del Consejo de Ministros.
 b) Un (1) Titular y un (1) suplente, en representación del Ministerio de Economía y Finanzas.
 c) Un (1) Titular y un (1) suplente, en representación del Ministerio de Justicia y Derechos Humanos.
@@ -8743,18 +8354,19 @@ contrataciones del Estado.
 
 256.9. El Consejo de Ética tiene como facultades y atribuciones:
 
+
 a) Disponer investigaciones de oficio ante la presunta comisión de infracciones.
 b) Determinar la comisión de infracciones.
+
 
 c) Imponer las sanciones de amonestación, suspensión temporal e inhabilitación permanente.
 d) Proponer al Consejo Directivo del OSCE las modificaciones al Código de Ética
 e) Las demás que resulten necesarias para la correcta y debida aplicación del Código de Ética.
 
-_Materiales de enseñanza_
 
-160
 
-REGLAMENTO
+
+
 
 **TÍTULO X**
 **SANCIONES**
@@ -8780,6 +8392,7 @@ individualización corresponde al presunto infractor.
 258.2. A efectos de la individualización de la responsabilidad y conforme a lo establecido en el artículo 13 de la
 Ley, se consideran los siguientes criterios:
 
+
 a) Naturaleza de la Infracción.
 Este criterio solo puede invocarse ante el incumplimiento de una obligación de carácter personal
 por cada uno de los integrantes del consorcio, en el caso de las infracciones previstas en los literales
@@ -8804,13 +8417,9 @@ identificar indubitablemente al responsable de la comisión de la infracción.
 de la Entidad o de terceros, por petición motivada de otros órganos del OSCE o de otras Entidades
 públicas o de oficio.
 
-_Materiales de enseñanza_
-
-161
-
-REGLAMENTO
 
 259.2. Toda denuncia o petición contiene, como mínimo, lo siguiente:
+
 
 a) Identificación del proceso de contratación.
 b) Identificación del presunto infractor.
@@ -8859,11 +8468,6 @@ Sistema Nacional de Control, cuando corresponda.
 f) Iniciado el procedimiento sancionador, el Tribunal notifica al proveedor, para que ejerza su derecho de
 defensa dentro de los diez (10) días hábiles siguientes de la notificación, bajo apercibimiento de resolverse
 
-_Materiales de enseñanza_
-
-162
-
-REGLAMENTO
 
 con la documentación contenida en el expediente. En este acto, el emplazado puede solicitar el uso de la
 palabra en audiencia pública.
@@ -8885,6 +8489,7 @@ obligación de pronunciarse, sin perjuicio de las responsabilidades que le corre
 
 261.1. El Tribunal suspende el procedimiento administrativo sancionador siempre que:
 
+
 a) Exista mandato judicial vigente y debidamente notificado al OSCE.
 
 b) A solicitud de parte o de oficio, cuando el Tribunal considere que, para la determinación de
@@ -8904,6 +8509,7 @@ del plazo de prescripción.
 
 262.2. El plazo de prescripción se suspende:
 
+
 a) Con la interposición de la denuncia y hasta el vencimiento del plazo con que se cuenta para emitir
 la resolución. Si el Tribunal no se pronuncia dentro del plazo indicado, la prescripción reanuda su
 curso, adicionándose el periodo transcurrido con anterioridad a la suspensión.
@@ -8913,11 +8519,6 @@ procedimiento administrativo sancionador.
 
 **Artículo 263. Sanción de multa**
 
-_Materiales de enseñanza_
-
-163
-
-REGLAMENTO
 
 263.1. La sanción de multa es expresada en Soles. La resolución que impone la sanción de multa contiene la
 medida cautelar prevista en el literal a) del numeral 50. 4 del artículo 50 de la Ley, en tanto no se verifique
@@ -8942,6 +8543,7 @@ medida cautelar en el literal a) del numeral 50.4 del artículo 50 de la Ley.
 
 264.1. Son criterios de gradualidad de las sanciones de multa o de inhabilitación temporal los siguientes:
 
+
 a) Naturaleza de la infracción.
 b) Ausencia de intencionalidad del infractor.
 c) La inexistencia o grado mínimo de daño causado a la Entidad.
@@ -8960,6 +8562,7 @@ actos de corrupción o situaciones de conflicto de intereses que garanticen el a
 protección del denunciante, iv) la difusión y capacitación periódica del modelo de prevención, v) la
 evaluación y monitoreo continuo del modelo de prevención.
 
+
 i) Tratándose de las micro y pequeñas empresas (MYPE), cuando incurran en una infracción como
 resultado de la afectación de sus actividades productivas o de abastecimiento, generada por la
 crisis sanitaria de la COVID-19, en el marco de lo establecido en el artículo 1 de la Ley Nº 31535, Ley
@@ -8967,11 +8570,6 @@ que modifica la Ley N° 30225, Ley de Contrataciones del Estado, a fin de incorp
 afectación de actividades productivas o de abastecimiento por crisis sanitarias, aplicable a las
 micro y pequeñas empresas (MYPE).
 
-_Materiales de enseñanza_
-
-164
-
-REGLAMENTO
 
 **Literal incorporado por el Numeral 2.1 del Artículo 2 del Decreto Supremo Nº**
 **308-2022-EF, publicado el 23 diciembre 2022.**
@@ -9022,11 +8620,6 @@ presunto infractor el permanente seguimiento del procedimiento sancionador a tra
 electrónico, de conformidad con lo dispuesto en artículo 49 de la Ley. La notificación se entiende
 efectuada el día de la publicación en el referido mecanismo electrónico.
 
-_Materiales de enseñanza_
-
-165
-
-REGLAMENTO
 
 267.4. La sanción es efectiva desde el sexto día hábil siguiente de la notificación. En caso no se conozca domicilio
 cierto del infractor, el decreto de inicio de procedimiento sancionador y la resolución de sanción que emita
@@ -9037,14 +8630,18 @@ desde el sexto día hábil siguiente de su publicación.
 penal, el Tribunal comunica al Ministerio Público para que interponga la acción penal correspondiente,
 indicando las piezas procesales que se remiten para tal efecto.
 
+
 [Opinión 194-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/357246-opinion-n-194-2019-dtn)
+
 
 **Artículo 268. Suspensión de las sanciones**
 
 La vigencia de la sanción solo se suspende por medida cautelar dictada en un proceso judicial. Cancelada o
 extinta dicha medida cautelar, la sanción continúa su curso por el periodo restante al momento de la suspensión.
 
+
 [Opinión 028-2022/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/2918723-opinion-n-028-2022-dtn)
+
 
 **Artículo 269. Recurso de reconsideración**
 
@@ -9079,21 +8676,18 @@ el inicio de la vigencia de la sanción mientras este no sea resuelto por el Tri
 Procede la acción contencioso administrativa ante el Poder Judicial, de conformidad con la Ley de la materia,
 contra:
 
-_Materiales de enseñanza_
-
-166
-
-REGLAMENTO
 
 a) La resolución que impone una sanción; o
 
 b) La resolución que se pronuncia respecto de la reconsideración interpuesta contra una resolución
 sancionatoria.
 
+
 **DISPOSICIONES COMPLEMENTARIAS FINALES**
 
 **Primera.** En lo no previsto en la Ley y el Reglamento, son de aplicación supletoria las normas de derecho público
 y, solo en ausencia de estas, las de derecho privado.
+
 
 [Opinión 071-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4415211-opinion-n-071-2023-dtn)
 [Opinión 060-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4309261-opinion-n-060-2023-dtn)
@@ -9130,15 +8724,10 @@ sobre el objeto de la contratación, incluido el Impuesto General a las Ventas (
 2. Las bases del respectivo procedimiento de selección establecen además del valor referencial, los límites
 de este, con y sin IGV.
 
+
 _126 Disposición modificada por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
-127
 _Disposición modificada por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-167
-
-REGLAMENTO
 
 3. El postor que goza de la exoneración prevista en la Ley Nº 27037, Ley de Promoción de la Inversión en la
 Amazonía, formula su oferta teniendo en cuenta exclusivamente el total de los conceptos que conforman
@@ -9189,11 +8778,6 @@ son establecidas mediante Directiva.
 servicios en general y consultorías objeto del contrato, se efectúan mediante transferencias electrónicas a través
 del abono directo de los montos correspondientes en la cuenta bancaria del contratista en el Banco de la Nación
 
-_Materiales de enseñanza_
-
-168
-
-REGLAMENTO
 
 u otra entidad del Sistema Financiero Nacional, en los plazos y condiciones pactados y conforme a las
 disposiciones del Sistema Nacional de Tesorería.
@@ -9235,6 +8819,7 @@ contratista.
 
 Mediante comunicado el OSCE informa sobre la implementación del RNA-OSCE [129] .
 
+
 [Opinión 001-2024/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4997455-opinion-n-001-2024-dtn)
 [Opinión 112-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825748-opinion-n-112-2023-dtn)
 [Opinión 110-2023/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/4825671-opinion-n-110-2023-dtn)
@@ -9242,15 +8827,10 @@ Mediante comunicado el OSCE informa sobre la implementación del RNA-OSCE [129] 
 **Decimoprimera** . Dentro del supuesto de hecho de la infracción establecida en el literal i) del numeral 50.1 del
 artículo 50 de la Ley, referida a la presentación de información inexacta, se encuentra comprendida la
 
-128
+
 _Primer párrafo modificado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 _129 Párrafo incorporado por el Artículo 2 del Decreto Supremo N° 377-2019-EF, publicado el 14 diciembre 2019._
 
-_Materiales de enseñanza_
-
-169
-
-REGLAMENTO
 
 presentación de garantías que no hayan sido emitidas por las empresas indicadas en el numeral 33.2 del artículo
 33 de la Ley.
@@ -9302,11 +8882,6 @@ Complementaria Final de la Ley, no puede ser mayor de tres (3) años.
 específicas para la determinación del alcance de la modificación del diseño de ingeniería al que se hace referencia
 en la definición de mayor metrado contenida en el anexo 1 del Reglamento.
 
-_Materiales de enseñanza_
-
-170
-
-REGLAMENTO
 
 **Decimonovena.** La obligatoriedad de someter a Junta de Resolución de Disputas las controversias surgidas en
 los contratos de obra por montos superiores a veinte millones con 00/100 Soles (S/ 20 000 000,00) a la que se
@@ -9326,7 +8901,9 @@ necesidad, así como la disponibilidad de los créditos presupuestarios correspo
 la prestación que es materia de cesión; y, iv) exista aceptación del contratista. En estos casos, las Entidades
 involucradas realizan el deslinde de responsabilidades que corresponda.
 
+
 [Opinión 133-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/291327-opinion-n-133-2019-dtn)
+
 
 **Vigesimosegunda.** Los Ministerios y sus organismos públicos, programas o proyectos adscritos pueden difundir
 a través del SEACE el requerimiento determinado por el área usuaria con la finalidad de recibir consultas y
@@ -9357,17 +8934,14 @@ observaciones al requerimiento. Las Bases estándar que apruebe el OSCE, conside
 
 **DISPOSICIÓNES COMPLEMENTARIAS TRANSITORIAS**
 
-_Materiales de enseñanza_
-
-171
-
-REGLAMENTO
 
 **Primera.** Los procedimientos de selección iniciados antes de la entrada en vigencia del presente Decreto
 Supremo, se rigen por las normas vigentes al momento de su convocatoria. Igual regla se aplica para el
 perfeccionamiento de los contratos que deriven de los mencionados procedimientos de selección.
 
+
 [Opinión 190-2019/DTN](https://www.gob.pe/institucion/osce/informes-publicaciones/357242-opinion-n-190-2019-dtn)
+
 
 **Segunda.** Los Vocales del Tribunal **elegidos** por Concurso Público en el marco del Decreto Supremo Nº 034-2015EF, que aprueba el procedimiento para el Concurso Público de evaluación y selección de los vocales del Tribunal,
 mantienen su cargo hasta el cumplimiento del plazo señalado en el artículo 60 de la Ley de Contrataciones del
@@ -9411,11 +8985,6 @@ realizarse por el mismo participante o a través de un tercero, sin que se exija
 2. En la apertura del sobre que contiene la oferta, el comité de selección anuncia el nombre de cada
 participante y el precio de la misma; asimismo, verifica la presentación de los documentos requeridos en
 
-_Materiales de enseñanza_
-
-172
-
-REGLAMENTO
 
 los literales a), b), c), e) y f) del artículo 52. De no cumplir con lo requerido, la oferta se considera no
 admitida. Esta información se consigna en el acta, con lo cual se da por finalizado el acto público. Después
@@ -9465,11 +9034,6 @@ mantenerla en custodia hasta el consentimiento de la buena pro.
 2. Se anuncia el nombre de los postores que alcanzaron el puntaje técnico mínimo, se abren los sobres que
 contienen sus ofertas económicas y se anuncia el precio total de las ofertas.
 
-_Materiales de enseñanza_
-
-173
-
-REGLAMENTO
 
 3. Después de abierto cada sobre que contiene la oferta económica el notario público o juez de paz procede
 a sellar y firmar dicha oferta.
@@ -9521,11 +9085,6 @@ Resolución de inscripción o renovación.
 mediante Decreto Supremo Nº 350-2015-EF, modificado por el Decreto Supremo Nº 056-2017-EF, se mantiene
 activo para los arbitrajes que se encuentran bajo el ámbito de aplicación de la Ley Nº 30225 y su modificatoria
 
-_Materiales de enseñanza_
-
-174
-
-REGLAMENTO
 
 aprobada mediante el Decreto Legislativo Nº 1341 hasta que el OSCE mediante comunicado determine su
 cancelación, momento desde el cual se utiliza el RNA-OSCE para todo efecto. Desde la entrada en vigencia de las
@@ -9552,8 +9111,10 @@ ii) Constancia de estar inscrito en el Registro de la Micro y Pequeña Empresa (
 veces, que acredite que al momento de la comisión de la infracción y de la presentación de la solicitud de
 redención de sanción tenga la condición de MYPE.
 
+
 Asimismo, el proveedor que se someta al régimen excepcional de redención de sanción debe cumplir las
 siguientes condiciones:
+
 
 a) No se le haya otorgado la redención de la sanción
 b) La sanción que se busque redimir no sea de multa ni de inhabilitación definitiva
@@ -9571,9 +9132,8 @@ menor de cinco (5) ni mayor de quince (15) unidades impositivas tributarias.
 Los proveedores que hubiesen obtenido la redención de su sanción, pueden participar en los procesos de
 contratación a partir del día siguiente de realizado el pago de la multa impuesta.” **(*)**
 
+
 Disposición incorporada por el Numeral 2.2 del Artículo 2 del Decreto
 Supremo Nº 308-2022-EF, publicado el 23 diciembre 2022.
 
-_Materiales de enseñanza_
 
-175

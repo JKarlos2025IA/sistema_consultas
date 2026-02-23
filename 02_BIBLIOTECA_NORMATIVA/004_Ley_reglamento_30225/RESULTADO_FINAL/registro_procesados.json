@@ -1,0 +1,23 @@
+{
+  "Definiciones_procedimientos_30225.pdf": {
+    "hash": "e4b58f87df903cee11c8902f4fe3ee05",
+    "paginas": 50,
+    "estado": "OK",
+    "metodo": "pipeline_v1",
+    "timestamp": "2026-02-20T03:20:44.904872"
+  },
+  "Ley_30225_edicion_2024.pdf": {
+    "hash": "1e8d3fd49b1789af4e04978f89a6d394",
+    "paginas": 63,
+    "estado": "OK",
+    "metodo": "pipeline_v1",
+    "timestamp": "2026-02-20T03:20:44.985862"
+  },
+  "Reglamento_30225_edicion_2024.pdf": {
+    "hash": "b5e9489d824b748aeffbc183892b40c8",
+    "paginas": 175,
+    "estado": "OK",
+    "metodo": "pipeline_v1",
+    "timestamp": "2026-02-20T03:20:45.128774"
+  }
+}

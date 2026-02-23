@@ -34,8 +34,64 @@ CONSULTA DEL USUARIO:
 {consulta}
 """
 
-def consultar_deepseek(consulta, contexto_chunks, system_prompt=None):
-    """Envía consulta a DeepSeek con el contexto de los documentos encontrados"""
+def reformular_consulta(consulta, historial_chat=None):
+    """
+    Reformula la consulta usando deepseek-chat (rápido y barato).
+    Corrige typos, expande sinónimos legales, resuelve referencias contextuales.
+    """
+    # Construir contexto de historial (últimos 3 turnos)
+    contexto_historial = ""
+    if historial_chat and len(historial_chat) > 0:
+        ultimos_turnos = historial_chat[-6:]  # 3 turnos = 6 mensajes (user+assistant)
+        turnos_texto = []
+        for msg in ultimos_turnos:
+            rol = "Usuario" if msg["role"] == "user" else "Asistente"
+            # Truncar respuestas largas del asistente
+            contenido = msg["content"][:300] if msg["role"] == "assistant" else msg["content"]
+            turnos_texto.append(f"{rol}: {contenido}")
+        contexto_historial = "\n".join(turnos_texto)
+
+    prompt_reformulacion = f"""Eres un reformulador de consultas legales peruanas. Tu tarea es mejorar la consulta del usuario para búsqueda vectorial.
+
+REGLAS:
+1. Corrige errores ortográficos y de tipeo
+2. Expande abreviaciones legales (LCE=Ley de Contrataciones del Estado, RLCE=Reglamento, OSCE/OECE=Organismo Supervisor)
+3. Si hay historial previo, resuelve referencias como "eso", "lo anterior", "y los plazos?", "dicho artículo"
+4. Mantén el sentido original - NO agregues información nueva
+5. Responde SOLO con la consulta reformulada, sin explicaciones
+
+{f"HISTORIAL RECIENTE:{chr(10)}{contexto_historial}" if contexto_historial else ""}
+
+CONSULTA ORIGINAL: {consulta}
+
+CONSULTA REFORMULADA:"""
+
+    headers = {
+        "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+        "Content-Type": "application/json"
+    }
+
+    payload = {
+        "model": "deepseek-chat",
+        "messages": [{"role": "user", "content": prompt_reformulacion}],
+        "temperature": 0.1,
+        "max_tokens": 200
+    }
+
+    try:
+        response = requests.post(DEEPSEEK_URL, headers=headers, json=payload, timeout=15)
+        response.raise_for_status()
+        query_mejorada = response.json()["choices"][0]["message"]["content"].strip()
+        # Sanidad: si la respuesta es muy larga o vacía, usar original
+        if not query_mejorada or len(query_mejorada) > 500:
+            return consulta
+        return query_mejorada
+    except Exception:
+        return consulta  # Fallback seguro: query original
+
+
+def consultar_deepseek(consulta, contexto_chunks, system_prompt=None, historial=None):
+    """Envía consulta a DeepSeek con el contexto de los documentos encontrados y historial conversacional"""
     if system_prompt is None:
         system_prompt = DEFAULT_PROMPT
 
@@ -51,11 +107,19 @@ def consultar_deepseek(consulta, contexto_chunks, system_prompt=None):
         "Content-Type": "application/json"
     }
 
+    # Construir mensajes con historial conversacional (últimos 3 turnos)
+    messages = []
+    if historial and len(historial) > 0:
+        ultimos = historial[-6:]  # 3 turnos = 6 mensajes
+        for msg in ultimos:
+            messages.append({"role": msg["role"], "content": msg["content"][:500]})
+
+    # Mensaje actual con contexto RAG completo
+    messages.append({"role": "user", "content": prompt_completo})
+
     payload = {
         "model": "deepseek-reasoner",
-        "messages": [
-            {"role": "user", "content": prompt_completo}
-        ],
+        "messages": messages,
         "temperature": 0.3,
         "max_tokens": 4000
     }
@@ -515,30 +579,41 @@ if query_text := st.chat_input("Escribe tu consulta legal aquí..."):
 
     # Procesar Consulta
     with st.chat_message("assistant"):
-        with st.spinner("Analizando base normativa..."):
-            # 1. Búsqueda Vectorial (Top K aumentado a 20 para mayor contexto)
-            results = query_router.search(query_text, top_k=20, sources=sources_to_search)
-            
-            if debug_mode:
-                with st.expander("🛠️ Debug: Contexto recuperado (Top 5)"):
-                    for r in results[:5]:
-                        st.markdown(f"**Score:** {r['score']:.4f} | **Fuente:** {r['source']}")
-                        st.text(r['chunk_text'][:200] + "...")
+        with st.spinner("Analizando consulta..."):
+            # 1. REFORMULACIÓN (siempre activa, invisible)
+            query_busqueda = reformular_consulta(query_text, st.session_state.chat_history)
 
-            if results:
-                # 2. Generación con IA
-                respuesta = consultar_deepseek(query_text, results, system_prompt=_prompt_editado)
-                st.markdown(respuesta)
-                
-                # Guardar respuesta en historial
-                st.session_state.chat_history.append({"role": "assistant", "content": respuesta})
-                
-                # Mostrar fuentes usadas en un expander
-                with st.expander("📚 Ver Fuentes Consultadas"):
-                    for i, res in enumerate(results[:5]): # Mostrar top 5 fuentes al usuario
-                        st.markdown(f"**[{i+1}] {res['source']}** (Relevancia: {res['score']:.2f})")
-                        st.caption(res['chunk_text'][:300] + "...")
-            else:
-                msg_error = "No se encontraron documentos relevantes en las fuentes seleccionadas."
-                st.warning(msg_error)
-                st.session_state.chat_history.append({"role": "assistant", "content": msg_error})
+        with st.spinner("Buscando en base normativa..."):
+            # 2. BÚSQUEDA con query mejorada
+            results = query_router.search(query_busqueda, top_k=20, sources=sources_to_search)
+
+        with st.spinner("Filtrando resultados..."):
+            # 3. RE-RANKING (siempre activo, invisible)
+            results_final = query_router.rerank(query_busqueda, results, top_n=7)
+
+        if debug_mode:
+            if query_busqueda != query_text:
+                st.info(f"**Query original:** {query_text}\n\n**Query reformulada:** {query_busqueda}")
+            with st.expander("🛠️ Debug: Chunks recuperados"):
+                for r in results_final:
+                    st.markdown(f"**Rerank:** {r['rerank_score']:.4f} | **Fuente:** {r['source']} | **Método:** {r.get('method', 'N/A')}")
+                    st.text(r['chunk_text'][:200] + "...")
+
+        if results_final:
+            # 4. RESPUESTA con R1 + historial conversacional
+            respuesta = consultar_deepseek(
+                query_text, results_final,
+                system_prompt=_prompt_editado,
+                historial=st.session_state.chat_history
+            )
+            st.markdown(respuesta)
+            st.session_state.chat_history.append({"role": "assistant", "content": respuesta})
+
+            with st.expander("📚 Ver Fuentes Consultadas"):
+                for i, res in enumerate(results_final):
+                    st.markdown(f"**[{i+1}] {res['source']}** (Similitud: {res['rerank_score']:.3f})")
+                    st.caption(res['chunk_text'][:300] + "...")
+        else:
+            msg_error = "No se encontraron documentos relevantes en las fuentes seleccionadas."
+            st.warning(msg_error)
+            st.session_state.chat_history.append({"role": "assistant", "content": msg_error})
