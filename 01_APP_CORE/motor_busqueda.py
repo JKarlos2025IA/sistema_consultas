@@ -210,16 +210,29 @@ class QueryRouter:
         """
         Búsqueda por palabras clave (flexible, no requiere substring exacto).
         Busca chunks que contengan TODAS las palabras significativas de la query.
+        Modo especial: si detecta 'artículo N', busca el artículo exacto por número.
         """
         print(f"  [Modo Híbrido] Activando búsqueda por palabras para: '{query_text}'")
         results = []
         indices_to_search = sources if sources else self.chunks.keys()
 
-        # Extraer palabras significativas (>= 3 chars, sin stopwords)
-        stopwords = {'del', 'las', 'los', 'una', 'uno', 'con', 'por', 'para', 'que', 'como', 'sin', 'sobre', 'entre', 'desde', 'hasta', 'más', 'sus', 'este', 'esta', 'ese', 'esa'}
-        palabras = [w for w in re.split(r'\W+', query_text.lower()) if len(w) >= 3 and w not in stopwords]
+        # --- Detección de número de artículo específico ---
+        art_match = re.search(r'art[ií]culo[s]?\s+(\d+)', query_text.lower())
+        art_number = art_match.group(1) if art_match else None
 
-        if not palabras:
+        # Extraer palabras significativas (>= 3 chars O dígitos, sin stopwords)
+        # Excluir palabras de intención conversacional que no aparecen en leyes
+        stopwords = {
+            'del', 'las', 'los', 'una', 'uno', 'con', 'por', 'para', 'que', 'como',
+            'sin', 'sobre', 'entre', 'desde', 'hasta', 'más', 'sus', 'este', 'esta',
+            'ese', 'esa', 'dame', 'dime', 'cual', 'cuál', 'literal', 'literalmente',
+            'texto', 'dice', 'exactamente', 'completo', 'íntegro', 'integro',
+            'puedes', 'puedes', 'favor', 'necesito', 'quiero', 'busca', 'muestra'
+        }
+        palabras = [w for w in re.split(r'\W+', query_text.lower())
+                    if (len(w) >= 3 or (w.isdigit() and len(w) >= 1)) and w not in stopwords and w]
+
+        if not palabras and not art_number:
             return results
 
         for nombre_indice in indices_to_search:
@@ -229,15 +242,30 @@ class QueryRouter:
             meta_list = self.metadata[nombre_indice]
 
             if isinstance(chunks_list, dict):
-                items = chunks_list.items()
+                items = list(chunks_list.items())
             else:
-                items = enumerate(chunks_list)
+                items = list(enumerate(chunks_list))
 
             for idx, text in items:
                 text_lower = text.lower()
-                # Contar cuántas palabras clave están presentes
-                matches = sum(1 for p in palabras if p in text_lower)
-                if matches >= len(palabras):  # Todas las palabras presentes
+                matched = False
+
+                # Modo 1: Búsqueda exacta por número de artículo (máxima prioridad)
+                if art_number:
+                    # Patrón de ENCABEZADO: "Artículo 60." o "Artículo 60.-"
+                    # Excluye referencias del tipo "artículo 60 de la Constitución"
+                    if re.search(rf'art[ií]culo\s+{art_number}\s*[\.\-]', text_lower):
+                        matched = True
+
+                # Modo 2: Búsqueda por palabras clave (solo si no hay número de artículo)
+                elif palabras:
+                    palabras_contenido = [p for p in palabras if not p.isdigit()]
+                    if palabras_contenido:
+                        matches = sum(1 for p in palabras_contenido if p in text_lower)
+                        if matches >= len(palabras_contenido):
+                            matched = True
+
+                if matched:
                     if isinstance(meta_list, dict):
                         meta = meta_list.get(str(idx), {})
                     else:
@@ -250,6 +278,9 @@ class QueryRouter:
                         'metadata': meta,
                         'method': 'keyword'
                     })
+
+        if art_number:
+            print(f"  [Búsqueda artículo] Patrón 'artículo {art_number}' → {len(results)} resultado(s)")
 
         return results
 

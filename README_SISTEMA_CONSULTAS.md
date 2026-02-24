@@ -1,7 +1,7 @@
 # ⚖️ SISTEMA DE CONSULTA NORMATIVA UNIFICADA (HUB RAG)
 
 > **Documento Maestro de Arquitectura y Operación**
-> **Última Actualización:** 23 de Febrero 2026
+> **Última Actualización:** 24 de Febrero 2026
 > **Estado:** Producción (Local + Cloud)
 > **Acceso Web:** [sistemaconsultas-2026.streamlit.app](https://sistemaconsultas-2026.streamlit.app/)
 
@@ -71,14 +71,21 @@ Para agregar una nueva normativa (ej: "Nueva Ley X"):
 3.  Desde la interfaz, usar **"➕ Agregar Nueva Fuente"** (se registra automáticamente en `03_CONFIG/fuentes_usuario.json`).
 
 ### 2. Motor de Búsqueda (`01_APP_CORE/motor_busqueda.py`)
-El sistema usa una estrategia **Híbrida + Expansión**:
-*   **Reformulación:** DeepSeek-chat corrige typos y expande abreviaciones legales.
-*   **Expansión de query:** genera 2 sub-consultas con aspectos distintos para mayor cobertura.
-*   **Búsqueda Vectorial (FAISS):** top_k=20 por fuente activa.
-*   **Búsqueda Keyword:** refuerza coincidencias exactas de términos legales.
-*   **Re-ranking:** cosine similarity real selecciona los 12 mejores chunks.
+El sistema usa una estrategia **Agentic RAG Híbrido** (desde 24-Feb-2026):
+
+**Fase 1 — Búsqueda Inteligente (DeepSeek Chat + Function Calling):**
+*   La IA analiza la consulta y decide qué buscar (no hay queries fijas).
+*   Llama a `search_rag` múltiples veces con términos distintos según necesite.
+*   Cada búsqueda usa FAISS vectorial + keyword + re-ranking internamente.
+*   Acumula chunks únicos de todas las búsquedas (máx. 6 iteraciones).
+
+**Fase 2 — Respuesta Final (DeepSeek R1 Reasoner):**
+*   Recibe los top-12 chunks reunidos por el agente (ordenados por score).
+*   Redacta la respuesta con Chain of Thought, citando artículos y fuentes exactas.
+
+**Otras capas:**
 *   **Cache:** respuestas guardadas en `04_LOGS/query_cache.json` (expira 7 días).
-*   **IA (DeepSeek R1 Reasoner):** genera respuesta con Chain of Thought citando fuentes.
+*   **Sin toggle:** el sistema siempre opera en modo agente — no hay modo "básico".
 
 ### 3. Consumo (Interfaz)
 *   **Local:** Ejecutar `00_START.bat`.
@@ -139,9 +146,9 @@ Este Hub Normativo puede ser consultado por agentes de IA mediante la "Puerta de
 ## 🛠️ Tecnologías
 *   **Frontend:** Streamlit
 *   **Vectores:** FAISS + SentenceTransformers (`paraphrase-multilingual-MiniLM-L12-v2`)
-*   **Razonamiento:** **DeepSeek R1 (Reasoner)** 🧠
-    *   *Modelo actualizado a Feb 2026.*
-    *   Usa "Chain of Thought" (Cadena de Pensamiento) para deducir respuestas legales complejas antes de responder.
+*   **Razonamiento:** **Agentic RAG Híbrido** 🧠
+    *   **DeepSeek Chat** (loop de búsqueda con function calling): decide qué buscar y cuántas veces.
+    *   **DeepSeek R1 Reasoner** (síntesis final): razona con Chain of Thought sobre los chunks reunidos.
 *   **Lenguaje:** Python 3.10+
 
 ---
@@ -150,6 +157,9 @@ Este Hub Normativo puede ser consultado por agentes de IA mediante la "Puerta de
 
 | Fecha | Cambio |
 | :--- | :--- |
+| 24-Feb-2026 | **Agentic RAG Híbrido**: Chat decide búsquedas dinámicas → R1 redacta respuesta final |
+| 24-Feb-2026 | Eliminado pipeline fijo (reformulación + expansión + búsqueda fija). Un solo modo inteligente |
+| 24-Feb-2026 | Eliminado toggle "Modo Agente" — sistema siempre opera en modo agente |
 | 23-Feb-2026 | Sidebar simplificado: checkboxes por fuente + Recargar Motor |
 | 23-Feb-2026 | Prompt único experto legal general (contrataciones, civil, penal, admin) |
 | 23-Feb-2026 | chunks.json auto-save en primera carga (cargas futuras instantáneas) |
